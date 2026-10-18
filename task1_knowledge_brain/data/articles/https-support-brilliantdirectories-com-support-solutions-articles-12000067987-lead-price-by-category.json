@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000067987-lead-price-by-category",
+  "title": "Lead Price by Category",
+  "text": "\n## Lead Price by Category\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000067987\n\n## Overview\nThe Lead Price by Category add-on allows further customization to the lead pricing scheme by specifying lead prices based on member categories in addition to membership level. Keep in mind that assigning a lead price per category will override the lead price in the Membership Plans.\nHaving the ability to set the optimal lead price for the members based on the category they are in will allow for an increase in the website’s total revenue potential.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Lead Price By Category Add-On\n\n## Enabling the Add-On\n1. Go to Members - Member Categories.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057340/original/g2QtMXVATm-XjyQ7vb0VExXP7k4h1HHosQ.png?1619839088 | alt: ]\n2. Search for the categories that the admin wish to set a price to and add the amount:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057349/original/JhXr4QaY3tzUVtw-KvgoSIQS9xumi90mtQ.png?1619839118 | alt: ]\n3. Click Save Changes.\nFor more information about how a member would purchase a lead, please refer to this article:\nPurchasing Leads",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057340/original/g2QtMXVATm-XjyQ7vb0VExXP7k4h1HHosQ.png?1619839088",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057349/original/JhXr4QaY3tzUVtw-KvgoSIQS9xumi90mtQ.png?1619839118",
+      "alt": ""
+    }
+  ],
+  "content_hash": "a9f4e052a9a2da42f06ec1706661ff91c0c9ec289bf3fbe64c746e2bde6a982e",
+  "ingested_at": "2026-10-17T14:45:15.360442+00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000052181-style-options-for-menu-links",
+  "title": "Style Options For Menu Links",
+  "text": "\n## Style Options For Menu Links\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000052181\nIn the Toolbox » Menu Manager article, editing options for menu links were covered. This article provides examples of how to style menu items and related options.\n\n## How Can These Options Be Accessed?\nIn the Edit view for any menu, a Settings button is attached to every menu link:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088607010/original/ADWuEhm8B5Li7FJwMR1FCR9bzOsSFq82TA.png?1612908769 | alt: ]\nClicking this option opens additional editing settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492140/original/zw4-X9-O8lKAV-HPcv4UaQRagy506wYO_Q.png?1595950872 | alt: ]\n\n## Format to Use:\n\n## Link Title Text\nThis setting can be used to add an additional SEO boost to the link by defining its meta title .\nInput:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492272/original/4LK4Fnh1LgdUoKjziKrxhV0-GTD8IfXW9Q.png?1595951043 | alt: ]\nAdditional Information:\n>> HTML title attribute (W3Schools)\n\n## Menu Item Inline Attribute\nThis setting can be used to add preferred style attributes to the <li> element.\nInput:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492514/original/hAGqbGfhYas9iyko3B4UrO8vetxZx_ioTQ.png?1595951432 | alt: ]\nFront-end view:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492653/original/ZE0Od1aUKIgt2B56r-7-P_PMyieoHx8ogg.png?1595951615 | alt: ]\n\n## Outer <li> Inline Attribute\nThis setting can be used to add preferred style attributes to the <a> element.\nInput:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493307/original/oYx21I9_Z_VXNLsPwJMZSa3Tw1SHchZomA.png?1595952529 | alt: ]\nFront-end view:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493298/original/6aJmUctjBEslZbPo4MFW30lx95GX-iQD5g.png?1595952510 | alt: ]\nAdditional Information:\n>> HTML inline CSS (W3Schools)\n\n## Menu Item CSS Class\nThis setting can be used to add a preferred CSS class to the <a> element.\nInput:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493501/original/QOmPXfnhqJe0356jOv_k1-wntoVTuJQnyw.png?1595952871 | alt: ]\nFront-end view:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493515/original/egXsYpdU_FSwtcZ8cZTIWI_S1Alk2WGj8A.png?1595952893 | alt: ]\n\n## Outer <li> CSS Class\nThis setting can be used to add a preferred CSS class to the <li> element.\nInput:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493660/original/K9odJIGh9FKBG1POPwJ7rcMaEhppXImRZQ.png?1595953057 | alt: ]\nFront-end and HTML view:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493639/original/GvSIO6PuS4da7xwJoyZO-ra3-HqYLY0pcQ.png?1595953034 | alt: ]\n\n## Additional Checkboxes\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493792/original/G0rh-SnQtMsm_cLWER52vIki9Fcr8sMuDw.png?1595953213 | alt: ]\nOpen in a new window – Indicates whether the link opens in a new browser tab.\nAdd rel=\"nofollow\" – Indicates whether search engines should follow the link. This option is useful when the linked page is not ready or is in a staging environment.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088607010/original/ADWuEhm8B5Li7FJwMR1FCR9bzOsSFq82TA.png?1612908769",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492140/original/zw4-X9-O8lKAV-HPcv4UaQRagy506wYO_Q.png?1595950872",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492272/original/4LK4Fnh1LgdUoKjziKrxhV0-GTD8IfXW9Q.png?1595951043",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492514/original/hAGqbGfhYas9iyko3B4UrO8vetxZx_ioTQ.png?1595951432",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492653/original/ZE0Od1aUKIgt2B56r-7-P_PMyieoHx8ogg.png?1595951615",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493307/original/oYx21I9_Z_VXNLsPwJMZSa3Tw1SHchZomA.png?1595952529",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493298/original/6aJmUctjBEslZbPo4MFW30lx95GX-iQD5g.png?1595952510",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493501/original/QOmPXfnhqJe0356jOv_k1-wntoVTuJQnyw.png?1595952871",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493515/original/egXsYpdU_FSwtcZ8cZTIWI_S1Alk2WGj8A.png?1595952893",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493660/original/K9odJIGh9FKBG1POPwJ7rcMaEhppXImRZQ.png?1595953057",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493639/original/GvSIO6PuS4da7xwJoyZO-ra3-HqYLY0pcQ.png?1595953034",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493792/original/G0rh-SnQtMsm_cLWER52vIki9Fcr8sMuDw.png?1595953213",
+      "alt": ""
+    }
+  ],
+  "content_hash": "e7ff9fa3c7ab4491cd151f111f34b469f2f2796a8bb01edf8b6ea169a0e26d0d",
+  "ingested_at": "2026-10-17T14:41:30.292187+00:00"
+}

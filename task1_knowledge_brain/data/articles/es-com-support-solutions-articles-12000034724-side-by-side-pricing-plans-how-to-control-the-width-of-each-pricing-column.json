@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000034724-side-by-side-pricing-plans-how-to-control-the-width-of-each-pricing-column",
+  "title": "Side-by-Side Pricing Plans: How to Control the Width of Each Pricing Column",
+  "text": "\n## Side-by-Side Pricing Plans: How to Control the Width of Each Pricing Column\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000034724\nIn this article learn how to align the pricing tables into one line using simple CSS classes that can be applied to the Pricing Menu located in the Menu Manager.\n\n## 4 Pricing Packages\nAdd the \" col-md-3 \" class:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836925/original/yr3WnX_OeoxSLzNCe1qvq5WV4ArKdIq_iQ.png?1581436748 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180590403/original/DeNhkmTTV5DPSWe1rohEvB3CkCfZUcMQMA.png?1781711275 | alt: ]\n\n## 3 Pricing Packages\nAdd the \" col-md-4 \" class:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836965/original/i57DhYk3HFwrjJSPexsyK6EcIt4DWf0yxA.png?1581436811 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180590475/original/GaNncWdg9fLj7CaSKlhUiug0T6T9HkkdaQ.png?1781711352 | alt: ]\n\n## 2 Pricing Packages\nAdd the \" col-md-4 \" class:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073837130/original/HB8CsBigUa54sM9s2hQPhBUGnMyDG6lfPQ.png?1581436964 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180590550/original/P8TU0qxm6qkKb3-M3qC2IayI62oiHhC5kA.png?1781711416 | alt: ]\n\n## 1 Pricing Package\nAdd the \" col-md-4 \" class.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073837304/original/4qsKEk9c1VK9bcvqepW3xyJNCr-2n2phlQ.png?1581437144 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180590619/original/CTPgzMlJcHUBPD8XZy4r9HK3s6pa9iLeUQ.png?1781711480 | alt: ]\nThe Pricing Page Title Background and Font Color can be changed by going to Settings - Design Settings - General - Content Boxes Backgrounds:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594210/original/qMYCzDV92iyRBihsFDt6rXClWTjElGbpUw.png?1781714348 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836925/original/yr3WnX_OeoxSLzNCe1qvq5WV4ArKdIq_iQ.png?1581436748",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180590403/original/DeNhkmTTV5DPSWe1rohEvB3CkCfZUcMQMA.png?1781711275",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836965/original/i57DhYk3HFwrjJSPexsyK6EcIt4DWf0yxA.png?1581436811",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180590475/original/GaNncWdg9fLj7CaSKlhUiug0T6T9HkkdaQ.png?1781711352",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073837130/original/HB8CsBigUa54sM9s2hQPhBUGnMyDG6lfPQ.png?1581436964",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180590550/original/P8TU0qxm6qkKb3-M3qC2IayI62oiHhC5kA.png?1781711416",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073837304/original/4qsKEk9c1VK9bcvqepW3xyJNCr-2n2phlQ.png?1581437144",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180590619/original/CTPgzMlJcHUBPD8XZy4r9HK3s6pa9iLeUQ.png?1781711480",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594210/original/qMYCzDV92iyRBihsFDt6rXClWTjElGbpUw.png?1781714348",
+      "alt": ""
+    }
+  ],
+  "content_hash": "61012229be402ebbfb4b2b31ae4e1a360de582fad5aac32332aa80dc9dc3a9f3",
+  "ingested_at": "2026-10-17T14:36:12.286082+00:00"
+}

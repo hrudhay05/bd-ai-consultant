@@ -1,0 +1,38 @@
+{
+  "run_at": "2026-10-17T22:26:38",
+  "added": [
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000002342-post-and-manage-reviews-from-members-perspective",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000002343-how-to-post-a-product",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000002518-adding-seo-content-to-a-specific-member-search-results-page-turn-dynamic-pages-into-static-pages",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000002543-assigning-specific-sub-level-categories-to-all-members-via-an-sql-command",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000002791-how-to-add-a-sidebar-to-a-static-page",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000002919-seo-settings-faq",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000003018-how-to-localize-the-website",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000003210-unsubscribing-from-the-newsletter",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000003535-how-to-setup-a-third-party-email-application-to-access-the-email-accounts",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000003538-managing-and-editing-email-templates",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000004233-email-set-up-troubleshooting-",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000004468-email-management-faq",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000004622-emails-send-newsletter-new-email-newsletter",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000081919-09-03-21-software-updates",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000081944-toolbox-form-manager-field-validation-options",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000082007-difference-between-on-site-and-off-site-payment-gateways",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000082053-beginner-s-guide-to-troubleshooting-website-errors",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000082055-09-10-21-software-updates",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000082071-how-to-display-additional-member-information-in-the-member-search-results-position-top-category-s",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000082191-09-17-21-software-updates",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000082535-09-24-21-software-updates",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000082747-10-01-21-software-updates",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000082844-premium-content-blocks",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000082879-10-08-21-software-updates",
+    "https://support.brilliantdirectories.com/support/solutions/articles/12000082920-how-to-access-mysql-database"
+  ],
+  "updated": [],
+  "removed": [],
+  "failed": [],
+  "exit_codes": {
+    "crawl": 0,
+    "images": 0,
+    "index": 2
+  }
+}

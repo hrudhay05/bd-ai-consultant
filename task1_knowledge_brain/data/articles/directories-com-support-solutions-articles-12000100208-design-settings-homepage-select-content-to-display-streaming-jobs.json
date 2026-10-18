@@ -1,0 +1,149 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100208-design-settings-homepage-select-content-to-display-streaming-jobs",
+  "title": "Design Settings » Homepage » Select Content to Display » Streaming Jobs",
+  "text": "\n## Design Settings » Homepage » Select Content to Display » Streaming Jobs\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000100208\n\n## Settings Documentation for Streaming Jobs\nThis document provides detailed descriptions of the settings available for configuring the streaming jobs section on the platform. Each setting allows for customization to meet specific needs and preferences.\nTo edit these settings, navigate to:\nIn the Admin Sidebar Open Settings\nSelect Designs Settings\nOpen The Homepage Tab\nOpen The Module Select Content to Display\nselect The Streaming Jobs Option\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381370/original/y7yz9vTt0kG2C2vVDIgJGlQRkIVGU_HJAQ.png?1717622446 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381407/original/E0ZjsiS5L9cxSML8fe9JkCYWOsd5xsNqPw.png?1717622491 | alt: ]\n\n## Visual Guide of the  Streaming Jobs\nThese are the available settings for the Streaming Jobs section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381598/original/kv598umPvJ_FBrZ7ScN2YtnKcBp3PEDqFQ.png?1717622802 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381599/original/DUqUIOCUnfL9pNuksMJMto7szzGQBQpbuw.png?1717622808 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381601/original/OaiMrvzlS3M1NEjkUP65RW9TWN38NAUcDg.png?1717622815 | alt: ]\n\n## 1. Recent Jobs Title\nThis setting allows the administrator to set the title for the recent jobs section. The title can be customized by entering the desired text in the provided input field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381724/original/u98fBavk2KDCl8UanPekBUvwq8Oc3DvRwQ.png?1717623000 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381649/original/Mr9hD9buVoqOKkM92Dpmy4Srh8n7l19Kug.png?1717622853 | alt: ]\n\n## 2. Title Color\nThe title color setting enables the customization of the title's color. Administrators can choose a color by inputting the desired color code or using the color picker tool provided.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381765/original/DlC2m3H13SP69SvJHWHGjEzmj1o9huZmeA.png?1717623040 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381932/original/W6DXjHV4iE9wc05x6hIUajMVwlbm7Mgh7A.png?1717623155 | alt: ]\n\n## 3. Display Options\nThis setting controls the number of recent jobs displayed. Administrators can select from a range of options, from 1 to 24 results. Additionally, the layout can be adjusted to show a specific number of results per row, ranging from 2 to 4 results per row.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382014/original/TzC6bERgr4n7_QjdSnrqVyErxvJqbbaw7w.png?1717623231 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381956/original/eolmLeEWBZYBLMA4sRa_RjUpP_6UOIus9w.png?1717623184 | alt: ]\n\n## 4. Enable Carousel Slider\nThe carousel slider option allows recent jobs to be displayed in a sliding carousel format. This can be toggled on or off using the provided dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382027/original/jnq6spIi858qJO51OMuAYIAIIff9ARe_FQ.png?1717623272 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382187/original/14EE-M3nV2elShbdDyIsmWlyAPSjs_3itg.png?1717623413 | alt: ]\n\n## 5. Hide On Mobile\nThis setting allows administrators to choose whether the recent jobs section should be hidden on mobile devices. It can be enabled or disabled using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382140/original/Ni1sCj9ZOKdLujgvzJiq3LcChEJU3E254w.png?1717623329 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382196/original/_LpCLFRSzBZtXEgSP2HuklihFkdNVOUS-Q.png?1717623449 | alt: ]\n\n## 6. Linked Post Type\nThis setting allows the administrator to select the type of content linked to the recent jobs. Options include events, job listings, coupons, videos, audio posts, website blog articles, community articles, and discussions.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382266/original/bl4R-6ni7onTJbLuUwRDEOY-hLwuC8Eb3Q.png?1717623517 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382211/original/8SP2eyCPXjMOBNbS-a4yEJ02aYZN4jIDHg.png?1717623468 | alt: ]\n\n## 7. Only Show Posts with Photos\nAdministrators can choose to display only those posts that have photos. This setting ensures that posts without photos are excluded from the recent jobs list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382295/original/j7QCeC7VjPg8qYf32cNvjiNy3kcp9JwLGQ.png?1717623559 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382280/original/_9shqI6ir-3vGYFBCGcMcy0N1NaZEg2koA.png?1717623529 | alt: ]\n\n## 8. Image Quality\nThis setting controls the quality of the images displayed in the recent jobs. Administrators can choose between thumbnail size and large size.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382311/original/84HDXWycEMV-_gNjqo26mZewxIM7AvtNZA.png?1717623596 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382300/original/0g_bO_OiI0txmP13AtJyoTnVhGXqtzuVWw.png?1717623570 | alt: ]\n\n## 9. Show \"View All\" Button\nThe \"View All\" button allows users to see all recent jobs. This setting can be toggled on or off using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382340/original/ZqHizb_yBTuQlKgkr8j0Wc9-L_NnDB33qQ.png?1717623610 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382369/original/zwQznTFyHshHPi0AEsqB49d7V85Uf8ACmg.png?1717623656 | alt: ]\n\n## 10. Hide If No Posts Exist\nThis setting allows administrators to choose whether the recent jobs section should be hidden if no posts exist. It can be enabled or disabled using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382424/original/BH99LI3egX9IMrq_EAGvxtbbJCIFVebXXw.png?1717623707 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382385/original/kW_vA0b6m_cVOyTy8ptAuyKx_6YLZFJzhQ.png?1717623675 | alt: ]\n\n## 11. Only Include Posts from Active Members\nThis setting specifies whether only posts from active members should be included. Administrators can choose to include posts from active members only or from all members.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382446/original/VKs50h0Se2pmB80JQGOJH-yG-2SvDnaG3Q.png?1717623755 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382426/original/6HDR_8I80eVYLyy3riRLGucEjdX2PylCvA.png?1717623716 | alt: ]\n\n## 12. Include Posts from Non-Searchable Members\nThis setting allows administrators to choose whether to include posts from non-searchable members. It can be enabled or disabled using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382500/original/bvPJkllRO2xWDqhyKkd4fKlPNEH6vmN0wg.png?1717623860 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382454/original/9E53ge_MeJMpnDUV7C4gZA0TxH5WkULunQ.png?1717623767 | alt: ]\n\n## 13. Include Posts from Members in These Plans\nThis setting allows administrators to limit the displayed posts to specific membership plans. Administrators can select the desired membership plans from the provided list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382478/original/znWbXaCcTu5gyaSGcxm3_lBstjeQHJhUNA.png?1717623821 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382473/original/qQTK9o-r6AqbcuBQEptjWD9tdTR23Kwmpg.png?1717623814 | alt: ]\n\n## 14. Display Order\nThe display order setting determines the order in which recent jobs are shown. Options include newest first, oldest first, start date (earliest date first), start date (earliest date last), and random order. This can be customized by selecting the desired option from the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382533/original/9NRe4ZXtY2NiG7td3n8ribsJnWFlsTy8cA.png?1717623905 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382507/original/dvdDK7Ha7T9mrrMA8pCmMjpMx8-SnusA5g.png?1717623871 | alt: ]\n\n## 15. Limit One Post per Member?\nThis setting specifies whether only one post per member should be displayed. Administrators can choose to display one post per member or allow multiple posts from the same member.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382602/original/_Oc56Xt5q-UFNiQCxvqUN9kbnmEbQnqgEA.png?1717623964 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382538/original/dQNtcRaloRBklpJ1lCsXkkKbO0kbQY56gA.png?1717623912 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381370/original/y7yz9vTt0kG2C2vVDIgJGlQRkIVGU_HJAQ.png?1717622446",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381407/original/E0ZjsiS5L9cxSML8fe9JkCYWOsd5xsNqPw.png?1717622491",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381598/original/kv598umPvJ_FBrZ7ScN2YtnKcBp3PEDqFQ.png?1717622802",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381599/original/DUqUIOCUnfL9pNuksMJMto7szzGQBQpbuw.png?1717622808",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381601/original/OaiMrvzlS3M1NEjkUP65RW9TWN38NAUcDg.png?1717622815",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381724/original/u98fBavk2KDCl8UanPekBUvwq8Oc3DvRwQ.png?1717623000",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381649/original/Mr9hD9buVoqOKkM92Dpmy4Srh8n7l19Kug.png?1717622853",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381765/original/DlC2m3H13SP69SvJHWHGjEzmj1o9huZmeA.png?1717623040",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381932/original/W6DXjHV4iE9wc05x6hIUajMVwlbm7Mgh7A.png?1717623155",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382014/original/TzC6bERgr4n7_QjdSnrqVyErxvJqbbaw7w.png?1717623231",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144381956/original/eolmLeEWBZYBLMA4sRa_RjUpP_6UOIus9w.png?1717623184",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382027/original/jnq6spIi858qJO51OMuAYIAIIff9ARe_FQ.png?1717623272",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382187/original/14EE-M3nV2elShbdDyIsmWlyAPSjs_3itg.png?1717623413",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382140/original/Ni1sCj9ZOKdLujgvzJiq3LcChEJU3E254w.png?1717623329",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382196/original/_LpCLFRSzBZtXEgSP2HuklihFkdNVOUS-Q.png?1717623449",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382266/original/bl4R-6ni7onTJbLuUwRDEOY-hLwuC8Eb3Q.png?1717623517",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382211/original/8SP2eyCPXjMOBNbS-a4yEJ02aYZN4jIDHg.png?1717623468",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382295/original/j7QCeC7VjPg8qYf32cNvjiNy3kcp9JwLGQ.png?1717623559",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382280/original/_9shqI6ir-3vGYFBCGcMcy0N1NaZEg2koA.png?1717623529",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382311/original/84HDXWycEMV-_gNjqo26mZewxIM7AvtNZA.png?1717623596",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382300/original/0g_bO_OiI0txmP13AtJyoTnVhGXqtzuVWw.png?1717623570",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382340/original/ZqHizb_yBTuQlKgkr8j0Wc9-L_NnDB33qQ.png?1717623610",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382369/original/zwQznTFyHshHPi0AEsqB49d7V85Uf8ACmg.png?1717623656",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382424/original/BH99LI3egX9IMrq_EAGvxtbbJCIFVebXXw.png?1717623707",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382385/original/kW_vA0b6m_cVOyTy8ptAuyKx_6YLZFJzhQ.png?1717623675",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382446/original/VKs50h0Se2pmB80JQGOJH-yG-2SvDnaG3Q.png?1717623755",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382426/original/6HDR_8I80eVYLyy3riRLGucEjdX2PylCvA.png?1717623716",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382500/original/bvPJkllRO2xWDqhyKkd4fKlPNEH6vmN0wg.png?1717623860",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382454/original/9E53ge_MeJMpnDUV7C4gZA0TxH5WkULunQ.png?1717623767",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382478/original/znWbXaCcTu5gyaSGcxm3_lBstjeQHJhUNA.png?1717623821",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382473/original/qQTK9o-r6AqbcuBQEptjWD9tdTR23Kwmpg.png?1717623814",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382533/original/9NRe4ZXtY2NiG7td3n8ribsJnWFlsTy8cA.png?1717623905",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382507/original/dvdDK7Ha7T9mrrMA8pCmMjpMx8-SnusA5g.png?1717623871",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382602/original/_Oc56Xt5q-UFNiQCxvqUN9kbnmEbQnqgEA.png?1717623964",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144382538/original/dQNtcRaloRBklpJ1lCsXkkKbO0kbQY56gA.png?1717623912",
+      "alt": ""
+    }
+  ],
+  "content_hash": "064a27016c3f9a10c24720a417785fddae2bbbc8238bf750d08918534912fa8b",
+  "ingested_at": "2026-10-17T15:26:39.757937+00:00"
+}

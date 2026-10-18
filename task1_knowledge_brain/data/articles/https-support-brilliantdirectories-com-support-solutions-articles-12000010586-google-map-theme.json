@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000010586-google-map-theme",
+  "title": "Google Map Theme",
+  "text": "\n## Google Map Theme\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000010586\nThe Google Map Theme Setting allows the admin to select a theme for the directory maps.\nSettings\nDesign Settings\nGeneral Tab\nMain Design\nGoogle Map Theme\nClick on the drop down on the setting named \"Google Map Theme\", select the preferred theme:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12101451802/original/yTxuPkbAqr9l2PMIR5PpP_s7_x2IATmKiA.png?1637805002 | alt: ]\n\n## Maps Themes\nThe available options are:\nClassic\nApple View\nModern Colors View\nMidnight Colors View\nBlack and White Colors View\n\n## Classic View\nThis option will select the Classic View, which is a timeless rendition with familiar map features and a traditional color scheme.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005899832/original/blob1464985885386.png?1464985886 | alt: ]\n\n## Apple View\nThis option will select the Apple View, which emulates the aesthetics of Apple Maps, offering a clean and familiar design.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005899842/original/blob1464985920745.png?1464985921 | alt: ]\n\n## Modern Colors View\nThis option selects the Modern Colors View, which is vibrant and contemporary, presenting map data with fresh and lively hues.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005899881/original/blob1464986051073.png?1464986052 | alt: ]\n\n## Midnight Colors View\nThis option selects the Midnight Colors View, which evokes a sense of nightfall with deep, subdued tones for a sophisticated look.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12139509990/original/0zyuUMRWC7SEHSB2zTXcww_D_vYJfgbKFQ.jpg?1709269771 | alt: ]\n\n## Black & White Colors View\nThis option selects the Black and White Colors View, which is a minimalist approach, highlighting map details in stark monochrome contrast.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005899895/original/blob1464986095613.png?1464986096 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12101451802/original/yTxuPkbAqr9l2PMIR5PpP_s7_x2IATmKiA.png?1637805002",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005899832/original/blob1464985885386.png?1464985886",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005899842/original/blob1464985920745.png?1464985921",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005899881/original/blob1464986051073.png?1464986052",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12139509990/original/0zyuUMRWC7SEHSB2zTXcww_D_vYJfgbKFQ.jpg?1709269771",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005899895/original/blob1464986095613.png?1464986096",
+      "alt": ""
+    }
+  ],
+  "content_hash": "981ce13fe63d20b7dc55b36dd41a614593a999cda02aebfa501966e2a17c0e0a",
+  "ingested_at": "2026-10-17T14:33:26.305516+00:00"
+}

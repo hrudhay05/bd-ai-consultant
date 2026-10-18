@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000001016-how-to-set-a-default-social-media-image",
+  "title": "How to Set a Default Social Media Image",
+  "text": "\n## How to Set a Default Social Media Image\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000001016\nWhenever a user is sharing a page in Social Media such as Facebook, Google Plus, Twitter and/or any others, an image will appear for that post. There is an option on our General Settings to select the image that will display by default for each social media platform.\nThese are the areas in order of precedence:\nSpecific image for a static page\nPost image or album cover (for posts like events, articles, coupons, etc or albums like photo albums, properties, classifieds, etc)\nProfile photo or logo for profile pages\nFirst search results image for search results pages\nDefault Social Media Image\nWebsite Logo\nImage from the Default Homepage Slideshow\nThe system searches down the list to see if each of those items exists.  If #1 exists, it will use that, if not, it will see if #2 exists, etc.\nSo the default social media image will be used if nothing more specific is available for that page.\nTo get a better understanding of this tool, here are some scenarios:\nSharing a profile page, it will use the profile photo or logo of the member, depending on whether it is a company or individual\nWhen sharing coupon, it will share the image the member uploaded for that coupon\nSharing property, it will use the album cover image the member uploaded for that property\nSharing a search results page, it will use the image associated with the 1st search result\nSharing a static page, it will use the image specified for that static page (or if no image is specified for that page, it will continue going down the list above until it finds an image that has been specified)\nTo set this up, go to:  Admin Dashboard > General Settings > Branding > Default Social Media Image:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104990704/original/O5QhjkwFlO_R_gqMJWvfTUnKSMq-WnPJZQ.png?1644795832 | alt: ]\nExample:\nIf a user creates a posts and and it doesn't have an image:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12000540668/original/blob1452637039005.png?1452637042 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12000540677/original/blob1452637063941.png?1452637067 | alt: ]\nThe Default Social Media Image will appear instead of an empty share:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12000540695/original/blob1452637152412.png?1452637155 | alt: ]\nFinally, only if needed:\nWhen testing which image to use for sharing on a social site, such as Facebook, navigate to Facebook Debug Tool to make sure that the image is being fetched properly. Click on the Fetch new scrape information button to grab the latest changes from the site (Instead of the cache version Facebook uses from the site).\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104990693/original/_kIym6MmrZaB57bikdzIW_TPmeL7qxHOuA.jpeg?1644795765 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104990704/original/O5QhjkwFlO_R_gqMJWvfTUnKSMq-WnPJZQ.png?1644795832",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12000540668/original/blob1452637039005.png?1452637042",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12000540677/original/blob1452637063941.png?1452637067",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12000540695/original/blob1452637152412.png?1452637155",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104990693/original/_kIym6MmrZaB57bikdzIW_TPmeL7qxHOuA.jpeg?1644795765",
+      "alt": ""
+    }
+  ],
+  "content_hash": "701acade11a1f7fc91620ea41eaea6d091af712c5a0a3cac6ec5125ed126fca8",
+  "ingested_at": "2026-10-17T14:08:24.588932+00:00"
+}

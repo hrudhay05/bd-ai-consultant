@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000055818-how-to-locate-text-labels-on-the-front-end-of-a-website",
+  "title": "How to Locate Text Labels on the Front End of a Website",
+  "text": "\n## How to Locate Text Labels on the Front End of a Website\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000055818\nFirst, access the website from the admin backend in order to display the Admin Bar .\nOnce the Admin Bar is active, click on the \" Show Text Labels \" icon. All the available Text Labels on that specific page, will be highlighted:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093775171/original/ZU-seyeBsNeH6Af_IDGRciA1XcHtzRGckw.png?1623171503 | alt: ]\nTo look for the Text Label, scroll through the page, the text label will have a yellow background. By clicking on the text label the system will redirect to the Text Labels section with a search completed of the text label that was selected:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280011/original/Y1o6nNgroHhtyt7fUGx61KnL-whPaTW7fg.png?1645312414 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117287013/original/-xs3lmpX-T6QdXW9YmhRuMmhaqFQcRHtzg.png?1668520544 | alt: ]\nOr use the Text Label Search that can be found in the bottom right corner of the screen:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128340630/original/UUCbu93SnR8dalmszvIlIr8w9xtn0FNKaQ.gif?1689292723 | alt: ]\nEdit the Text directly through the Text Label Search.\nImportant Note: T here are some areas the text labels cannot be highlighted by the tool, like if the text label is the placeholder attribute of a field, a <select><option>, or not initially displayed on the page.  However, using the on-page text label editor, the label can be found.\nAdditional Information:\nSettings » Text Labels",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093775171/original/ZU-seyeBsNeH6Af_IDGRciA1XcHtzRGckw.png?1623171503",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280011/original/Y1o6nNgroHhtyt7fUGx61KnL-whPaTW7fg.png?1645312414",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117287013/original/-xs3lmpX-T6QdXW9YmhRuMmhaqFQcRHtzg.png?1668520544",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128340630/original/UUCbu93SnR8dalmszvIlIr8w9xtn0FNKaQ.gif?1689292723",
+      "alt": ""
+    }
+  ],
+  "content_hash": "d8b71d928cd1910a980329d1551835332204e240f5aea138573b40381f8dcd05",
+  "ingested_at": "2026-10-17T14:42:21.872880+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000681822-how-to-setup-sidebars-for-post-types",
+  "title": "How To Setup Sidebars For Post Types",
+  "text": "\n## How To Setup Sidebars For Post Types\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000681822\nEssentially every Post Type has two main pages, the search results page where all the results for that feature show up:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090374446/original/-sTWuMBRL8wrPw69iDB16zdNWKxf6oNZqw.png?1616511960 | alt: ]\nAnd the details page where the details of every single post from that feature show up.:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090374403/original/eiP10Lg-0HLpCSkbuAN2XvNNpCuB45bwAA.png?1616511914 | alt: ]\nAn example of a feature search result page can be seen on the link down below:\nThe Jobs Feature Search Result Page\nAn example of a feature detail page can be seen on the link down below:\nThe Job Feature Post Details Page\nOur software will allow users to add/remove/edit specific sidebars to each of these pages specified.\n\n## How to Add/Remove Widgets From the Sidebars\nBefore we can add or remove any widgets from these sidebars, first we have to identify which Sidebars that we will be making these edits on.\n\n## How to Identify Which Sidebar to Edit\nTo identify which Post Type using which sidebar on which page, navigate to Content >> Edit Post Settings >> Click \" Edit \" on preferred Post Type:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088606483/original/NtadhPf56n1mWraCL5Z48lKjaW2vmnwzng.png?1612908023 | alt: ]\nIn its edit view, Search Results Design and Detail Page Design are the tabs we will be using:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090374610/original/yh1IRucwijBAsXFwUFmjzLlFVImY6iT0_g.png?1616512142 | alt: ]\nWhen on the Search Results Design tab, scroll down and identify the sidebar under Sidebar To Use section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052033724/original/p021T2DiZMtFPlLlS3mmRLjQf20wIzMcHA.png?1560351637 | alt: ]\nWhen on the Detail Page Design tab, scroll down and identify the sidebar under Sidebar To Use section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052033800/original/WC9Eevdpd_IX1xLHOXLvViESnuOISOR1rw.png?1560351698 | alt: ]\nAnother way to identify which sidebar is being used on what page is to utilize the Admin Bar tool on the front end and click on the Show Widgets button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090374534/original/2HnqVXd3rudEN4Y-vYESpUqcGy2uQA3HvQ.png?1616512032 | alt: ]\nNot only will this display the names of the widgets being used on the page but it will also display the sidebars being used on the page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052035485/original/WA-Wf4hkJftPmmLIpXyhIE7JWd83i7_eFg.png?1560353334 | alt: ]\n\n## Important Note\nPost Type sidebars come with a set of pre-defined filters and fields, which can’t be expanded through the standard settings. To add custom filter types to post type sidebars, this would require a customization.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090374446/original/-sTWuMBRL8wrPw69iDB16zdNWKxf6oNZqw.png?1616511960",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090374403/original/eiP10Lg-0HLpCSkbuAN2XvNNpCuB45bwAA.png?1616511914",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088606483/original/NtadhPf56n1mWraCL5Z48lKjaW2vmnwzng.png?1612908023",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090374610/original/yh1IRucwijBAsXFwUFmjzLlFVImY6iT0_g.png?1616512142",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052033724/original/p021T2DiZMtFPlLlS3mmRLjQf20wIzMcHA.png?1560351637",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052033800/original/WC9Eevdpd_IX1xLHOXLvViESnuOISOR1rw.png?1560351698",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090374534/original/2HnqVXd3rudEN4Y-vYESpUqcGy2uQA3HvQ.png?1616512032",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052035485/original/WA-Wf4hkJftPmmLIpXyhIE7JWd83i7_eFg.png?1560353334",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2b88cb18b0c580007502fbde93586695b9506543352a03a4f63df071989d0dae",
+  "ingested_at": "2026-10-17T14:07:15.802318+00:00"
+}

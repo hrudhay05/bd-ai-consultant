@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000091597-showing-related-members-by-category-and-location",
+  "title": "Showing Related Members by Category and Location",
+  "text": "\n## Showing Related Members by Category and Location\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000091597\n\n## Overview\nThe Bootstrap Theme - Module - Member Related Searches widget displays related member results in the sidebar of Member Profile Pages. It surfaces other members who share the same category or location as the profile being viewed, giving site visitors a built-in way to discover additional listings.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750916/original/mpDybEcgjASZou0U632yDy5lzfWAwxVU6g.png?1673501752 | alt: ]\n⚠ REQUIRED SETUP — Geocoding Required: This widget will not function correctly unless all members have been geocoded. Members without geocoded coordinates will not appear in the widget's location-based results.\nReference: How To Geocode Members — Sync Members with Google Maps\n\n## How to Add the Widget\nTo add the widget to the Member Profile Page sidebar:\nNavigate to Toolbox » Sidebar Manager in the admin dashboard.\nSelect the Member Profile Page sidebar.\nLocate the Bootstrap Theme - Module - Member Related Searches widget in the available widgets list.\nDrag and drop the widget into the desired position in the sidebar order.\nSave the sidebar configuration.\nReference: Toolbox » Sidebar Manager\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750431/original/1XGpnU0ckVvilgG31FynX2wOSRC6mUUjIw.png?1673500864 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750480/original/ALjlHAaCtRmBE5-NS60HZy5bFtLilq0XGA.png?1673500965 | alt: ]\n\n## How Related Members Are Determined\nThe widget determines which members to display based on the following logic:\nBoth the category and location of the profile being viewed are checked simultaneously.\nMembers who match either the category or the location of the current profile are returned as related results.\nLinks to the corresponding category and location search result pages are generated automatically alongside each result.\nAll categories assigned to the member are used — there is no limit on the number of categories checked.\nA maximum of 10 related member results are displayed. Visitors can scroll within the widget to view all results.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750875/original/eL0nMiMKZt2bQyKtmDzFYqoJ_67bFDSCNQ.png?1673501670 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750916/original/mpDybEcgjASZou0U632yDy5lzfWAwxVU6g.png?1673501752",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750431/original/1XGpnU0ckVvilgG31FynX2wOSRC6mUUjIw.png?1673500864",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750480/original/ALjlHAaCtRmBE5-NS60HZy5bFtLilq0XGA.png?1673500965",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750875/original/eL0nMiMKZt2bQyKtmDzFYqoJ_67bFDSCNQ.png?1673501670",
+      "alt": ""
+    }
+  ],
+  "content_hash": "a9e09fd0377c923994785d46dc9d5b30736e5864e48bea744de62758caeeab28",
+  "ingested_at": "2026-10-17T15:01:46.932700+00:00"
+}

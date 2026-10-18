@@ -1,0 +1,65 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000103850-my-members-search-members-members-table",
+  "title": "My Members » Search Members » Members Table",
+  "text": "\n## My Members » Search Members » Members Table\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000103850\n\n## Search Results Members Table\nThis is the search results table of all the members in the website. The table will vary its content based on the search parameters used in the search filters.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158549777/original/t4X6TenxXFNebSuNDs1XbhnR3zd7eNKs1w.png?1742313661 | alt: ]\n\n## 1. Status\nThis section explains the different account statuses available in the platform, defining what each status represents and how it affects a member's access and functionality. It also includes the profile image if the listing is set as an individual or the company logo if the listing is set to company.\nFor a detailed list of the different account statuses and how to edit them, refer to the following article: Account Status\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158550252/original/O-aHp2gHyU8E0idfgVu4JuX3yJw_pYIMNQ.png?1742314028 | alt: ]\n\n## 2. Contact Information\nThis section provides details about the member's contact information, including their name, listing type, email, phone number, location, and social media accounts.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158550262/original/vE9rv6Oocc7bTcAUlhWsXgGIw6RU6bQ96g.png?1742314042 | alt: ]\n\n## Name (Individual) / Company Name (Company)\nDisplays the full name if the member is an individual. If the listing is set as a company, this field will show the registered company name.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608693/original/x9ELpKQ96fCDEXdXLu3NBBsWKMnzaTkORQ.png?1744131559 | alt: ]\n\n## Listing Type\nIndicates whether the listing is an individual profile or a company account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608727/original/YuWrGMPVDQe81KpxBJjbeddL63huqw5-SA.png?1744131598 | alt: ]\n\n## Email Address\nShows the registered email address associated with the member.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608747/original/l32CUCs5jkZNhhTsdTvV0jtkHJej9eKp3A.png?1744131619 | alt: ]\n\n## Company or Member Alternative Name\nFor individual listings, this field displays the company name if provided. For company listings, it shows the primary contact person’s name.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608791/original/FQInn2R_2qTOA_O_8K2MksrmlANjpRGX4g.png?1744131657 | alt: ]\n\n## Phone Number\nDisplays the primary phone number associated with the member.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608629/original/XBOD3rwZPU8C0gOMBuebWSILqNEAdjJybA.png?1744131506 | alt: ]\n\n## Geocoding Information\nIncludes geographic coordinates associated with the member’s location, helping to identify their approximate position on a map.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608613/original/F4hd9FTfDaNsMWt7YcNxgFWbmg-1rmGCbg.png?1744131480 | alt: ]\n\n## Social Media Accounts\nLists links to the member’s social media profiles, such as Facebook, LinkedIn, Twitter, or other platforms.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608576/original/6hk-KQUHmFXeG2URnuFMzisO6rOqPoAVyg.png?1744131456 | alt: ]\n\n## 3. Actions Menu\nThe actions menu provides quick access to essential account management options for each member. These actions allow for profile updates, account maintenance, and communication.\nThe following article describes each option available in this menu: My Members » Search Members » Actions Dropdown\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181027823/original/tSIQETOdpDMYouITAJVjOxbD_SCg23pwUQ.png?1782400340 | alt: ]\n\n## 4. Profile Views\nIf the Profile Statistics Add-On and setting are enabled, the amount of views the profile has received, will be displayed here. This setting is setup per membership plan.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158550316/original/qWe31JZYOC6BGMv5IqjYLgNhdSkuNM86bA.png?1742314086 | alt: ]\n\n## 5. Membership\nThe results table displays members who match the applied search criteria. Each row represents a member and contains key details.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608203/original/c5NXyXBa5-MI7DeevqFHP0Pv_os2_H-DEw.png?1744131164 | alt: ]\nMember ID : A unique identification number assigned to each member.\nMembership Plan : Displays the membership plan associated with the member.\nJoin Date : Indicates when the member joined the platform.\nLast Login : Shows the most recent login date of the member.\nCategory : Displays the primary category under which the member is classified.\nParent Account ID : If the Multi-Member Manager add-on is activated on the site, this field shows the ID of the parent account.\n\n## 6. Revenue\nThis column is a financial overview of the member. It displays information like:\nThe total of any past due payments.\nCredits available .\nThe revenue generated by the member.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161153851/original/MGiSlTzYgUE_0Qj257chIKW4flTZDWRG6g.png?1747001899 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158549777/original/t4X6TenxXFNebSuNDs1XbhnR3zd7eNKs1w.png?1742313661",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158550252/original/O-aHp2gHyU8E0idfgVu4JuX3yJw_pYIMNQ.png?1742314028",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158550262/original/vE9rv6Oocc7bTcAUlhWsXgGIw6RU6bQ96g.png?1742314042",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608693/original/x9ELpKQ96fCDEXdXLu3NBBsWKMnzaTkORQ.png?1744131559",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608727/original/YuWrGMPVDQe81KpxBJjbeddL63huqw5-SA.png?1744131598",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608747/original/l32CUCs5jkZNhhTsdTvV0jtkHJej9eKp3A.png?1744131619",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608791/original/FQInn2R_2qTOA_O_8K2MksrmlANjpRGX4g.png?1744131657",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608629/original/XBOD3rwZPU8C0gOMBuebWSILqNEAdjJybA.png?1744131506",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608613/original/F4hd9FTfDaNsMWt7YcNxgFWbmg-1rmGCbg.png?1744131480",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608576/original/6hk-KQUHmFXeG2URnuFMzisO6rOqPoAVyg.png?1744131456",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181027823/original/tSIQETOdpDMYouITAJVjOxbD_SCg23pwUQ.png?1782400340",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158550316/original/qWe31JZYOC6BGMv5IqjYLgNhdSkuNM86bA.png?1742314086",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159608203/original/c5NXyXBa5-MI7DeevqFHP0Pv_os2_H-DEw.png?1744131164",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161153851/original/MGiSlTzYgUE_0Qj257chIKW4flTZDWRG6g.png?1747001899",
+      "alt": ""
+    }
+  ],
+  "content_hash": "bd7ce19c72f51228309a1663e94ac594e0cdb19b1dd11c1e65fa120450bb7483",
+  "ingested_at": "2026-10-17T15:34:02.825237+00:00"
+}

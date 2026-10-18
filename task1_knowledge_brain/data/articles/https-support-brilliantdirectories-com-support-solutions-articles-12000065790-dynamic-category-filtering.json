@@ -1,0 +1,89 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000065790-dynamic-category-filtering",
+  "title": "Dynamic Category Filtering",
+  "text": "\n## Dynamic Category Filtering\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000065790\n\n## Overview\nBy default, users can search for members by category, but they can only search within one category or subcategory at a time.\nThe Dynamic Category Filtering add-on allows users to search within multiple categories at once. This is ideal for websites that only have one main category with multiple sub-categories.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Dynamic Category Filtering\n\n## Enabling the Add-On\nGo to Toolbox » Sidebar Manager.\nIn the Sidebar Manager select which sidebar to add the dynamic category filtering to, in this example we will proceed with the \" Member Search Result\" sidebar as this is the recommended sidebar to use for this add-on:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175179888/original/BXXWhehYpa01M6VWaxJVenog3aoEH6dRGA.png?1772040645 | alt: ]\nSearch for the following keywords depending on whether the users will use the search for Categories or Categories + Location.\n\n## Dynamic Category Filters Dynamic Category + Location Filters\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096830443/original/0cGwpw7p90U9xl59FAg01nEvEwErFr52jA.png?1628869647 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124373998/original/fZP93nYUBXrf4Eqgn6SI9G_RrZojTV_vmQ.png?1682034372 | alt: ]\nThen click and drag over the widget add-on that will work best for the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084123855/original/G6oNUVzZpJGOVMl-7boxKBKEVnMmhTX2yw.gif?1603725515 | alt: ]\n\n## Listings - Dynamic Category Filters\nSelect this widget inside the Post Settings for the \" Listings\" :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175179990/original/MBOax-c0xLwd0qA4Gj1OMDKyrJ8WftBFBA.png?1772040713 | alt: ]\nInside the Listing settings, click on the Search Results Design tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175180079/original/5MDQS7nGKTVg8M5poUhTQs34LHvw5FVSXw.png?1772040793 | alt: ]\nInside the dropdown select from any of the Dynamic Category search module widgets:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124374596/original/8OVnxymnl5XI4QNRYTpP1ybPZroWJH5_nw.png?1682035431 | alt: ]\n\n## Dynamic Category Filtering on the Site\n\n## Dynamic Category Filter - Top Level Category (+ Location)\nA checkbox will appear next to the Top Category:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124418095/original/P-7PoDT0Dp3Ci8_gcN_9oBNpDe8U4MfnoQ.png?1682102729 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125007356/original/EJUwquaXtgbcXQfN0GFIpkoP_CdNQaEgRA.png?1683240518 | alt: ]\n\n## Dynamic Category Filter - Top + Sub Level Category (+ Location)\nThe Top Category (+) will need to be expanded -\nThe checkbox will appear next to the Sub Category :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124418141/original/g9HRG-KYMeSP4dDVcXuRSa_HAJq7EXdDVQ.png?1682102791 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125007303/original/aUkr4Y5_NeXqOXMwvTwvGOkDCAtK-Cr0fg.png?1683240380 | alt: ]\n\n## Dynamic Category Filter - Top + Sub + Sub-Sub Level Category (+ Location)\nThe Top Category (-) and the Sub Category (+) will need to be expanded -\nThe checkbox will appear next to the Sub-sub Category :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124418220/original/uRSh_99pK1a7ZiBOOgffug5xCdCwCnM5zw.png?1682102921 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125007101/original/OtH2XetTwViJs8UyWQALt2rdxziZWc2nfw.png?1683240058 | alt: ]\n\n## Dynamic Category Filter - Sub + Sub-sub Level Category (+ Location)\nThe Sub Category (+) will need to be expanded -\nThe checkbox will appear next to the Sub Category :\n** This sidebar widget is recommend for sites that have the following workaround: Workaround: Members Selecting Multiple Top Level Categories **\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124418309/original/Ze0dBhAM-ZSrVwbVc8Qp0Wb4RF7pTU0iIQ.png?1682103008 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124418308/original/JmAWUHThrcFBgJIE-8amMoBmdE5tzhpWkQ.png?1682103004 | alt: ]\n\n## Important Note\nVisiting the search results page for a specific Top Category on a site will only show the Sub and Sub-Sub categories related to that Top Category, same applies when visiting a Sub level category page, it will display the Sub-Sub level categories associated to the Sub.\nAdditional Information\n» Sidebar Manager Folder\n\n## Dynamic Category Filtering Settings\nThe add-on has various additional settings that help tailor the functionality to the site.\n\n## Broad Match\nThe Dynamic Category filtering can work in two modalities, one is the Broad Match and the other is a Strict Match.\nThis is controlled with an advanced setting called Dynamic Category Filter - Broad Match, when this setting is turned ON the results will return members listed in ANY of the selected categories. Set to OFF to only return members listed in ALL of the selected categories.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175180153/original/Lm5ZMNX7tah3jJgu0jnrRLzKJXAS2Lo1-Q.png?1772040854 | alt: ]\n\n## Accordions Open\nIf this is set to ON, it will load all the accordions on the dynamic category sidebar modules open\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175180194/original/QfwDRF2QViytmkROyqSBwAeTZmhCsX7ztg.png?1772040911 | alt: ]\n\n## Only Show Categories Related to the Searched Category\nSystem Variable: dynamic_category_filter_show_categories_related\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175180276/original/IbomPJYZwDCPtD1Cj7h9N9_dOdkxvtif2Q.png?1772040969 | alt: ]\nWhen clicking on dynamic filters checkboxes, keep the top or sub category context from the URL so the dynamic filters in sidebar only show categories related to the page the category filter widget is being displayed on.\nWhat this setting does is that it will slim down the options available inside the sidebar search module to include only the corresponding Sub categories for each Top level category:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129893556/original/MPUHbjUpmDAUXOCTjrwGFlx_QzWy5FPsVQ.png?1692117357 | alt: ]\nThis setting will also slim down the options available inside the sidebar search module to include only the corresponding Sub-sub categories for each Sub level category:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175181085/original/Wu2QIWvC9VERR_Xp5OJ1EVCXZO7FyiZL_w.png?1772041828 | alt: ]\nThis takes effect when a Top level category or Sub Category is specified in the URL of the search results page.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175179888/original/BXXWhehYpa01M6VWaxJVenog3aoEH6dRGA.png?1772040645",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096830443/original/0cGwpw7p90U9xl59FAg01nEvEwErFr52jA.png?1628869647",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124373998/original/fZP93nYUBXrf4Eqgn6SI9G_RrZojTV_vmQ.png?1682034372",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084123855/original/G6oNUVzZpJGOVMl-7boxKBKEVnMmhTX2yw.gif?1603725515",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175179990/original/MBOax-c0xLwd0qA4Gj1OMDKyrJ8WftBFBA.png?1772040713",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175180079/original/5MDQS7nGKTVg8M5poUhTQs34LHvw5FVSXw.png?1772040793",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124374596/original/8OVnxymnl5XI4QNRYTpP1ybPZroWJH5_nw.png?1682035431",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124418095/original/P-7PoDT0Dp3Ci8_gcN_9oBNpDe8U4MfnoQ.png?1682102729",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125007356/original/EJUwquaXtgbcXQfN0GFIpkoP_CdNQaEgRA.png?1683240518",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124418141/original/g9HRG-KYMeSP4dDVcXuRSa_HAJq7EXdDVQ.png?1682102791",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125007303/original/aUkr4Y5_NeXqOXMwvTwvGOkDCAtK-Cr0fg.png?1683240380",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124418220/original/uRSh_99pK1a7ZiBOOgffug5xCdCwCnM5zw.png?1682102921",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125007101/original/OtH2XetTwViJs8UyWQALt2rdxziZWc2nfw.png?1683240058",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124418309/original/Ze0dBhAM-ZSrVwbVc8Qp0Wb4RF7pTU0iIQ.png?1682103008",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124418308/original/JmAWUHThrcFBgJIE-8amMoBmdE5tzhpWkQ.png?1682103004",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175180153/original/Lm5ZMNX7tah3jJgu0jnrRLzKJXAS2Lo1-Q.png?1772040854",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175180194/original/QfwDRF2QViytmkROyqSBwAeTZmhCsX7ztg.png?1772040911",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175180276/original/IbomPJYZwDCPtD1Cj7h9N9_dOdkxvtif2Q.png?1772040969",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129893556/original/MPUHbjUpmDAUXOCTjrwGFlx_QzWy5FPsVQ.png?1692117357",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175181085/original/Wu2QIWvC9VERR_Xp5OJ1EVCXZO7FyiZL_w.png?1772041828",
+      "alt": ""
+    }
+  ],
+  "content_hash": "27fdd1b11d0c1b8f56770cc160c93ff5d416071008f9a16bdf2a1f303d00c535",
+  "ingested_at": "2026-10-17T14:44:40.311147+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000062070-advanced-post-moderation",
+  "title": "Advanced Post Moderation",
+  "text": "\n## Advanced Post Moderation\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000062070\n\n## Overview\nBy default the members have the option to publish and unpublish their posts on the website. The Advanced Post Moderation add-on allows the admin to decide how certain types of posts are published on the website. Require a website admin to approve and publish member posts or allow members to publish and unpublish their own posts.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Advanced Post Moderation Add-On\n\n## Enabling the Add-On\nGo to My Content > Edit Post Settings > Edit the Post Type:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173317941/original/Cqh4SbvhHgty0KHIh-LlcSo0RA3aXEh_Aw.png?1768495945 | alt: ]\nInside the settings, expand the additional settings, the admin will see the Post Approval options. The \" Post Publishing \" settings for each Membership Plan will override the option selected here.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172934986/original/_V7GnkqJHoNVWQBYv8Z7SH2w8GARm_Vikw.gif?1767824848 | alt: ]\nMember Controls Publish Status : Displays the Publish option on the post form, allowing members to decide whether to publish their post immediately or save it as a draft.\nAdmin Moderates All Posts : Removes the Publish option from the post form. All new posts are saved as drafts and require admin approval before going live. Members cannot choose to publish their posts directly.\nAuto-Publish All Posts : Removes the Publish option from the post form. All new posts are automatically published and go live on the site right away.\n\n## Moderate by Plan\nIt is also possible to moderate the posts per membership plan, the setting selected in the membership plan will have a higher hierarchy than the default rule set on the post type settings.\nIn order to activate the setting in the membership plan, go to Finance >> Membership Plans >> Edit >> Move to the Post Publishing tab search the Post Type and choose the specific rule for the plan:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131642815/original/3hpE-4OKz2rU5qlwebaRUxqBoSjRLMtdUA.png?1695290363 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131642862/original/WHPtyqjKagE3Swb7HKULTTaQZYFn5mF16Q.png?1695290415 | alt: ]\n\n## Manually Approve Content\nTo  manually p ublish content from any of the websites post types, follow the steps below:\nGo to My Content\nClick on Manage Posts\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173317981/original/agrNFptgvJrN8RmVmEfgn7qlgyk6uNDGPA.png?1768496012 | alt: ]\nClick on the top where the posts that need approval will show. This will redirect to the post to be approved:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173318615/original/lHSlTo3rsY33YoZ833sFimq-secDFaM8hQ.png?1768496616 | alt: ]\nHover over Actions and click on \"View Post\" to review the content or edit the post before approving:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173322167/original/UgeU3GBxvwM9deNfHk5XQ_yce_VWiqqYuw.png?1768499173 | alt: ]\nOnce the admin viewed, edited or confirmed the user's content, hover over Actions and click on \"Set to Published\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173322786/original/fnfA1QKlj6_-iRPsfVRo_It09c-1JQbCKg.gif?1768499470 | alt: ]\n\n## Approval Email Notification\nThe admin now has the option to notify the member that created the post after they've approved the post. The email template that will be used is: post-approved-by-admin\nHow to Edit Email Templates\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173322255/original/QJsoHCwKnbcE4TL5oXmWea4Zsjgbubws0g.png?1768499234 | alt: ]\n\n## Important Notes\nRemember when moderating content, constantly check the member's content and update it. Anything that requires to be moderated before publishing will remain as a draft until approved for publishing.\nIf the Pay-Per-Post add-on is active on the website, the admin will have the option to override the limit. If the post or posts that are about to be approved go over the member limit, a warning will display to inform the admin about this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144428922/original/StAPp6jZwVG6TywYteBoer5Y5x8ZswSV4w.png?1717692700 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173317941/original/Cqh4SbvhHgty0KHIh-LlcSo0RA3aXEh_Aw.png?1768495945",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172934986/original/_V7GnkqJHoNVWQBYv8Z7SH2w8GARm_Vikw.gif?1767824848",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131642815/original/3hpE-4OKz2rU5qlwebaRUxqBoSjRLMtdUA.png?1695290363",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131642862/original/WHPtyqjKagE3Swb7HKULTTaQZYFn5mF16Q.png?1695290415",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173317981/original/agrNFptgvJrN8RmVmEfgn7qlgyk6uNDGPA.png?1768496012",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173318615/original/lHSlTo3rsY33YoZ833sFimq-secDFaM8hQ.png?1768496616",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173322167/original/UgeU3GBxvwM9deNfHk5XQ_yce_VWiqqYuw.png?1768499173",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173322786/original/fnfA1QKlj6_-iRPsfVRo_It09c-1JQbCKg.gif?1768499470",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173322255/original/QJsoHCwKnbcE4TL5oXmWea4Zsjgbubws0g.png?1768499234",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144428922/original/StAPp6jZwVG6TywYteBoer5Y5x8ZswSV4w.png?1717692700",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7a34281eb269c887536990e5a908cf181d43a1d4718e33b9d50ee20551a03b74",
+  "ingested_at": "2026-10-17T14:43:59.975153+00:00"
+}

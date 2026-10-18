@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000041647-02-23-18-software-updates",
+  "title": "02/23/18 - Software Updates",
+  "text": "\n## 02/23/18 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000041647\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\n\n## Updates:\nWe fixed an issue which was affecting the behavior of the redirect action when a visitor submits a form. Widget Involved: Bootstrap Theme - Function - Form\nNow the Listing and Specialty features are enabled by default when and Admin creates a new Product.\nWe released a Security Update to the Admin Accounts module on the Site Admin.\nWe released a new tool that helps Site Admins to easily change the Text Labels without the need to go to the Admin area.  This new tool can be found in the Admin Bar after visiting a site as \"Admin\". Note: This tool is still in Beta.\nWe refactored several core files that make all frontend pages of websites load faster.",
+  "images": [],
+  "content_hash": "725f20411d49cdad466f7d660fe2cfdceb7b1188124268b86953a733ba4cbb7c",
+  "ingested_at": "2026-10-17T14:37:34.294622+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000686553-how-does-adsense-work-",
+  "title": "How Does AdSense Work?",
+  "text": "\n## How Does AdSense Work?\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000686553\nOnce the AdSense account is created, there are two types of ads that can be implemented on the website.\nHow AdSense works\nVery Important Note:\n1. For any banners to display on the website it is required to have \"Display Banner Advertisements\" set to \"Yes\" on the  \" Banner Ad Design \" tab.\n2. Make sure to add the Ads.txt on the \"Enter Ads.txt Content\" Field, if the banners don't display it is because the site is missing this Google Verification.\n\n## 1. Auto Ads\n» Set up Auto Ad\nTo implement Auto Ads add the code inside the Custom HEAD/CSS section of the Design Settings:\n» How To Add A Snippet Of Code To Every Page Of A Site In The HEAD Section\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097174625/original/CclYv1X3oONO3JrPHL4bxNPV4EKdKaVt1A.png?1629660149 | alt: ]\nExample of the code that can be entered:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097212804/original/yC_Tpo2DI4AChsAawjgBIq3xwS1z0NINaA.png?1629729332 | alt: ]\nNOTE: The following code samples are not working examples.\n\n## 2. Ad Units\n» Create an Ad Unit\nWhen using Ad Units, the AdSense code will need to be added to the HEAD of the site:\nExample of the code that can be entered:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097267304/original/emANqq9tD8Af3xkf_ia300z6XWm1UQv7hw.png?1629812621 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097267374/original/pe63rSM3QYzKXcAazSvzo-W3N3sadBLAnQ.png?1629812645 | alt: ]\nTo implement Ad Units add the code inside the Banner Ad slots:\n» Settings » Design Settings » General » Banner Ads\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097174700/original/ZXdfUvCB6Lw6gl5sKe4IhlUmUJLxPzsRIg.png?1629660495 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097212357/original/keReaCGk8gcqBROb5N8Oo-uBt0hEK3kpBA.png?1629729051 | alt: ]\nNOTE: The following code samples are not working examples.\n\n## AdSense Tips\nCode Implementation Guide: Get and copy the AdSense code\nFor Auto ads, only the AdSense code + ads.txt file is needed, but for ad units, the AdSense code + ads.txt file + the ad unit code is needed.\nTo insert an ad on to a blog post or any other post please refer to: How to insert and embed Google Adsense code directly into blog articles and posts .\nThere are a few things to know about AdSense before putting the code on the website:",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097174625/original/CclYv1X3oONO3JrPHL4bxNPV4EKdKaVt1A.png?1629660149",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097212804/original/yC_Tpo2DI4AChsAawjgBIq3xwS1z0NINaA.png?1629729332",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097267304/original/emANqq9tD8Af3xkf_ia300z6XWm1UQv7hw.png?1629812621",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097267374/original/pe63rSM3QYzKXcAazSvzo-W3N3sadBLAnQ.png?1629812645",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097174700/original/ZXdfUvCB6Lw6gl5sKe4IhlUmUJLxPzsRIg.png?1629660495",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097212357/original/keReaCGk8gcqBROb5N8Oo-uBt0hEK3kpBA.png?1629729051",
+      "alt": ""
+    }
+  ],
+  "content_hash": "4fe65cc5c86787c39595aca5037a66363d59308c655fc7b8e306c11f06a524b9",
+  "ingested_at": "2026-10-17T14:08:05.613384+00:00"
+}

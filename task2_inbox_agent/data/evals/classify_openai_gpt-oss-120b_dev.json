@@ -1,0 +1,1046 @@
+{
+  "summary": {
+    "model": "openai/gpt-oss-120b",
+    "prompt_version": "classify-v1",
+    "split": "dev",
+    "emails": 41,
+    "failed": 0,
+    "category_correct": 38,
+    "urgency_correct": 27,
+    "risk_correct_final": 32,
+    "risk_correct_model_only": 22,
+    "injection_expected": 0,
+    "injection_caught": 0,
+    "false_injection_flags": 0,
+    "avg_latency_ms": 1361,
+    "total_prompt_tokens": 25582,
+    "total_completion_tokens": 3224
+  },
+  "rows": [
+    {
+      "id": "HT-01",
+      "expected": {
+        "category": "how_to",
+        "urgency": "low",
+        "risk": "low"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer wants instructions on how to replace the default logo on their directory website with their own logo.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2318,
+        "promptTokens": 627,
+        "completionTokens": 73,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "HT-02",
+      "expected": {
+        "category": "how_to",
+        "urgency": "low",
+        "risk": "low"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer wants instructions on adding a new paid membership level and setting its price.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 942,
+        "promptTokens": 628,
+        "completionTokens": 67,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "HT-03",
+      "expected": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer wants to know how to control member search result ordering and settings.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 924,
+        "promptTokens": 632,
+        "completionTokens": 67,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "HT-04",
+      "expected": {
+        "category": "how_to",
+        "urgency": "low",
+        "risk": "low"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer wants to know if the member results page can be changed from a list to a grid or map view.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 828,
+        "promptTokens": 628,
+        "completionTokens": 75,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "HT-05",
+      "expected": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer wants instructions on setting up email addresses on their own domain (e.g., info@mydirectory.com).",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 721,
+        "promptTokens": 625,
+        "completionTokens": 77,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "HT-06",
+      "expected": {
+        "category": "how_to",
+        "urgency": "low",
+        "risk": "low"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer wants instructions on creating a new page (e.g., About Us) and adding it to the top menu.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 521,
+        "promptTokens": 618,
+        "completionTokens": 76,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "HT-07",
+      "expected": {
+        "category": "how_to",
+        "urgency": "low",
+        "risk": "low"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer wants instructions on adding and organizing categories for their wedding vendor directory so members can select the correct one during sign‑up.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 903,
+        "promptTokens": 621,
+        "completionTokens": 79,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "HT-08",
+      "expected": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer wants instructions on how to change the sender name and address for notification emails.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 1030,
+        "promptTokens": 619,
+        "completionTokens": 70,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "HT-09",
+      "expected": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "medium"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer wants instructions on how to set up a payment gateway to charge members a monthly fee.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 1124,
+        "promptTokens": 624,
+        "completionTokens": 72,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "HT-12",
+      "expected": {
+        "category": "how_to",
+        "urgency": "low",
+        "risk": "low"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer wants to know how to automatically export member billing data to QuickBooks.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 544,
+        "promptTokens": 622,
+        "completionTokens": 69,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "TS-01",
+      "expected": {
+        "category": "troubleshooting",
+        "urgency": "high",
+        "risk": "medium"
+      },
+      "got": {
+        "category": "troubleshooting",
+        "urgency": "high",
+        "risk": "high",
+        "model_risk": "high",
+        "summary": "Members cannot complete payments; checkout shows an error, causing lost sign‑ups.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 772,
+        "promptTokens": 627,
+        "completionTokens": 85,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "TS-02",
+      "expected": {
+        "category": "troubleshooting",
+        "urgency": "normal",
+        "risk": "medium"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "Customer reports welcome emails are landing in members' spam folders and asks how to prevent this.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 1559,
+        "promptTokens": 628,
+        "completionTokens": 79,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "TS-03",
+      "expected": {
+        "category": "troubleshooting",
+        "urgency": "normal",
+        "risk": "medium"
+      },
+      "got": {
+        "category": "troubleshooting",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "Customer edited homepage and now part of the page is blank on mobile devices, wants help fixing it.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 492,
+        "promptTokens": 627,
+        "completionTokens": 80,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "TS-04",
+      "expected": {
+        "category": "troubleshooting",
+        "urgency": "high",
+        "risk": "medium"
+      },
+      "got": {
+        "category": "troubleshooting",
+        "urgency": "high",
+        "risk": "medium",
+        "model_risk": "medium",
+        "summary": "Members are unable to log in, receiving incorrect password errors even after resetting passwords.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 956,
+        "promptTokens": 625,
+        "completionTokens": 70,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "TS-05",
+      "expected": {
+        "category": "troubleshooting",
+        "urgency": "normal",
+        "risk": "low"
+      },
+      "got": {
+        "category": "troubleshooting",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "Added new members but they don't appear in site search, while older members do.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 705,
+        "promptTokens": 620,
+        "completionTokens": 75,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "TS-06",
+      "expected": {
+        "category": "troubleshooting",
+        "urgency": "normal",
+        "risk": "medium"
+      },
+      "got": {
+        "category": "troubleshooting",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "Customer's domain points to old page after updating DNS and wants to know if there's an issue on our side.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 920,
+        "promptTokens": 619,
+        "completionTokens": 75,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "TS-07",
+      "expected": {
+        "category": "troubleshooting",
+        "urgency": "normal",
+        "risk": "low"
+      },
+      "got": {
+        "category": "troubleshooting",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "Member profile photo upload fails, showing a spinning indicator then error.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 830,
+        "promptTokens": 615,
+        "completionTokens": 71,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "TS-08",
+      "expected": {
+        "category": "troubleshooting",
+        "urgency": "high",
+        "risk": "medium"
+      },
+      "got": {
+        "category": "troubleshooting",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer reports that their site has become very slow, with pages taking about 10 seconds to load, and asks for help fixing it.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 620,
+        "promptTokens": 620,
+        "completionTokens": 80,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "PR-01",
+      "expected": {
+        "category": "project_request",
+        "urgency": "normal",
+        "risk": "high"
+      },
+      "got": {
+        "category": "project_request",
+        "urgency": "high",
+        "risk": "high",
+        "model_risk": "medium",
+        "summary": "The customer wants a custom booking feature added to their directory for personal trainers within about three weeks.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 735,
+        "promptTokens": 631,
+        "completionTokens": 82,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "PR-02",
+      "expected": {
+        "category": "project_request",
+        "urgency": "low",
+        "risk": "high"
+      },
+      "got": {
+        "category": "project_request",
+        "urgency": "normal",
+        "risk": "high",
+        "model_risk": "low",
+        "summary": "The customer wants a custom member dashboard to display leads and stats, asking if the team can build it.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 833,
+        "promptTokens": 619,
+        "completionTokens": 80,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "PR-03",
+      "expected": {
+        "category": "project_request",
+        "urgency": "normal",
+        "risk": "high"
+      },
+      "got": {
+        "category": "project_request",
+        "urgency": "normal",
+        "risk": "high",
+        "model_risk": "medium",
+        "summary": "The customer wants to migrate about 4,000 listings from another system to our platform and asks what information is needed.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 704,
+        "promptTokens": 629,
+        "completionTokens": 86,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "PR-04",
+      "expected": {
+        "category": "project_request",
+        "urgency": "normal",
+        "risk": "high"
+      },
+      "got": {
+        "category": "project_request",
+        "urgency": "normal",
+        "risk": "high",
+        "model_risk": "low",
+        "summary": "The customer wants the team to set up an integration that sends new member sign-ups to HubSpot CRM.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 1443,
+        "promptTokens": 616,
+        "completionTokens": 82,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "PR-05",
+      "expected": {
+        "category": "project_request",
+        "urgency": "low",
+        "risk": "high"
+      },
+      "got": {
+        "category": "project_request",
+        "urgency": "normal",
+        "risk": "high",
+        "model_risk": "medium",
+        "summary": "The customer wants help setting up a multi-language version of their directory site in English and German, including translation of pages.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 1233,
+        "promptTokens": 618,
+        "completionTokens": 83,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "RC-01",
+      "expected": {
+        "category": "refund_cancellation",
+        "urgency": "normal",
+        "risk": "high"
+      },
+      "got": {
+        "category": "refund_cancellation",
+        "urgency": "high",
+        "risk": "high",
+        "model_risk": "high",
+        "summary": "Customer wants to cancel their yearly subscription and receive a refund to their card",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 730,
+        "promptTokens": 633,
+        "completionTokens": 82,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "RC-02",
+      "expected": {
+        "category": "refund_cancellation",
+        "urgency": "high",
+        "risk": "high"
+      },
+      "got": {
+        "category": "refund_cancellation",
+        "urgency": "high",
+        "risk": "high",
+        "model_risk": "high",
+        "summary": "Customer cancelled their plan two weeks ago but was charged again and wants an immediate refund.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 730,
+        "promptTokens": 621,
+        "completionTokens": 86,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "RC-03",
+      "expected": {
+        "category": "refund_cancellation",
+        "urgency": "normal",
+        "risk": "medium"
+      },
+      "got": {
+        "category": "refund_cancellation",
+        "urgency": "normal",
+        "risk": "high",
+        "model_risk": "low",
+        "summary": "The customer wants to cancel their account to stop future payments.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 923,
+        "promptTokens": 633,
+        "completionTokens": 91,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "RC-04",
+      "expected": {
+        "category": "refund_cancellation",
+        "urgency": "high",
+        "risk": "high"
+      },
+      "got": {
+        "category": "refund_cancellation",
+        "urgency": "high",
+        "risk": "high",
+        "model_risk": "high",
+        "summary": "Customer was double-charged for the same month and wants the extra payment refunded.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 814,
+        "promptTokens": 623,
+        "completionTokens": 78,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "RC-05",
+      "expected": {
+        "category": "refund_cancellation",
+        "urgency": "urgent",
+        "risk": "high"
+      },
+      "got": {
+        "category": "refund_cancellation",
+        "urgency": "urgent",
+        "risk": "high",
+        "model_risk": "high",
+        "summary": "Customer requests a refund and threatens a chargeback if not received by Friday.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 739,
+        "promptTokens": 624,
+        "completionTokens": 74,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "CP-01",
+      "expected": {
+        "category": "complaint",
+        "urgency": "high",
+        "risk": "high"
+      },
+      "got": {
+        "category": "troubleshooting",
+        "urgency": "high",
+        "risk": "high",
+        "model_risk": "high",
+        "summary": "The latest update changed member pages and removed the sign‑up button, causing loss of customers.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 1012,
+        "promptTokens": 632,
+        "completionTokens": 75,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "CP-02",
+      "expected": {
+        "category": "complaint",
+        "urgency": "high",
+        "risk": "high"
+      },
+      "got": {
+        "category": "complaint",
+        "urgency": "high",
+        "risk": "high",
+        "model_risk": "high",
+        "summary": "Customer is upset about lack of response from support and threatens to leave.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 925,
+        "promptTokens": 629,
+        "completionTokens": 75,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "CP-03",
+      "expected": {
+        "category": "complaint",
+        "urgency": "urgent",
+        "risk": "high"
+      },
+      "got": {
+        "category": "complaint",
+        "urgency": "urgent",
+        "risk": "high",
+        "model_risk": "high",
+        "summary": "Customer claims data loss during maintenance, lost clients, and threatens legal action unless resolved and compensated.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2760,
+        "promptTokens": 630,
+        "completionTokens": 77,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "CP-04",
+      "expected": {
+        "category": "complaint",
+        "urgency": "high",
+        "risk": "high"
+      },
+      "got": {
+        "category": "complaint",
+        "urgency": "high",
+        "risk": "high",
+        "model_risk": "high",
+        "summary": "The customer is upset about ongoing site problems and threatens to write a bad review if they continue.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2960,
+        "promptTokens": 631,
+        "completionTokens": 85,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "CP-06",
+      "expected": {
+        "category": "complaint",
+        "urgency": "urgent",
+        "risk": "high"
+      },
+      "got": {
+        "category": "complaint",
+        "urgency": "high",
+        "risk": "high",
+        "model_risk": "high",
+        "summary": "Customer reports unauthorized changes to admin settings and logo, suspects a security breach and is upset about platform security.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2367,
+        "promptTokens": 631,
+        "completionTokens": 118,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "QT-01",
+      "expected": {
+        "category": "quote_request",
+        "urgency": "low",
+        "risk": "high"
+      },
+      "got": {
+        "category": "quote_request",
+        "urgency": "normal",
+        "risk": "high",
+        "model_risk": "medium",
+        "summary": "The customer wants a price estimate for a custom site redesign with new colors and homepage layout.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2555,
+        "promptTokens": 619,
+        "completionTokens": 76,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "QT-02",
+      "expected": {
+        "category": "quote_request",
+        "urgency": "normal",
+        "risk": "high"
+      },
+      "got": {
+        "category": "quote_request",
+        "urgency": "normal",
+        "risk": "high",
+        "model_risk": "low",
+        "summary": "The customer wants a price estimate and timeline for adding a document upload feature to member profiles.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2661,
+        "promptTokens": 619,
+        "completionTokens": 70,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "QT-03",
+      "expected": {
+        "category": "quote_request",
+        "urgency": "normal",
+        "risk": "high"
+      },
+      "got": {
+        "category": "quote_request",
+        "urgency": "normal",
+        "risk": "high",
+        "model_risk": "low",
+        "summary": "The customer wants a price estimate for importing an Excel file containing 1,200 business listings into their directory.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2668,
+        "promptTokens": 619,
+        "completionTokens": 74,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "QT-04",
+      "expected": {
+        "category": "quote_request",
+        "urgency": "normal",
+        "risk": "high"
+      },
+      "got": {
+        "category": "quote_request",
+        "urgency": "normal",
+        "risk": "high",
+        "model_risk": "medium",
+        "summary": "Customer wants a lower price for custom search filters compared to a competitor's $800 offer and asks for a price confirmation today.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2681,
+        "promptTokens": 622,
+        "completionTokens": 97,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "FU-01",
+      "expected": {
+        "category": "follow_up",
+        "urgency": "normal",
+        "risk": "medium"
+      },
+      "got": {
+        "category": "follow_up",
+        "urgency": "normal",
+        "risk": "medium",
+        "model_risk": "low",
+        "summary": "The customer is asking for an update on a request they submitted about their site last week.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2058,
+        "promptTokens": 619,
+        "completionTokens": 69,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "FU-02",
+      "expected": {
+        "category": "follow_up",
+        "urgency": "normal",
+        "risk": "high"
+      },
+      "got": {
+        "category": "follow_up",
+        "urgency": "normal",
+        "risk": "medium",
+        "model_risk": "low",
+        "summary": "The customer is asking when they will receive the promised quote for the booking feature, after 5 days of waiting.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2546,
+        "promptTokens": 620,
+        "completionTokens": 85,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "FU-03",
+      "expected": {
+        "category": "follow_up",
+        "urgency": "high",
+        "risk": "high"
+      },
+      "got": {
+        "category": "follow_up",
+        "urgency": "high",
+        "risk": "medium",
+        "model_risk": "medium",
+        "summary": "The customer is asking if the previously reported login problem has been resolved because members are still experiencing issues.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2769,
+        "promptTokens": 619,
+        "completionTokens": 86,
+        "attempts": 1
+      }
+    },
+    {
+      "id": "FU-04",
+      "expected": {
+        "category": "follow_up",
+        "urgency": "low",
+        "risk": "low"
+      },
+      "got": {
+        "category": "how_to",
+        "urgency": "normal",
+        "risk": "low",
+        "model_risk": "low",
+        "summary": "The customer asks if they can limit each member to only one category during sign‑up.",
+        "injection_suspected": false,
+        "injection_source": "none"
+      },
+      "meta": {
+        "model": "openai/gpt-oss-120b",
+        "promptVersion": "classify-v1",
+        "latencyMs": 2265,
+        "promptTokens": 620,
+        "completionTokens": 73,
+        "attempts": 1
+      }
+    }
+  ]
+}

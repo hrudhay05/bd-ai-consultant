@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000065940-guide-1-how-to-connect-a-live-domain-name",
+  "title": "Guide 1. How to Connect a Live Domain Name",
+  "text": "\n## Guide 1. How to Connect a Live Domain Name\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000065940\n\n## Connect a Live Domain Name\nA Brilliant Directories website begins on a free directoryup.com address. A domain owned by the website operator can be connected whenever the site is ready to use its public address.\nThe current Domain Manager guides the entire connection through up to four stages: Choose An Address , Check It , Point Domain , and Switch Over . It checks the address before any change is made and displays the DNS record required for the selected domain.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185668534/original/woU8C814_2yX08ziBJcQcO-54kLJi2FC_g.png?1790182288 | alt: Domain Manager on a free directoryup.com address, with Connect my domain name marked]\nExample on a free directoryup.com address. Additional tabs appear when a custom domain and its services are available.\n\n## Connection Choices\nUse a domain from my Cloudflare account — when this option is available, select a domain from the connected Cloudflare account and follow the guided setup.\nA domain name I own — connect a domain or true subdomain by adding the record shown by Domain Manager.\nA free address from us — choose a new directoryup.com address.\nFor the complete connection instructions, DNS requirements, and post-change checks, see How to Connect a Domain to a Brilliant Directories Website . A root domain such as example.com is always connected as www.example.com , and the record for the root itself depends on the company that runs the domain's DNS; see Point the root domain .",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185668534/original/woU8C814_2yX08ziBJcQcO-54kLJi2FC_g.png?1790182288",
+      "alt": "Domain Manager on a free directoryup.com address, with Connect my domain name marked"
+    }
+  ],
+  "content_hash": "ab9b19df1015d616f8cecdd2694f9a05507623974beed4e76246baac782f850f",
+  "ingested_at": "2026-10-17T14:44:46.956669+00:00"
+}

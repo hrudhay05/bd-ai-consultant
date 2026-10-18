@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095085-creating-content-using-rss-feed-and-zapier",
+  "title": "Creating Content Using RSS Feed and Zapier",
+  "text": "\n## Creating Content Using RSS Feed and Zapier\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000095085\nZapier is a powerful automation tool that allows owners to connect various apps and services to automate tasks and processes. In this article, we'll provide the steps to create content using Zapier and an RSS feed. This method is useful for automatically populating the website with fresh content from external sources, making the content more dynamic and engaging.\n1. Setting up the RSS Feed\nBefore we begin, ensure that there is an RSS feed URL from a trusted source that may want to used to import content. Many websites and blogs have RSS feeds, which contain the latest posts and updates.\n2. Create/Login to a Zapier account and create a new Zap\nIf there's not a Zapier account already, head over to the Zapier website and sign up for a free or premium account. Once logged into Zapier, click on the \"Make a Zap\" button to create a new automation workflow.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294652/original/Z2FPcitNMsRwMOaZuzbQh1_hkMRmuiDFsg.png?1782857790 | alt: ]\n3. Set up the Trigger\nFor the trigger app, search and select \"RSS by Zapier\". Under the trigger event, choose \"New Item in Feed\" to indicate that's what is going to trigger the automation each time a new blog is added to the RSS feed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294700/original/IsSfcZqcsz9O0OlagliskUZZP4342yUG0g.png?1782857929 | alt: ]\n4. Connect the RSS Feed\nNext, connect the RSS feed by providing the URL to be used. Zapier will fetch the latest items from the feed to set up the trigger. In this example, we will be using CNN's world news RSS feed but feel free to use one of the choices:\nhttp://rss.cnn.com/rss/edition_world.rss\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294791/original/loUyqfJpicJViKyI-jqCsifO9IW7T5psYQ.png?1782858029 | alt: ]\n5. Test the Trigger\nOnce the RSS feed is connected, Zapier will fetch a sample blog post from the feed to ensure the trigger is working correctly. Verify the test data and continue to the next step.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294826/original/ikyb3xNrczL3vYqb2JXnrEjjhEMjoVjANA.png?1782858089 | alt: ]\n6. Set Up the Action\nNow it's time to specify what action will occur when a new blog post is detected in the RSS feed. Search and select \"Brilliant Directories\" as the action app. Choose \"Create Post\" to tell Zapier that's going to create a new blog post on the site but feel free to choose any other feature available on the website.\n7. Connect the Brilliant Directories Account\nTo proceed, provide the necessary credentials to enable Zapier to access the account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294883/original/JJsDkDaCl3GxCBJ8PqMSVn-ZkcgGwkmeQg.png?1782858246 | alt: ]\n8. Configure the Blog Post Details\nNow, it's time to map the data from the RSS feed to the corresponding fields in Brilliant Directories. Select the appropriate fields for the following post details as they are important in order to create the post:\nPost Title\nPost Type\nPost Content\nPost Author\nPost Publish Date\nThe rest of the fields are optional!\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294901/original/327b3Pvbr_7SuvqtGzoRMRaWJpsMwf_VEA.png?1782858321 | alt: ]\n9. Test the Action\nZapier will perfomr a test run to ensure that the data from the RSS feed is correctly mapped to the Brilliant Directories fields. Review the test results to make sure everything is working as expected.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294905/original/CPPWVL3moCXBa0_sv7G383H6BHg9DZTNtw.png?1782858353 | alt: ]\nIf done correctly, the content will show up in Manage Post within the admin area:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128949451/original/tDB843RjZUJyC3J2-Q25XgM252JjgVxBPA.png?1690387017 | alt: ]\n10. Enable the Zap and sit back and Enjoy!\nOnce satisfied with the results, it's time to enable the Zap! Please give it a name and turn it on to start the automation. The Zap will be live and whenever a new blog post is added to the RSS feed, Zapier will automatically create a corresponding post on the Brilliant Directories website. This process will save time and effort, keeping the website content up-to-date without manual intervention.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294652/original/Z2FPcitNMsRwMOaZuzbQh1_hkMRmuiDFsg.png?1782857790",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294700/original/IsSfcZqcsz9O0OlagliskUZZP4342yUG0g.png?1782857929",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294791/original/loUyqfJpicJViKyI-jqCsifO9IW7T5psYQ.png?1782858029",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294826/original/ikyb3xNrczL3vYqb2JXnrEjjhEMjoVjANA.png?1782858089",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294883/original/JJsDkDaCl3GxCBJ8PqMSVn-ZkcgGwkmeQg.png?1782858246",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294901/original/327b3Pvbr_7SuvqtGzoRMRaWJpsMwf_VEA.png?1782858321",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181294905/original/CPPWVL3moCXBa0_sv7G383H6BHg9DZTNtw.png?1782858353",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128949451/original/tDB843RjZUJyC3J2-Q25XgM252JjgVxBPA.png?1690387017",
+      "alt": ""
+    }
+  ],
+  "content_hash": "19460533d2bd548b53ca0c527f65daa355c8a1a60faa58d4c2aad662b51e2a10",
+  "ingested_at": "2026-10-17T15:23:29.614391+00:00"
+}

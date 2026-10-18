@@ -1,0 +1,93 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000019749-guide-6-how-to-edit-main-menu-dropdown-links",
+  "title": "Guide 6. How to Edit Main Menu & Dropdown Links",
+  "text": "\n## Guide 6. How to Edit Main Menu & Dropdown Links\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000019749\n\n## Where Can I Access This Tool?\nInside Toolbox » Menu Manager:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128422033/original/Bq0zymkHru_FsOxzLEJt7a742fM-2TZNaQ.png?1689466321 | alt: ]\n\n## What are the Default Menu Options?\nBy default, the Menu Manager comes with 5 different menu options.\n\n## Header Main Menu\nAccessible via / home\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423065/original/FI6mfWmd76sJFB5zFagOi8acHxciU44lSw.png?1689471148 | alt: ]\n\n## Pricing Page Menu\nIs accessible via / join\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423084/original/gr35Dn21A656N-JVykMfuVa5JdiWSqzEvA.png?1689471280 | alt: ]\n\n## Footer Menu\nIs accessible on any page by the default\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423094/original/RjqCnna5sva8jiYRRCbPcVzn626ZXS36wQ.png?1689471312 | alt: ]\n\n## Header Mini Nav\nIs accessible via / home\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423100/original/cw0t91GnAzFgI1OBfpdc-0SApALp8yHFkw.png?1689471392 | alt: ]\n\n## Login Page Links\nIs accessible via /login\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423132/original/CUaSfmcpF_VwfTxvfDxkSNAH0WdbvwNZJQ.png?1689471431 | alt: ]\n\n## How Can I Edit These Menus?\nBy simply clicking on \" Customize \" under Actions on the preferred menu element.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423163/original/S8_JSjmxqaC-vLyAIMXRwZo9lFq93tWzQg.png?1689471502 | alt: ]\nIn this instance, let's make changes to the \" Main Menu \"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423217/original/bXTaxFLl9N5Xe8NwhZb2dK7GoIfWA7QRgw.png?1689471968 | alt: ]\nAdd an additional link by clicking on the \"New Link+\" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423233/original/pf5bbhcG8NbkX8BMZTlz3khRK8-C-Xip_Q.png?1689472125 | alt: ]\nOnce the text and the URL are added click \" Save Changes \".\nOnce saved, the edited menu will start appearing above the Default Menus , an indication of its being a Custom Menu :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729178/original/hQjrfZaIzZnVDT5g_Wb-fSsme8EDX2tlhg.jpeg?1623109945 | alt: ]\nWhen clicked on \"Edit\" on Custom Menus:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729183/original/c0I8PWftc0BjFTZ1i9UGCt9gN2QuIfSqkA.jpeg?1623109946 | alt: ]\nUnder \"Actions\" there is a drop-down option called  \"Edit Menu\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729176/original/YLNx2NqlYgG7LSEbMI-q6BB83oeg7dQYEQ.jpeg?1623109944 | alt: ]\nOnce clicked, a module will display where the Nickname and System Name can be assigned for the menu:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729172/original/Tnh_DwUAoGmUrjQd_dhC8oK_rRBiA9MqcA.png?1623109941 | alt: ]\nAdditionally, Custom Menus will have few options under Actions:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729186/original/i-VD2EJ_SFWIb_DBklp66aTKJ2mwUABA4w.jpeg?1623109947 | alt: ]\nClicking Disable will disable this custom menu and its default version will be used on the website. This is very helpful for troubleshooting purposes:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729174/original/GzcO81-1dUlvn1SBHbZ0KVHkBAG83w_mgA.jpeg?1623109943 | alt: ]\nClicking Clone will clone this custom menu and will assign a custom Menu Name and Shortcode:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729175/original/LNh5dvGGZKR3qmOKnT4KqOqxWDUiNc0D0Q.jpeg?1623109944 | alt: ]\nClicking Copy Shortcode will copy the shortcode of this custom menu, with this copied shortcode, it is easy to call the menu on the preferred location like in a webpage or a widget ( How To Call A Menu On A Webpage ).\nClicking Delete will delete this custom menu.\n\n## How To Create Dropdown Menus\nIndent the child element under the parent field, this can be accomplished by dragging the menu element under another:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423451/original/ADoEnc8EAQzJJ_izX1-Zu0wgxpmlwdxvLA.png?1689473276 | alt: ]\nAfter the new drop-downs are saved the menu will display a green button to expand and hide the options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423479/original/go_Rj3eVeqN269gaJFv1ckMbIBwZCZevCg.gif?1689473525 | alt: ]\nThe drop-down menu shows up in the front end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423522/original/eUxKspw9N7icR1ISQ6CCPX80DPYwgU8QEw.png?1689473576 | alt: ]\n\n## More Editing Options For Menu Links\nAll menu links come with a \" Settings \" button that allows for further changes :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423583/original/0COSDy8rEiafF2KC3Y22v8wJ7FL51UzwNw.png?1689473758 | alt: ]\nLink Title Text\nMenu Item Inline Attribute\nOuter <li> Inline Attribute\nMenu Item CSS Class\nOuter <li> CSS Class\nAdditional checkbox options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128685789/original/3eSB6f5x_pjVJzaB5M90L9zFNmfNVPzXvA.png?1689886896 | alt: ]\nOpen in new window - This setting will indicate if the link should open in a new tab or not.\nAdd rel=\"nofollow\" - This setting will indicate if search engines should follow this link or not.\nOpen Link - Open the URL of the menu item in a new tab.\nHide Item - This setting will hide the menu item from appearing on the front end but keep it inside the Menu.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128422033/original/Bq0zymkHru_FsOxzLEJt7a742fM-2TZNaQ.png?1689466321",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423065/original/FI6mfWmd76sJFB5zFagOi8acHxciU44lSw.png?1689471148",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423084/original/gr35Dn21A656N-JVykMfuVa5JdiWSqzEvA.png?1689471280",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423094/original/RjqCnna5sva8jiYRRCbPcVzn626ZXS36wQ.png?1689471312",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423100/original/cw0t91GnAzFgI1OBfpdc-0SApALp8yHFkw.png?1689471392",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423132/original/CUaSfmcpF_VwfTxvfDxkSNAH0WdbvwNZJQ.png?1689471431",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423163/original/S8_JSjmxqaC-vLyAIMXRwZo9lFq93tWzQg.png?1689471502",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423217/original/bXTaxFLl9N5Xe8NwhZb2dK7GoIfWA7QRgw.png?1689471968",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423233/original/pf5bbhcG8NbkX8BMZTlz3khRK8-C-Xip_Q.png?1689472125",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729178/original/hQjrfZaIzZnVDT5g_Wb-fSsme8EDX2tlhg.jpeg?1623109945",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729183/original/c0I8PWftc0BjFTZ1i9UGCt9gN2QuIfSqkA.jpeg?1623109946",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729176/original/YLNx2NqlYgG7LSEbMI-q6BB83oeg7dQYEQ.jpeg?1623109944",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729172/original/Tnh_DwUAoGmUrjQd_dhC8oK_rRBiA9MqcA.png?1623109941",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729186/original/i-VD2EJ_SFWIb_DBklp66aTKJ2mwUABA4w.jpeg?1623109947",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729174/original/GzcO81-1dUlvn1SBHbZ0KVHkBAG83w_mgA.jpeg?1623109943",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093729175/original/LNh5dvGGZKR3qmOKnT4KqOqxWDUiNc0D0Q.jpeg?1623109944",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423451/original/ADoEnc8EAQzJJ_izX1-Zu0wgxpmlwdxvLA.png?1689473276",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423479/original/go_Rj3eVeqN269gaJFv1ckMbIBwZCZevCg.gif?1689473525",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423522/original/eUxKspw9N7icR1ISQ6CCPX80DPYwgU8QEw.png?1689473576",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128423583/original/0COSDy8rEiafF2KC3Y22v8wJ7FL51UzwNw.png?1689473758",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128685789/original/3eSB6f5x_pjVJzaB5M90L9zFNmfNVPzXvA.png?1689886896",
+      "alt": ""
+    }
+  ],
+  "content_hash": "cf494716c15c59db77bc2dd9a3d2e1d2d78a06dc5a3921e29a8514374f5d6b62",
+  "ingested_at": "2026-10-17T14:34:06.405806+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000059648-in-depth-look-into-each-form-field-type",
+  "title": "In-Depth Look Into Each Form Field Type",
+  "text": "\n## In-Depth Look Into Each Form Field Type\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000059648\n\n## What Are Field Types?\nThe Field Type setting determines how a form field displays on the front end.\nField types can be found under Edit View for any form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110314650/original/ffNJDym9_RpFAQjKCQBx0yxhm93f31p8HQ.png?1655225916 | alt: ]\n\n## Select Fields\n\n## Checkboxes\nTo add options to a checkbox field, click Add Option .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095102871/original/J7oZ7a6I-CuzZmYnzjYkYNjrMtq555pxSg.png?1625581565 | alt: ]\nSpecify the option display name and database variable. The database variable is created automatically but can be edited if needed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095103087/original/v8p8ykKsIH5qmg57NpyUOvcsG68NnNuWrg.gif?1625581719 | alt: ]\nFront-end view:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095103222/original/_AZyytWQcrQa-T6gTaDpq1BZuYeFfCs1OQ.png?1625581837 | alt: ]\n\n## Drop-down List\nThe same logic used for checkboxes applies to drop-down lists.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095103383/original/HfKaLs5AomDtOj3zPfCOJZT7lNmx_Ajq-g.png?1625581985 | alt: ]\nFront-end view:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095103297/original/_x8bQGKn1GZqiupxt9932aRYE2edpvzxOA.png?1625581909 | alt: ]\n\n## Multiple Choice Radios\nThe same logic used for checkboxes applies to radio buttons.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095103496/original/S_d0P3EZ2D02FchkYfNb85XHFn9E2CvrbA.png?1625582071 | alt: ]\n\n## Yes or No\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090919347/original/PMtqfpjmTpsyJeq89OCt5gHhTuuHsOvRbQ.png?1617673736 | alt: ]\nImportant Note: For all select-type fields (Checkboxes, Radio Buttons, and Drop-down Lists), keyword searches will match the saved field label content.\n\n## Text Inputs\n\n## Custom HTML\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090919104/original/56jHOBONJ52ylWObN7tbtFsRlUHRkmWVtw.png?1617673297 | alt: ]\n\n## Email Address\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090919394/original/QZQsbouWgevObty1_YgNr5B524lUHUBz_w.png?1617673779 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081107264/original/M2dptRGY6FDFJUnh-t3oYldn4rdphUQmaw.png?1597304157 | alt: ]\n\n## Section Title\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094101147/original/olKIgMF983OBuw1qbJt5Y-KO3bYsC4BdlA.png?1623768968 | alt: ]\nImportant Note: Required Field and Database Variable settings are not applicable for this field type.\n\n## Submit Form Button\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094101661/original/GnsM7A18ygPLJ56YhdsGxWnWCvjicOJkfw.png?1623769355 | alt: ]\nImportant Note #1: Required Field and Database Variable settings are not applicable for this field type.\nImportant Note #2: We recommend using Bootstrap button classes. Reference:\nBootstrap Buttons\nIn the example above, btn btn-danger was used to style the button.\n\n## Fancy Fields\n\n## File Upload Field\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108766001/original/GqrI0vW-SHnUfjQ3nb0AFl1S_IZhqI4KuQ.png?1652201707 | alt: ]\nImportant:\nMaximum file size: 10 MB\nDefault availability: Listing – Additional Details – Member form\nThis field can be used on other forms with the File Uploads for Forms add-on.\nAdditional Information:\nHow to Use or Modify the Member Upload CV or Brochure Field\n\n## Froala Text Editors\nFroala Text Editor – Basic\nFroala Text Editor – Image Upload\nFroala Text Editor – Image Upload + Pre-Made Elements\nFroala Text Editor – Access Media Manager\nFull details are available here:\nFroala Text Editor: Versions and Upload Capabilities",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110314650/original/ffNJDym9_RpFAQjKCQBx0yxhm93f31p8HQ.png?1655225916",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095102871/original/J7oZ7a6I-CuzZmYnzjYkYNjrMtq555pxSg.png?1625581565",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095103087/original/v8p8ykKsIH5qmg57NpyUOvcsG68NnNuWrg.gif?1625581719",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095103222/original/_AZyytWQcrQa-T6gTaDpq1BZuYeFfCs1OQ.png?1625581837",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095103383/original/HfKaLs5AomDtOj3zPfCOJZT7lNmx_Ajq-g.png?1625581985",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095103297/original/_x8bQGKn1GZqiupxt9932aRYE2edpvzxOA.png?1625581909",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095103496/original/S_d0P3EZ2D02FchkYfNb85XHFn9E2CvrbA.png?1625582071",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090919347/original/PMtqfpjmTpsyJeq89OCt5gHhTuuHsOvRbQ.png?1617673736",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090919104/original/56jHOBONJ52ylWObN7tbtFsRlUHRkmWVtw.png?1617673297",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090919394/original/QZQsbouWgevObty1_YgNr5B524lUHUBz_w.png?1617673779",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081107264/original/M2dptRGY6FDFJUnh-t3oYldn4rdphUQmaw.png?1597304157",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094101147/original/olKIgMF983OBuw1qbJt5Y-KO3bYsC4BdlA.png?1623768968",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094101661/original/GnsM7A18ygPLJ56YhdsGxWnWCvjicOJkfw.png?1623769355",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108766001/original/GqrI0vW-SHnUfjQ3nb0AFl1S_IZhqI4KuQ.png?1652201707",
+      "alt": ""
+    }
+  ],
+  "content_hash": "39c221fc09d31836845d8a3645f5ae190dc9a990bb193e16c88ca654ff597544",
+  "ingested_at": "2026-10-17T14:43:30.518852+00:00"
+}

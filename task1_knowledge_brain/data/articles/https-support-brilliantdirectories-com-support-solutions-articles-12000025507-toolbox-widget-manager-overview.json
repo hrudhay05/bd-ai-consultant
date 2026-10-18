@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000025507-toolbox-widget-manager-overview",
+  "title": "Toolbox » Widget Manager Overview",
+  "text": "\n## Toolbox » Widget Manager Overview\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000025507\nWidgets are the core components of a Brilliant Directories website. They contain most of the PHP, HTML, CSS, and JavaScript that control how the site functions and displays content.\nModifying widget code is often required when adjusting layout, functionality, or specific areas of the website.\n\n## Default Widgets\nDefault Widgets are stored in a central database that all Brilliant Directories websites reference automatically. These widgets remain up-to-date because they are maintained centrally.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182650396/original/M_hbdobAyObdYJJ_LyHE44cU0n1H-Za5BA.png?1785113427 | alt: ]\nThe internal development team updates Default Widgets to support core functionality, introduce new features, and apply improvements.\nIf no customization is made, the website continues to use the latest version of each Default Widget.\nDefault Widgets can be accessed under Toolbox » Widget Manager in the admin area.\n\n## Customized Widgets\nWhen a Default Widget is customized, or a new widget is created using the New Widget option, it appears in the Customized Widgets section.\nThis section is located at the top of the Toolbox » Widget Manager page, above the Default Widgets list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182651776/original/RbfanAkxY780QH3FHvApLfID4dzVjZzdSQ.png?1785119017 | alt: ]\n\n## Edit Widget Tabs\nEach widget includes three primary code sections:\nHTML\nCSS\nJavaScript\nDiff\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179539897/original/CSWGJEnt135goxNjYcbRBTvm2t9HuYnR1g.png?1779984946 | alt: ]\nEach tab corresponds to its respective language and allows direct editing of the widget code.\n\n## Diff Tab\nThe Diff tab compares the Default Widget code with the Customized version side by side. The code is separated into collapsible sections: HTML, CSS, and JavaScript. This makes it easy to identify exactly what has changed in each area.\nEach section displays a line count summary (e.g. \"10 vs 9 lines (+1)\") so it is easy to see how many lines differ. Lines that exist in the customized version but not the default are highlighted, making it simple to pinpoint modifications at a glance.\nThis tab is only available for Customized Widgets.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179540830/original/RLLLDUjMv2NNLaYF7FSDQ8u5ce2GrZB8sA.png?1779985914 | alt: ]\n\n## Widget Type\nThe Edit Widget view includes an option to define the widget type.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176724377/original/pLDcOKqjIgyjlozG0zm6l9gDd_adihlOFA.png?1774920676 | alt: ]\nSelect \"Widget\" for standard functionality. Select \"Advertisement / Banner\" when the widget is intended to display banner content.\nNote: If \"Advertisement / Banner\" is selected while the Display Banner Advertisements setting (Design Settings → Banner Ads) is disabled, the widget content will not be displayed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176724372/original/N9p5hw-e8GdwbzNYnWETi49RuEzq-9j4GQ.png?1774920657 | alt: ]\n\n## Additional Resources\nSome useful articles related to widgets can be found below:\nHow To Customize A Widget\nHow To Create A New Widget\nHow To Disable/Enable A Widget\nHow To Delete A Widget\nBulk Actions For Widgets\nHow To Call A Widget On A Custom Page\nLocating The Widgets Via Admin Bar",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182650396/original/M_hbdobAyObdYJJ_LyHE44cU0n1H-Za5BA.png?1785113427",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182651776/original/RbfanAkxY780QH3FHvApLfID4dzVjZzdSQ.png?1785119017",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179539897/original/CSWGJEnt135goxNjYcbRBTvm2t9HuYnR1g.png?1779984946",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179540830/original/RLLLDUjMv2NNLaYF7FSDQ8u5ce2GrZB8sA.png?1779985914",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176724377/original/pLDcOKqjIgyjlozG0zm6l9gDd_adihlOFA.png?1774920676",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176724372/original/N9p5hw-e8GdwbzNYnWETi49RuEzq-9j4GQ.png?1774920657",
+      "alt": ""
+    }
+  ],
+  "content_hash": "cff5f7cdddd78900c93b8a8b3e1c66368ca130b2ac899dd10b82b299851b9e2e",
+  "ingested_at": "2026-10-17T14:34:39.372001+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000091045-how-to-change-the-image-upload-size",
+  "title": "How To Change The Image Upload Size",
+  "text": "\n## How To Change The Image Upload Size\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000091045\nIn this article, we will be going over how to change the image upload size for certain sections like Single Image Posts, Multi-Image Posts, Private Chat Messages, and in the forms, where the file uploads are allowed.\n\n## Changing the file size for Single-Image Posts\nSingle-Image Posts are any post types that allow users to create a post with a single image. A good example of this would be Articles or Events.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117710449/original/t4MTPbcHS6zU3fxlBJDnyAtUjgWXhVz6AQ.png?1669304934 | alt: ]\nBy default, the image upload size limit is set to 10 MB. This can be easily edited via the Advanced Settings called\nSingle Post Image Upload Size where the preferred file size limit can be specified via a dropdown:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647577/original/kO-ox9_WonTO2s_LvIp8wo-lmMO5XGY5XA.png?1753161952 | alt: ]\nThe minimum value that can be selected for this is 1 MB and the maximum value is 50 MB.\n\n## Changing the file size for Multi-Image Posts\nMulti-Image Posts are any post types that allow users to create a post with multiple images (album). A good example of this would be Photo Albums or Properties.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117710584/original/mJJgQjkO8HNT9NawC1wyQSDIJoIDNCWuNQ.png?1669305209 | alt: ]\nBy default, the image upload size limit is set to 10 MB (per upload). This can be easily edited via the Advanced Settings called Group Post Image Upload Size where the preferred file size limit can be specified via a dropdown:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647591/original/CJqKIhSWYiejtnNgI_IEH_AeOBBbtkOi0A.png?1753161986 | alt: ]\nThe minimum value that can be selected for this is 1 MB and the maximum value is 50 MB.\n\n## Changing the file size for Private Chat files\nThe Private Member Chat add-on allows members to chat back and forth through the website. Users can also upload images to these private chat messages:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117710803/original/MD3xEsvOzJzoaBL5D4R-lkdd44jVUSd1OA.png?1669305510 | alt: ]\nBy default, the image upload size limit is set to 10 MB (per upload). This can be easily edited via the Advanced Settings called Froala Chat PDF File Size where the preferred file size limit can be specified via a dropdown:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647608/original/CxFuRvSDzCN9B7i2UeQ6jkOyiWittcTdHw.png?1753162034 | alt: ]\nThe minimum value that can be selected for this is 1 MB and the maximum value is 50 MB.\n\n## Changing the file size for file upload fields in forms\nThe File Uploads for Forms add-on allows users to add a file upload field for any forms on the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117710983/original/i__sz6clgj7hHHyyiD1JFV42M1mis1g_ag.png?1669305808 | alt: ]\nBy default, the image upload size limit is set to 10 MB (per upload). This can be easily edited via the Advanced Settings called File Image Upload Size where the preferred file size limit can be specified via a dropdown:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647616/original/PjTesJDkGlQvcUpse3ecBa_vY0ytfPm3nw.png?1753162065 | alt: ]\nThe minimum value that can be selected for this is 1 MB and the maximum value is 50 MB.\n\n## Changing the file size for Froala Text Editors\nFroala Text Editors are integrated across the site, including the About Me section in the member dashboard and the content creation area for posts. Depending on the Froala Text Editor version in use, users may have the ability to upload images directly within their content.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158593979/original/9YDEWXlj4mAqwXxfLJteGF0Sa-m74VSPSA.png?1742386419 | alt: ]\nBy default, the image upload size limit is set to 10 MB. This can be easily edited via the Advanced Settings called\nMax Text Editor Size where the preferred file size limit can be specified:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647630/original/tffLdfMjRNnuTwVg4LZVgjV9OLmMb9ToJQ.png?1753162113 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117710449/original/t4MTPbcHS6zU3fxlBJDnyAtUjgWXhVz6AQ.png?1669304934",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647577/original/kO-ox9_WonTO2s_LvIp8wo-lmMO5XGY5XA.png?1753161952",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117710584/original/mJJgQjkO8HNT9NawC1wyQSDIJoIDNCWuNQ.png?1669305209",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647591/original/CJqKIhSWYiejtnNgI_IEH_AeOBBbtkOi0A.png?1753161986",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117710803/original/MD3xEsvOzJzoaBL5D4R-lkdd44jVUSd1OA.png?1669305510",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647608/original/CxFuRvSDzCN9B7i2UeQ6jkOyiWittcTdHw.png?1753162034",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117710983/original/i__sz6clgj7hHHyyiD1JFV42M1mis1g_ag.png?1669305808",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647616/original/PjTesJDkGlQvcUpse3ecBa_vY0ytfPm3nw.png?1753162065",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158593979/original/9YDEWXlj4mAqwXxfLJteGF0Sa-m74VSPSA.png?1742386419",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647630/original/tffLdfMjRNnuTwVg4LZVgjV9OLmMb9ToJQ.png?1753162113",
+      "alt": ""
+    }
+  ],
+  "content_hash": "52189c3d08aa663fb69cf4059ce6e9494136a4d628e713272eeb7430c61f8e31",
+  "ingested_at": "2026-10-17T15:01:25.787307+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000021382-bulk-delete-or-move-all-members-from-a-specific-membership-plan",
+  "title": "Bulk Delete Or Move All Members From A Specific Membership Plan",
+  "text": "\n## Bulk Delete Or Move All Members From A Specific Membership Plan\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000021382\nThis article explains how to delete all members from a membership plan or move them to another membership plan. This is a great feature, especially when importing members.\nIt is best practice to import new members into a dedicated, empty membership plan. This ensures that if any issues arise during the import process, the batch can be safely bulk-deleted without affecting existing users. Once the data is verified, these members can easily be transferred to their active membership plans.\n\n## Deleting Members\nTo delete all members from a specific membership plan, please follow these instructions:\nGo to Finance » Membership Plans.\nClick \"Actions\" and select \"Delete\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181398417/original/l9mCoQC0Qe1Li9rYIQtGk9WQ7k0tWDmvPQ.png?1783006186 | alt: ]\nSelect one of the following options: - Only delete members from this membership plan. - Delete membership plan and all its members.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154507134/original/sZbkaTuGxybci-5aHfD7iBJpFAntGHoIrg.png?1735229443 | alt: ]\nClick \"Yes, Continue\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390517/original/s0Tq2rKxGVykZXqgpemD7mJv-HPC1lQHng.png?1620595117 | alt: ]\nAll members in that membership plan will be deleted.\n\n## Moving Members\nTo move members from one membership plan to another, please follow these instructions:\nGo to Finance » Membership Plans.\nClick o \"Actions\" and select \"Move Members\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181398625/original/cvyCaaZU0LZrCr1YHo3t_5EfZtBOnyPyWQ.png?1783006385 | alt: ]\nSelect the membership plan to which the members will be moved and click \"Continue\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154516553/original/ZDtE8lx3kPITp3IOJdqwEGHrSve5ncJkYw.jpeg?1735241042 | alt: ]\nClick \"Yes, Continue\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390539/original/6a-0F8tzJgli8w4FAz_1IJ2vDDLs8QhZpA.png?1620595262 | alt: ]\nThis action moves all members to the new membership plan. However, it is important to note that the system does not automatically create new subscriptions as part of this process.\nTo assign different subscriptions under the new plan, the existing subscriptions must be canceled before new subscriptions are created manually.\nThe steps for creating new subscriptions are outlined in this guide.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181398417/original/l9mCoQC0Qe1Li9rYIQtGk9WQ7k0tWDmvPQ.png?1783006186",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154507134/original/sZbkaTuGxybci-5aHfD7iBJpFAntGHoIrg.png?1735229443",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390517/original/s0Tq2rKxGVykZXqgpemD7mJv-HPC1lQHng.png?1620595117",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181398625/original/cvyCaaZU0LZrCr1YHo3t_5EfZtBOnyPyWQ.png?1783006385",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154516553/original/ZDtE8lx3kPITp3IOJdqwEGHrSve5ncJkYw.jpeg?1735241042",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390539/original/6a-0F8tzJgli8w4FAz_1IJ2vDDLs8QhZpA.png?1620595262",
+      "alt": ""
+    }
+  ],
+  "content_hash": "48722ff49b98b6f6ec656544fdfd19a49156ec2d86e28abb9a9028e99733515c",
+  "ingested_at": "2026-10-17T14:34:21.669430+00:00"
+}

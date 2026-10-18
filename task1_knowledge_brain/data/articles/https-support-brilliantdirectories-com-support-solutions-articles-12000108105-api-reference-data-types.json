@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108105-api-reference-data-types",
+  "title": "API Reference - Data Types",
+  "text": "\n## API Reference - Data Types\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108105\n← Back to API Reference | Getting Started\n\n## Data Types\nData Types define the categories of post content available on your directory site. Each Data Type represents a content model (EG single-image posts, video posts, multi-photo posts) and controls whether members can create entries of that type based on their membership plan.\n\n## The Data Type Object\nField Type Description data_id integer Unique data type ID (primary key, read-only) category_name string Display name for this post/content type (EG Single Image Post , Video Post ) required on create category_active integer Whether this data type is active and available for use: 1 active, 0 inactive required on create revision_timestamp timestamp Timestamp of the last modification to this record (auto-managed) limit_available integer Whether membership plan posting limits apply to this data type: 1 yes, 0 no (unlimited)\n\n## List Data Types\n\n## Example Request\n\n## Example Response\n\n## Retrieve a Data Type\n\n## Example Request\n\n## Example Response\n\n## Create a Data Type\n\n## Example Request\n\n## Example Response\n\n## Update a Data Type\n\n## Example Request\n\n## Example Response\n\n## Delete a Data Type\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "da54bb2a485a992ae283153505e758af985355788273f3756485548cf889805d",
+  "ingested_at": "2026-10-17T15:40:37.781542+00:00"
+}

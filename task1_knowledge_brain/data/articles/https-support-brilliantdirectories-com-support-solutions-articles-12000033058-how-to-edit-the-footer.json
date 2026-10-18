@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000033058-how-to-edit-the-footer",
+  "title": "How to Edit the Footer",
+  "text": "\n## How to Edit the Footer\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000033058\nThe footer of every Brilliant Directories website is controlled through the Menu Manager. This article covers editing the footer content, links, and column layout.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301735/original/S_GNVFIfYxXmvV3yoJNLZe_tuewu8Vgyyw.png?1781232660 | alt: ]\nTo edit the content in the footer or add additional links, follow the steps below.\n1. Go to Toolbox >> Menu Manager and click Customize on the Footer Menu :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301805/original/8jW58kYh2dK8XEUFOT7-hPYt4iR36CYAlg.png?1781232915 | alt: ]\n2. Click the green button to collapse the menu items:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301817/original/81G4reFcSM9hZtPwWSikrRo-5WjViVMIFw.png?1781232990 | alt: ]\n3. Click, hold, and drag the bottom corner of the text box to make it larger, allowing the text to be edited more easily:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301829/original/3XsVHWU9AmlE7-ishsbBgPARxICHta7SIQ.png?1781233041 | alt: ]\n4. The links can be edited in the highlighted text area:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301842/original/BNYekLP8RVaPFUqUSRQnR88UxxDwkEXosw.png?1781233103 | alt: ]\n5. The order and position of the columns can be adjusted in the Outer <li> CSS Class field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301865/original/IQWLl0sQtjnYCjO5KxrkrUC8vzVXiv5tgw.png?1781233173 | alt: ]\nAdditional information: How to Edit the Options for Menu Links\n6. Inside the Actions drop-down, menu items can be added, cloned, or deleted:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301871/original/kyht29wRlW-CL6E0x-6JFYwjCxkeCJ3k5A.png?1781233235 | alt: ]\n7. Hide Item, this will hide the option from showing in the frontend, allowing to still keep the content in the menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301905/original/a0RMIIQi1MJuEBki8PDflRX0KMGyuk0PhA.png?1781233338 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301735/original/S_GNVFIfYxXmvV3yoJNLZe_tuewu8Vgyyw.png?1781232660",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301805/original/8jW58kYh2dK8XEUFOT7-hPYt4iR36CYAlg.png?1781232915",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301817/original/81G4reFcSM9hZtPwWSikrRo-5WjViVMIFw.png?1781232990",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301829/original/3XsVHWU9AmlE7-ishsbBgPARxICHta7SIQ.png?1781233041",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301842/original/BNYekLP8RVaPFUqUSRQnR88UxxDwkEXosw.png?1781233103",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301865/original/IQWLl0sQtjnYCjO5KxrkrUC8vzVXiv5tgw.png?1781233173",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301871/original/kyht29wRlW-CL6E0x-6JFYwjCxkeCJ3k5A.png?1781233235",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301905/original/a0RMIIQi1MJuEBki8PDflRX0KMGyuk0PhA.png?1781233338",
+      "alt": ""
+    }
+  ],
+  "content_hash": "8cd42d48702f9f5c89c3e9faf4f28cf022551309ec7a458c6e0f3e564b5c4bf0",
+  "ingested_at": "2026-10-17T14:35:49.601780+00:00"
+}

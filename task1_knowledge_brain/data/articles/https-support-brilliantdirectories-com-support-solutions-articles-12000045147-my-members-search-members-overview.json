@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000045147-my-members-search-members-overview",
+  "title": "My Members » Search Members Overview",
+  "text": "\n## My Members » Search Members Overview\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000045147\nThe Search Members section is one of the most frequently used areas of the admin dashboard. It provides access to member records, filtering tools, bulk management actions, and AI-assisted member data queries, all from a single screen.\nTo access the section:\nNavigate to My Members in the admin dashboard.\nClick Search Members .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025555/original/jTQg5MVxENDExT6e87rO3wW3cq9JdOGfhg.png?1782398505 | alt: ]\nThe Search Members screen is organized into four main areas:\nSearch Filters — narrow the member list by specific criteria.\nMember Sidebar — toolbar containing member management tools.\nBD Butler Tool — AI assistant for member data queries and actions.\nMember Search Results Table — the list of member records matching the active filters.\n\n## 1 - Search Filters\nA set of filters is displayed at the top of the Search Members page. These allow the administrator to narrow the member results list based on specific criteria before taking any action.\nFull Reference: My Members Search Members - Search Filters .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025561/original/xh70KL56DGWhvQO3wNy7lpy4lXGmn6Crag.png?1782398524 | alt: ]\n\n## 2- Member Sidebar\nThe Member Sidebar is located in the upper right area of the Search Members page. It contains three tools for managing and importing member records.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025621/original/WEopf71komckUJUTHqRJriHOZr7A5VMA2g.png?1782398555 | alt: ]\n\n## Add New Member\nOpens the Add New Member form, allowing the administrator to manually create a member account directly from the admin dashboard without requiring a front-end sign-up.\nFull Reference: How to Add Members Manually via Admin\n\n## Sync Members with Google Maps\nOpens the Batch Geocoder tool, used to assign latitude and longitude coordinates to member records in bulk so they become searchable by location.\nFull Reference: How to Geocode Members\n\n## List Actions Dropdown\nA dropdown menu containing three additional member management options.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159696476/original/xvycJj2MByMtuBXvYn_E2KI_rLFKZWaf-w.png?1744238991 | alt: ]\nImports member records into the site from a CSV file. Template files and import guidelines are available in the reference article.\nFull Reference : How To Import Members Via CSV File\nExports the currently filtered member data, including fields such as email addresses and phone numbers, into a downloadable CSV file.\n⚠ ADD-ON REQUIRED — Export Member Data: This option is only available when the Export Member Data add-on is active on the site. If the add-on is not active, this option will not appear in the List Actions dropdown.\nGenerates a Smart List based on the filters currently active in the Search Members section. The Smart List automatically groups members who match those filter criteria.\nFull Reference : My Members » Smart Lists\n\n## 3 - BD Butler Tool\nThe BD Butler AI tool is located below the Member Sidebar on the right side of the Search Members page. It is designed to assist administrators with member data queries and certain member-level actions without requiring manual navigation through the dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025654/original/7oYhlfFsg3zQHAP2yjksLmyXD-bE5_oLnw.png?1782398591 | alt: ]\nThe tool can be used to ask questions about member data and to perform actions such as changing the top-level category for one or multiple members.\nFull Reference: BD Butler Tool\n\n## 4 - Member Search Results\nThe Member Search Results Table is displayed below the filters and sidebar. It lists all member records that match the currently active search filters.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131603093/original/Z_xv2tKlhxJ78ZrtSZs4c_nXi45rHBpr1w.png?1695226004 | alt: ]\nFull Reference: Member Search Results Table\n\n## Sort Options\nThe results table can be sorted using the following options:\nSort Option Description Sort Name A–Z Alphabetical ascending by member name. Sort Name Z–A Alphabetical descending by member name. Sort ID Highest Members with the highest system ID shown first. Sort ID Lowest Members with the lowest system ID shown first. Sort Newest First Most recently joined members shown first. Sort Oldest First Earliest joined members shown first. Sort Most Revenue Members with the highest revenue shown first. Sort Least Revenue Members with the lowest revenue shown first. Sort Most Credits Members with the most credits shown first. Sort Least Credits Members with the fewest credits shown first.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159696951/original/SyS_D2sjszsx83MdyZOgG_nzf_dTOPyZYg.png?1744239895 | alt: ]\nFull Reference: My Members - Search Members - Sorting Options\n\n## Bulk Actions\nThe far-left column of the results table contains checkboxes for selecting individual member records. Selected members can then have a bulk action applied to them simultaneously via the Bulk Actions dropdown.\nFull Reference : Bulk Actions For Search Members Section\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131603514/original/5GmnlEs1hAD7zOS05pw5ET-hWIJDJ5OrdA.png?1695226319 | alt: ]\n\n## Verified Members Indicator\nWhen a member has been set to Verified status, a verified icon is displayed alongside their record in the results table.\nReferences : How to Verify a Listing · Quick Edit Module For Members\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131606533/original/Qb5tiGKcpDchlgAnd5Hep1si4G9LOja8cQ.png?1695228841 | alt: ]\n\n## Internal Notes Indicator\nWhen internal notes have been added to a member record via the Quick Edit module, a notes icon is displayed alongside that member's record in the results table. This provides a visual confirmation that notes exist without requiring the Quick Edit module to be opened.\nReference : Quick Edit Module For Members\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131606601/original/3khA5IiFwP-Yckqv3fFWk0xgv9CTynKciA.png?1695228942 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025555/original/jTQg5MVxENDExT6e87rO3wW3cq9JdOGfhg.png?1782398505",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025561/original/xh70KL56DGWhvQO3wNy7lpy4lXGmn6Crag.png?1782398524",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025621/original/WEopf71komckUJUTHqRJriHOZr7A5VMA2g.png?1782398555",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159696476/original/xvycJj2MByMtuBXvYn_E2KI_rLFKZWaf-w.png?1744238991",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025654/original/7oYhlfFsg3zQHAP2yjksLmyXD-bE5_oLnw.png?1782398591",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131603093/original/Z_xv2tKlhxJ78ZrtSZs4c_nXi45rHBpr1w.png?1695226004",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159696951/original/SyS_D2sjszsx83MdyZOgG_nzf_dTOPyZYg.png?1744239895",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131603514/original/5GmnlEs1hAD7zOS05pw5ET-hWIJDJ5OrdA.png?1695226319",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131606533/original/Qb5tiGKcpDchlgAnd5Hep1si4G9LOja8cQ.png?1695228841",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131606601/original/3khA5IiFwP-Yckqv3fFWk0xgv9CTynKciA.png?1695228942",
+      "alt": ""
+    }
+  ],
+  "content_hash": "88a1e9bc89890829e2e544219a155ab60ff3422f66770f5987fb6e087322563e",
+  "ingested_at": "2026-10-17T14:38:36.945610+00:00"
+}

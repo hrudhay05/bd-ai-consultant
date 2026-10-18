@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000077193-adding-private-chat-messages-to-post-details-page",
+  "title": "Adding Private Chat Messages to Post Details Page",
+  "text": "\n## Adding Private Chat Messages to Post Details Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000077193\nThe admin is able to add the private chat messages widget to the details page in order for other members to contact them right away. To do this please follow the steps below:\n1. Go to Toolbox - Sidebar Manager:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091955719/original/7EUokEqbO0E2FIQgVqbfqW_OaFDbqabIHA.png?1619656860 | alt: ]\n2. Customize the Post Single Page Default Sidebar:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087964679/original/6UQUZ0NiPCjcMQwlTTza86bNUbbou3789Q.png?1611678016 | alt: ]\n3. Search for the keyword \"private member chat\" and then click and drag the widget Bootstrap Theme - Module - Private Member Chat to the right:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087964875/original/vAWXhi7c0IJPnwKZ6rgP-0R5kQQXXSiNxQ.png?1611678195 | alt: ]\n4. Save changes.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091955719/original/7EUokEqbO0E2FIQgVqbfqW_OaFDbqabIHA.png?1619656860",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087964679/original/6UQUZ0NiPCjcMQwlTTza86bNUbbou3789Q.png?1611678016",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087964875/original/vAWXhi7c0IJPnwKZ6rgP-0R5kQQXXSiNxQ.png?1611678195",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b37c0bc61e7b660ccb35be8693e3eed1243fcf1591e94857a0d06fdc2b5fc44f",
+  "ingested_at": "2026-10-17T14:48:31.369621+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047120-content-web-page-builder",
+  "title": "Content » Web Page Builder",
+  "text": "\n## Content » Web Page Builder\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000047120\nA Static Page is a page that does not have any dynamic content. The website only comes with a few default static pages since the majority of the web pages are Dynamic Pages (search result pages, profile pages, and post content).\nSome of the most common default Static Pages include:\nHomepage - Can only be one Homepage\nLogin Page\nPricing Page\nHow It Works\nContact Us Page\nPrivacy Policy\nTerms of Use\nSearch By Location\nSearch By Category\nGet Matched\nPassword Retrieval\nIt is possible to locate the existing Static Pages by going to Content > Web Page Builder:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169316966/original/AkGWMiQ2hvexgxGX3-CGionifyd-ijQ5MA.png?1761061681 | alt: ]\n\n## Edit Existing Pages\nTo edit the pages, click the Edit button.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317447/original/y2FEHJLiQLq6-KbiK1P2xad-pkA1B4M4bg.png?1761062076 | alt: ]\n\n## Edit the Homepage\nThe Homepage cannot be edited through the WebPage Builder; instead, it has a specific section in the Design Settings where it can be managed. To learn how to edit the Homepage, refer to this article:\nHomepage » Front & Back End Overview\n\n## Actions Dropdown\nTo view, clone, or delete an existing static page, hover over Actions and select accordingly:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317488/original/T5znnb1DAIj8Z5gMuibYmlU1amH65HrsJg.png?1761062122 | alt: ]\n\n## View Page\nRedirects the admin to the page on the front end. It shows how members and visitors see the page.\n\n## Clone Page\nThis action will clone the page exactly how it is. The admin will be required to change the Permalink since two pages cannot have the same one.\n\n## Delete\nClick here to permanently delete the page, it cannot be recovered unless a backup is done to the site.\n\n## Keyword Search\nUse the search field to search all web pages by keyword.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317711/original/Hi_CAoLm7Bx0krpGUxkVjL_v3PzzuqvS7g.png?1761062322 | alt: ]\n\n## Sort Options\nThe Web Page Builder comes with a set of sort options to arrange the pages according to the selected filter.\nSort by:\nPage ID Low - High\nPage ID High - Low\nName A - Z\nName Z - A\nLast Update - Ascending\nLast Update - Descending\nURL A - Z\nURL Z -A\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317859/original/aszZswirJKeYFpocJjEj9dG7yIQ1VXdt9g.png?1761062457 | alt: ]\n\n## Filter by Access\nThe Web Page Builder comes with a set of filter by Access options to arrange the pages according to the selected filter.\nFilter by Access:\nAny Access Level\nPublic For Everyone\nOnly Allow Members\nDigital Products Buyers\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169318834/original/t8K70QhLguJ6jiwjP0o5IyHrpBSNNu14PQ.png?1761063209 | alt: ]\n\n## Filter by Type\nThe Web Page Builder comes with a set of filter by Type options to arrange the pages according to the selected filter.\nFilter by Type:\nAny Page Type\nHome Page\nSingle Web Page\nPost Search Results\nMember Search Results\nCustom Widget as Web Page\nPassword Retrieval Page\nUnsubscribed Page\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169318844/original/65x7-htsw0IS1yWbR7BPYj9j19wK9VI9jQ.png?1761063226 | alt: ]\n\n## Create a New Web Page\nTo learn how to create a new Static Page, click the link below:\nHow to Create a New Static Page\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317570/original/48n7cjOmGee56d6F13VSLmv15wHB80y0Ig.png?1761062200 | alt: ]\n\n## Hide Web Pages\nTo hide a web page, change the URL to something only the site administrator would know to visit:\n/join_DRAFT\nThis essentially marks the page as \" unpublished \" from the website.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169319438/original/J7QAzISXdZCaovPFNvqT4iPfQPD2KAoYog.png?1761063627 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169316966/original/AkGWMiQ2hvexgxGX3-CGionifyd-ijQ5MA.png?1761061681",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317447/original/y2FEHJLiQLq6-KbiK1P2xad-pkA1B4M4bg.png?1761062076",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317488/original/T5znnb1DAIj8Z5gMuibYmlU1amH65HrsJg.png?1761062122",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317711/original/Hi_CAoLm7Bx0krpGUxkVjL_v3PzzuqvS7g.png?1761062322",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317859/original/aszZswirJKeYFpocJjEj9dG7yIQ1VXdt9g.png?1761062457",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169318834/original/t8K70QhLguJ6jiwjP0o5IyHrpBSNNu14PQ.png?1761063209",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169318844/original/65x7-htsw0IS1yWbR7BPYj9j19wK9VI9jQ.png?1761063226",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317570/original/48n7cjOmGee56d6F13VSLmv15wHB80y0Ig.png?1761062200",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169319438/original/J7QAzISXdZCaovPFNvqT4iPfQPD2KAoYog.png?1761063627",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f4e361cfb89b1a76c03fa9e9a7d50b757b0d84d907fa8a0d14f094348a6bacaa",
+  "ingested_at": "2026-10-17T14:39:27.695411+00:00"
+}

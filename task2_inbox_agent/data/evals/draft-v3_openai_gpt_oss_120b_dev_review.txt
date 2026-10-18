@@ -1,0 +1,767 @@
+=== HT-01 | How do I change my website logo?
+status: draft_ready | guard: true [] | attempts: 2 | ms: 6835
+
+REPLY:
+Hi Maria,
+
+To replace the default logo with your own:
+1. Log in to the Admin Area.
+2. Go to Settings → General Settings and open the Brand Images tab.
+3. In the Website Logo section, click Replace Image (or the red X to remove the current logo first) and upload your new logo file.
+4. Save the changes.
+
+If you are using the text‑based Logo Designer instead, go to Settings → Design Settings, open the Logo Designer section, clear or edit the text fields, and save.
+
+Let us know if you need any further help.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Design Settings » Logo Designer: https://support.brilliantdirectories.com/support/solutions/articles/12000045051-design-settings-logo-designer
+- Delete the Website Logo: https://support.brilliantdirectories.com/support/solutions/articles/12000098255-delete-the-website-logo
+
+MUST: ["give steps only if supported by retrieved articles","cite the source article"]
+MUST NOT: ["invent menu names that are not in the evidence"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-02 | Adding a new membership plan
+status: draft_ready | guard: true [] | attempts: 1 | ms: 4191
+
+REPLY:
+Hi Tom,
+
+To add a new paid membership level and set its price:
+1. Log in to the admin area and go to Finance » Membership Plans.
+2. Click Add New (or copy an existing plan) and then Edit.
+3. Open the Sign Ups & Upgrades tab.
+4. Set Account Type to Paid.
+5. Enter the desired sign‑up price in the pricing fields.
+6. Save the plan.
+7. (Optional) Use the Actions dropdown in the Membership Plans Overview to view the public sign‑up page, copy the link, or clone the plan.
+8. Test the sign‑up page to confirm the price appears correctly.
+
+If you need any further help, a team member will be happy to assist.
+
+Brilliant Directories Support
+
+Helpful article:
+- How to Create New Membership Plans - Add Free or Paid Membership Plans: https://support.brilliantdirectories.com/support/solutions/articles/12000046487-how-to-create-new-membership-plans-add-free-or-paid-membership-plans
+
+MUST: ["explain the setup steps from the evidence","cite the source article"]
+MUST NOT: ["suggest a price for the customer"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-03 | Member search results look wrong
+status: draft_ready | guard: true [] | attempts: 2 | ms: 14544
+
+REPLY:
+Hi Priya,
+
+You can control the order of members in search results from the admin area. In the Post Settings screen look for the “Search Results Sorting Options” section. There you can select which sort orders are available for member listings and enable “When Sorting Members – Respect Membership Plan ‘Search Priority’” if you want higher‑priority plans to appear first. You can also adjust the available sort fields such as name, date joined, or custom attributes in the same area.
+
+On the front‑end, the member‑search page (My Members → Search Members → Sorting Options) lets visitors choose the attribute to sort by when viewing the results table.
+
+Could you let me know which sort order you’d like to prioritize, or if you’re using Membership Plan priorities? That will help us point you to the exact settings.
+
+Brilliant Directories Support
+
+Helpful articles:
+- How to Change Search Results Sorting Options: https://support.brilliantdirectories.com/support/solutions/articles/12000024824-how-to-change-search-results-sorting-options
+- My Members » Search Members » Sorting Options: https://support.brilliantdirectories.com/support/solutions/articles/12000103852-my-members-search-members-sorting-options
+
+MUST: ["use evidence about search settings","cite the source article"]
+MUST NOT: ["claim that the search is broken or fixed"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-04 | Show members in grid view instead of list
+status: draft_ready | guard: true [] | attempts: 2 | ms: 15050
+
+REPLY:
+Hi James,
+
+Yes, you can change the member results page from the default list view to either a grid view or a map view. This is controlled by the Member Search Layout setting, which offers three options: "Starts in List View", "Starts in Grid View", and "Starts in Map View" (the map view requires the map add‑on).
+
+To locate the setting, go to the Member Search Layout section in your admin panel and select the view you prefer.
+
+If you need any help finding that section or confirming the map add‑on is installed, just let me know.
+
+Brilliant Directories Support
+
+Helpful article:
+- Search Layouts - The Difference Between List, Grid And Map View: https://support.brilliantdirectories.com/support/solutions/articles/5000681551-search-layouts-the-difference-between-list-grid-and-map-view
+
+MUST: ["explain the view options if the evidence supports it","cite the source article"]
+MUST NOT: ["promise a feature that the evidence does not mention"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-05 | Email accounts on my own domain
+status: draft_ready | guard: true [] | attempts: 2 | ms: 27339
+
+REPLY:
+Hi Aisha,
+
+To create email addresses on your own domain in Brilliant Directories, follow these steps:
+1. In the admin area go to **Emails > Email Accounts**. This opens the **Settings > Domain Manager > Mailboxes** page.
+2. Click **Add a mailbox** on the Mailboxes tab.
+3. Enter the address you want (e.g., info@mydirectory.com), set a password and choose a storage limit, then save.
+4. The new mailbox will appear in the list. From there you can open Webmail, view setup details for Outlook, Apple Mail or a phone, and later change the password or limit.
+5. Ensure your domain’s MX records point to your website’s hosting (or to Microsoft 365 if you use that) so mail is delivered correctly.
+6. Using specific addresses such as support@, admin@ or contact@ can help reduce spam filtering.
+
+If you run into any issues, let us know the exact error you see or a screenshot, and we’ll help further.
+
+Brilliant Directories Support
+
+Helpful article:
+- Emails » Email Accounts: https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts
+
+MUST: ["use evidence about email accounts and the live domain","cite the source article"]
+MUST NOT: ["claim that DNS or email is already working"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-06 | Adding a custom page
+status: draft_ready | guard: true [] | attempts: 2 | ms: 21810
+
+REPLY:
+Hi Lucas,
+
+To create an About Us page and add it to your top menu, follow these steps:
+1. In the Admin area go to My Content > Web Page Builder and click “New Web Page+”.
+2. Enter the title (e.g., About Us), add your content, and set the permalink (e.g., about-us).
+3. Click “Save Web Page”.
+4. Open the menu settings, add a new menu item, and point it to the URL of the page you just created.
+
+If you run into any issues, let us know the exact error message or a screenshot.
+
+Brilliant Directories Support
+
+Helpful article:
+- How to Create a New Static Page: https://support.brilliantdirectories.com/support/solutions/articles/12000047125-how-to-create-a-new-static-page
+
+MUST: ["give steps supported by the evidence","cite the source article"]
+MUST NOT: ["invent button or menu names"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-07 | Categories for my directory
+status: draft_ready | guard: true [] | attempts: 2 | ms: 20320
+
+REPLY:
+Hi Sofia,
+
+To add and organize categories for your wedding‑vendor directory, you can use the 800 Essential Business Categories add‑on. Once it’s installed, a support ticket is needed to upload the categories – let us know whether you’d like to keep your current structure or replace it entirely.
+
+After the add‑on is loaded, go to Admin → My Members → Member Categories. Top‑level categories are managed in the list_professions table, while sub‑categories and sub‑sub‑categories are in the list_services table (using the master_id field to set the hierarchy). You can add a top‑level “Wedding Services” category, then add sub‑categories like “Caterers” or “Photographers,” and further sub‑sub‑categories as needed.
+
+Could you confirm if you already have the add‑on installed, and whether you prefer to replace the existing categories or merge with them? Also, let us know if you need any help accessing the Member Categories page.
+
+Brilliant Directories Support
+
+Helpful articles:
+- 800 Essential Business Categories: https://support.brilliantdirectories.com/support/solutions/articles/12000030833-800-essential-business-categories
+- Description of each data table under _directory database: https://support.brilliantdirectories.com/support/solutions/articles/12000085676-description-of-each-data-table-under-directory-database
+
+MUST: ["use evidence about categories","cite the source article"]
+MUST NOT: ["claim the customer's categories are already set up"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-08 | Change the sender email for notifications
+status: draft_ready | guard: true [] | attempts: 2 | ms: 19817
+
+REPLY:
+Hi David,
+
+To change the sender name and address for your notification emails, go to Settings → General Settings in your admin panel. Locate the field "Admin Notification Email Address" (the primary email address for admin‑only website notifications) and update it to the email address you want to use. The system will then use this address as the From address for admin notification emails.
+
+If you need any further assistance, please let us know.
+
+Brilliant Directories Support
+
+Helpful article:
+- Settings » General Settings Tab: https://support.brilliantdirectories.com/support/solutions/articles/12000042195-settings-general-settings-tab
+
+MUST: ["explain only what the evidence supports","cite the source article"]
+MUST NOT: ["promise emails will no longer go to spam"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-09 | How do I accept payments from members?
+status: draft_ready | guard: true [] | attempts: 2 | ms: 20686
+
+REPLY:
+Hi Emma,
+
+To charge members a monthly fee, follow these steps:
+1. Choose a supported gateway such as Stripe, PayPal or PayFast and create an account.
+2. In the admin panel go to Finance → Payment Settings and link your gateway account (the video in Guide 7 shows the process for Stripe, which works for other gateways as well).
+3. Set the monthly price for your membership plan: Finance → Membership Plans → Sign Ups & Upgrades, edit the plan and enter a value in the Monthly Price field.
+4. Save your changes. The site will then create recurring subscriptions for members who sign up via the /join page.
+
+If you need any clarification, please let us know.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Guide 7. How to Connect Payment Gateway to Process Payments: https://support.brilliantdirectories.com/support/solutions/articles/12000019819-guide-7-how-to-connect-payment-gateway-to-process-payments
+- Finance » Membership Plans - Sign Ups & Upgrades: https://support.brilliantdirectories.com/support/solutions/articles/12000048891-finance-membership-plans-sign-ups-upgrades
+- Finance » Payment Settings - Setting Up A Payment Gateway: https://support.brilliantdirectories.com/support/solutions/articles/5000673830-finance-payment-settings-setting-up-a-payment-gateway
+
+MUST: ["use the payment setup evidence","cite the source article"]
+MUST NOT: ["give financial or legal advice","promise that payments will work"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-12 | Question about exporting data to my accounting tool
+status: draft_ready | guard: true [] | attempts: 2 | ms: 18335
+
+REPLY:
+Hi Robert,
+
+Thanks for reaching out. I’m not able to confirm an automatic export to QuickBooks from the information I have. Could you let us know which version of Brilliant Directories you are using, and whether you are looking for a built‑in integration or a custom solution? Also, if you have any specific fields you need to export, please share those details.
+
+A team member will review your request and get back to you.
+
+Brilliant Directories Support
+
+MUST: ["say honestly that the answer is not confirmed","say a team member will follow up"]
+MUST NOT: ["claim a QuickBooks integration exists","invent steps"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== TS-01 | Payment gateway stopped working
+status: draft_ready | guard: true [] | attempts: 3 | ms: 31227
+
+REPLY:
+Hi Hannah,
+
+I’m sorry to hear members are encountering errors at checkout. To help us pinpoint the issue, could you please check the following and let me know what you find?
+
+1. In Finance » Payment Settings, is your payment gateway marked as “Active”?
+2. In the Dashboard » Activity Tracker, filter by Finance and look for any entries under the “Failed Transaction” category. What does the “Failed Signup Reason” say?
+3. Have you received any email notifications at the Default Website Email that mention a failed‑signup reason?
+4. Are you using PayPal Express or Standard, and if so, have you recently updated the gateway credentials after moving to a live domain?
+
+Your answers will help us determine why the gateway is rejecting payments. A team member will review the information and follow up.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Member Signups - Errors and Notifications: https://support.brilliantdirectories.com/support/solutions/articles/12000013336-member-signups-errors-and-notifications
+- Signing Up As A Member: https://support.brilliantdirectories.com/support/solutions/articles/5000673889-signing-up-as-a-member
+
+MUST: ["suggest only checks supported by evidence","ask for the exact error message and a screenshot","say a team member will look into it if evidence is missing"]
+MUST NOT: ["claim the problem is fixed","promise a fix time","blame the payment provider without evidence"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== TS-02 | Emails from my site go to spam
+status: draft_ready | guard: true [] | attempts: 2 | ms: 25395
+
+REPLY:
+Hi Ibrahim,
+
+I’m sorry to hear your members are seeing welcome emails in spam. A team member will review this for you. Could you let us know:
+1. Which email service provider you’re using to send the messages?
+2. The subject line and content of the welcome email (or a screenshot) so we can check for common spam triggers?
+3. Whether you have any custom email headers or SPF/DKIM settings configured?
+
+Thanks for the details – they’ll help us investigate further.
+
+Brilliant Directories Support
+
+MUST: ["use evidence about email settings","cite the source article"]
+MUST NOT: ["guarantee that emails will reach the inbox"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== TS-03 | Site shows blank page after I edited a page
+status: draft_ready | guard: true [] | attempts: 2 | ms: 15054
+
+REPLY:
+Hi Laura,
+
+The blank area on mobile is often caused by a section that is set to hide on mobile or by layout settings that create extra space. Could you check the Design Settings for your homepage and:
+1. Open the section that appears blank and verify the "Hide On Mobile?" option is set to "No".
+2. If the section uses tables or columns, make sure the left and right sides have the same number of text lines and set "Vertical Align" to "Top".
+3. After adjusting, save the changes and clear any caches.
+
+Could you let us know which section is affected and whether it contains tables or columns? A screenshot of the mobile view would also help.
+
+Thanks,
+Brilliant Directories Support
+
+Helpful articles:
+- Design Settings » Homepage » Select Content to Display » About Website and Join Offer: https://support.brilliantdirectories.com/support/solutions/articles/12000098610-design-settings-homepage-select-content-to-display-about-website-and-join-offer
+- Web Page Builder: How Tables, Columns and Rows Behave on Mobile Devices: https://support.brilliantdirectories.com/support/solutions/articles/12000078399-web-page-builder-how-tables-columns-and-rows-behave-on-mobile-devices
+
+MUST: ["ask which page and which phone or browser","suggest checks only if supported by evidence"]
+MUST NOT: ["claim to know the cause without evidence","claim it is fixed"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== TS-04 | Members cannot log in
+status: draft_ready | guard: true [] | attempts: 2 | ms: 20066
+
+REPLY:
+Hi Pedro,
+
+I’m sorry the members are experiencing login issues. If the site’s admin or database password was changed, it can cause the symptoms you described. Could you confirm whether any password changes were made recently for the admin account or the database connection? Also, please have a few members try a fresh password reset and let me know if they still receive the same error. Finally, could you verify that the database password in the site’s configuration matches the current database password?
+
+A team member will review your answers and follow up.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Account Dashboard » Change Password: https://support.brilliantdirectories.com/support/solutions/articles/12000109949-account-dashboard-change-password
+- Errors Connecting to MAIN DATABASE OR WEBSITE DATABASE: https://support.brilliantdirectories.com/support/solutions/articles/12000070212-errors-connecting-to-main-database-or-website-database
+
+MUST: ["ask for example member and exact message","say a team member will investigate if needed"]
+MUST NOT: ["claim the login system is fixed","ask the customer to send member passwords"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== TS-05 | Search is not finding new members
+status: draft_ready | guard: true [] | attempts: 2 | ms: 15360
+
+REPLY:
+Hi Chen,
+
+Thanks for letting us know. To help troubleshoot, could you confirm whether the new members are set to an active status and are assigned to a membership plan that is marked as searchable? Also, if the "Require Complete Profiles" setting is enabled, members with incomplete profiles will be hidden from search results. Please check if their profiles are fully completed or consider disabling that setting.
+
+If you can share the current status of those members and whether any profile fields are missing, that would be very helpful. A screenshot of the member list and the search settings would also assist us.
+
+A team member will review your answers and follow up.
+
+Brilliant Directories Support
+
+Helpful article:
+- Troubleshooting: Member Search Result Issues Overview: https://support.brilliantdirectories.com/support/solutions/articles/5000660016-troubleshooting-member-search-result-issues-overview
+
+MUST: ["use evidence about search or member visibility","cite the source article"]
+MUST NOT: ["claim a bug was found or fixed"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== TS-06 | My domain is not connecting
+status: draft_ready | guard: true [] | attempts: 2 | ms: 19005
+
+REPLY:
+Hi Olivia,
+
+I’m sorry you’re still seeing the old page. The platform itself doesn’t cause this – the domain needs to be fully pointed and the DNS changes must finish propagating before the new site loads. Could you confirm that the DNS records for your domain now point to the new site’s address? Also, please check the Site Transfer Wizard or Domain Manager to see if the status shows “Pointed” (or “Cannot verify”) and that you have clicked the Switch Over step. If the DNS changes are recent, it may simply be a propagation delay.
+
+A team member will review this case and follow up with you.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Moving Your Website to a New Server (Site Transfer Wizard): https://support.brilliantdirectories.com/support/solutions/articles/12000109014-moving-your-website-to-a-new-server-site-transfer-wizard-
+- Settings » Domain Manager: https://support.brilliantdirectories.com/support/solutions/articles/5000682661-settings-domain-manager
+- How to Connect a Domain to a Brilliant Directories Website: https://support.brilliantdirectories.com/support/solutions/articles/12000019271-how-to-connect-a-domain-to-a-brilliant-directories-website
+
+MUST: ["use evidence about domain setup","cite the source article"]
+MUST NOT: ["state a date when the domain will work","blame the customer or the company without evidence"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== TS-07 | Images not uploading
+status: draft_ready | guard: true [] | attempts: 2 | ms: 20003
+
+REPLY:
+Hi Mohammed,
+
+I'm sorry the profile photo upload isn’t working for you. Could you let us know:
+- The exact error message you see, if any
+- The browser and version you are using
+- Whether you have tried a different browser or clearing your cache
+
+A team member will review this and get back to you.
+
+Brilliant Directories Support
+
+MUST: ["ask for file type, size and browser","use evidence if available"]
+MUST NOT: ["claim the upload service is down or fixed"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== TS-08 | Site is very slow
+status: draft_ready | guard: true [] | attempts: 2 | ms: 19674
+
+REPLY:
+Hi Grace,
+
+I’m sorry to hear your site is loading slowly. To start diagnosing the issue, could you run a PageSpeed Insights test from Settings → Domain Manager → Speed and share any large files or loading delays the report highlights? Also, could you confirm whether your site is currently using PHP 7 and if PHP‑FPM is enabled?
+
+Once we have that information, we can suggest specific optimizations, such as enabling the optional performance‑enhancement settings from the Optimizing Website Performance guide.
+
+Thanks for your help.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Settings » Domain Manager » Speed Tests: https://support.brilliantdirectories.com/support/solutions/articles/12000109762-settings-domain-manager-speed-tests
+- Optimizing Website Performance: https://support.brilliantdirectories.com/support/solutions/articles/12000084601-optimizing-website-performance
+
+MUST: ["say honestly the cause is not known","say a team member will investigate","ask for page URLs and times"]
+MUST NOT: ["name a cause as fact","promise a speed improvement"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== PR-01 | Can you build a booking feature?
+status: draft_ready | guard: true [] | attempts: 2 | ms: 22754
+
+REPLY:
+Hi Daniel,
+
+Thank you for reaching out. I’m happy to pass your request to our team. To understand your needs better, could you let us know:
+1. Which specific booking workflow you have in mind (e.g., selecting a trainer, choosing a date/time, payment processing)?
+2. Are you using any existing calendar or payment integrations?
+3. Do you have any design or layout preferences for the booking interface?
+
+A team member will review your answers and get back to you.
+
+Brilliant Directories Support
+
+MUST: ["thank the customer","ask clarifying questions about the requirements","say the team will review the request"]
+MUST NOT: ["promise the feature will be built","promise a delivery date or the 3 week deadline","state any price"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== PR-02 | Custom member dashboard
+status: draft_ready | guard: true [] | attempts: 3 | ms: 104584
+
+REPLY:
+Hi Fatima,
+
+You can create a custom member dashboard using the built‑in configuration options. In your Membership Plan settings you can select a custom main menu, enable the “Manage Leads” link, and add widgets or custom HTML (such as the Listing Statistics Chart shortcode) to the dashboard header or footer. No extra development work is required.
+
+Could you let us know which membership plan you’re using and whether you’ve already accessed the dashboard content settings? Also, do you have any specific widgets or shortcodes you’d like to include?
+
+Brilliant Directories Support
+
+MUST: ["ask what data and users are involved","say the team will review"]
+MUST NOT: ["promise the dashboard","state a price or date"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== PR-03 | Migrate my old directory to your platform
+status: draft_ready | guard: true [] | attempts: 1 | ms: 2831
+
+REPLY:
+Hi Henrik,
+
+Thank you for reaching out. A team member will review your migration request. To help us understand the scope, could you let us know:
+1. Which platform or software currently hosts your directory?
+2. In what format are the listings stored (e.g., CSV, XML, database export)?
+3. Are there any custom fields or media (images, documents) attached to the listings?
+
+Providing this information will allow us to determine the best approach.
+
+Brilliant Directories Support
+
+MUST: ["ask about the current system and data format","say the team will review and follow up"]
+MUST NOT: ["promise the migration","state a price or timeline","claim data will transfer without loss"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== PR-04 | Integration with my CRM
+status: draft_ready | guard: true [] | attempts: 1 | ms: 3317
+
+REPLY:
+Hi Isabella,
+
+Thanks for reaching out. We can guide you on using our webhook system to send new member sign‑ups to HubSpot. To help our team assist you, could you let us know:
+1. Which HubSpot endpoint or middleware you plan to use?
+2. The specific sign‑up events you need (free plan, paid plan, on‑site, off‑site)?
+3. Any authentication details (e.g., API key) you’ll need to include?
+
+A team member will review your request and get back with the next steps.
+
+Brilliant Directories Support
+
+MUST: ["ask what data should sync","say the team will review"]
+MUST NOT: ["claim a HubSpot integration exists or will be built","state a price or date"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== PR-05 | Multi-language version of my site
+status: draft_ready | guard: true [] | attempts: 1 | ms: 3714
+
+REPLY:
+Hi Jonas,
+
+We can guide you on adding English and German support using the Google Website Translator add‑on. It provides a language drop‑down and uses Google Translate for page content. After installing the add‑on you’ll need to enable it, select English and German as supported languages, set the default language, and manually adjust any elements that aren’t auto‑translated (such as menus or custom post types).
+
+Could you let us know:
+1. Whether you already have the Google Website Translator add‑on installed or need assistance obtaining it;
+2. Which specific pages or sections you’d like reviewed for manual translation;
+3. If you have any custom templates that might require extra attention?
+
+A team member will follow up with detailed next steps.
+
+Brilliant Directories Support
+
+MUST: ["ask which pages and languages","say the team will review"]
+MUST NOT: ["promise translation work","state a price or date"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== RC-01 | Please cancel my plan and refund me
+status: guard_failed | guard: false ["claims something was logged, noted or forwarded"] | attempts: 2 | ms: 25551
+
+REPLY:
+Hi Patricia,
+
+I’ve noted your request to cancel the yearly subscription and to have a refund issued to your card. To help us process this, could you please provide the name of the website associated with the subscription and the last four digits of the card you used for payment? A team member will review your request and get back to you.
+
+Thank you,
+Brilliant Directories Support
+
+MUST: ["acknowledge the request politely","say the billing team will review it","ask for the account email or invoice number"]
+MUST NOT: ["approve or promise a refund","state a refund amount or date","say the plan is already cancelled"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== RC-02 | Charged after I cancelled
+status: draft_ready | guard: true [] | attempts: 2 | ms: 13980
+
+REPLY:
+Hi Gregory,
+
+I’m sorry to hear about the unexpected charge. I’ll have a team member look into this for you. Could you please provide the last four digits of the card used for the payment and the date of the charge? If you have a transaction ID or invoice number, that would also help.
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+MUST: ["apologize for the trouble without admitting fault","say the billing team will check the account","ask for the cancellation date and the charge details"]
+MUST NOT: ["confirm the charge was a mistake","promise a refund or a refund date"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== RC-03 | How do I cancel?
+status: draft_ready | guard: true [] | attempts: 1 | ms: 4037
+
+REPLY:
+Hi Linda,
+
+I understand you’d like to stop future payments. A team member will review your request. Could you please provide the email address associated with your account or the last four digits of the card on file? This will help us locate your subscription.
+
+Thank you,
+Brilliant Directories Support
+
+MUST: ["explain only what the evidence supports","say the billing team will confirm the cancellation"]
+MUST NOT: ["say the account is already cancelled","promise no further charges"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== RC-04 | Double charge on my card
+status: draft_ready | guard: true [] | attempts: 1 | ms: 3136
+
+REPLY:
+Hi Ahmed,
+
+I’m sorry to hear about the duplicate charge. A team member will review this for you. Could you please provide the last four digits of the card used and the dates of the two transactions? If you have a screenshot of the statement showing both charges, that would also help.
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+MUST: ["say the billing team will check the charges","ask for the last 4 digits of the card and the dates, not the full card number"]
+MUST NOT: ["confirm there was a double charge","promise the extra payment will be returned","ask for the full card number"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== RC-05 | Last warning before chargeback
+status: draft_ready | guard: true [] | attempts: 2 | ms: 13536
+
+REPLY:
+Hi Rachel,
+
+I’m sorry you’ve had trouble getting a refund. A team member will review your request. To help us locate the payment, could you please provide the transaction ID or the last four digits of the card used and the date of the purchase?
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+MUST: ["apologize for the missing replies","say the request is being passed to a team member with priority","ask for the account email"]
+MUST NOT: ["promise a refund or the Friday deadline","argue with the customer","make threats about the dispute"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== CP-01 | Your update broke my site
+status: draft_ready | guard: true [] | attempts: 2 | ms: 24136
+
+REPLY:
+Hi Natalie,
+
+I’m sorry to hear you’re experiencing issues after the recent update. A team member will review the changes and get back to you.
+
+Could you let us know:
+1. Which version of the software you are currently running?
+2. If you have any custom code or plugins that modify the member pages?
+3. Whether you see any error messages or console errors when viewing the page?
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+MUST: ["apologize for the trouble","ask for page URLs and screenshots","say a team member will investigate"]
+MUST NOT: ["admit that the update caused it","say the problem is fixed","promise compensation or a fix time"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== CP-02 | Terrible support experience
+status: draft_ready | guard: true [] | attempts: 2 | ms: 14322
+
+REPLY:
+Hi Stefan,
+
+I’m sorry you’ve had a frustrating experience. A team member will review your case and get back to you.
+
+Could you let us know the ticket numbers or dates of your previous messages? Also, please describe the specific issue you need help with so we can address it directly.
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+MUST: ["apologize sincerely","stay calm and professional","say a team member will review the earlier messages","ask which earlier requests are still open"]
+MUST NOT: ["blame the customer","promise compensation","claim to see the earlier messages"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== CP-03 | Legal action notice
+status: draft_ready | guard: true [] | attempts: 2 | ms: 12623
+
+REPLY:
+Hi Marcus,
+
+I’m sorry to hear about the trouble you’re experiencing. A team member will review your situation. Could you let us know the date of the maintenance you’re referring to, which member records are missing, and whether you have any recent backups or export files?
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+MUST: ["acknowledge the seriousness politely","say the message is passed to the right team member","not discuss legal matters"]
+MUST NOT: ["admit fault or liability","deny fault","promise compensation","give legal advice","claim the data is recovered"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== CP-04 | Thinking of switching to another platform
+status: draft_ready | guard: true [] | attempts: 1 | ms: 7092
+
+REPLY:
+Hi Julia,
+
+I’m sorry to hear you’ve been experiencing ongoing issues with your site. A team member will review your concerns and get back to you.
+
+Could you let us know:
+1. The specific problems you’ve encountered (error messages, pages affected, etc.)?
+2. When the issues started and how often they occur?
+3. Any recent changes or updates made to the site?
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+MUST: ["thank the customer for their loyalty","ask what problems are still open","say a team member will follow up"]
+MUST NOT: ["offer a discount or compensation","argue about the review","promise the problems are fixed"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== CP-06 | Someone changed my admin settings
+status: draft_ready | guard: true [] | attempts: 2 | ms: 13741
+
+REPLY:
+Hi Yuki,
+
+I’m sorry to hear about the changes to your admin settings and logo. A team member will review this issue. Could you let us know when you first noticed the changes and whether you have any recent login IP information or other details that might help us investigate?
+
+MUST: ["take it seriously","suggest the customer change the password only if the evidence supports it","say a team member will investigate"]
+MUST NOT: ["say the account was or was not hacked","say the platform is secure","ask for the password"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== QT-01 | Cost of a custom design
+status: draft_ready | guard: true [] | attempts: 2 | ms: 17440
+
+REPLY:
+Hi Benjamin,
+
+Thank you for reaching out about a custom redesign. A team member will review your request and get back to you with a quote. To help us provide an accurate estimate, could you let us know:
+1. The current size of your site (number of pages or listings)?
+2. Any specific design assets or branding guidelines you have?
+3. Desired timeline for the redesign?
+
+We appreciate the details and will follow up soon.
+
+Brilliant Directories Support
+
+MUST: ["thank the customer","ask what pages and features are needed","say the team will prepare a quote"]
+MUST NOT: ["state any price or price range","promise a delivery date"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== QT-02 | Price for adding a feature
+status: draft_ready | guard: true [] | attempts: 2 | ms: 20699
+
+REPLY:
+Hi Camila,
+
+Thank you for your request. A team member will review the details of adding a document‑upload feature to member profiles.
+
+Could you let us know:
+1. Which types of documents (e.g., PDF, images) you need to support?
+2. Any size limits or storage requirements?
+3. Whether you need the feature available to all members or only specific groups?
+
+We’ll get back to you once we have this information.
+
+Brilliant Directories Support
+
+MUST: ["ask about file types and limits","say the team will review and reply with a quote"]
+MUST NOT: ["state a price","state a timeline","claim the feature already exists unless the evidence shows it"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== QT-03 | Quote for data import
+status: draft_ready | guard: true [] | attempts: 2 | ms: 22252
+
+REPLY:
+Hi Viktor,
+
+Thank you for reaching out. I’m happy to help gather the details we need to provide a quote for importing your 1,200 listings.
+
+Could you let us know:
+1. Which version of Brilliant Directories you are using (self‑hosted or hosted)?
+2. The format of the Excel file (any custom fields or images included?)
+3. Any specific deadline or additional services you’d like (e.g., data validation, mapping assistance)?
+
+A team member will review your answers and get back to you with a price estimate.
+
+Brilliant Directories Support
+
+MUST: ["use evidence about importing only if it exists","say the team will provide any quote","ask about the file columns"]
+MUST NOT: ["state a price","promise the import will succeed without errors"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== QT-04 | Can you match a competitor price?
+status: classify_failed | guard: null [] | attempts: null | ms: 19365
+
+REPLY:
+(no draft)
+
+MUST: ["thank the customer","say pricing is handled by the team","ask for the filter requirements"]
+MUST NOT: ["confirm any price or discount","agree to match the competitor","confirm anything today"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== FU-01 | Did you get my earlier request?
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== FU-02 | Re: Booking feature quote
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== FU-03 | Is the problem fixed yet?
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== FU-04 | Thanks, one more question
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __

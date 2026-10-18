@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000008978-how-to-setup-upgrade-downgrade-options-for-membership-plans",
+  "title": "How to Setup Upgrade/Downgrade Options for Membership Plans",
+  "text": "\n## How to Setup Upgrade/Downgrade Options for Membership Plans\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000008978\nThe Available Upgrade Options settings control which membership plans appear on the Upgrade/Downgrade page for each member. This guide outlines the steps to enable and configure these settings within a Brilliant Directories website.\n\n## How to Activate the \"Available Upgrade Options\" Settings\nFollow these steps:\n\n## 1. Go to the Membership Plans Section\nNavigate to Finance » Membership Plans .\nNavigate to Finance » Membership Plans .\nClick Edit on the membership plan that requires configuration.\nClick Edit on the membership plan that requires configuration.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183886337/original/N-frPsxxYm8KiIVUMcK5nosNTpAe5Qtgcw.png?1787180327 | alt: ]\n\n## 2. Open the Sign Ups & Upgrades Tab\nClick Sign Ups & Upgrades tab.\nClick Sign Ups & Upgrades tab.\nScroll down to find the section titled Change Plan – Upgrade/Downgrade Settings .\nScroll down to find the section titled Change Plan – Upgrade/Downgrade Settings .\n\n## Configuration Options\nScroll down in the settings area to find the following options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183886383/original/iQfZ1BFv75G2PjMi-nKiXxlveL_Ym-udRg.png?1787180561 | alt: ]\n\n## 1. Upgrade Email Sent\nChoose an email template to send to members after they upgrade to this membership plan.\nSend Copy of Email to Default Website Email Address If checked (default), the system sends a copy of the upgrade email to the site admin.\nSend Copy of Email to Default Website Email Address If checked (default), the system sends a copy of the upgrade email to the site admin.\nUpgrade Email (Template: upgrade-response ) Use when upgrading from a lower-tier plan.\nUpgrade Email (Template: upgrade-response ) Use when upgrading from a lower-tier plan.\nDowngrade Email (Template: downgrade-response ) Use when moving to a lower-tier plan, especially from the highest-tier plan.\nDowngrade Email (Template: downgrade-response ) Use when moving to a lower-tier plan, especially from the highest-tier plan.\nGeneric Template Create a neutral template if this plan is both an upgrade and downgrade option. This keeps the message relevant regardless of direction.\nGeneric Template Create a neutral template if this plan is both an upgrade and downgrade option. This keeps the message relevant regardless of direction.\n\n## 2. After Upgrading to This Plan, Set Account Status As\nChoose the member's account status after the upgrade\nActive Account Member becomes active and visible on the site.\nActive Account Member becomes active and visible on the site.\nInactive Account Member remains inactive and hidden from the site.\nInactive Account Member remains inactive and hidden from the site.\nSame Status Before Upgrading Member retains the status they had before the upgrade.\nSame Status Before Upgrading Member retains the status they had before the upgrade.\nOn Hold, Requires Admin Approval Member is on hold until manually approved by the admin.\nOn Hold, Requires Admin Approval Member is on hold until manually approved by the admin.\n\n## 3. Available Upgrade Options\nThis is the key setting to control which plans members can upgrade or downgrade to.\nAvailable Plans Select the membership plans that should appear as upgrade/downgrade options.\nAvailable Plans Select the membership plans that should appear as upgrade/downgrade options.\nPre-Selected Plan Choose the default selected upgrade option.\nPre-Selected Plan Choose the default selected upgrade option.\nDisplay Order Choose the order in which plans appear on the upgrade page.\nDisplay Order Choose the order in which plans appear on the upgrade page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183887856/original/iPBsCzV2Be6Nil1Sb7NGW4kn0z2BcB7f6Q.png?1787185058 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183887894/original/3SYg3olmWIl9HxB0lUJyAQ0VZ2xRcMFTRA.png?1787185202 | alt: ]\n\n## 4. Upgrade Page Header Content\nEnter a custom message or instruction that will appear above the upgrade options on the member’s Upgrade page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183887913/original/JhhZF0I-Ygeo_bwj5rdw8Xj2_vLc1kj-YQ.png?1787185283 | alt: ]\n\n## 5. Description Why Members Should Upgrade to This Level\nAdd a description that explains the benefits of upgrading to this plan. This description will only be visible to members who are eligible to upgrade to this plan — not to those who are already on it.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888025/original/f-zy7k_LDDYbWVu7UTGPZBKEaNvoT2h_HQ.png?1787185691 | alt: ]\nNote : This message will not display for members already in the plan.\nThis description will not display for members already enrolled in Plan 1.\n\n## 6. Free Trial when upgrading\nIf the membership plan a member upgrades to includes a Free Trial, the free trial will also be applied during the upgrade process. This means members upgrading to that plan will receive the same trial period as they would during a new sign-up, according to the membership plan's Free Trial settings and this will show in the member dashboard when upgrading:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181939491/original/ucwbP-6kLCI7ucMe8jsvAkjTSZs198n1Yg.png?1783952792 | alt: ]\n\n## 7. Card-Based Layout on Member Upgrade Page\nA new Advanced Setting is available to display the available membership plans in a card view instead of the standard list layout.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181940085/original/8GrOYx4I1GtGtcewBtKSXmORskVvv9BqKQ.png?1783953178 | alt: ]\nWhen enabled, members will see the membership plan options presented as individual cards during the sign-up, upgrade, or downgrade process:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181940288/original/jHw4s3sUFOhEaA-aHPjx-2HHm4q1QgDPbg.png?1783953329 | alt: ]\n\n## Additional Notes\nMembership plans with the Account Type: \"Claim\" do not allow plan changes until the listing is claimed by a member.\nMembership plans with the Account Type: \"Claim\" do not allow plan changes until the listing is claimed by a member.\nFor more information about the member upgrade experience, see: Member Upgrades From Members’ Perception\nFor more information about the member upgrade experience, see: Member Upgrades From Members’ Perception",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183886337/original/N-frPsxxYm8KiIVUMcK5nosNTpAe5Qtgcw.png?1787180327",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183886383/original/iQfZ1BFv75G2PjMi-nKiXxlveL_Ym-udRg.png?1787180561",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183887856/original/iPBsCzV2Be6Nil1Sb7NGW4kn0z2BcB7f6Q.png?1787185058",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183887894/original/3SYg3olmWIl9HxB0lUJyAQ0VZ2xRcMFTRA.png?1787185202",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183887913/original/JhhZF0I-Ygeo_bwj5rdw8Xj2_vLc1kj-YQ.png?1787185283",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888025/original/f-zy7k_LDDYbWVu7UTGPZBKEaNvoT2h_HQ.png?1787185691",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181939491/original/ucwbP-6kLCI7ucMe8jsvAkjTSZs198n1Yg.png?1783952792",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181940085/original/8GrOYx4I1GtGtcewBtKSXmORskVvv9BqKQ.png?1783953178",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181940288/original/jHw4s3sUFOhEaA-aHPjx-2HHm4q1QgDPbg.png?1783953329",
+      "alt": ""
+    }
+  ],
+  "content_hash": "592e723deab147bf9bb44d1bd3ac0801ad5dcf308cedc2a923ca4cc7b65d8ce4",
+  "ingested_at": "2026-10-17T14:33:05.991764+00:00"
+}

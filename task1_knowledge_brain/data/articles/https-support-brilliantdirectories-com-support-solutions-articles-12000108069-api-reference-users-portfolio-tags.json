@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108069-api-reference-users-portfolio-tags",
+  "title": "API Reference - Users Portfolio Tags",
+  "text": "\n## API Reference - Users Portfolio Tags\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108069\n← Back to API Reference | Getting Started\n\n## Users Portfolio Tags\nUsers Portfolio Tags associates text tags with individual portfolio photos uploaded by members. Each record links a tag string to a specific photo and user, enabling keyword-based discovery and filtering of portfolio content.\n\n## The Users Portfolio Tags Object\nField Type Description tag_id integer Unique portfolio tag record ID (primary key, read-only) photo_id integer ID of the portfolio photo this tag is attached to (foreign key to users_portfolio ) tag string The tag text string (default empty string) user_id integer ID of the member who owns this portfolio tag rel_id integer ID of the related portfolio group or album record rel_db string Name of the related database/table for the portfolio group reference\n\n## List Users Portfolio Tag Records\nReturns a paginated list of users portfolio tag records.\n\n## Example Request\n\n## Example Response\n\n## Retrieve a Users Portfolio Tag Record\n\n## Example Request\n\n## Example Response\n\n## Create a Users Portfolio Tag Record\n\n## Example Request\n\n## Example Response\n\n## Update a Users Portfolio Tag Record\n\n## Example Request\n\n## Example Response\n\n## Delete a Users Portfolio Tag Record\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "511cab251bf3b03aadf9ff4e9c9c12f3529cde8fc316243ff4f477893985b5eb",
+  "ingested_at": "2026-10-17T15:39:49.257407+00:00"
+}

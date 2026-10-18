@@ -1,0 +1,73 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000106505-quick-create-wizard-create-web-page",
+  "title": "Quick Create Wizard -  Create Web Page",
+  "text": "\n## Quick Create Wizard -  Create Web Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000106505\n\n## Create Web Page\nWith this tool, creating a Web Page is quite simple. To start the process, select the option to create a Web Page from the admin dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021335/original/TL6SAcbO1sn94QLou3y8iC-AKRNohAjSZw.png?1780873407 | alt: ]\nThe first step is to give the web page a nickname, select the page type, set the URL for the page name, and select from the different options.\nStart Blank\nAI Generate\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169732608/original/1S_9r6WKYnGc-kAoizviZgXVl0dP4NcnXg.png?1761757109 | alt: ]\n\n## Select Page type\n3 options are available:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169733028/original/PbApQ6C8q9Dm3qtc6CeY0tZGGaY1UsbxZw.png?1761757548 | alt: ]\nBasic Web Page: For creating a normal static webpage.\nMember Search Results Page: To add custom content to a dynamic page for Member search results.\nPost Search Results Page: To add custom content to a dynamic page for particular post type search results.\nFor more details about turning a dynamic page into a static page, check out the documentation:\nAdding SEO & Content To A Specific Member Search Results Page - Turn Dynamic Pages Into Static Pages\n\n## Start Blank\nThis option will take the admin to the Web Page Builder section, where the admin is able to create a webpage from scratch.\nHow to Create a New Static Page\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169733665/original/wfw7KkoPAaBdIQqGgZlkYKF4IhgOa8EfBg.png?1761758073 | alt: ]\n\n## AI Generate - Visual Landing Page\nWhen selecting the AI Generate option, it is helpful to have a clear strategy and goal in place to make prompt creation easier to understand. This being a Visual Landing Page, it will add images or photos to the page based on the prompt.\nExample: Want the page to display different membership plan options on the site.\nThe type of content: Visual Landing Page or SEO Content (rank in Google)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169735603/original/_mEwxz7d5gElYnPkJ1k_bcWCqgjW8mKCnA.png?1761759437 | alt: ]\n\n## Try Suggested Prompts\nFrom the drop-down shown below, the admin will be able to select several prompts that can be used as a guide.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169735025/original/jzVdrmebBt6fr_wzdAJW7VMBuT7RWAEkcg.png?1761759054 | alt: ]\nThe sample prompts shown are filtered by three main sections:\nSEO Content Pages (this should be used when type of content selected is SEO Content (rank in Google)\nAbout Website Pages\nConversion & Marketing Pages\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169463583/original/nVAXlMTN-ObzEx7VzPphc7PZJ-p8VIQxVA.png?1761252283 | alt: ]\nAfter selecting one of these pre-made prompts, these can be further edited:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169735435/original/g983d7dYpBmK0t_07FEa3_cX7Y5D_aFygw.png?1761759344 | alt: ]\nOnce the prompt is completed, click the Continue button at the bottom of the wizard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169735514/original/XjHfCQ_G1SWiXBq40azZz4tFVA_P8E1v8w.png?1761759389 | alt: ]\nAfter clicking on the Continue button, a status bar will appear indicating that it is currently working on creating the web page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169735730/original/yqS4FOdHZT-LJpCIPpzu5Amy5lL2HgM2sw.png?1761759498 | alt: ]\n\n## Review the Webpage\nOnce the process is completed, the tool will present the web page, where the admin will be able to make further edits in any section before clicking Save and Continue.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169736393/original/cQcomXqObGdrFekN7iQhZhjERbQtZFZBkQ.gif?1761760076 | alt: ]\nAfter completing the last step above, the quick create tool will take the admin to the normal Web Page Builder. The webpage can be edited from here too.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169736507/original/b5tKkhD1KWXrFhXljRZqdw6pla_du7t4Vg.png?1761760156 | alt: ]\n\n## AI Generate - Member/Posts Search Results Page\nWhen creating a page for the Member/Posts Search Results Page, the prompt creation is different, as these are mainly used for SEO content and no images will be added.\nFor more information on how to set these Pages up: Adding SEO & Content To A Specific Member Search Results Page - Turn Dynamic Pages Into Static Pages\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169792035/original/vPL0QZONdhkDI7_jfzQfO-lz5ibwBv80XQ.png?1761840508 | alt: ]\n\n## Try Suggested Prompt\nThe admin can create the prompt from scratch or by using the Suggested prompts a general prompt will show that is easily customizable for any needs:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169792405/original/KI_pVgCnNknN3GgFy8wcBDzLQb2sREgZzw.png?1761840766 | alt: ]\n\n## Review Web Page\nAfter clicking on the Continue button, the same process of reviewing the AI-generated page will appear to adjust final details.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169792607/original/NjbsJ1YLJ5PzR18SryJ3QjEq75IP_1JI2w.png?1761840880 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169792690/original/JEashYHOaG7Lt0APG1GmuMoY2BZu_Di5fA.png?1761840938 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021335/original/TL6SAcbO1sn94QLou3y8iC-AKRNohAjSZw.png?1780873407",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169732608/original/1S_9r6WKYnGc-kAoizviZgXVl0dP4NcnXg.png?1761757109",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169733028/original/PbApQ6C8q9Dm3qtc6CeY0tZGGaY1UsbxZw.png?1761757548",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169733665/original/wfw7KkoPAaBdIQqGgZlkYKF4IhgOa8EfBg.png?1761758073",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169735603/original/_mEwxz7d5gElYnPkJ1k_bcWCqgjW8mKCnA.png?1761759437",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169735025/original/jzVdrmebBt6fr_wzdAJW7VMBuT7RWAEkcg.png?1761759054",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169463583/original/nVAXlMTN-ObzEx7VzPphc7PZJ-p8VIQxVA.png?1761252283",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169735435/original/g983d7dYpBmK0t_07FEa3_cX7Y5D_aFygw.png?1761759344",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169735514/original/XjHfCQ_G1SWiXBq40azZz4tFVA_P8E1v8w.png?1761759389",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169735730/original/yqS4FOdHZT-LJpCIPpzu5Amy5lL2HgM2sw.png?1761759498",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169736393/original/cQcomXqObGdrFekN7iQhZhjERbQtZFZBkQ.gif?1761760076",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169736507/original/b5tKkhD1KWXrFhXljRZqdw6pla_du7t4Vg.png?1761760156",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169792035/original/vPL0QZONdhkDI7_jfzQfO-lz5ibwBv80XQ.png?1761840508",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169792405/original/KI_pVgCnNknN3GgFy8wcBDzLQb2sREgZzw.png?1761840766",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169792607/original/NjbsJ1YLJ5PzR18SryJ3QjEq75IP_1JI2w.png?1761840880",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169792690/original/JEashYHOaG7Lt0APG1GmuMoY2BZu_Di5fA.png?1761840938",
+      "alt": ""
+    }
+  ],
+  "content_hash": "aa5ab8c28a7190d4c2bd7cfffa9926dc2bfc54452072ba5597192dc2cf29b30a",
+  "ingested_at": "2026-10-17T15:35:51.600611+00:00"
+}

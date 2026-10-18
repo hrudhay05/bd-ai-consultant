@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000071183-google-maps-verify-domain",
+  "title": "Google Maps: Verify Domain",
+  "text": "\n## Google Maps: Verify Domain\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000071183\nAccording to Google guidelines:\nLogin here to get these keys: https://console.cloud.google.com/apis\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12078036459/original/LnG1qm_t5xwILWO4ZidEaZAT2PFfkfJwPA.png?1591114488 | alt: ]\nFor additional support regarding these verification keys and setting this up in your console contact Google Support: Maps API Google Support\n\n## We recommend using the Meta Tag option -\nTo add the Meta Tag go to:\nSettings » Design Settings » Custom CSS/HEAD » Add it inside the Additional Head Code\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619829/original/VLjOCQlPcvM_bKn9CNp4lFLaEAtCiBacng.png?1645925393 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12078036459/original/LnG1qm_t5xwILWO4ZidEaZAT2PFfkfJwPA.png?1591114488",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619829/original/VLjOCQlPcvM_bKn9CNp4lFLaEAtCiBacng.png?1645925393",
+      "alt": ""
+    }
+  ],
+  "content_hash": "003be655094c6aa705d5c072ccdb68369aac9e004d9abfa6f7076bc1c1c21fd5",
+  "ingested_at": "2026-10-17T14:46:20.853054+00:00"
+}

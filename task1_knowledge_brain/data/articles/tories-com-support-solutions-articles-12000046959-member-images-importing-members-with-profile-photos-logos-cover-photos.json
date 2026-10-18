@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000046959-member-images-importing-members-with-profile-photos-logos-cover-photos",
+  "title": "Member Images: Importing Members with Profile Photos, Logos & Cover Photos",
+  "text": "\n## Member Images: Importing Members with Profile Photos, Logos & Cover Photos\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000046959\nImporting members requires clean, unformatted text data (no line breaks or styling) mapping to the proper columns to ensure a successful upload.\nHow To Import Members Via CSV File\nThis includes the links for the images that will be uploaded with the file.\n\n## Add Image URL to Import File\nInsert the URL for the image into the corresponding field:\nlogo\nprofile_photo\ncover_photo\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132741289/original/97qAroPdF7RMCw0Past52BPcnOpGLGTNRQ.png?1697228760 | alt: ]\nCurrently, the import tool supports the following image formats:\nwebp\njpg / jpeg\npng\ngif\n\n## Cover Photo\nThe Profile Cover Photo add-on must be active on the website for imported cover photos to display on member profiles.\n\n## Hosting Images\nThese images can be uploaded to the Media Manager in order to guarantee a successful upload.\nOnce the images are uploaded to the Media Manager, their URL can be grabbed by clicking on the Copy URL option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104575465/original/jfUSPeiZ426sTMhROUwGK2WTqWvlzrJkbw.png?1643916094 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104575478/original/M9hQkKUvp2oVunQv8g7Y2GGfJSAJgJ2PXw.png?1643916144 | alt: ]\nThe images can also be hosted on external platforms, however, t his tool is meant to help in migrating a site from one platform to another, not to copy images from a 3rd party source without their consent.\nFor in-depth information about the Media Manager check out this link: >> Media Manager Folder\n\n## Importing Member Images\nPlease follow these steps to import all of the images to the members that were just imported:\nNavigate to the Members >> Member Images: ** Important Note: This tab will only display if the system identifies recently imported images through the member import template. **\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124654108/original/Tp4v8ZGS4jJkgWeO2cT3H6AE3VbhSK18ww.png?1682589389 | alt: ]\nChoose an appropriate number of members to import the images of at a time in the dropdown below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129685843/original/_VNAZ8MTPG0z1XnytGGNToSrHc1GIrUolA.png?1691684522 | alt: ]\nClick on \" Update Results \":\nClick on \" Update Results \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124654119/original/-z7CXTqUNYvzQyhNyFs9VM6M4fSpGD21MQ.png?1682589407 | alt: ]\nUse the Bulk Actions checkbox to select all of the members on the page, then select Fetch from Source and Resize Photos from the dropdown menu. If prompted, check the Select All option to include all remaining records.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129562463/original/aPmSSciHOkb8RiIpD8jUnlNnuM7Tn9Myvg.png?1691513009 | alt: ]\nClick the \" Apply Action \" button. There will be a notification that the images are being processed:\nClick the \" Apply Action \" button. There will be a notification that the images are being processed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074997084/original/EhK9g0uNDuUXW5iShPyN6S9eLhehCnyDXA.png?1583884496 | alt: ]\nDo not close the window or navigate away from the page during this process.\nDo not close the window or navigate away from the page during this process.\nRepeat the steps above for each page until all images have been fetched and resized.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132741289/original/97qAroPdF7RMCw0Past52BPcnOpGLGTNRQ.png?1697228760",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104575465/original/jfUSPeiZ426sTMhROUwGK2WTqWvlzrJkbw.png?1643916094",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104575478/original/M9hQkKUvp2oVunQv8g7Y2GGfJSAJgJ2PXw.png?1643916144",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124654108/original/Tp4v8ZGS4jJkgWeO2cT3H6AE3VbhSK18ww.png?1682589389",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129685843/original/_VNAZ8MTPG0z1XnytGGNToSrHc1GIrUolA.png?1691684522",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124654119/original/-z7CXTqUNYvzQyhNyFs9VM6M4fSpGD21MQ.png?1682589407",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129562463/original/aPmSSciHOkb8RiIpD8jUnlNnuM7Tn9Myvg.png?1691513009",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074997084/original/EhK9g0uNDuUXW5iShPyN6S9eLhehCnyDXA.png?1583884496",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f71b9a3be6ec9f51f00fda16c18503f9e07f2336f7ae565e7e18c2514b01cce2",
+  "ingested_at": "2026-10-17T14:39:24.174767+00:00"
+}

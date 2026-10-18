@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000019817-guide-8-how-to-enable-form-security-with-google-recaptcha",
+  "title": "Guide 8. How to Enable Form Security with Google reCaptcha",
+  "text": "\n## Guide 8. How to Enable Form Security with Google reCaptcha\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000019817\nThis article it's a guide on how to set up Google reCaptcha to reduce spam.\nThe website needs to have the reCAPTCHA key set up in order to have the public forms prevent SPAM. As Google describes it, \"reCAPTCHA is a free service that protects the website from spam and abuse. reCAPTCHA uses an advanced risk analysis engine and adaptive CAPTCHAs to keep automated software from engaging in abusive activities on the site. It does this while letting valid users pass through with ease.\"\nFor this reason, if the reCAPTCHA keys have not yet been set up the checkout pages won't be available and will display the following message:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096225116/original/281j9FOkTfTuRn-6ePel34VuyhTkYAAPKw.png?1627671836 | alt: ]\n\n## Instructions\n1. Sign in to the Gmail Account being used for the business.\n2. Go to: https://www.google.com/recaptcha/admin/create\n3. Provide a label name for the reCAPTCHA key. Add the URL of the website. 4. IMPORTANT: You must select \"reCAPTCHA v2\" and the \"I'm not a robot\" option.\nreCAPTCHA v2 > \"I'm not a robot\" Checkbox:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179424418/original/hq4g_H7NkaY8qa2XUQ0f3qTUhR2zvRDPXA.png?1779824127 | alt: ]\n5. Provide the URL of the website and/or temporary URL if applicable. Use only the domain without HTTP / HTTPS and www .\ne.g : loveanimalsandplants.com\n6. Accept the Terms of Service.\n7. Click on Submit\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12071328183/original/iOQnWPV5kvwnpMTAl0rXkjZa9rdMbLU5xA.png?1577415144 | alt: ]\nPlease see these steps Live:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085560943/original/G8ulK0FBnSpTcaL2XGt7lOrRypv44hvAPw.gif?1606414304 | alt: ]\n8. Copy the Site Key Provided.\n9. Copy the Secret Key Provided.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085561008/original/t1_bFH_nEEIxWRT8fDdpgSgNLUD2YQthTA.png?1606414412 | alt: ]\n\n## Adding the Keys\nGo into the admin page and click on Settings >> General Settings . Click on Integrations.\nPaste the Site Key and the Secret Key into the Google Recaptcha fields:\nFor your other sites, be sure to repeat the tutorial from \"Add a site\" without clicking \"Add new key.\"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104985336/original/5xohrdePN5NXwYqPGorIdt60npiwXQftTg.png?1644770001 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096225116/original/281j9FOkTfTuRn-6ePel34VuyhTkYAAPKw.png?1627671836",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179424418/original/hq4g_H7NkaY8qa2XUQ0f3qTUhR2zvRDPXA.png?1779824127",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12071328183/original/iOQnWPV5kvwnpMTAl0rXkjZa9rdMbLU5xA.png?1577415144",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085560943/original/G8ulK0FBnSpTcaL2XGt7lOrRypv44hvAPw.gif?1606414304",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085561008/original/t1_bFH_nEEIxWRT8fDdpgSgNLUD2YQthTA.png?1606414412",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104985336/original/5xohrdePN5NXwYqPGorIdt60npiwXQftTg.png?1644770001",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2e1e9d025f89fc07a9e82c36bc1dd582948c52a23321c26615c045987bbe99aa",
+  "ingested_at": "2026-10-17T14:34:08.087866+00:00"
+}

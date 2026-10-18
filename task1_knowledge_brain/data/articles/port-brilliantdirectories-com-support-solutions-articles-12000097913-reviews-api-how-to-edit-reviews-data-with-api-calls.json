@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097913-reviews-api-how-to-edit-reviews-data-with-api-calls",
+  "title": "Reviews API - How to Edit Reviews Data with API Calls",
+  "text": "\n## Reviews API - How to Edit Reviews Data with API Calls\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000097913\nThe API allows getting, creating, updating, deleting and searching reviews on the website. However, only one widget can be updated at a time.\n\n## Available Endpoints\nBelow is a list of the available endpoints for the Reviews:\nhttps://example.com/api/v2/users_reviews/get/{id}\nhttps://example.com/api/v2/users_reviews/create\nhttps://example.com/api/v2/users_reviews/update\nhttps://example.com/api/v2/users_reviews/delete/{id}\nhttps://example.com/api/v2/users_reviews/search\n\n## Get a Review\nRead the data of a single user review based on the review_id.\nEndpoint\nExample Request:\nQuery Parameters:\nproperty The property key (eg., review_id). property_value The value associated with the property.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157635321/original/VgkmPtX8nYlYF8Rta5gTVMG6B9e0xBdgkQ.png?1740692588 | alt: ]\nExample Response:\n\n## Create a Review\nAdd a new user review to the database.\nParameter Notes : The user_id , review_title , review_email , review_name , review_description are required for the API to create the review. When using Postman, select the 'Body' tab, choose 'form-data', and enter the parameters.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157639920/original/2ilml4M_Yo8FY42E0BHfLHQGJjjUt-pVEA.png?1740699180 | alt: ]\nEndpoint:\nExample Request:\nQuery Parameters:\nuser_id The ID of the member receiving the review. review_title The title of the review. review_description: The content of the review send_review_email Notifies the member. Set the value to 1 to send an email notification. rating_overall Use values 1-5, where 1 means Very Poor and 5 means Excellent. rating_service Use values 1-5. rating_response Use values 1-5. rating_expertise Use values 1-5. rating_results Use values 1-5. review_email The email address of the reviewer. review_name The name of the reviewer submitting the review. review_images URLs of images related to the review. Separate multiple URLs with commas. auto_import_review_image Automatically import an image for the review. Set the value to 1.\nExample Response:\n\n## Update a Review\nUpdate a user review record and its related data in the database.\nParameter Notes : Use review_id to update the review content.\nEndpoint:\nExample Request:\nQuery Parameters:\nreview_id The ID of the review.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157641297/original/R1BwzYuf0WOf4Sx5QwHuOGxbPy8d9Mob7g.png?1740702112 | alt: ]\nExample Response:\n\n## Delete a Review\nSearch Reviews and their related data from the database. Parameter Notes : Use review_id to delete the review.\nEndpoint:\nExample Request:\nQuery Parameters:\nreview_id The ID of the review.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157641300/original/XRG3_B8xzhbTeg0W2eSW0cjME9zkF_ppJQ.png?1740702122 | alt: ]\nExample Response:\n\n## Search a Review\nSearch Reviews and their related data from the database. Parameter Notes : Use review_id to search for the review.\nEndpoint:\nExample Request:\nQuery Parameters:\nreview_id The ID of the review.\nExample Response:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157641302/original/oYEy_fdYNs5Ej9718mDM1hsQnKJwxaNPbg.png?1740702130 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157635321/original/VgkmPtX8nYlYF8Rta5gTVMG6B9e0xBdgkQ.png?1740692588",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157639920/original/2ilml4M_Yo8FY42E0BHfLHQGJjjUt-pVEA.png?1740699180",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157641297/original/R1BwzYuf0WOf4Sx5QwHuOGxbPy8d9Mob7g.png?1740702112",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157641300/original/XRG3_B8xzhbTeg0W2eSW0cjME9zkF_ppJQ.png?1740702122",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157641302/original/oYEy_fdYNs5Ej9718mDM1hsQnKJwxaNPbg.png?1740702130",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c0db0fc306f6f926eb0b14825b5edbfefa3734d01a3d16772b0f90ee9607d4ac",
+  "ingested_at": "2026-10-17T15:25:06.460365+00:00"
+}

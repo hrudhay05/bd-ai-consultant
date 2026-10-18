@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100799-customizing-froala-editors-adding-rtl-and-ltr-options-for-text-direction",
+  "title": "Customizing Froala Editors: Adding RTL and LTR Options for Text Direction",
+  "text": "\n## Customizing Froala Editors: Adding RTL and LTR Options for Text Direction\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000100799\nIn this tutorial, we explore how to customize Froala editors, focusing on adding RTL and LTR options for text direction. For more details, refer to the Froala development page .\nIn many languages, the text flows either from left to right (LTR) or right to left (RTL), and adjusting the text direction in Froala text editors can be essential for accurately displaying content in these languages.\nTo customize text direction, follow the steps outlined below:\n\n## 1. Create a Widget Using the Provided Code\nTo begin, copy the code provided below:\nThen, navigate to Toolbox >> Widget Manager to create a widget using this code.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146910791/original/doSij_7rweG8vEjbKTMbBR1gTjGtZq9Szw.png?1721925899 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146910862/original/tNXc5697bab4GT1qiVi09XHNgAF5PY17wg.png?1721925961 | alt: ]\nAfter creating the widget, copy its shortcode for future use:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146911019/original/onH78XPka-eVCUM6XGQDooLOI05EhFQ9kg.png?1721926031 | alt: ]\n\n## 2. Customizing the Form\nNext, customize the preferred form under Toolbox >> Form Manager. For this example, we will customize the \"Feature - Member Articles\" form to incorporate the text direction functionality.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146911246/original/butW_0G3rOXQ_ps4XIeeCS14VtTRR13-xA.png?1721926274 | alt: ]\nNext, add a new form field with the type set to \"Custom HTML,\" and then paste the previously copied widget shortcode into this field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146911355/original/Gb1PDUPMzcUqB7nQl8jisVVmaWsR-_6ETQ.png?1721926399 | alt: ]\nImportant Note: The Database Variable assigned to this field is not important.\nNext, click on the gear icon for the Froala Text Editor field and assign a unique \"Outer Element ID.\" Be sure to copy this ID for future use.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146911525/original/a5JEuKeMfUvz3mbOjzuQ4E2OQn6jOh7gvA.png?1721926551 | alt: ]\n\n## 3. Customizing the Widget to Refer to the Outer Element ID\nTo ensure the widget interacts correctly with the form field, open the newly created widget under Widget Manager:\nOn lines 83 and 89, replace \" yourcustomid \" with the Outer Element ID assigned to the Froala Text Editor field.\nBefore:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12147197843/original/bXhYfIDJQ9BKTALPKwdPOjNTthcOSerDAA.png?1722438642 | alt: ]\nAfter:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12147197846/original/rzn_VmXqqU8LNGDq2HbqW9qCu0b_i5gnww.png?1722438648 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146963061/original/6iwzF0-IkAq5w6Ey5zBCfxHv2lrJDwX5ZA.gif?1722007617 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146910791/original/doSij_7rweG8vEjbKTMbBR1gTjGtZq9Szw.png?1721925899",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146910862/original/tNXc5697bab4GT1qiVi09XHNgAF5PY17wg.png?1721925961",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146911019/original/onH78XPka-eVCUM6XGQDooLOI05EhFQ9kg.png?1721926031",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146911246/original/butW_0G3rOXQ_ps4XIeeCS14VtTRR13-xA.png?1721926274",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146911355/original/Gb1PDUPMzcUqB7nQl8jisVVmaWsR-_6ETQ.png?1721926399",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146911525/original/a5JEuKeMfUvz3mbOjzuQ4E2OQn6jOh7gvA.png?1721926551",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12147197843/original/bXhYfIDJQ9BKTALPKwdPOjNTthcOSerDAA.png?1722438642",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12147197846/original/rzn_VmXqqU8LNGDq2HbqW9qCu0b_i5gnww.png?1722438648",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146963061/original/6iwzF0-IkAq5w6Ey5zBCfxHv2lrJDwX5ZA.gif?1722007617",
+      "alt": ""
+    }
+  ],
+  "content_hash": "216d52df6a6cdbfda79b7265a5562425404e449874a94f8ea320548525ef4c6e",
+  "ingested_at": "2026-10-17T15:27:27.009376+00:00"
+}

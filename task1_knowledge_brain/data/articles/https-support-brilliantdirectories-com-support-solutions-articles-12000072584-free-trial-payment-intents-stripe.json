@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000072584-free-trial-payment-intents-stripe",
+  "title": "Free Trial Payment Intents - Stripe",
+  "text": "\n## Free Trial Payment Intents - Stripe\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000072584\nWhen viewing Stripe, some payment intents may appear with a \"Cancelled\" status.\n\n## Understanding Cancelled Payment Intents in Stripe\nWhen viewing Stripe, some payment intents may appear with a \"Cancelled\" status. This is part of the system process used to securely store a credit card on file and attempt a payment authorization for the amount that will be charged after a free trial period ends.\nThe credit card authorization process verifies that the card is valid and has sufficient funds available. This helps increase the likelihood that the payment can be successfully collected when the free trial period expires.\n\n## Why Multiple Cancelled Payment Intents May Appear\nThe system creates a payment intent when storing the credit card information and creates another payment intent when the member confirms the order. As a result, multiple payment intents with a \"Cancelled\" status may appear in Stripe.\nAlthough these payment intents appear as cancelled in the transaction list, Stripe provides additional details about each transaction.\n\n## Viewing Payment Intent Details in Stripe\nThe best way to review these payment intents is by navigating to the Payments section in Stripe.\nThe description will automatically indicate that the payment intent was created for a free trial and will include the number of trial days.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079943261/original/HX28E-lX60wfimfQdaqY_LedXw81JY5oeA.png?1594743803 | alt: ]\nSelecting the \"Cancelled\" status will display additional information about the member and the transaction.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079943280/original/4jYCHtXxGz6K--PkghUfLKnFICpDtIuKxQ.png?1594743837 | alt: ]\n\n## Payment Intent Information\nThe payment intent details include important information such as:\nPayment amount\nTransaction date\nCustomer email address\nPayment method\nThe payment method confirms that the card is valid and can be charged automatically when the free trial period ends.\nThe payment intent description will also be displayed within the transaction details.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079943373/original/mGjITp2uthtCdDprPInmh9GQFvphyXxvYQ.png?1594743957 | alt: ]\n\n## Stripe Metadata Information\nWhen scrolling down within the payment intent details, Stripe displays additional metadata.\nThis section includes information such as:\nMember ID\nSignup URL\nMember email address\nWebsite URL\nFree trial period\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079943454/original/0YgvDriTqJxvAaSmVMlZ9sCzQ6gMPeIeNQ.png?1594744085 | alt: ]\n\n## Pending Charges During Free Trial Authorization\nBecause the system performs a payment authorization for the amount that will be charged after the free trial period, some customers may temporarily see the charge listed as \"Pending\" on their credit card statement.\nNo action is required from the website owner. Depending on the card provider and the time of day, any pending authorization will automatically disappear within 24 hours.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079943261/original/HX28E-lX60wfimfQdaqY_LedXw81JY5oeA.png?1594743803",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079943280/original/4jYCHtXxGz6K--PkghUfLKnFICpDtIuKxQ.png?1594743837",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079943373/original/mGjITp2uthtCdDprPInmh9GQFvphyXxvYQ.png?1594743957",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079943454/original/0YgvDriTqJxvAaSmVMlZ9sCzQ6gMPeIeNQ.png?1594744085",
+      "alt": ""
+    }
+  ],
+  "content_hash": "19542135649b60de5e99f531cb5bf93fb6d49bbedf80b418253c3f06ddb87c80",
+  "ingested_at": "2026-10-17T14:46:47.675312+00:00"
+}

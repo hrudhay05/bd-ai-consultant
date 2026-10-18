@@ -1,0 +1,38 @@
+ROLE-PLAYED TRANSCRIPT. This is a fictional client meeting written for the capstone. Not a real client.
+Meeting ID: C
+Project: Hyderabad Home Services Directory (Brilliant Directories website)
+Follow-up to: Meeting A (2026-10-12)
+Date: 2026-10-26
+Participants: Arjun Mehta (Consultant), Priya Rao (Client owner), Neha Sharma (Client operations)
+
+[00:00:05] Arjun: Thanks for joining again. This is the follow-up to our meeting on 12 October. I want to check what changed before I finalize the proposal.
+[00:00:25] Priya: Thanks Arjun. We talked to my partner and we have a few changes.
+[00:00:40] Arjun: Okay. Let us go one by one.
+[00:00:48] Priya: First, the reviews. Members can reply to customer reviews, and the replies will be public. My partner agreed.
+[00:01:08] Arjun: Good, so reply to reviews is now confirmed, with public replies.
+[00:01:25] Neha: Second, we decided to drop the price range filter. Members do not want to show their prices, so we do not need it.
+[00:01:45] Arjun: Understood. The price range filter is removed from the scope.
+[00:02:00] Priya: Third, a new request. We want a "sort by rating" option on the search results page, highest rated first.
+[00:02:20] Arjun: Okay, sort by rating on search results. Is this a must?
+[00:02:28] Priya: It should be there, yes. A should-have.
+[00:02:45] Neha: Fourth, the faster site. We checked and the homepage slider is the main thing. We want the homepage to load in under 3 seconds on a phone.
+[00:03:08] Arjun: So the target is under 3 seconds on mobile for the homepage. Which connection speed do you test on?
+[00:03:20] Neha: A normal 4G phone connection. We have not measured it exactly.
+[00:03:35] Arjun: Okay. I will record the target, and the test method still needs to be agreed.
+[00:03:55] Priya: Fifth, we also want members to upload a gallery of photos of their past work on their profile page.
+[00:04:15] Arjun: That is a new feature, member photo galleries. It was not part of what we discussed on 12 October.
+[00:04:28] Priya: Yes, it is new. We would like it too, if possible in this phase.
+[00:04:42] Arjun: I will flag it as outside the original scope. It may need a separate quotation.
+[00:05:00] Priya: Okay. Please give us a separate price for it.
+[00:05:20] Arjun: Now the date. Last time you said 15 December 2026.
+[00:05:30] Priya: We want to move it earlier. The new launch date is 5 December 2026.
+[00:05:48] Neha: The end of November wish is gone. Just 5 December now.
+[00:06:05] Arjun: Understood. The new date is 5 December 2026. That gives less testing time, since you said you need a week.
+[00:06:25] Priya: We will keep the one week of testing. Neha sent the area and category lists on 20 October.
+[00:06:50] Arjun: What about the budget?
+[00:06:58] Priya: Budget stays 2,500 US dollars for the original work. The photo gallery would be extra, so we will decide after your quote.
+[00:07:20] Arjun: Understood. Payments and design stay out of scope, as before.
+[00:07:32] Priya: Yes.
+[00:07:40] Arjun: To summarize: reply to reviews confirmed and public, price filter removed, sort by rating added, homepage under 3 seconds on mobile, photo gallery flagged as new and separate, launch date moved to 5 December 2026.
+[00:08:10] Priya: That is right. Please send the revised proposal.
+[00:08:18] Arjun: I will. Thank you.

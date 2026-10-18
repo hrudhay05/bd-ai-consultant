@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108061-api-reference-tag-types",
+  "title": "API Reference - Tag Types",
+  "text": "\n## API Reference - Tag Types\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108061\n← Back to API Reference | Getting Started\n\n## Tag Types\nTag Types define the kinds of objects that tags can be applied to. Each tag type specifies a name and the database table it relates to, enabling the tag relationship system to link tags to members, posts, or any other object type on your directory.\n\n## The Tag Type Object\nField Type Description id integer Unique tag type ID (primary key, read-only) type_name string The name of the tag type (EG Users , Posts ) table_relation string The database table this type is associated with (EG users_data )\n\n## List Tag Type Records\nReturns a paginated list of tag type records.\n\n## Example Request\n\n## Example Response\n\n## Retrieve a Tag Type Record\n\n## Example Request\n\n## Example Response\n\n## Create a Tag Type Record\n\n## Example Request\n\n## Example Response\n\n## Update a Tag Type Record\n\n## Example Request\n\n## Example Response\n\n## Delete a Tag Type Record\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "4474c15e5ef8985b0e57805de268ef928cb1554b3f58f822555e145e1d3059eb",
+  "ingested_at": "2026-10-17T15:39:35.527930+00:00"
+}

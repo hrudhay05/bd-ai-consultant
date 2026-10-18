@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000071847-how-to-allow-custom-search-query-widgets-for-post-types",
+  "title": "How to Allow Custom Search Query Widgets for Post Types",
+  "text": "\n## How to Allow Custom Search Query Widgets for Post Types\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000071847\nImportant: Contact support to enable the \"Allow Custom Search Query Widgets for Post Types\" setting to enable this functionality.\nThis setting gives the admin the ability to enable custom search query widgets for post types; however, adding custom values can easily disrupt site functionality, so it is generally recommended to keep this option disabled unless the user is comfortable working with advanced code.\nAfter the setting has been enabled go to Content >> Edit Post Settings >> Select the Post Type you would like to add the custom search widget and click on Edit:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171634896/original/4heyR0W0xTyFXVpz9D1busdb6SAVToymBQ.png?1765210333 | alt: ]\nMove to the \"Search Results Design\" tab and scroll down until the Additional Settings option becomes visible.\nFinally, enter the desire custom widget in the corresponding field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171635699/original/xgdAioaFLkJ9QtVMzt0GGVmqiAIjlQxiWg.png?1765210764 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171635593/original/xeQdI9yQfYzg3Eiom9byp3_C2DnO4qbnGg.png?1765210739 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171634896/original/4heyR0W0xTyFXVpz9D1busdb6SAVToymBQ.png?1765210333",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171635699/original/xgdAioaFLkJ9QtVMzt0GGVmqiAIjlQxiWg.png?1765210764",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171635593/original/xeQdI9yQfYzg3Eiom9byp3_C2DnO4qbnGg.png?1765210739",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c56283c9fa692da9cf7c4dc77c64d809431f16769ea1b405de320f41123b93e7",
+  "ingested_at": "2026-10-17T14:46:41.113924+00:00"
+}

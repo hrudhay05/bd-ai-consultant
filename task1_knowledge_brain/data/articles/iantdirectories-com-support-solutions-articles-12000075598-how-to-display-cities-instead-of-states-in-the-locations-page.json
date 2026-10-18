@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000075598-how-to-display-cities-instead-of-states-in-the-locations-page",
+  "title": "How To Display Cities Instead Of States In The \"/locations\" Page",
+  "text": "\n## How To Display Cities Instead Of States In The \"/locations\" Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000075598\nBy default on the \"locations\" page, the system will display a list of countries and their respective cities, that currently have members. This allows for an easy way to search through the locations on the directory.\nSome locations around the globe would want to change this setup, by replacing the Country for the Cities. It's important to note that this denomination is used by Google and its API.\nTo make this change effective, navigate to Settings >> Advanced Settings and search:\nCountries To Display Cities Instead Of States\nSystem Variable: display_cities_instead_states\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647426/original/vIfnrINrFra6360PJYCA8ZbqZyicfnBcEA.png?1753161352 | alt: ]\nIn the field add a comma-separated list of Country Codes that should link to a list of cities in the country instead of states/provinces on the /locations page of the site. Click Here to see the list of country codes.\nExample: GB,SG,AU\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12120641889/original/P-ckSaspxOiHoOdcdsIweoIJpyguGR-VFg.png?1675180415 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647426/original/vIfnrINrFra6360PJYCA8ZbqZyicfnBcEA.png?1753161352",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12120641889/original/P-ckSaspxOiHoOdcdsIweoIJpyguGR-VFg.png?1675180415",
+      "alt": ""
+    }
+  ],
+  "content_hash": "bd3fea24057cc66d9f0ee34d133ae6ada8fe4fe057ad12b94ac1201b04b2a817",
+  "ingested_at": "2026-10-17T14:47:43.669989+00:00"
+}

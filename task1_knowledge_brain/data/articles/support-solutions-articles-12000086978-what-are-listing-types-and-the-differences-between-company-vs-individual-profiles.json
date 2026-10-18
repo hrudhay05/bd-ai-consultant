@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000086978-what-are-listing-types-and-the-differences-between-company-vs-individual-profiles",
+  "title": "What are Listing Types and the Differences Between Company vs. Individual Profiles",
+  "text": "\n## What are Listing Types and the Differences Between Company vs. Individual Profiles\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000086978\nListing Type is a setting and a default form field on the Listing - Contact Details - Member form that allows users to choose what type of listing their profiles should be:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107684345/original/uDq458kEc0v7UmoUb0Cjszp5iEvCi_cugg.png?1649947447 | alt: ]\nThis setting holds a specific functionality:\nIf a member selects the Personal / Individual option, their First Name + Last Name and their Profile Photo will be used on their public profiles.\nIf a member selects the Company / Organization option, their Company Name + Profile Logo will be used on their public profiles.\nUsing the member above as an example, we can see their First Name, Last Name, and Company Name information in the screenshot. The screenshot below shows the member's Profile Photo related information:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107684785/original/_NQ9BfRiuXzNwAkpoAhUtpedmsgLb2BniQ.png?1649947844 | alt: ]\nAnd below are the differences between profile views, depending on which listing type is selected:\nPersonal / Individual Profile Company / Organization Profile\n\n## Personal / Individual Profile\n\n## Company / Organization Profile\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107684944/original/gTH8ecBHmZzQCSrAZDdrVAZTtDLbp2coOg.png?1649948019 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107684962/original/vHBb97Czl-HgjCT3PklM7ikzXdF0nx1cBw.png?1649948025 | alt: ]\nThe listing type of a member can also be specified in the Admin, under Search Members >> Quick Edit Module :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107685469/original/bBdXwalUvTIVD5BiYwsEzQvxVq_UPwJ0OA.png?1649948488 | alt: ]\n\n## Text Labels for Listing Types\nDepending on the type of directory site, it may be necessary to customize the labels for different listing types to better align with the site's purpose. While the functionality for \"Individual\" and \"Company\" listing types remains unchanged as explained above, the display names can be modified through text labels.\nTo update these labels:\nNavigate to Settings > Text Labels in the admin panel.\nUse the search bar to locate the following text labels: listing_type_individual listing_type_company\nlisting_type_individual\nlisting_type_company\nThese labels can then be edited to reflect the desired terminology for the site.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154163714/original/t7dZULQiR_HMfUxpu_o11Zm2bt7CRCw3Cg.png?1734475450 | alt: ]\n\n## How To Automatically Assign a Specific Listing Type To Membership Plans\nIt is possible to auto-assign a specific listing type to a membership plan so any members who sign up for that membership plan will have this setting pre-selected. To accomplish this, navigate to Finance >> Membership Plans and click Edit on preferred membership plan:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107685672/original/HU69z4eYpKKaRtxaEs_ls5H4Ihy2t1haSw.png?1649948671 | alt: ]\nAnd search for the wording \" pre-select listing type \" in the search module and select the preferred option under the Pre-select Listing Type setting:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107685744/original/y_RBeTxH7y9aX0YsjvvoqhoYvH9EeZL0cw.png?1649948747 | alt: ]\nThis will pre-select the listing type when a member signs up for this specific membership plan but these members still will be able to change their listing types later on via their Member Dashboard.\nTo not allow members to change their listing type, first, identify the Contact Details Form being used for this membership plan under Member's Dashboard tab and click on Edit Form :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107686567/original/8p5iJVgTH-NkthE9XGtHiu2AH9OoOOEzhQ.png?1649949137 | alt: ]\nAnd customize the form to change the Type of Field of the listing_type field from Dropdown List to be Hidden Field :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107686665/original/fzfZGNn5IGUjdVAGikGk-XTXBuSvtkfaVw.png?1649949248 | alt: ]\nPre-selecting a listing type via membership plan and making this field a hidden field will make sure these members will always be a specific listing type. This can be a very helpful workaround if a membership plan is dedicated to only businesses.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107684345/original/uDq458kEc0v7UmoUb0Cjszp5iEvCi_cugg.png?1649947447",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107684785/original/_NQ9BfRiuXzNwAkpoAhUtpedmsgLb2BniQ.png?1649947844",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107684944/original/gTH8ecBHmZzQCSrAZDdrVAZTtDLbp2coOg.png?1649948019",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107684962/original/vHBb97Czl-HgjCT3PklM7ikzXdF0nx1cBw.png?1649948025",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107685469/original/bBdXwalUvTIVD5BiYwsEzQvxVq_UPwJ0OA.png?1649948488",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154163714/original/t7dZULQiR_HMfUxpu_o11Zm2bt7CRCw3Cg.png?1734475450",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107685672/original/HU69z4eYpKKaRtxaEs_ls5H4Ihy2t1haSw.png?1649948671",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107685744/original/y_RBeTxH7y9aX0YsjvvoqhoYvH9EeZL0cw.png?1649948747",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107686567/original/8p5iJVgTH-NkthE9XGtHiu2AH9OoOOEzhQ.png?1649949137",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107686665/original/fzfZGNn5IGUjdVAGikGk-XTXBuSvtkfaVw.png?1649949248",
+      "alt": ""
+    }
+  ],
+  "content_hash": "79b20f1db65d3264282255e26ff77ebdc3315588df0526ad217aae09202e65d6",
+  "ingested_at": "2026-10-17T14:59:52.047301+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000098368-block-traffic-by-country",
+  "title": "Block Traffic by Country",
+  "text": "\n## Block Traffic by Country\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000098368\nSay goodbye to unwanted website traffic and hello to a more secure and personalized website with the Block Traffic by Country website add-on.\nEasily prevent visitors from specific countries from accessing the front-end of your website, enhancing security and tailoring the website experience to the target audience. Ensure that only the desired audience can access the website.\nThis add-on identifies a visitor's country based on their IP address. And based on the geo-location of the IP address , the rules set with the add-on will control a visitor's ability to access the website.\nKey Features & Benefits :\nAllow traffic from all countries except specified countries\nAllow traffic only from specific countries\nWebsite visitor location determined by their IP address\nEnhance security by preventing traffic from countries known for malicious activity\nReduce spam by blocking traffic from countries notorious for spamming\nTailor content based on the geographic location of your visitors\nMore easily comply with regional regulations by restricting access to specific countries\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Block Website Traffic By Country Add-On\n\n## Using the Add-On\nGo to: General Settings > Localization > Block Traffic by Country\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138729760/original/fsaOA593CDPU6yUuVvSuy8MZR5-OX_TRhg.png?1707930744 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138731296/original/xl9m59hsvphpsEzGD1AFredFRHbnGRkU-g.png?1707931993 | alt: ]\nThis will allow website owners to block unwanted traffic from entire countries.\nThere are 3 options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138735151/original/Mk1x1PA3SIyISXwVoEB5YTnJVvrK4yi0pw.png?1707936030 | alt: ]\nDisable Setting\nOnly Allow Traffic From\nBlock Traffic From\n\n## Disable Setting\nThis will deactivate the setting from allowing or blocking specific countries. Sign ups from all countries are allowed.\n\n## Only Allow Traffic From\nThis will set the countries that are allowed to sign up on the website. If the country is not in the list, users in those countries will not be allowed to sign up on the website.\n\n## Block Traffic From\nThis will decide the countries that are not allowed to sign up on the website. If the country is not on the list, users in those countries can sign up on the website..\n\n## Adding Countries\nClick on the white space and a Country List will appear:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733171/original/d9gXI30rZOdURB6gm1zKk1WFtJ7mxP1HKQ.png?1707933868 | alt: ]\nScroll or type in the country:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733216/original/MNnnw8a27twGSZPznf78KifqW0jGAVnBfA.png?1707933909 | alt: ]\nSelect the country to add it to the list:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733354/original/Wmqk5wvp_wnZyUMDiHvaXRE1bCh7hoAgjQ.png?1707934085 | alt: ]\n\n## Removing Countries\nUse the \" X \" to remove a country from the list:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733403/original/Mx4RoUJb_ylwJBneeyEAQ6W_SrFIXNPXUg.png?1707934149 | alt: ]\n\n## Blocked Countries\nWhen a country is blocked from the website, there is a 403 Forbidden warning:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138736778/original/chp13resLPO43z3mn2MQDhkjymgapU3NUg.png?1707937970 | alt: ]\n\n## API Requests Are Not Blocked\nRequests to the website's API (addresses that begin with /api/v2/ ) are not blocked by this add-on. Integrations such as BD Butler, Zapier and n8n keep working even when their requests come from a country that is blocked, or from a country that is not on the \"Only Allow Traffic From\" list. API requests still need a valid API key. All other pages are still blocked or allowed by the country rules.\n\n## Important Notes\nEven if your website only serves a single country or market, sometimes your members and visitors are accessing your website while traveling or from other locations. Be cautious when deciding to block countries.\nIf you're working with staff or team members abroad, make sure you're not blocking their access to your website.\nSometimes search engines like Google, Bing and other tools need to crawl your website from IP addresses and countries that you may have blocked. So use the tool as needed and with intent.\nRemember, you can always block and unblock countries temporarily based on your needs.\nThe most practical use of this add-on is to block traffic from countries that are delivering spam to your website. When the spam stops, you may choose to unblock and allow the country again.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138729760/original/fsaOA593CDPU6yUuVvSuy8MZR5-OX_TRhg.png?1707930744",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138731296/original/xl9m59hsvphpsEzGD1AFredFRHbnGRkU-g.png?1707931993",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138735151/original/Mk1x1PA3SIyISXwVoEB5YTnJVvrK4yi0pw.png?1707936030",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733171/original/d9gXI30rZOdURB6gm1zKk1WFtJ7mxP1HKQ.png?1707933868",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733216/original/MNnnw8a27twGSZPznf78KifqW0jGAVnBfA.png?1707933909",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733354/original/Wmqk5wvp_wnZyUMDiHvaXRE1bCh7hoAgjQ.png?1707934085",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733403/original/Mx4RoUJb_ylwJBneeyEAQ6W_SrFIXNPXUg.png?1707934149",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138736778/original/chp13resLPO43z3mn2MQDhkjymgapU3NUg.png?1707937970",
+      "alt": ""
+    }
+  ],
+  "content_hash": "34b2789397c2c3db7bdf9d936bb36862dde0854927abe0e6d356d541c2964a24",
+  "ingested_at": "2026-10-17T15:25:22.566004+00:00"
+}

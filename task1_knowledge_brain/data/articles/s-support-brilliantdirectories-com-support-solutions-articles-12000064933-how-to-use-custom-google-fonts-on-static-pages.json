@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000064933-how-to-use-custom-google-fonts-on-static-pages",
+  "title": "How to Use Custom Google Fonts on Static Pages",
+  "text": "\n## How to Use Custom Google Fonts on Static Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000064933\nTo use Google Fonts on a static page, please follow these steps.\nCreate or open a static page.\nAdd content to the page. The text shown below will be used as an example:\n- - - - - -\nUniverse\nThe physical Universe is defined as all of space and time (collectively referred to as spacetime) and their contents. Such contents comprise all of the energy in its various forms, including electromagnetic radiation and matter, and therefore planets, moons, stars, galaxies, and the contents of intergalactic space.\n- - - - - -\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181731788/original/uubpVxl5bN32Qs1lXpLmSqkAGmJn5hkvbw.png?1783554199 | alt: ]\nOnce the text has been added, click on the \" Code View \" icon:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125212381/original/zUphENggz_IKqwE9Jqe7Ty9nskfrwkfUbg.png?1683659124 | alt: ]\nIf desired, add a class for each section to use different Google fonts:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181731998/original/Ol0_LTwzKQXAsb227DPIm9WFnjEn55t7Eg.png?1783554494 | alt: ]\nExample code:\n1.\n2.\nWe recommend to Save the Web Page at this point.\nOn the browser open up a different tab to check the different available fonts in Google Fonts.\nhttps://fonts.google.com/\nOnce a font has been selected. Copy this embed code in the Advanced >> HEAD section of the static page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732096/original/5tdwnwEcWta2fHzJZm-FN1ywJXj9d6-lAg.png?1783554584 | alt: ]\nPaste code into the Customize Page Level HEAD Tags by navigating to the advanced tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732490/original/tpS_ZP8JdTrtbuWZwMXg27S8PYcRQMPA-w.png?1783555145 | alt: ]\nIn this example, the Yuyu Google font family will also be used:\nNow, enter the following CSS in the Customize Page Level CSS Styles section\nCSS:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732493/original/xBMs5Jqqcb7QlDMaMGLYQXxgSiz9Y4iVtQ.png?1783555155 | alt: ]\nThis is what the page will look like after saving the changes:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732285/original/ZCluP4cGlPzZeS0GnIC0Mq8wM7183GPOLg.png?1783554913 | alt: ]\nTo add one Google Font for the whole page, use a <div></div> with a class. For example, this code:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732535/original/znFX8lgVbeWCHTYx5bIAJ-hBHJG5BUWqnw.png?1783555283 | alt: ]\nExample:\nCSS code:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732526/original/EirWRRB8-41GRtaQ8gnzezc8Kp9MAZ1FZA.png?1783555215 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181731788/original/uubpVxl5bN32Qs1lXpLmSqkAGmJn5hkvbw.png?1783554199",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125212381/original/zUphENggz_IKqwE9Jqe7Ty9nskfrwkfUbg.png?1683659124",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181731998/original/Ol0_LTwzKQXAsb227DPIm9WFnjEn55t7Eg.png?1783554494",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732096/original/5tdwnwEcWta2fHzJZm-FN1ywJXj9d6-lAg.png?1783554584",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732490/original/tpS_ZP8JdTrtbuWZwMXg27S8PYcRQMPA-w.png?1783555145",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732493/original/xBMs5Jqqcb7QlDMaMGLYQXxgSiz9Y4iVtQ.png?1783555155",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732285/original/ZCluP4cGlPzZeS0GnIC0Mq8wM7183GPOLg.png?1783554913",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732535/original/znFX8lgVbeWCHTYx5bIAJ-hBHJG5BUWqnw.png?1783555283",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181732526/original/EirWRRB8-41GRtaQ8gnzezc8Kp9MAZ1FZA.png?1783555215",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f7c057347d76375914067334802344fa3926020dbf6bc5b6ef5f4b45c05db595",
+  "ingested_at": "2026-10-17T14:44:25.319781+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093278-workaround-center-website-logo",
+  "title": "Workaround: Center Website Logo",
+  "text": "\n## Workaround: Center Website Logo\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000093278\n\n## Overview\nOn all Brilliant Directories websites, the Logo is placed to the left within the header:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124356752/original/m_baeeWUCJFxYufTXx1KaCQ1P9WRRIg1Cw.png?1682011189 | alt: ]\nThis leaves room for the Logo and the Header Search and links without crowding all of the elements. There aren't any setting to change the placement of the logo but it can be centered using custom CSS.\nThis workaround is really only recommended for websites using uploaded images as their logo. Since this does shrink the space on the header-right elements... so it would behave differently on every site that has the right elements.\nThis works best on sites that are not displaying a header menu.\n\n## Centering the Logo\nUse the CSS code below:\nCopy the code and paste it inside the DESIGN SETTINGS > CUSTOM CSS / HEAD > Additional CSS:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124428460/original/Vaz3kXPSe_5xz9MIZWMa3UBGLwzjaSwosg.png?1682125108 | alt: ]\nOnce the code is saved, it centers the Logo:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124554857/original/cMrTagGAtPa8jivfgT7rUPYrJYVMRVUb1w.png?1682434888 | alt: ]\nWe recommend hiding the header menu and search module when using this code:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124553671/original/OScJu2Tre8hAA-W7ZQlxu1E9IUHCUiaU7A.png?1682433818 | alt: ]\nWhen using the header menu and search module, notice that the \" Search \" button has been moved, depending on how many items and the size, the Header Menu may not display as expected.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124555305/original/3RTq3wHPWf_SLB0WJlpwK0Tu0DS3rKyk0g.png?1682435285 | alt: ]\nFor any design adjustments more than this, we suggest reaching out to a web designer:\nhttps://marketplace.brilliantdirectories.com/",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124356752/original/m_baeeWUCJFxYufTXx1KaCQ1P9WRRIg1Cw.png?1682011189",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124428460/original/Vaz3kXPSe_5xz9MIZWMa3UBGLwzjaSwosg.png?1682125108",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124554857/original/cMrTagGAtPa8jivfgT7rUPYrJYVMRVUb1w.png?1682434888",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124553671/original/OScJu2Tre8hAA-W7ZQlxu1E9IUHCUiaU7A.png?1682433818",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124555305/original/3RTq3wHPWf_SLB0WJlpwK0Tu0DS3rKyk0g.png?1682435285",
+      "alt": ""
+    }
+  ],
+  "content_hash": "138a81b09a10fc18e381815b60ac703d08df664db756730e46a54683e83391a1",
+  "ingested_at": "2026-10-17T15:13:07.250368+00:00"
+}

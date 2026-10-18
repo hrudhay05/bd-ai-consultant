@@ -1,0 +1,73 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000087004-file-uploads-for-forms",
+  "title": "File Uploads for Forms",
+  "text": "\n## File Uploads for Forms\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000087004\n\n## Overview\nBy default, members can only upload one file when filling out their Additional Details form to be displayed on their profile page.\nThe File Uploads for Forms add-on extends this functionality to any and all forms on the website. Adding the file upload field to any form will allow users to upload supported file types to the website with their form submission.\nThe File Upload field is a tool for members to upload files; How to Use and or Modify the File Upload Field.\nThis is a field most commonly found in the Listing - Additional Details - Member form. However with this add-on it is available to all other forms on the site.\n\n## Supported Files\nThe files supported by the member upload tool are:\nImage Files - gif, jpeg, jpg, png, svg, webp\nPDFs\n.txt files\n.rft files\nWord Documents\nExcel Documents\nPowerpoint Documents\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: File Uploads For Forms\n\n## Adding Upload Fields\nInside the Form Manager select the form that will allow members or users to add additional files. The process is the same for all forms.\nIn this example the Feature - Events form is being used:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107805796/original/_ig2psa3RsiTNwUhVUq-o7BIcELSnxJnZA.png?1650340026 | alt: ]\nClick on \" Add Field+ \", this will create a blank field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107842214/original/v3pH5qbZlduqN1oZexFmZJiOgH0huUNaog.png?1650384142 | alt: ]\nFor the \"Type of Field\" drop-down select: File Upload Field\nAdd a Label Name and a System Variable (the form will automatically fill in the variable, however, it is possible to add in a custom one).\n(ONLY REQUIRED WHEN INCLUDING MULTIPLE FILE UPLOAD FIELDS IN THE SAME FORM) Next, click on the \" Gear Icon \" and add the following: Additional Field CSS Class : filestyle_uploadcv Outer Element ID : This field needs to be unique on each cv field, so please do not add \"upload_field\", because this is the ID of the default field. Since a unique ID needs to be added, adding a number after the default field will work as well. Example: upload_field_events\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108764317/original/0I78Ar0ptFyj5d7QW71MpfQBxJ5wVW60IA.png?1652199635 | alt: ]\nOnce the form is saved the field will show in the Form Preview.\nThe Display Settings are also very helpful when enabled, each setting has a specific function.\nInput View - allows the person to fill out the form.\nDisplay View - displays the field/input on the front-end of the site.\nLead Preview - shows in the Lead Preview emails.\nInclude In - includes the field in emails associated with the form.\nTable View - shows up in the admin when viewing the information in tables.\nIn-depth information about these fields is found within this article: In-Depth Look into Form Fields and their Settings .\n\n## Member Dashboard Forms\nThese are the forms that appear in the member dashboard. These include forms like the Post Types, Verify Listing, Contact Details, Additional Details and About forms.\nThe example below uses the Feature - Events form, the field was added below the \" Cost to Attend \" field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107842927/original/wK6sccsV4k-ELGFaQ48ITYjut4yWvXGT5A.png?1650384895 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107805080/original/ARIDZQ3XJSbbJZsPgruPCud03EUHe5hNhg.png?1650337515 | alt: ]\nOnce the file has been uploaded the member will have the option to view the file and remove the file. These are two new text labels:\nView File System Variable: view_my_file\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107958766/original/18vwDf8mOdb5swPAS_Je0Jw1TEn1mGFnuA.png?1650558284 | alt: ]\nRemove File System Variable: remove_my_file\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107958798/original/7ih8D7DUNly76IIAs0VB1LcxMWf_cQI8zA.png?1650558350 | alt: ]\n\n## Viewing the File\nThe widget, Post Meta Details v2.0 , needs to be part of the sidebar in order to see the file; How To Display Custom Post Fields In The Post Details Page .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107805046/original/hpz8GNVsc3m3j0vMLWy5lvx67t45zAI79A.png?1650337326 | alt: ]\nThe button to \"View File\" is available in the sidebar for anyone viewing the post.\n\n## Admin Forms\nThese are the forms that appear on the front end of the site. These include forms like the Contact Us, Get Matched, Newsletter and the Signup forms.\nThe example below uses the Bootstrap Get Matched form, the field was added below the \" Phone Number \" field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107959294/original/8t66Zdl7SASvq0bcBN-8AV9j-HGcGAG0lQ.png?1650558957 | alt: ]\nWhen this form is submitted the file will be visible within the admin dashboard, specifically where the form lands.\nFor leads that is the Member Leads folder:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109517819/original/5SUV4qSMK1GhToKIVbJkuFI-y3Zpi0E3aA.png?1653583934 | alt: ]\nIf it's the Contact Us form, it will appear in the Forms Inbox . It is visible by clicking on \" View Full Inquiry\" :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107959418/original/gILp__btSEiWEFY5SfcwGaJJf-mY8mUmRA.png?1650559153 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109996274/original/OyXGnxu6C2IhqdMRTVnXJjoVOK-aH-l2bg.png?1654617125 | alt: ]\nThis link will open the image file in a separate tab for the admin forms:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107959494/original/B5luhi2LLaH9sqK-ypIjsm5ED8KoOtd7LA.png?1650559241 | alt: ]\n\n## Deleting Files\nThis is the method for the website owner to permanently delete the file from the system.\n\n## Member Forms\nLook for the \"Remove File\" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109996376/original/WKbX4Bj4LBouO2XJoHJJVQJW9THMo2K__Q.png?1654617240 | alt: ]\n\n## Admin Forms\nLook for the red, Delete File , text:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109996515/original/ssYB39wFHj9HCJATkyjdYPyiDSK-7vq_lw.png?1654617394 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109996516/original/M6fmi-g94oCnHwlcrFizpppjse_L-BUzFw.png?1654617402 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107805796/original/_ig2psa3RsiTNwUhVUq-o7BIcELSnxJnZA.png?1650340026",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107842214/original/v3pH5qbZlduqN1oZexFmZJiOgH0huUNaog.png?1650384142",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108764317/original/0I78Ar0ptFyj5d7QW71MpfQBxJ5wVW60IA.png?1652199635",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107842927/original/wK6sccsV4k-ELGFaQ48ITYjut4yWvXGT5A.png?1650384895",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107805080/original/ARIDZQ3XJSbbJZsPgruPCud03EUHe5hNhg.png?1650337515",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107958766/original/18vwDf8mOdb5swPAS_Je0Jw1TEn1mGFnuA.png?1650558284",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107958798/original/7ih8D7DUNly76IIAs0VB1LcxMWf_cQI8zA.png?1650558350",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107805046/original/hpz8GNVsc3m3j0vMLWy5lvx67t45zAI79A.png?1650337326",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107959294/original/8t66Zdl7SASvq0bcBN-8AV9j-HGcGAG0lQ.png?1650558957",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109517819/original/5SUV4qSMK1GhToKIVbJkuFI-y3Zpi0E3aA.png?1653583934",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107959418/original/gILp__btSEiWEFY5SfcwGaJJf-mY8mUmRA.png?1650559153",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109996274/original/OyXGnxu6C2IhqdMRTVnXJjoVOK-aH-l2bg.png?1654617125",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107959494/original/B5luhi2LLaH9sqK-ypIjsm5ED8KoOtd7LA.png?1650559241",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109996376/original/WKbX4Bj4LBouO2XJoHJJVQJW9THMo2K__Q.png?1654617240",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109996515/original/ssYB39wFHj9HCJATkyjdYPyiDSK-7vq_lw.png?1654617394",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109996516/original/M6fmi-g94oCnHwlcrFizpppjse_L-BUzFw.png?1654617402",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1814df4cf5f8361a570d078a1e4522e2dc70d2f52e0f86d6e3b668e6fa936eab",
+  "ingested_at": "2026-10-17T14:59:56.712030+00:00"
+}

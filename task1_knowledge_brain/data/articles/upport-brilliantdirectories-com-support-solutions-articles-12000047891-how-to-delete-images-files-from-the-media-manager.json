@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047891-how-to-delete-images-files-from-the-media-manager",
+  "title": "How to Delete Images & Files from the Media Manager",
+  "text": "\n## How to Delete Images & Files from the Media Manager\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000047891\nTo delete an image or file that is not being used by the website, follow these steps: Open My Content > Media Manager .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919835/original/9q1FZouc-riyJtatX0IEmFHuUmk9BvweSg.png?1700856560 | alt: ]\nLocate the image or file to delete, hover the mouse over it, and click the trash can icon ( Erase ).\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919838/original/BlPORnnpXca36hSmET5WQDiXHTotr1bm6A.png?1700856598 | alt: ]\nClick OK to confirm.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079490687/original/09_IHj6ZbEZYehgIeCdQjMApWtj50F6BRg.png?1593726268 | alt: ]\nOnce deleted, the image or file is removed from the site and no longer uses storage or bandwidth.\nIMPORTANT: Delete only images and files that are not actively referenced. An image still in use by areas such as Brand Images , Homepage Settings , Banner Ads , or Web Pages will appear as broken once removed, because the file path in the code no longer resolves.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919835/original/9q1FZouc-riyJtatX0IEmFHuUmk9BvweSg.png?1700856560",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919838/original/BlPORnnpXca36hSmET5WQDiXHTotr1bm6A.png?1700856598",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079490687/original/09_IHj6ZbEZYehgIeCdQjMApWtj50F6BRg.png?1593726268",
+      "alt": ""
+    }
+  ],
+  "content_hash": "d81adafbfcbbbc36125205dc0111a7c13b90b2b420db9a678f9934fc47ada1fc",
+  "ingested_at": "2026-10-17T14:39:43.399646+00:00"
+}

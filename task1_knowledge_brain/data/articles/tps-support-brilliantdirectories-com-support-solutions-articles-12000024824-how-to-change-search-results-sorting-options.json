@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000024824-how-to-change-search-results-sorting-options",
+  "title": "How to Change Search Results Sorting Options",
+  "text": "\n## How to Change Search Results Sorting Options\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000024824\nNavigate to MY CONTENT > EDIT POST SETTINGS and click on \" Edit \" for the post type in which the sorting order will be changed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127318949/original/ERDYTOtTkiG3rq5oOXTGbjXWwJImC6bomg.png?1687449815 | alt: ]\nMove to the Search Results Design tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096869764/original/IhII1wbRo1vwfaI88rcjaZgIm_0jHOjy5w.png?1629029649 | alt: ]\nScroll down and expand the Additional Settings and open up the \" Order Results By \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146908052/original/kQ9uHNsHvIadZc5p5T5pSvfbe7lCgyWs0w.png?1721923515 | alt: ]\n\n## Sort Order Options\nCustomizing the sort order for member and post type search results can be found in the Post Settings in the admin dashboard. The available sorting options depend on whether the results are listings/profiles or member-published posts.\n\n## Member Listings\nMember Name A-Z\nMember Name Z-A\nMember/Post ID (Oldest First)\nMember/Post ID (Newest First)\nSort by Last Name A-Z (If no last name is present, it will use the company name as the last name)\nSort by Last Name Z-A (If no last name is present, it will use the company name as the last name)\nNumber of Reviews\nRandom Order *\n\n## Member Posts\nDate Posted (Earliest Date Last)\nDate Posted (Earliest Date First)\nStart Date (Earliest Date Last) - If Applicable\nStart Date (Earliest Date First) - If Applicable\nEnd Date (Earliest Date Last) - If Applicable\nEnd Date (Earliest Date First) - If Applicable\nPost ID (Smallest to Largest)\nPost ID (Largest to Smallest)\nPost Title A - Z\nPost Title Z - A\nAdvanced - Edit in Search Widget\nRandom Order *\n\n## Selecting Random Order\nWhen the order is set to \" Random \", the results will be randomized once and then maintained for all pages of results for that search. Viewing results pages 2, 3, 4, etc of the search will not show newly randomized results - the order will be maintained on all of these pages of results, even when navigating back and forth between them. Once a new search is performed or the user navigates back to the original page of results, the order will be freshly randomized again.\nThe Random option will apply to all types of searches except radius-based location searches, which always order by distance from the searched location.\nSearching by category, keyword or nothing will have random results.\n\n## Membership Plan “Search Priority”\nAdditionally, the setting \"When Sorting Members - Respect Membership Plan “Search Priority” will respect the \"Search Results Priority\" logic based on the Membership Plan settings.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122712703/original/u36NJdquMwu9bNvkmvScp3BFYtwvJAEVWg.png?1678980780 | alt: ]\n\n## Location Searches & Sort Order\nWhen doing a radius-type location search (cities and zip codes by default) it will return members in order of distance from the searched location.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159093712/original/BTXUyp4Z5L8O0DJLAKLqqyzMkCtjaRKXGQ.png?1743186241 | alt: ]\nSelecting any of the front-end options will override the distance and results will be returned based on the chosen filter:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159093875/original/tNe_RijaRRfZnrQJEJnvkTpQb-rl32Dyeg.png?1743186300 | alt: ]\n\n## Search Results Sort Order Options\nWhenever a search is conducted, the results are automatically filtered and sorted according to the selected option. Additionally, members and visitors can choose their preferred sorting option directly from the front end of the website.\nThere are 6 available filters on the front end:\nSort Results\nSort by Most Reviews\nSort by Name A-Z\nSort by Name Z-A\nSort By Last Name A-Z\nSort By Last Name Z-A\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158961058/original/q0FI3Okl87tJg9agnIl8m0UhdannhyqylA.png?1743010978 | alt: ]\n\n## Sort Order Text Labels\nIf the admin does not want one of the available sort options to show on the front end, the corresponding Text Label needs to be left blank by deleting the text:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098050463/original/wfD_nuytmbdupWdBEFBBMXkzZwE_J3217w.png?1631305115 | alt: ]\nThese are the text labels that can be edited or deleted:\nLabel Name: Default sort label\nSystem Variable: default_sort_label\nLabel Name: Most reviews sort label\nSystem Variable: most_reviews_sort_label\nLabel Name: Az sort label\nSystem Variable: az_sort_label\nLabel Name: Za sort label\nSystem Variable: za_sort_label\nPlease refer to this article to learn more about text labels: Settings » Text Labels In this example, after deleting the text labels for \" Sort by Name/Last Name \", these options no longer shows in the front end of the site:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090361492/original/iE71qWCCrnVxHB8LIzzyeBAUbdGJZDVrZg.png?1616498591 | alt: ]\n\n## Important Note\nAt this time, the ability to compare members in search results on the front end is not available.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127318949/original/ERDYTOtTkiG3rq5oOXTGbjXWwJImC6bomg.png?1687449815",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096869764/original/IhII1wbRo1vwfaI88rcjaZgIm_0jHOjy5w.png?1629029649",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146908052/original/kQ9uHNsHvIadZc5p5T5pSvfbe7lCgyWs0w.png?1721923515",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122712703/original/u36NJdquMwu9bNvkmvScp3BFYtwvJAEVWg.png?1678980780",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159093712/original/BTXUyp4Z5L8O0DJLAKLqqyzMkCtjaRKXGQ.png?1743186241",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159093875/original/tNe_RijaRRfZnrQJEJnvkTpQb-rl32Dyeg.png?1743186300",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158961058/original/q0FI3Okl87tJg9agnIl8m0UhdannhyqylA.png?1743010978",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098050463/original/wfD_nuytmbdupWdBEFBBMXkzZwE_J3217w.png?1631305115",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090361492/original/iE71qWCCrnVxHB8LIzzyeBAUbdGJZDVrZg.png?1616498591",
+      "alt": ""
+    }
+  ],
+  "content_hash": "6e8d22415a873a32f822d1c9c017f4eb59df8b48c93c9a05eb105f9fd53a0c40",
+  "ingested_at": "2026-10-17T14:34:34.555453+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108539-noindex-review-connect-pages",
+  "title": "Noindex Review & Connect Pages",
+  "text": "\n## Noindex Review & Connect Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108539\nThe Noindex Review & Connect Pages setting controls whether member review and contact action pages are included in search engine indexes.\nThese pages include URLs such as /writeareview and /connect , as well as custom URL variants (for example, /leave-a-review or /contact-now ).\nThese pages are generally intended to support actions rather than provide unique content and often contain little or no standalone information. Because of this, search engines may interpret them as thin-content pages, which is not ideal for SEO.\nWhen this setting is enabled, search engine crawlers are instructed not to index these action pages directly. Instead, they are guided to focus on the associated member profile page content, helping consolidate indexing toward the primary profile page and reducing the likelihood of low-value pages appearing in search results.\n\n## How to Access It\nTo access this setting, navigate to Settings > Design Settings , then search for \"Noindex Review & Connect Pages\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179221029/original/6WHdbKoGteYD3IXhPPbf-sHTfBEeX2zlLA.png?1779381785 | alt: ]\n\n## How to Configure It\nIf set to ON , member /writeareview and /connect pages (including custom-slug variants such as /leave-a-review or /contact-now ) will emit the following meta tag: <meta name=\"robots\" content=\"noindex, follow\">\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179221057/original/5Txkx8F-wNOLyLWqNsZQMTJo4BB3FU9m9g.png?1779381835 | alt: ]\nThis instructs search engines not to include these pages in search results while still allowing crawlers to follow links found on those pages and continue indexing the relevant website content.\nIf set to OFF , these pages may be eligible for search engine indexing based on the crawler’s evaluation and standard indexing behavior.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179221029/original/6WHdbKoGteYD3IXhPPbf-sHTfBEeX2zlLA.png?1779381785",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179221057/original/5Txkx8F-wNOLyLWqNsZQMTJo4BB3FU9m9g.png?1779381835",
+      "alt": ""
+    }
+  ],
+  "content_hash": "39c1f307ba8c83fa923e578635c56226f4f8558f8e4592e95e8ac1d549bf7eec",
+  "ingested_at": "2026-10-17T15:42:06.421191+00:00"
+}

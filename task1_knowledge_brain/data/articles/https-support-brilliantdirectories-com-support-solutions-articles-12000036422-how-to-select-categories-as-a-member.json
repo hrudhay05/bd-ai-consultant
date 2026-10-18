@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000036422-how-to-select-categories-as-a-member",
+  "title": "How To Select Categories as a Member",
+  "text": "\n## How To Select Categories as a Member\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000036422\nIn this article, we will cover how to select categories as a member and how to enable sub category selection for the members inside the admin.\nThe form category sort order is based on the selection in the \"Default Category Sort Order\" setting: Default Category Sort Order\n\n## Important\nThe Top Category is selected in the Contact Details form.\nThe Sub Categories and Sub-Sub Categories are selected in the Listing Details (Additional Details) form.\nA different approach can be found here: How To Select Categories As A Member In One Member Form .\n\n## Login as a Member\nLog in using the member credentials or log in as a member in the Admin Dashboard: Login As Member\nOnce logged in as a member, click on the Contact Details Form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171253050/original/G9up415cVwBLsPhX0WGdaIkFUAuuQWo4wA.png?1764553766 | alt: ]\nThere is going to be a form field called Top Category, or Best Describes You. Now , select the one that suits the member's business:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160404977/original/UAiIDITvClbvSUmg7O_jVJsjTaaY8fACIg.png?1745547991 | alt: ]\nScroll down the form and click on Save & Continue. This will redirect to the Profile Photo tab automatically . From there, click on the Listing Details (Additional Details) tab :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160404984/original/FWJQ648dLaeX36X8hXxsB3-fsIBV5n_CZw.png?1745548027 | alt: ]\nMembers can select multiple sub-categories that they Specializes in:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160404989/original/Bp52F4UCqletRkDpSnryymO8QSNEy_FM-Q.png?1745548062 | alt: ]\nMembers can \"Search by Keyword\" if there are a lot of categories on this form.\nOnce the Sub or Sub-sub category has been selected, it will appear as a tag below the \" You Are Listed.. \" message:\nClicking on the \"X\" on these tags will also deselect the category from the selected options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12082973733/original/M7570KxPjOICLSBhQa5xoa6X3r1eaSL-ZA.png?1601345017 | alt: ]\nScroll down and click on Save & Continue.\nThe specialties will appear inside their own tab on the profile page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160421304/original/h5ZfNUEk4QL32622fllAeerJOy9szroR9Q.png?1745583881 | alt: ]\nNote: The Specialties tab must be enabled for the specific Membership Plan to appear on live profiles. This setting is located under Finance » Membership Plans » Edit » Profile Page » Show \"Specialties\" Tab .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180115861/original/Z2zbJpvs-HBr8LaUKpQubtFCZN15ZtL8Ig.png?1781006384 | alt: ]\nThe \" Specialty/Specialties \" wording is a text label that can be changed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143522312/original/A_tlXpFtcIYvgMvBsAGz2-ZaZrYkjTjCMQ.png?1716212272 | alt: ]\n\n## Enabling Category Selection for Members\nTo enable sub-category selection, navigate to Finance » Membership Plans » Edit and configure the settings within the following distinct tabs:\nSearch Visibility Tab: Locate Max. Sub-Level Categories Member Can Select to define selection limits (enter 'all' or 'unlimited' if preferred). Value Option ' all ': Automatically assigns the member to every single available sub-category on the website without requiring manual selection. Value Option ' unlimited ': Empowers the member to manually select an unrestricted number of sub-categories from their dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143553012/original/BTLNe0MIIM04scG16z04k-qB3OZVn_SX9w.png?1716238487 | alt: ]\nPost Publishing Tab: Locate the Member Specialties checkbox and toggle to ACTIVATE to allow category selections inside the member dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143553026/original/nQDdfYmkjhdT_Ogw-kkAoA6jnSNwCf4cGA.png?1716238497 | alt: ]\n\n## Choose Which Categories Display on Member Profiles\nBy default sub and sub-sub categories will display on member's profiles, once these have been selected by the member in the Additional Details form. There is a setting that can narrow down which subs and sub-sub categories appear on the profile.\n» Choose Which Types of Sub & Sub-Sub Categories Display on Member Profiles",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171253050/original/G9up415cVwBLsPhX0WGdaIkFUAuuQWo4wA.png?1764553766",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160404977/original/UAiIDITvClbvSUmg7O_jVJsjTaaY8fACIg.png?1745547991",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160404984/original/FWJQ648dLaeX36X8hXxsB3-fsIBV5n_CZw.png?1745548027",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160404989/original/Bp52F4UCqletRkDpSnryymO8QSNEy_FM-Q.png?1745548062",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12082973733/original/M7570KxPjOICLSBhQa5xoa6X3r1eaSL-ZA.png?1601345017",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160421304/original/h5ZfNUEk4QL32622fllAeerJOy9szroR9Q.png?1745583881",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180115861/original/Z2zbJpvs-HBr8LaUKpQubtFCZN15ZtL8Ig.png?1781006384",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143522312/original/A_tlXpFtcIYvgMvBsAGz2-ZaZrYkjTjCMQ.png?1716212272",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143553012/original/BTLNe0MIIM04scG16z04k-qB3OZVn_SX9w.png?1716238487",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143553026/original/nQDdfYmkjhdT_Ogw-kkAoA6jnSNwCf4cGA.png?1716238497",
+      "alt": ""
+    }
+  ],
+  "content_hash": "610576f97263d7666bb9e81c554f7ddb168f4169b82fcc2409df95c2121e39c9",
+  "ingested_at": "2026-10-17T14:36:44.637159+00:00"
+}

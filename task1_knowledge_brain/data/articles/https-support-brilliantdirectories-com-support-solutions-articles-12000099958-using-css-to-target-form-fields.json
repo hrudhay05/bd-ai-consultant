@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000099958-using-css-to-target-form-fields",
+  "title": "Using CSS to Target Form Fields",
+  "text": "\n## Using CSS to Target Form Fields\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000099958\nPreviously to show/hide form fields, complicated PHP in specific areas of code was used.\nNow we've made it easier to control by including a class to the <body> element that will be used.\nThis CSS Class will allow targeting specific rows of front-end display based on the system name or database variable of a field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143634572/original/m0iOstEe3m2f7WJjCQfj4mE8Wu_hoTR2wg.png?1716345534 | alt: ]\nWith this class it will be easier to target the form field using CSS in the Design Settings rather than having to go into specific sections of the code and use PHP every time.\nThis new class applies for all forms fields, this includes default and custom fields.\n\n## Example Using the CSS Method\nTarget the element or area that will be modified. In this example, the Background Color of the form field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143737515/original/MdDWBtJ8H2GV_shiefMnKgjt32D75fbL-g.png?1716482854 | alt: ]\nAfter applying the CSS, only the \"Company Name\" field has a different background color:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143737594/original/6jz8Ldd2zihMWACWv-6iPVd6SaFf1erJbw.png?1716482929 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143634572/original/m0iOstEe3m2f7WJjCQfj4mE8Wu_hoTR2wg.png?1716345534",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143737515/original/MdDWBtJ8H2GV_shiefMnKgjt32D75fbL-g.png?1716482854",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143737594/original/6jz8Ldd2zihMWACWv-6iPVd6SaFf1erJbw.png?1716482929",
+      "alt": ""
+    }
+  ],
+  "content_hash": "8c1ee8d0a76da7106e1bfb9a95e89fa14f339724fda995e77b531d99c05e951f",
+  "ingested_at": "2026-10-17T15:26:19.348444+00:00"
+}

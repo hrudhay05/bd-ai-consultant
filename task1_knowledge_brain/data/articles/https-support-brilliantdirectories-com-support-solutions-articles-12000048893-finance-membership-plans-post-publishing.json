@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048893-finance-membership-plans-post-publishing",
+  "title": "Finance » Membership Plans - Post Publishing",
+  "text": "\n## Finance » Membership Plans - Post Publishing\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000048893\nThis article covers the available settings found in the \"Post Publishing\" tab when editing a membership plan. In general, this section allows selection of which membership plans can publish certain types of posts.\nNavigate to Finance » Membership Plans:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168273978/original/i_ITUWNoC0r9DWgYxcOVLFE6SZAFc5a-Zw.png?1759241712 | alt: ]\nFrom here, go to \" Post Publishing \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168274015/original/DUSD46I06S6zhGLwWrDQi9oKW7MvSoyNog.png?1759241756 | alt: ]\n\n## Configuring Post Publishing Rules for Each Post Type\nThese settings allow the definition of publishing rules and restrictions for each membership plan.\n1. CAN POST: If this option is checked, members of this plan will have the ability to publish these types of posts. If this option is not checked, members in this membership plan will not be able to publish these types of posts.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168274083/original/TguOj34pAGzX6vIW07KrVk0yv5xelNHdew.png?1759241786 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168408548/original/goVXaJ3Bgf6aiJCeDN3JRvxce90teqGy2w.png?1759412175 | alt: ]\nAdmin-Only Alert: Some post types display the message “ ALERT: Only assign to website admin. ” This alert indicates that these posts are restricted and have certain settings that should only be managed by the site administrator. For example, digital products are configured so payments are received by the site admin rather than individual users., making it important that only the admin manages these settings.\n2. CAN VIEW: If the Members-Only Content Add-on is active and a post type is restricted to members, ensure that under Content » Edit Post Settings, it is set to an option other than ' Keep Public for All Visitors .'\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091798871/original/YZx-Er0QVg7ycmKeE4jBkXgoAdoXhNNDfQ.png?1619416181 | alt: ]\nIf the post type is set to \" Keep Public for All Visitors, \" then the \"Can View\" checkbox will not display, and instead there will be a badge that says \"Public For All\". It cannot be changed because the posts are public for everyone.\n3. Post Moderation setting will overwrite the \"Post Approval\" option selected under Content » Edit Post Settings, if an option other than \"Use Rule from Post Settings (Default)\" is selected.\nThe options are:\nUse Rule from Post Settings (Default): This option won't overwrite the settings selected under Content » Edit Post Settings.\nMember Controls Publish Status\nAdmin Moderates all Posts\nAuto-Publish All Posts\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168274143/original/A332taGBn2Y9QhmBvtfOVxwJ6P8uwTodvw.png?1759241854 | alt: ]\n4. The Add-On \" Limit Posts per Member \" can determine the maximum number of posts a member can have published at any given time.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168274303/original/mhDljobP0Am8qGdEzDePoEA5QvIMHvakfg.png?1759241983 | alt: ]\nLimit Posts per Membe r allows the admin set how many articles, albums, classifieds, properties, etc. a member can publish.\nAllowing members to contribute content to the website provides them with valuable visibility. Reward paying members by allowing them to publish more posts than lower-tier members.\n5. The \" Pay Per Post \" Add-on sets a price per post type.\nThese are the three options:\nOnly Free Posts. No Paid Posts.\nOnly Paid Posts. No Free Posts.\nFree and Paid Posts.\nNote: If the \"Only Free Posts. No Paid Posts\" option is set, the system won't let the admin select how many free posts can be published.\n6. Max Free Posts: Set this value to 0 to allow unlimited free posts.\nIf the maximum number of free articles is set to \"1\", members in this membership plan will only be able to publish one article for free. If they want to add a second article, they need to pay for it.\n7. Price per Extra Post: The minimum value must be 1.\nHere, the admin can add the price members will pay per post.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168274279/original/u17IoFdrENOcTPeYwlrsYr3tS0KaykNlQw.png?1759241964 | alt: ]\nThe Pay Per Post add-on allows the owner of the site to charge members a set price each time they publish a piece of content to the website. Pay-per-post prices can be set per membership level.\nThe Pay Per Post add-on can help generate revenue while encouraging community contributions. The admin can offer free memberships while still generating revenue each time free members publish content.\nNote : Keep in mind that if a post type was previously enabled for members and is later disabled within these plan settings, the published posts of the now disabled post type will not show up on the website.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168273978/original/i_ITUWNoC0r9DWgYxcOVLFE6SZAFc5a-Zw.png?1759241712",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168274015/original/DUSD46I06S6zhGLwWrDQi9oKW7MvSoyNog.png?1759241756",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168274083/original/TguOj34pAGzX6vIW07KrVk0yv5xelNHdew.png?1759241786",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168408548/original/goVXaJ3Bgf6aiJCeDN3JRvxce90teqGy2w.png?1759412175",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091798871/original/YZx-Er0QVg7ycmKeE4jBkXgoAdoXhNNDfQ.png?1619416181",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168274143/original/A332taGBn2Y9QhmBvtfOVxwJ6P8uwTodvw.png?1759241854",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168274303/original/mhDljobP0Am8qGdEzDePoEA5QvIMHvakfg.png?1759241983",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168274279/original/u17IoFdrENOcTPeYwlrsYr3tS0KaykNlQw.png?1759241964",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b894801da00ce9d4b406ab703f820893850a5127665332a9e2470cde4bf07908",
+  "ingested_at": "2026-10-17T14:40:22.345225+00:00"
+}

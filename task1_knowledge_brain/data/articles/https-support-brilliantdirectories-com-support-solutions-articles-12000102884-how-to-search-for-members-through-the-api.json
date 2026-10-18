@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000102884-how-to-search-for-members-through-the-api",
+  "title": "How to \"Search\"  for members through the API",
+  "text": "\n## How to \"Search\"  for members through the API\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000102884\nIn this article, we will be going over how to \"Search\" members using the /search API .\nWhat this API endpoint allows to do is to send information to the endpoint, just like it would emulate the functionality of using one of the member search features on the site.\n\n## How to \"Search\" Members\nThe user search API leverages various parameters to retrieve data displayed the same way as on member search results pages on the site.\n\n## Parameters\nThere are 10 parameters that can be used to filter the results.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154344470/original/oSNp0ftvvSXQX5QmKczC8qyDuz-Km290mA.png?1734720614 | alt: ]\ndynamic: Set to 1 to simulate a Dynamic Category Filter search.\nq: Enter a keyword to search for in member data.\npid: Enter member Top Level Category ID to search for. Enter a comma-separated list of IDs if the Dynamic Category Filter search is enabled.\ntid: Enter member Sub Level Category ID to search for. Enter a comma-separated list of IDs if the Dynamic Category Filter search is enabled.\nttid: Enter member Sub-Sub Level Category ID to search for. Enter a comma-separated list of IDs if the Dynamic Category Filter search is enabled.\naddress: Enter the location to search for. Example: Los Angeles, California, United States.\noutput_type: Enter the type of response to receive. Valid options - html, array. By default the results will show in HTML similar to the search results page on the site. If set to Array the results will show in a JSON array.\nlimit: Enter the maximum number of search results to return per page of results.\nsort: Set the Order the data would be display. The options here are : reviews, name ASC, name DESC, last_name_asc, last_name_desc\npage: Enter the page number of results to return. For Example, enter 2 to return the second page of results.\n\n## Example with Postman\nWhen endpoint is sent by default the results will show in the HTML format, the same as the search results page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154348016/original/qa0Da5GCeJDzL6RX8KI5FPNogQpiLOdBmw.png?1734724637 | alt: ]\nWhen selecting Array as the output_type, the results will show in a Json Array format:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154348108/original/TtLqBUZyGUZdfrOxYqaau-eYWLoW0IqPfg.png?1734724689 | alt: ]\n\n## Important Note\nWhen using the address field, it is required for the site to have the Pretty URL advanced setup enabled. For more information on how to do so: Set Up Pretty URLs with Google Maps",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154344470/original/oSNp0ftvvSXQX5QmKczC8qyDuz-Km290mA.png?1734720614",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154348016/original/qa0Da5GCeJDzL6RX8KI5FPNogQpiLOdBmw.png?1734724637",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154348108/original/TtLqBUZyGUZdfrOxYqaau-eYWLoW0IqPfg.png?1734724689",
+      "alt": ""
+    }
+  ],
+  "content_hash": "954626f0889e02527e95b70496e13b28dcd25b538fa61d3aa57cdd8e5496a29d",
+  "ingested_at": "2026-10-17T15:28:55.260340+00:00"
+}

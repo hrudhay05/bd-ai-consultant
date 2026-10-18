@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682656-editing-the-seo-of-member-search-results-pages",
+  "title": "Editing The SEO Of Member Search Results Pages",
+  "text": "\n## Editing The SEO Of Member Search Results Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000682656\n\n## What are Member Search Results Pages?\n\n## \"Pretty\" URLs and \"Not So Pretty\" URLs\n\n## Pretty URLs\nThe search engine on the site uses all of the information in the \"Not So Pretty\" URL to drive some of the advanced search functionality such as Service Areas, Search Radius Distance Calculations, and more.\nHowever, a \"Not So Pretty\" URL like this is not as desirable for sharing on social media, sending in an email, or for SEO purposes.\nThe system automatically creates a \"Pretty\" URL version of member search results pages for all of the reasons listed above.\nWe created the advanced setting:\n\"Enable All Location Features For \"Pretty URL\" Search Results Pages (Additional Google Maps API Cost)\"\nThis setting allows the \" Pretty \" URL version of a member search results to take into account the advanced locations features mentioned above (such as Service Areas and Membership Plan Search Priority ).\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171648871/original/mVVlUOFlC2nxHYHIlHbzsFsR8jM4Rh50Kw.png?1765222117 | alt: ]\nNOTE: To allow all \"Pretty URL\" location search results pages to include these location features please set this Advanced Setting to ON .\nWhen this setting is ON, loading a \"Pretty URL\" location search results page will require a Google Maps API query to enable location search features, like including Service Areas. This may impact the Google Maps API bill if it is enabled.\nOnce this setting is enabled, the creation of a separate Google Maps Key is needed please see the process on how to set it up: Set Up Pretty URLs With Google Maps\nWhere Can I Edit the SEO Elements of a Member Search Results Page?\n\n## Editing SEO Templates From The Front End\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171652241/original/Wm4EYjPcanLSEZEj6dJdn_Enr6ApxpI4yQ.png?1765225050 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171652381/original/HnSxCue76H8piUxpOSxt_UYDogt2AwIE3g.png?1765225194 | alt: ]\n\n## Edit SEO Templates From The Admin Area\nThere are 45 Default SEO Templates available, starting with ID #100:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171652395/original/VLmvaLb6i01tttWOy4Ic2jcbTJm3Aw-SEA.png?1765225241 | alt: ]\nUsing the search box on the right side of the screen will allow to easily search for any existing SEO template :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171652426/original/OPWu9tqF-FwCnqByyk43tFpazTqdyn8-mQ.png?1765225308 | alt: ]\n\n## Member Search Results SEO Templates\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076775937/original/doH6Zi7WZOGnl6VFTwljVuRoFEto7XA7Iw.png?1588153109 | alt: ]\n#204 - Search Results - Members - Country Only\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076775978/original/VnUSbe8rL6rRdO9tek2-aFszjkrIQhPlIQ.png?1588153176 | alt: ]\nThis is the SEO Template used when only a country is searched for.\n\"Pretty\" URL example of this type of search results page (\"United States\" is the country): http://www.demobootstrap.com/united-states\n\"Not So Pretty\" URL example of this type of search results page: http://www.demobootstrap.com/search_results?sid=&tid=&location_value=united+states&country_sn=US&location_type=country&swlat=18.9106768&nelat=71.3867745&swlng=172.4458955&nelng=-66.95028609999997&lat=37.09024&lng=-95.71289100000001&faddress=United+States&place_id=ChIJCzYy5IS16lQRQrfeQ5K5Oxw\n#225 - Search Results - Members -State / City / Main Category\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084037534/original/YsM7HVx4sj8j4X2uWnHKyAOL8Ra72Fiu_A.png?1603465413 | alt: ]\n\"Pretty\" URL example of this type of search results page (\"New Jersey\" is the state, \"Madison\" is the city, and \"Food\" is the main category): https://www.demobootstrap.com/new-jersey/madison/food/bagel-chateau-of-madison\n\"Not So Pretty\" URL example of this type of search results page: http://www.demobootstrap.com/search_results?sid=17&tid=506&location_value=Madison%2C+NJ%2C+United+States&city=Madison&county_sn=Morris+County&adm_lvl_1_sn=NJ&country_sn=US&location_type=locality&swlat=40.7399439&nelat=40.777214&swlng=-74.4446059&nelng=-74.39216590000001&lat=40.7598227&lng=-74.41709700000001&faddress=Madison%2C+NJ%2C+USA&place_id=ChIJI-fYekymw4kRrerf8h65X1A\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076776054/original/jPSJFI4_Z_C4e6MdEecGkgn5ZqIaqNxrfA.png?1588153322 | alt: ]\nAlso, any content added to the Hero Section of the \"Pretty\" URL will impact as well the \"Not So Pretty\" URL version of a member search results page.\nTo learn more about how to edit the different elements of SEO templates, refer to this article:\nHow to Edit The Different Elements of SEO Templates",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171648871/original/mVVlUOFlC2nxHYHIlHbzsFsR8jM4Rh50Kw.png?1765222117",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171652241/original/Wm4EYjPcanLSEZEj6dJdn_Enr6ApxpI4yQ.png?1765225050",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171652381/original/HnSxCue76H8piUxpOSxt_UYDogt2AwIE3g.png?1765225194",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171652395/original/VLmvaLb6i01tttWOy4Ic2jcbTJm3Aw-SEA.png?1765225241",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171652426/original/OPWu9tqF-FwCnqByyk43tFpazTqdyn8-mQ.png?1765225308",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076775937/original/doH6Zi7WZOGnl6VFTwljVuRoFEto7XA7Iw.png?1588153109",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076775978/original/VnUSbe8rL6rRdO9tek2-aFszjkrIQhPlIQ.png?1588153176",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084037534/original/YsM7HVx4sj8j4X2uWnHKyAOL8Ra72Fiu_A.png?1603465413",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076776054/original/jPSJFI4_Z_C4e6MdEecGkgn5ZqIaqNxrfA.png?1588153322",
+      "alt": ""
+    }
+  ],
+  "content_hash": "51e4f805bd1b0759220843bb6a18ac5a3d6058f48d8e8c33f7c58f52e8b8a93e",
+  "ingested_at": "2026-10-17T14:07:39.076308+00:00"
+}

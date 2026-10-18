@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000057105-export-contacts",
+  "title": "Export Contacts",
+  "text": "\n## Export Contacts\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000057105\nOnce the users of the site register for the newsletter, the admin can export a list of members that have successfully registered on the site. There are associated reasons for doing this, such as marketing campaigns, promos, etc.\nTo get started navigate to Emails >> View Contacts >> Once in the contact list, at the top right corner will be the \" Export Contact Results\" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358566/original/cSY0Q46m5Z8FkYxW-zlbu3GNbzU4S8Ng_A.png?1781314099 | alt: ]\nAfter clicking the Export button, click on \"Yes, continue\" to confirm the export:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358564/original/LvBXo-klaVZxs_-4TFutvJxQo2P4uNcwmg.png?1781314077 | alt: ]\nFinally, a CSV file with the member's information will be downloaded to the browser:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145529638/original/lYlcL4_I5vUdr33xRFRNHRfjt66t5M0Yrw.png?1719524088 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358566/original/cSY0Q46m5Z8FkYxW-zlbu3GNbzU4S8Ng_A.png?1781314099",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358564/original/LvBXo-klaVZxs_-4TFutvJxQo2P4uNcwmg.png?1781314077",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145529638/original/lYlcL4_I5vUdr33xRFRNHRfjt66t5M0Yrw.png?1719524088",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f3a779ff6889e10739083d9de662d05ff0f12c040ccd704308c5206d6a622e5f",
+  "ingested_at": "2026-10-17T14:42:43.590081+00:00"
+}

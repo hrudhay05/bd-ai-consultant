@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048447-emails-view-contacts",
+  "title": "Emails » View Contacts",
+  "text": "\n## Emails » View Contacts\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000048447\nIn this section the contacts that have been added to the site through various forms are stored:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145529535/original/djrcVYEWGNBuD1of3MEyUSJUcNE7e34tSA.png?1719523950 | alt: ]\nSearch and filter through these contacts by:\n1. Name\n2. Email Address\n3. Form Submitted\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358452/original/EDhSJl6yngLAnamKWaIc_LoiTPyq-oAZ_Q.png?1781313728 | alt: ]\nWithin \" Actions \" there is a set of actions:\n1. Edit\n2. Email\n3. Delete\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358454/original/CK-UyWI55ivyiFle04w3hycINlgEMajPzw.png?1781313758 | alt: ]\nWhen editing there are 6 different sections to add or edit various information:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358557/original/NSUqy6W9P1vT-p-f6T8kJ7P4OHLB3zFMdA.png?1781313991 | alt: ]\nClick on Save Changes , to have all of the contact information saved properly in the system.\n\n## Export Contacts\nThe Contacts can be exported by hovering over the Contact List Actions - Export Results:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145529601/original/ZjAdi1v-w3_Gq-7qHP-YbEj8bDBoA3ytmg.png?1719523999 | alt: ]\nImportant note : this functionality is part of the Export Member Data addon: Export Member Data",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145529535/original/djrcVYEWGNBuD1of3MEyUSJUcNE7e34tSA.png?1719523950",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358452/original/EDhSJl6yngLAnamKWaIc_LoiTPyq-oAZ_Q.png?1781313728",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358454/original/CK-UyWI55ivyiFle04w3hycINlgEMajPzw.png?1781313758",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358557/original/NSUqy6W9P1vT-p-f6T8kJ7P4OHLB3zFMdA.png?1781313991",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145529601/original/ZjAdi1v-w3_Gq-7qHP-YbEj8bDBoA3ytmg.png?1719523999",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2cbd461147760e1235869b8458e17a48a2fb8e07a430532962cf1d73e86fc24b",
+  "ingested_at": "2026-10-17T14:40:04.520559+00:00"
+}

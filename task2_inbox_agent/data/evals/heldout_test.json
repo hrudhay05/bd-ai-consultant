@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "model": "openai/gpt-oss-120b",
+    "prompt": "draft-v3 / classify-v2",
+    "test_emails": 9,
+    "completed": 0,
+    "category_correct": 0,
+    "urgency_correct": 0,
+    "risk_correct": 0,
+    "guard_passed": 0
+  },
+  "results": [
+    {
+      "id": "HT-10",
+      "subject": "Where do I edit my homepage text?",
+      "expected_category": "how_to",
+      "expected_urgency": "low",
+      "expected_risk": "low",
+      "category": "how_to",
+      "urgency": "normal",
+      "risk": "low",
+      "injection": false,
+      "status": "draft_failed",
+      "guard_passed": null,
+      "violations": [],
+      "attempts": null,
+      "total_ms": 36244,
+      "reply_body": null,
+      "reply_must": [
+        "use evidence about the homepage",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "invent menu names that are not in the evidence"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (LLM output could not be parsed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kp6dsa6te1tbgv8s0d9a963v` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199955, Requested 743. Please try again in 5m1.536s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}).",
+        "Draft failed after 3 attempts: Groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kp6dsa6te1tbgv8s0d9a963v` service tier `on_demand` on tokens per day (TPD): Limit 200000, "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000028489-how-to-change-the-name-tab-title-url-of-a-post-type",
+  "title": "How To Change The Name, Tab Title & URL Of A Post Type",
+  "text": "\n## How To Change The Name, Tab Title & URL Of A Post Type\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000028489\nTo change the title of a post type, please do the following:\nGo to Content >> Edit Post Settings\nFind the post type that needs to be renamed and click on Edit , for this, we are going to use the Classified Post Type as an example.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005646/original/BtmxC9KeCCZQDPUWmxffSXM85k6NZDqGXA.png?1789066758 | alt: ]\n\n## Post Type Name\nIn the General Settings Tab (Add an unique name for the post):\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005696/original/h9-ObQ7TrdloFS7wp4ktYT0Sxhnv7lpq_Q.png?1789066799 | alt: ]\n\n## URL Permalink\nUpdate the URL to match the name:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005708/original/kmqKmf7A3QnWUUObsEcu8AtSh5grTDi8xQ.png?1789066828 | alt: ]\n\n## Profile Page Tab Title\nProfile Page Design Tab (This is the title that is going to show up on the Member's Profile):\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005746/original/YLO-t-0-AC9gqNfiNXwTK6G-inZU8Nq7LQ.png?1789066878 | alt: ]\n\n## Search Results Page Title\nSearch Results Design (This title is going to appear when accessing the actual search results visible to the visitors and other members)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005777/original/mqVV2cW6l-8nFVDrVqQyA-DfFr-nZbPNlA.png?1789066930 | alt: ]\nLastly, click on Save Changes.\n\n## Confirm Changes\nWhen Saving the Post Type, a message will display to confirm this change: \"The URL of this Post Type is being changed from classifieds to brilliant-classifieds. This action will also update the slug URL of all associated posts.\"\nThis means that already created posts showing under the URL  /classifieds now are going to display under /brilliant-classiffieds.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005872/original/fAwVobIMr1kMafVjXNrJY__jwzzzXD6c6w.png?1789066993 | alt: ]\nMake sure to always refresh the cache of the website to see the changes: Refreshing Live Site\n\n## Changed Title and URL\nThe new Title and URL will be automatically updated and display on the front end.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005927/original/mQ-qSH3qNzNC54ccr9GVLJZuX513FQ9N1w.png?1789067090 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005646/original/BtmxC9KeCCZQDPUWmxffSXM85k6NZDqGXA.png?1789066758",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005696/original/h9-ObQ7TrdloFS7wp4ktYT0Sxhnv7lpq_Q.png?1789066799",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005708/original/kmqKmf7A3QnWUUObsEcu8AtSh5grTDi8xQ.png?1789066828",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005746/original/YLO-t-0-AC9gqNfiNXwTK6G-inZU8Nq7LQ.png?1789066878",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005777/original/mqVV2cW6l-8nFVDrVqQyA-DfFr-nZbPNlA.png?1789066930",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005872/original/fAwVobIMr1kMafVjXNrJY__jwzzzXD6c6w.png?1789066993",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005927/original/mQ-qSH3qNzNC54ccr9GVLJZuX513FQ9N1w.png?1789067090",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1928bf42772896b7c03e53d872e65ee200e7a0425d6a88ef50772001d39d7f88",
+  "ingested_at": "2026-10-17T14:35:03.949822+00:00"
+}

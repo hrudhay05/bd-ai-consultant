@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000044521-google-website-translator",
+  "title": "Google Website Translator",
+  "text": "\n## Google Website Translator\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000044521\n\n## Overview\nGrowing and managing an international directory or membership website can be challenging… especially if the members and users speak different languages.\nThe Google Website Translator add-on will add a drop-down menu to the website, allowing users to select their language. Once selected, Google Translate will be used to translate the front-end of the website to the user’s selected language.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Google Website Translator Add-On\n\n## Enabling the Add-On\n1. Settings » Design Settings » General » Header Design:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094237130/original/EwOHRdMc86WOblc0-P7rnGcaDKG-N2VyCg.png?1623969392 | alt: ]\nThis tool will appear in the header:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083729739/original/uJcLBWS5TvlMZ1zYtmjrplolwHaFVlywcw.png?1602852686 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083729762/original/Xg0pOmLwotNYt_P8WjNVJ_mZj2N4e-2nUA.png?1602852710 | alt: ]\nTo revert the site back to the original language, use the \" Show Original \" button that appears at the top of the web page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083729823/original/mJIxGMqAun99mUXdoA5zWsk3Z2_4M9YcJQ.png?1602852778 | alt: ]\n** Google Translate won't show the default website language as an option in the drop-down because technically, there is no need to translate it since that's the main language of the website. **\n\n## Additional Functionality\nThe admin will be able to change the wording that displays instead of the usual \"Select Language\" by editing the text label select_language_option_google_translate :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095063049/original/v9Gia3zfaSWVFdzQOfO8OFAINI9BP2Evhw.png?1625513490 | alt: ]\nBy default it will be blank making the \"Select Language\" appear, once the new text is added it will replace it:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095063208/original/4vxxP4UxQFTGYFpW1ivHshYn1QNm_VIwVA.png?1625513967 | alt: ]\nWith this add-on it is also possible to limit the languages available that can be translated. To do this, follow the steps below.\n1. Go to Settings » Advanced Settings, search for:\n» translate_languages\nEdit the languages here -\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095130784/original/5RnuOV9xtKTfuZTqPk-HkaVmkFxtEdiWYA.png?1625622206 | alt: ]\nSee the list of the languages using the link below:\nhttps://cloud.google.com/translate/docs/languages",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094237130/original/EwOHRdMc86WOblc0-P7rnGcaDKG-N2VyCg.png?1623969392",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083729739/original/uJcLBWS5TvlMZ1zYtmjrplolwHaFVlywcw.png?1602852686",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083729762/original/Xg0pOmLwotNYt_P8WjNVJ_mZj2N4e-2nUA.png?1602852710",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083729823/original/mJIxGMqAun99mUXdoA5zWsk3Z2_4M9YcJQ.png?1602852778",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095063049/original/v9Gia3zfaSWVFdzQOfO8OFAINI9BP2Evhw.png?1625513490",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095063208/original/4vxxP4UxQFTGYFpW1ivHshYn1QNm_VIwVA.png?1625513967",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095130784/original/5RnuOV9xtKTfuZTqPk-HkaVmkFxtEdiWYA.png?1625622206",
+      "alt": ""
+    }
+  ],
+  "content_hash": "00214cbaf23a6d8f185be774d6036831e412448a84524f105e768cc590c317fe",
+  "ingested_at": "2026-10-17T14:38:13.989810+00:00"
+}

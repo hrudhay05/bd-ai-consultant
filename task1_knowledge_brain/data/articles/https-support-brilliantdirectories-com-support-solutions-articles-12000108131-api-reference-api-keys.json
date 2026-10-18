@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108131-api-reference-api-keys",
+  "title": "API Reference - API Keys",
+  "text": "\n## API Reference - API Keys\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108131\n← Back to API Reference | Getting Started\n\n## API Keys\nAPI Keys are the credentials used to authenticate requests to the Brilliant Directories API. Each key has a name (for identification), a token (the secret value sent in the X-Api-Key header), and an active/inactive status. API keys can be created and managed from your admin panel under API Settings.\n\n## The API Key Object\nField Type Description api_key_id integer Unique API key ID (primary key, read-only) api_name string Descriptive nickname for this API key (EG Zapier Integration , Mobile App ); max 500 characters required on create api_token string The secret token value sent in the X-Api-Key request header; max 500 characters required on create api_status integer Whether this key is active; 1 = active, 0 = inactive. Inactive keys are rejected by the API added_by integer Foreign key referencing the administrator who created this key required on create created datetime Datetime when this API key was created\n\n## List API Keys\n\n## Example Request\n\n## Example Response\n\n## Retrieve an API Key\n\n## Example Request\n\n## Example Response\n\n## Create an API Key\n\n## Example Request\n\n## Example Response\n\n## Update an API Key\n\n## Example Request\n\n## Example Response\n\n## Delete an API Key\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "b81a51866fe2fc050d91aa170d1c1e91b8a7897a2dbbc9508da58e93f913487b",
+  "ingested_at": "2026-10-17T15:41:28.092016+00:00"
+}

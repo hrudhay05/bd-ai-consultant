@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000057266-adding-a-search-widget-for-the-reviews",
+  "title": "Adding a Search Widget for the Reviews",
+  "text": "\n## Adding a Search Widget for the Reviews\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000057266\nNew Brilliant Directories websites include a search widget on the Member Reviews search results page by default. If the widget has been removed or your website does not display it, follow the steps below to add it back.\n1. Go to Interactions >> Member Reviews.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181207717/original/YcZn29WO_cK2j7xDoa0ueKUJlyU0fd2EBw.png?1782755127 | alt: ]\n2. Click on the Member Review settings.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163589853/original/uu3GPhCzRVWxOIVjN7iNTmNdMzDKHVMBXg.png?1751297783 | alt: ]\n3. Click on the Search Results tab.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090362737/original/kH2VTaFPJqt_zrbxOaDoIyo5DF-hJO49eQ.png?1616500210 | alt: ]\n4. Scroll down to expand the \"Additional Settings\" and make sure that the Sidebar To Use is Post Search Results.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090362882/original/-TX1u-m3qc7YUTFm9ZMz1IqnHSLFzFTo8Q.png?1616500383 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098811118/original/ASBS7lDcCpzhaUshxkYZtpClzKGefXUtgw.png?1632837408 | alt: ]\n5. Select in the Sidebar Search Module the Bootstrap Theme - Module - Reviews Search.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090362924/original/yeXvqZdSRa26e57y5o5eVDtuJoMlpOI0KA.png?1616500437 | alt: ]\nWith this setup, it's possible to do searches in the Reviews search results page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12050674633/original/Acx2bM4tHi-imi6cJzsmPfzUqAQvO1m3cQ.png?1557847559 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181207717/original/YcZn29WO_cK2j7xDoa0ueKUJlyU0fd2EBw.png?1782755127",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163589853/original/uu3GPhCzRVWxOIVjN7iNTmNdMzDKHVMBXg.png?1751297783",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090362737/original/kH2VTaFPJqt_zrbxOaDoIyo5DF-hJO49eQ.png?1616500210",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090362882/original/-TX1u-m3qc7YUTFm9ZMz1IqnHSLFzFTo8Q.png?1616500383",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098811118/original/ASBS7lDcCpzhaUshxkYZtpClzKGefXUtgw.png?1632837408",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090362924/original/yeXvqZdSRa26e57y5o5eVDtuJoMlpOI0KA.png?1616500437",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12050674633/original/Acx2bM4tHi-imi6cJzsmPfzUqAQvO1m3cQ.png?1557847559",
+      "alt": ""
+    }
+  ],
+  "content_hash": "4200e4370fac6ed6c676df3e602063788838bb03d5cbcb271d2bf2d6bc509d13",
+  "ingested_at": "2026-10-17T14:42:46.839532+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000063347-edit-checkout-pages-translate-billing-country-or-state-fields-dropdown",
+  "title": "Edit Checkout Pages: Translate Billing Country or State Fields Dropdown",
+  "text": "\n## Edit Checkout Pages: Translate Billing Country or State Fields Dropdown\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000063347\n\n## Editing States or Provinces\nTo edit states or provinces, contact support by clicking here and request that the Advanced Setting ‘Use Custom States / Provinces List’ be enabled.\nThe system will use the website's local list of states/provinces in the drop-down menu when this setting is enabled.\nThis setting is useful when a custom list of states is required or to translate the states and provinces to a different language. When this is turned on, the admin can modify the states directly in the MySQL Database.\n\n## Editing Countries\nCurrently, the only way to translate country names is through the database.\nNote: Contacting support is not required for this process.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393507/original/shGswcGbBwvUppVPVqMicgS1oLbnAKy6Ow.png?1620610268 | alt: ]\n\n## Steps to Edit Countries and States / Provinces\n1. Go to Developer Tools » MySQL Database:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105383568/original/ukK30ereDEEoCx8E-2OFV5WfdxlJKZxrMg.png?1645474960 | alt: ]\n2. Click the \"Directory\" option in the left sidebar. This will open the available tables that are inside the \"Directory\" folder:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538390/original/lZWP1M_RQk9jc3qwuiAGdwftTl4Dds9StQ.png?1569946259 | alt: ]\n3. In the left sidebar, find the table called \" list_countries \" to edit the Countries . And find the table called \" list_states \" to edit States and Provinces .\n4. Double-click the country name that needs to be translated (Step 2 below) and press Enter when finished.\nChanges are saved automatically.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538558/original/gV9masTx99ngqnrEQFraodXOdCC4BDnNzQ.png?1569946441 | alt: ]\nFor example, to translate a country name into Spanish:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538984/original/GvhZkvsF3VSXKo4osRtX7voIs_pP7pPZKg.gif?1569946908 | alt: ]\nTo go to the next page, click here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538598/original/el59ttVR4wvo4wAzaHyCZCq82j6s3maERw.png?1569946505 | alt: ]\nOnce the translation or editing has been completed, close the database and return to the Admin Dashboard » Refresh Live Website.\n\n## State Drop-downs\nIf the \"Country\" field is hidden in the form (for example, in the Checkout or Sign Up pages), the State/Province dropdown will not load any values unless a default country value is defined.\nThis happens because the State field is dynamically populated based on the Country field selection . If the country is not selected or preset, the system doesn't know which states to load.\nHow to Fix:\nFor example, if the state dropdown should show U.S. states, but the Country field is hidden, add the country code as the default value (US) to that field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162912282/original/q0yvBMnCNjxp7-9RxgB1nZQA5EyFl3lh0Q.png?1750086048 | alt: ]\nYou can do this in the Form Manager:\nGo to Settings > Form Manager .\nGo to Settings > Form Manager .\nFind the Member - Sign Up form (or the form you're editing).\nFind the Member - Sign Up form (or the form you're editing).\nLocate the country_code field (even if it's hidden).\nLocate the country_code field (even if it's hidden).\nClick the Gear icon to open the Field Settings.\nClick the Gear icon to open the Field Settings.\nAdd US as the Default Value .\nAdd US as the Default Value .\nSave the form.\nSave the form.\nOnce set, the state dropdown will correctly populate with U.S. states even if the Country field is hidden.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393507/original/shGswcGbBwvUppVPVqMicgS1oLbnAKy6Ow.png?1620610268",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105383568/original/ukK30ereDEEoCx8E-2OFV5WfdxlJKZxrMg.png?1645474960",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538390/original/lZWP1M_RQk9jc3qwuiAGdwftTl4Dds9StQ.png?1569946259",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538558/original/gV9masTx99ngqnrEQFraodXOdCC4BDnNzQ.png?1569946441",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538984/original/GvhZkvsF3VSXKo4osRtX7voIs_pP7pPZKg.gif?1569946908",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538598/original/el59ttVR4wvo4wAzaHyCZCq82j6s3maERw.png?1569946505",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162912282/original/q0yvBMnCNjxp7-9RxgB1nZQA5EyFl3lh0Q.png?1750086048",
+      "alt": ""
+    }
+  ],
+  "content_hash": "71449ea117f724bcf2098f721cdee9be3726dd2bcac8254dee6dd57eeb9c6ca8",
+  "ingested_at": "2026-10-17T14:44:06.672561+00:00"
+}

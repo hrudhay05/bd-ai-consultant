@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108120-api-reference-countries",
+  "title": "API Reference - Countries",
+  "text": "\n## API Reference - Countries\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108120\n← Back to API Reference | Getting Started\n\n## Countries\nThe Countries table is a global reference list of country codes and names used throughout the platform for member location fields, search filtering, and geographic data validation. This is a read-only reference table; while CRUD endpoints are available, typical usage is GET operations only to look up valid country codes and names.\n\n## The Country Object\nField Type Description country_id integer Unique country ID (primary key, read-only) country_code string ISO 3166-1 alpha-2 country code (EG US , CA , GB ); 2 characters country_name string Full country name (EG United States ); max 255 characters active integer Whether this country is active in the platform; 1 = active, 0 = inactive\n\n## List Countries\nReturns a paginated list of country records.\n\n## Example Request\n\n## Example Response\n\n## Retrieve a Country Record\n\n## Example Request\n\n## Example Response\n\n## Create a Country Record\nCreates a new country record. This endpoint is available but not typically needed as the platform ships with a complete country list.\n\n## Example Request\n\n## Example Response\n\n## Update a Country Record\n\n## Example Request\n\n## Example Response\n\n## Delete a Country Record\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "1f84508168fbf1e053a859efc55b1fc9734b6f7e30975cda2f6e844637effe36",
+  "ingested_at": "2026-10-17T15:41:09.774304+00:00"
+}

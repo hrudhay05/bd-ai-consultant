@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000071871-my-members-smart-lists",
+  "title": "My Members » Smart Lists",
+  "text": "\n## My Members » Smart Lists\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000071871\nSmart Lists can be created based on member search results using the filters available in the Search Members section under My Members. Smart Lists must be generated directly from search results; they cannot be created by manually selecting individual members.\nTo begin, navigate to My Members >> Search Members and execute a query using any combination of the available filters. Once the search results are displayed, the option to save them as a Smart List will be available.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160404191/original/FoOj96XuZwolLvPEZHVp0ob47h-OKaEYOQ.jpeg?1745545290 | alt: ]\nMore information about this section can be found in the article linked below:\nSearch Members Overview\n\n## Create Smart List\nOnce a search for members has been completed, a smart list can be created of this result by clicking on the Create Smart List from Current Result option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160404190/original/KLHJH1Yh_NGB1i4QyaQ6pyVywYZniRMCSQ.png?1745545279 | alt: ]\nOnce clicked, a module will display where the name of this smart list can be specified:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093618693/original/SKsT9x2ku9g7zmfi9ydh8s9-Jv2gpDWdoA.png?1622832858 | alt: ]\nThe following success message will show up once the list has been created successfully:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093618792/original/TZjQ2pjKwR08ohucD1b4_DicM8Dd_ITQxw.png?1622833007 | alt: ]\n\n## View/Edit Smart List\nTo view and edit the newly created list, navigate to My Members >> Smart Lists\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169866239/original/sxHCmKWRZYfz3YFq-OWfFSiruIIF97lFTA.jpeg?1761939921 | alt: ]\n\n## Bulk Actions\nProvides a single bulk action, Delete , which is useful for removing multiple smart lists at once.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169867280/original/ZDoDE1N8Nu35bROkjKw_5br2tktVRQV9kw.png?1761940891 | alt: ]\n\n## Edit\nOpens a window allowing the admin to rename the smart list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169867159/original/Hq1oOcX2y_atM2dQOCppIVL-b4B879YKfQ.png?1761940830 | alt: ]\n\n## Export Email List\nExports the smart list into a downloadable CSV file (requires the Export Member Data Add-On to be active).\n\n## Delete\nManually deletes a single smart list at a time.\n\n## Sort Filters\nOffers four sorting arrangements:\nCreated Date (Newest First)\nCreated Date (Oldest First)\nList Name (A-Z)\nList Name (Z-A)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169867121/original/8XCUvAHL0tQs1c_zDsbxIBv2qJpS4QLyMA.png?1761940750 | alt: ]\n\n## Keyword Search\nSimplifies finding a specific list when managing a large quantity of smart lists.\n\n## List Size\nDisplays the total number of members currently matching the criteria of the list.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160404191/original/FoOj96XuZwolLvPEZHVp0ob47h-OKaEYOQ.jpeg?1745545290",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160404190/original/KLHJH1Yh_NGB1i4QyaQ6pyVywYZniRMCSQ.png?1745545279",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093618693/original/SKsT9x2ku9g7zmfi9ydh8s9-Jv2gpDWdoA.png?1622832858",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093618792/original/TZjQ2pjKwR08ohucD1b4_DicM8Dd_ITQxw.png?1622833007",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169866239/original/sxHCmKWRZYfz3YFq-OWfFSiruIIF97lFTA.jpeg?1761939921",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169867280/original/ZDoDE1N8Nu35bROkjKw_5br2tktVRQV9kw.png?1761940891",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169867159/original/Hq1oOcX2y_atM2dQOCppIVL-b4B879YKfQ.png?1761940830",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169867121/original/8XCUvAHL0tQs1c_zDsbxIBv2qJpS4QLyMA.png?1761940750",
+      "alt": ""
+    }
+  ],
+  "content_hash": "61d26545c7876e77f866f31d902fed9e91be5306e3fe33a18a4367ce6e7130f6",
+  "ingested_at": "2026-10-17T14:46:42.727922+00:00"
+}

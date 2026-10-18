@@ -1,0 +1,101 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000098293-design-settings-homepage-select-content-to-display-homepage-hero-divider",
+  "title": "Design Settings » Homepage » Select Content to Display » Homepage Hero Divider",
+  "text": "\n## Design Settings » Homepage » Select Content to Display » Homepage Hero Divider\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000098293\n\n## Homepage Hero Divider\nThis article goes over the available settings to edit the Hero Divider section on the homepage of the website. To edit this section navigate to:\nSettings\nDesign Settings\nSelect Content to Display\nHomepage Hero Divider\nThis section is meant to be displayed on the homepage exclusively.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138325235/original/fLCNp87Rh1jgVeRHHByN5-2uIppfVjSXmQ.png?1707235091 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138325330/original/Eo3gm-Gi0JVXqaG9-Tsnjq59BgyCk9EH6w.png?1707235156 | alt: ]\n\n## Visual Guide of the Homepage Hero Divider Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138325604/original/86wdKJSGWVZZQrr9cbXJ-i68cVaOipGnQQ.png?1707235397 | alt: ]\n\n## 1. Icon Or Image\nThis setting controls if this section will display an image or if an icon is going to be used instead.\n\n## Icon\nThis will set the icon for the logo\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138326206/original/M9y4VWxpXFzp5RjO6NmegtjaV69r4o3_wg.png?1707235786 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138326289/original/4HKQk-57iWvtyU_QU8usO9ZPl7wP95XIjw.png?1707235807 | alt: ]\n\n## Image\nThis will set the image that will be used instead of the logo icon and slogan.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138327936/original/95qgkcDm9ILELoqk1th1fBWWyP9Mx8hRHw.png?1707236948 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138326671/original/WjkXHNZT3kEFWL1RrYRtBENbVe32MQLgFQ.png?1707236024 | alt: ]\n\n## 2. Hide On Mobile?\nThis setting controls if this section will be displayed on mobile devices or not.\n\n## No\nThis will show the section on mobile devices.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328026/original/PVcaOJDN3cAMOi1RlHMYnWkwbBhhMgOMqQ.png?1707237037 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328124/original/J_JXIzBVYFI9W-06In2boOmE6IP8lf-lTQ.png?1707237117 | alt: ]\n\n## Yes\nThis will hide the section on mobile devices\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328026/original/PVcaOJDN3cAMOi1RlHMYnWkwbBhhMgOMqQ.png?1707237037 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328243/original/16tTF83w8IODgHjA3YRQJsu_lzywP7iq0g.png?1707237222 | alt: ]\n\n## 3. Icon Image 1\nThis setting controls the first icon on the section, click the image of the icon to view the available options.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328559/original/lqAjuk8EeAjtyvnCcbUhHlbIQY_RlEJRvQ.png?1707237526 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328650/original/-YK_930ca0kiJ0LeXODE-362h3ggmkfZBQ.png?1707237583 | alt: ]\n\n## 4. 1 - Title\nThis setting controls the first title on the section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328800/original/H-99HKrOgqmnRHpgQ4TLBgqil8D4sfV1bg.png?1707237711 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328836/original/AmzFc3Fl6aaw3Tr9aJ43brTi7vUSzyEKJg.png?1707237750 | alt: ]\n\n## 5. 1 - Caption\nThis setting controls the first Caption on the section. The variable used in this section is custom_117\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329379/original/ZUGx1u44w7QmSeKIuyrxNKI0rUkvEUCP-w.png?1707238297 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329004/original/U0s_9mhjlQxrdYdXDljG67bIsNixhCOq6Q.png?1707237942 | alt: ]\n\n## 6. 1 - Link Text\nThis setting controls the first Link Text on the section. If the link needs to open in a new tab, make sure to select the option \"Open New Tab \"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329242/original/AqnXC0wb8X3V0AFOu7fla7-I3mA5zyCQfQ.png?1707238215 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329004/original/U0s_9mhjlQxrdYdXDljG67bIsNixhCOq6Q.png?1707237942 | alt: ]\n\n## 7. 1 - Link URL\nThis setting controls the first Link Text on the section. If the link needs to open in a new tab, make sure to select the option \"Open New Tab \"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329242/original/AqnXC0wb8X3V0AFOu7fla7-I3mA5zyCQfQ.png?1707238215 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329004/original/U0s_9mhjlQxrdYdXDljG67bIsNixhCOq6Q.png?1707237942 | alt: ]\n\n## 8. 1 - Link URL\nThis setting controls the first Link Text on the section. If the link needs to open in a new tab, make sure to select the option \"Open New Tab \"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329242/original/AqnXC0wb8X3V0AFOu7fla7-I3mA5zyCQfQ.png?1707238215 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329004/original/U0s_9mhjlQxrdYdXDljG67bIsNixhCOq6Q.png?1707237942 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138325235/original/fLCNp87Rh1jgVeRHHByN5-2uIppfVjSXmQ.png?1707235091",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138325330/original/Eo3gm-Gi0JVXqaG9-Tsnjq59BgyCk9EH6w.png?1707235156",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138325604/original/86wdKJSGWVZZQrr9cbXJ-i68cVaOipGnQQ.png?1707235397",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138326206/original/M9y4VWxpXFzp5RjO6NmegtjaV69r4o3_wg.png?1707235786",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138326289/original/4HKQk-57iWvtyU_QU8usO9ZPl7wP95XIjw.png?1707235807",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138327936/original/95qgkcDm9ILELoqk1th1fBWWyP9Mx8hRHw.png?1707236948",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138326671/original/WjkXHNZT3kEFWL1RrYRtBENbVe32MQLgFQ.png?1707236024",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328026/original/PVcaOJDN3cAMOi1RlHMYnWkwbBhhMgOMqQ.png?1707237037",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328124/original/J_JXIzBVYFI9W-06In2boOmE6IP8lf-lTQ.png?1707237117",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328026/original/PVcaOJDN3cAMOi1RlHMYnWkwbBhhMgOMqQ.png?1707237037",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328243/original/16tTF83w8IODgHjA3YRQJsu_lzywP7iq0g.png?1707237222",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328559/original/lqAjuk8EeAjtyvnCcbUhHlbIQY_RlEJRvQ.png?1707237526",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328650/original/-YK_930ca0kiJ0LeXODE-362h3ggmkfZBQ.png?1707237583",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328800/original/H-99HKrOgqmnRHpgQ4TLBgqil8D4sfV1bg.png?1707237711",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138328836/original/AmzFc3Fl6aaw3Tr9aJ43brTi7vUSzyEKJg.png?1707237750",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329379/original/ZUGx1u44w7QmSeKIuyrxNKI0rUkvEUCP-w.png?1707238297",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329004/original/U0s_9mhjlQxrdYdXDljG67bIsNixhCOq6Q.png?1707237942",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329242/original/AqnXC0wb8X3V0AFOu7fla7-I3mA5zyCQfQ.png?1707238215",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329004/original/U0s_9mhjlQxrdYdXDljG67bIsNixhCOq6Q.png?1707237942",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329242/original/AqnXC0wb8X3V0AFOu7fla7-I3mA5zyCQfQ.png?1707238215",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329004/original/U0s_9mhjlQxrdYdXDljG67bIsNixhCOq6Q.png?1707237942",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329242/original/AqnXC0wb8X3V0AFOu7fla7-I3mA5zyCQfQ.png?1707238215",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138329004/original/U0s_9mhjlQxrdYdXDljG67bIsNixhCOq6Q.png?1707237942",
+      "alt": ""
+    }
+  ],
+  "content_hash": "31f8cd8be4c8cc5dab065e0e22818ec6eec4a1c093b2cf237f1b4eae444c40b5",
+  "ingested_at": "2026-10-17T15:25:19.534728+00:00"
+}

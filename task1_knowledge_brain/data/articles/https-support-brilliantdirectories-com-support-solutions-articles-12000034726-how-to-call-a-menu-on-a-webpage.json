@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000034726-how-to-call-a-menu-on-a-webpage",
+  "title": "How To Call A Menu On A Webpage",
+  "text": "\n## How To Call A Menu On A Webpage\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000034726\nIn this article, you will learn how to call a menu on a webpage or within a widget.\nTo do this, navigate to Toolbox >> Widget Manager , then click Copy Shortcode under Actions for the desired menu. In this example, the shortcode from the Side by Side Pricing Menu ( add-on ) is used.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301065/original/ud64sVOkqyyubFICavJIdEd_2ol7X9f6Bg.png?1781230549 | alt: ]\nAfter copying the shortcode, it can be used on any webpage or widget. For this example, the menu is added to a new webpage with the URL /pricing-test . Navigate to Content >> Web Page Builder and click New Web Page .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301076/original/L3PeGxxtMPSC2ZXqz0LwkTX9iYbA117PLg.png?1781230603 | alt: ]\nPaste the copied shortcode into the content area, assign a unique URL, and click Save Web Page .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301095/original/Mfu43kwUYkOG5NFX5DQOlx5PFEy8tfuxuQ.png?1781230665 | alt: ]\nThe menu will render automatically on the new webpage.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301126/original/19FcpcyzqIriSoZbWYwZqRCwYIXNoZfr-Q.png?1781230703 | alt: ]\nThe same approach can be used to display a menu inside a widget. Copy the shortcode for the desired menu and paste it into the HTML tab of a custom or default widget.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301149/original/DP2klTxpuvuKa7p5_U4BzvkkfzkLnjCHoQ.png?1781230774 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301065/original/ud64sVOkqyyubFICavJIdEd_2ol7X9f6Bg.png?1781230549",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301076/original/L3PeGxxtMPSC2ZXqz0LwkTX9iYbA117PLg.png?1781230603",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301095/original/Mfu43kwUYkOG5NFX5DQOlx5PFEy8tfuxuQ.png?1781230665",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301126/original/19FcpcyzqIriSoZbWYwZqRCwYIXNoZfr-Q.png?1781230703",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301149/original/DP2klTxpuvuKa7p5_U4BzvkkfzkLnjCHoQ.png?1781230774",
+      "alt": ""
+    }
+  ],
+  "content_hash": "af681927dd1e1b0be579b458d481c626466f4219dc5fc87907fda2ca2c230280",
+  "ingested_at": "2026-10-17T14:36:13.873046+00:00"
+}

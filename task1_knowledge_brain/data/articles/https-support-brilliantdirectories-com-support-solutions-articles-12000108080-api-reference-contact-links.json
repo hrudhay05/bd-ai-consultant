@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108080-api-reference-contact-links",
+  "title": "API Reference - Contact Links",
+  "text": "\n## API Reference - Contact Links\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108080\n← Back to API Reference | Getting Started\n\n## Contact Links\nContact Links are junction records that associate a contact with another object in the system, such as a contact category or a member profile. Each record links a single contact to a single related record, allowing contacts to be organized into groups or assigned to members.\n\n## The Contact Link Object\nField Type Description link_id integer Unique link ID (primary key, read-only) contact_id integer ID of the contact being linked link_db string Name of the table being linked to (EG contact_categories , users_data ) rel_id integer ID of the record in the link_db table link_order integer Display sort order for this link link_date string Date the link was created (format: YYYYMMDDHHmmss ) user_id integer ID of the user who created the link ( 0 for system-created) revision_timestamp timestamp Timestamp of last record modification (auto-managed)\n\n## List Contact Links\n\n## Example Request\n\n## Example Response\n\n## Retrieve a Contact Link\n\n## Example Request\n\n## Example Response\n\n## Create a Contact Link\n\n## Example Request\n\n## Example Response\n\n## Update a Contact Link\n\n## Example Request\n\n## Example Response\n\n## Delete a Contact Link\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "ad114c1686e7868d8622560fe28e536040894bd6234d994caa8582c978044e68",
+  "ingested_at": "2026-10-17T15:40:08.279009+00:00"
+}

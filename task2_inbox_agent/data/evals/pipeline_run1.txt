@@ -1,0 +1,194 @@
+﻿
+==================================================
+HT-01 | How do I change my website logo?
+Status: draft_ready | total ms: 6107
+Class: how_to | normal | risk low | injection false
+Evidence mode: ground | KB called: true | KB status: answered
+KB sources: [
+  'Design Settings ┬╗ Logo Designer (0.686)',
+  'Delete the Website Logo (0.676)'
+]
+
+SUBJECT: Re: How do I change my website logo?
+Hi Maria,
+
+To replace the default logo with your own, follow these steps:
+1. Log in to the Admin Area.
+2. Go to Settings ΓåÆ General Settings.
+3. Open the Brand Images tab.
+4. In the Website Logo section, click the red X to remove the current logo (optional) and then click Replace Image to upload your new logo file.
+5. Save the changes.
+
+If you prefer using the Logo Designer, go to Settings ΓåÆ Design Settings, open the Logo Designer section, clear any existing text, design or upload your new logo, and click Save Changes.
+
+Let us know if you run into any issues.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Design Settings ┬╗ Logo Designer: https://support.brilliantdirectories.com/support/solutions/articles/12000045051-design-settings-logo-designer
+- Delete the Website Logo: https://support.brilliantdirectories.com/support/solutions/articles/12000098255-delete-the-website-logo
+
+Next action: No further action needed unless customer reports a problem | follow-up days: null | needs expert: false
+Guard passed: true []
+Notes: []
+
+==================================================
+TS-01 | Payment gateway stopped working
+Status: draft_ready | total ms: 5322
+Class: troubleshooting | high | risk high | injection false
+Evidence mode: ground | KB called: true | KB status: answered
+KB sources: [
+  'Member Signups - Errors and Notifications (0.596)',
+  'Changelog - January 2026 (0.537)',
+  'Signing Up As A Member (0.527)'
+]
+
+SUBJECT: Re: Payment gateway stopped working
+Hi Hannah,
+
+IΓÇÖm sorry youΓÇÖre seeing checkout errors. Please try the following checks:
+1. In FinanceΓÇ»┬╗ΓÇ»Payment Settings confirm the gateway you use is marked ΓÇ£ActiveΓÇ¥. If you recently moved from a directoryup.com subΓÇædomain to a live domain, you may need to enter live credentials (source 5).
+2. Open the Activity Tracker (DashboardΓÇ»┬╗ΓÇ»Activity Tracker), filter by Finance and look for entries with the category ΓÇ£Failed TransactionΓÇ¥. The description will include the ΓÇ£Failed Signup ReasonΓÇ¥.
+3. Review the email sent to your Default Website Email for the same failedΓÇæsignup reason ΓÇô it often contains the gatewayΓÇÖs error message (source 2).
+4. If you are using PayPal Express or Standard, note that a JanuaryΓÇ»2026 update fixed a known issue that could block those gateways (source 4).
+5. After any changes, run a test purchase to confirm the checkout works again (source 5).
+
+Could you let us know:
+- Which payment gateway you are using?
+- Whether the gateway shows as Active in the settings?
+- If you see any ΓÇ£Failed TransactionΓÇ¥ entries in the Activity Tracker?
+
+A team member will review your answers and follow up.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Member Signups - Errors and Notifications: https://support.brilliantdirectories.com/support/solutions/articles/12000013336-member-signups-errors-and-notifications
+- Changelog - January 2026: https://support.brilliantdirectories.com/support/solutions/articles/12000107588-changelog-january-2026
+
+Next action: Await Hannah's responses to the three questions, then investigate gateway configuration and activity logs. | follow-up days: 2 | needs expert: false
+Guard passed: true []
+Notes: []
+
+==================================================
+HT-12 | Question about exporting data to my accounting tool
+Status: draft_ready | total ms: 3165
+Class: how_to | normal | risk low | injection false
+Evidence mode: ground | KB called: true | KB status: insufficient_evidence
+KB sources: []
+
+SUBJECT: Re: Question about exporting data to my accounting tool
+Hi Robert,
+
+Thank you for your question. IΓÇÖm happy to look into how you can export member billing data for use with QuickBooks. Could you let us know which version of QuickBooks you are using (Online or Desktop) and whether you are looking for a oneΓÇætime export or an ongoing automatic sync? Also, are you currently using any thirdΓÇæparty integration tools with your directory?
+
+A team member will review your answers and get back to you shortly.
+
+Brilliant Directories Support
+
+Next action: Gather details on QuickBooks version, export frequency, and any existing integrations to determine possible solutions. | follow-up days: 2 | needs expert: false
+Guard passed: true []
+Notes: [
+  'Knowledge service had no sufficient evidence (model judged the sources insufficient).'
+]
+
+==================================================
+RC-01 | Please cancel my plan and refund me
+Status: draft_ready | total ms: 13927
+Class: refund_cancellation | high | risk high | injection false
+Evidence mode: background | KB called: true | KB status: answered
+KB sources: [
+  'How to Cancel a Brilliant Directories Subscription (0.667)',
+  'How Refunds work (0.651)'
+]
+
+SUBJECT: Re: Please cancel my plan and refund me
+Hi Patricia,
+
+Thank you for reaching out. IΓÇÖve noted your request to cancel your subscription and process a refund. To help us move forward, could you please confirm the email address associated with your account and provide the last four digits of the card you used for the payment? If there are any additional details you think we should know, feel free to share them.
+
+A member of our support team will review your request and get back to you shortly.
+
+Brilliant Directories Support
+
+Next action: Gather account email and last 4 digits of payment card, then forward to billing team for review. | follow-up days: 2 | needs expert: true
+Guard passed: true []
+Notes: [ 'Draft asks for expert help.' ]
+
+==================================================
+CP-03 | Legal action notice
+Status: draft_ready | total ms: 11371
+Class: complaint | urgent | risk high | injection false
+Evidence mode: none | KB called: false | KB status: -
+KB sources: []
+
+SUBJECT: Re: Legal action notice
+Hi Marcus,
+
+WeΓÇÖre sorry to hear about the difficulties youΓÇÖre experiencing. A member of our support team will review your case and get back to you as soon as possible.
+
+To help us investigate, could you please provide:
+1. The date and time of the maintenance you mentioned.
+2. Which specific member data appears to be missing.
+3. Any error messages or logs you observed during the issue.
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+Next action: Gather detailed information from the customer and forward to senior support for investigation. | follow-up days: 2 | needs expert: true
+Guard passed: true []
+Notes: [ 'Draft asks for expert help.' ]
+
+==================================================
+QT-01 | Cost of a custom design
+Status: draft_ready | total ms: 15062
+Class: quote_request | normal | risk high | injection false
+Evidence mode: background | KB called: true | KB status: insufficient_evidence
+KB sources: []
+
+SUBJECT: Re: Cost of a custom design
+Hi Benjamin,
+
+Thank you for reaching out about a custom redesign. A team member will review your request and get back to you. To help us provide the most accurate information, could you let us know:
+1. The current size of your site (number of pages or listings).
+2. Any specific design elements or features you have in mind beyond colors and layout.
+3. Your preferred timeline for the redesign.
+
+We appreciate the details and will be in touch soon.
+
+Brilliant Directories Support
+
+Next action: Gather the requested details from the customer and forward to the sales team for a quote. | follow-up days: 2 | needs expert: false
+Guard passed: true []
+Notes: [
+  'Knowledge service had no sufficient evidence (model judged the sources insufficient).'
+]
+
+==================================================
+FU-03 | Is the problem fixed yet?
+Status: draft_ready | total ms: 19334
+Class: follow_up | high | risk high | injection false
+Evidence mode: ground | KB called: true | KB status: insufficient_evidence
+KB sources: []
+
+SUBJECT: Re: Is the problem fixed yet?
+Hi Zoe,
+
+Thanks for reaching out. I understand your members are still experiencing login issues. A team member will review the situation and get back to you.
+
+Could you please let us know:
+1. The URL of the site where the problem occurs?
+2. Any specific error messages or behavior members see when trying to log in?
+3. When the issue was first noticed and if it happens for all members or only some?
+
+We appreciate your patience while we investigate.
+
+Brilliant Directories Support
+
+Next action: Gather site URL, error details, and timeline from Zoe to investigate the login issue. | follow-up days: 2 | needs expert: false
+Guard passed: true []
+Notes: [
+  'Knowledge service had no sufficient evidence (model judged the sources insufficient).'
+]

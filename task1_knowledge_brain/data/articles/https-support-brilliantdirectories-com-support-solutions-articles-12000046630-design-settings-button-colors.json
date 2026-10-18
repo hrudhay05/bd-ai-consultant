@@ -1,0 +1,101 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000046630-design-settings-button-colors",
+  "title": "Design Settings » Button Colors",
+  "text": "\n## Design Settings » Button Colors\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000046630\n\n## Button Colors\nThis article reviews the available button colors for the website, the colors set here will affect all the buttons with that specific CSS class, across the entire website. The available CSS classes are: Primary, Success, Info, Warning, Danger, Default\nTo edit these colors navigate to\nSettings\nDesign Settings\nGeneral\nButton Colors\n\n## Visual Guide of the Button Colors\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134516961/original/iS6QaqDqkkqMdnGth-EJlEYncdCDvtWB-A.png?1700102885 | alt: ]\n\n## Button Corner Style\nThe available options are Rounded , Square, or Circle corners:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134517130/original/iT1YWH2zGYbubhqZ_C6Kvv4YPccZ2QDmWA.png?1700103612 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134516994/original/tV-9pRn_OqWvxeM2fvc5YOpQJxi31z9p_g.png?1700103081 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134517069/original/8E2K-tFtA5HD-9vXAWKXSIg_R3lYiDKxoQ.png?1700103257 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134517096/original/KKv2g2yN-Icu-vUGp6Ai9y0KyXv-E0apxg.png?1700103340 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134517145/original/l6CW6PZv8E75Ub3-QKIwCwlD-_7Mlin_3Q.png?1700103702 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134517155/original/jqrLJn2JSN6n5eL5vCZOOu2lvgtT7_gOJQ.png?1700103753 | alt: ]\n\n## Primary Button Background & Primary Button Text\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698749/original/HU5huJBBcEbLWTvT6XcR9l-U-5I22EGJxg.png?1617154220 | alt: ]\n\n## Success Button Background & Success Button Text\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698756/original/OFZZ58Ma4iJgwGYOiRCXXfeBMtdPARJhWQ.png?1617154235 | alt: ]\n\n## Info Button Background & Info Button Text\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698758/original/IeZUtxrBJZtl9h8uDdFLsHkDYtbdZsvudA.png?1617154251 | alt: ]\n\n## Warning Button Background & Warning Button Text\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698783/original/AB0t5yU0CUrFR-yplHZ4JGx4kQGbSMgO7Q.png?1617154335 | alt: ]\n\n## Danger Button Background & Danger Button Text\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698791/original/7Q81i41MSSoTVPuoxxvVarGebzbw28a8mA.png?1617154348 | alt: ]\n\n## Default Button Background & Default Button Text\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698794/original/2Yovelm2tFe-giIygywcWCdDbx4IY632nw.png?1617154367 | alt: ]\n\n## Bookmark Favorites Button Settings\nThese settings are part of the Bookmark My Favorites Add-On .\nEnable Bookmark Counter\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698901/original/Zrsm5emqIrOlOvuk0LSRB02FNRfx7uktJQ.png?1617154859 | alt: ]\nFavorite Icon\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698892/original/ijs2b5PEeVSZsN0il9LSfNN29zj8LiC6bQ.png?1617154849 | alt: ]\nFavorite Icon Active Color\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698834/original/L8bcJqlZ90GlbQh9bjTov_fGyUEwVX1Xdw.png?1617154564 | alt: ]\nFavorite Icon Disabled Color\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698848/original/M1EmfI8GK79YMVHdRX__7QKlUk45vgFqFg.png?1617154604 | alt: ]\n\n## How To Identify What Button is Used in the Front-End\nButtons are used throughout your site for a wide variety of functions, making it difficult to document every instance where a specific button appears. Instead of attempting to list every location, this guide focuses on helping users identify which button is being used by examining its class in the front end. By inspecting a button's class, it can be determined which color scheme or design settings apply to it.\nFor those unfamiliar with the inspect tool, this resource provides a quick overview:\nHow to Use Inspect Tool in Any Browser\n\n## Primary Button\nThe class btn-primary is applied to this button. Below is an example from the front end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022284/original/I7ZbpgCGoFbEmwCDSoOjpmFyrWzcvgtSEg.png?1737993497 | alt: ]\n\n## Success Button\nThe class btn-success is applied to this button. Below is an example from the front end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022399/original/EY9t6NpiJoQTeb86k84Wt7fTbSsCV3pk9Q.png?1737993593 | alt: ]\n\n## Info Button\nThe class btn-info is applied to this button. Below is an example from the front end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022458/original/cFMmCdX3OZvTV-9h_HMaUfTDP0O5FGXJ3w.png?1737993624 | alt: ]\n\n## Warning Button\nThe class btn-warning is applied to this button. Below is an example from the front end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022627/original/Eg4wM8gNgLyspNcnEAAkEcunjVqxWB2eVQ.png?1737993727 | alt: ]\n\n## Danger Button\nThe class btn-danger is applied to this button. Below is an example from the front end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022650/original/dSjHPE93grpgIKK9FpL_1I84vKCHlLf9bA.png?1737993753 | alt: ]\n\n## Default Button\nThe class btn-default is applied to this button. Below is an example from the front end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022665/original/eCW7vDKLCYPaY_5R7H3jo-RhqM8AzF7Jyg.png?1737993762 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134516961/original/iS6QaqDqkkqMdnGth-EJlEYncdCDvtWB-A.png?1700102885",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134517130/original/iT1YWH2zGYbubhqZ_C6Kvv4YPccZ2QDmWA.png?1700103612",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134516994/original/tV-9pRn_OqWvxeM2fvc5YOpQJxi31z9p_g.png?1700103081",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134517069/original/8E2K-tFtA5HD-9vXAWKXSIg_R3lYiDKxoQ.png?1700103257",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134517096/original/KKv2g2yN-Icu-vUGp6Ai9y0KyXv-E0apxg.png?1700103340",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134517145/original/l6CW6PZv8E75Ub3-QKIwCwlD-_7Mlin_3Q.png?1700103702",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134517155/original/jqrLJn2JSN6n5eL5vCZOOu2lvgtT7_gOJQ.png?1700103753",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698749/original/HU5huJBBcEbLWTvT6XcR9l-U-5I22EGJxg.png?1617154220",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698756/original/OFZZ58Ma4iJgwGYOiRCXXfeBMtdPARJhWQ.png?1617154235",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698758/original/IeZUtxrBJZtl9h8uDdFLsHkDYtbdZsvudA.png?1617154251",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698783/original/AB0t5yU0CUrFR-yplHZ4JGx4kQGbSMgO7Q.png?1617154335",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698791/original/7Q81i41MSSoTVPuoxxvVarGebzbw28a8mA.png?1617154348",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698794/original/2Yovelm2tFe-giIygywcWCdDbx4IY632nw.png?1617154367",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698901/original/Zrsm5emqIrOlOvuk0LSRB02FNRfx7uktJQ.png?1617154859",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698892/original/ijs2b5PEeVSZsN0il9LSfNN29zj8LiC6bQ.png?1617154849",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698834/original/L8bcJqlZ90GlbQh9bjTov_fGyUEwVX1Xdw.png?1617154564",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090698848/original/M1EmfI8GK79YMVHdRX__7QKlUk45vgFqFg.png?1617154604",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022284/original/I7ZbpgCGoFbEmwCDSoOjpmFyrWzcvgtSEg.png?1737993497",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022399/original/EY9t6NpiJoQTeb86k84Wt7fTbSsCV3pk9Q.png?1737993593",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022458/original/cFMmCdX3OZvTV-9h_HMaUfTDP0O5FGXJ3w.png?1737993624",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022627/original/Eg4wM8gNgLyspNcnEAAkEcunjVqxWB2eVQ.png?1737993727",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022650/original/dSjHPE93grpgIKK9FpL_1I84vKCHlLf9bA.png?1737993753",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156022665/original/eCW7vDKLCYPaY_5R7H3jo-RhqM8AzF7Jyg.png?1737993762",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1931d7c5627f783f14d2cda77a82b7759cb63f5245cc5fbe586cda4ef885994a",
+  "ingested_at": "2026-10-17T14:39:10.238824+00:00"
+}

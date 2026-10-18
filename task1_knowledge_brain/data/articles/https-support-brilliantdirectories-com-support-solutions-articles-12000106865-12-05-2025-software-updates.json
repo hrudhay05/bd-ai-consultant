@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000106865-12-05-2025-software-updates",
+  "title": "12/05/2025 - Software Updates",
+  "text": "\n## 12/05/2025 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000106865\nWe made updates to several default widgets this week. If you customized any of these widgets and want to update them, you can find the latest code in the corresponding default widget. Please remember that if you have a custom version of any of these widgets, the latest updates will not be pushed to your website.\nUpdated new “directoryup” websites to include default test credentials for the Stripe Payment Gateway, Google reCAPTCHA, and Google Maps integrations.\nUpdated the lead purchase logic to no longer require credit card information when members have enough credits to complete the purchase.\nFixed an issue that prevented the \" Google Search Assist\" Add-On from working properly on the frontend in some cases.\nUpdated the Domain Manager logic in the Admin to automatically install the SSL Certificate when the \"Manage SSL Security\" Add-On is enabled.\nFixed an issue where the \"Member Profile Analytics\" Add-On was incorrectly counting group post views when viewing post detail pages as an Administrator on the frontend.",
+  "images": [],
+  "content_hash": "102e5c94042bf51db1952798f0ab40ae90fd12b90510fbf8bad616c0b2a28536",
+  "ingested_at": "2026-10-17T15:36:19.778418+00:00"
+}

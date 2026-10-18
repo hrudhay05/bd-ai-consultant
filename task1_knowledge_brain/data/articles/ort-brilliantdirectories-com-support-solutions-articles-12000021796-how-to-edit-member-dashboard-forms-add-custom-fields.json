@@ -1,0 +1,57 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000021796-how-to-edit-member-dashboard-forms-add-custom-fields",
+  "title": "How To Edit Member Dashboard Forms & Add Custom Fields",
+  "text": "\n## How To Edit Member Dashboard Forms & Add Custom Fields\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000021796\nThis article explains how to identify and edit the forms members fill out inside their member dashboard.\nThese forms can be customized by editing existing fields, deleting fields, or adding new custom fields where supported.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091285359/original/pGw8IMBNpwDdx9vmYGj1ZEB_W_BHa3zvBA.png?1618331242 | alt: ]\n\n## Identify the Form Being Used\nBefore editing a form, first confirm which form is assigned to the membership plan.\nGo to:\nFinance\nMembership Plans\nSelect the membership plan to edit\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127606905/original/jMQbVt3j9IOZ7OkuS3PEiIv8KbBBkvPegg.png?1687981563 | alt: ]\nOpen the Member Dashboard tab.\nThis section shows the member dashboard forms enabled for that membership plan.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127606988/original/elQ-LMuoUhe4RD4G4qgAXf6FHIE0U0erzw.png?1687981642 | alt: ]\nClick Edit Form for the form that needs to be updated. From there, form fields can be added, removed, or edited.\n\n## Important Notes\nNew custom fields can be added to the Contact Details and Listing Details forms.\nExisting form fields can be edited or deleted.\nNew fields can technically be added to the About form, but saved information from those fields will not display on the member profile.\nIt is best to finalize form fields before launching the website and before members begin saving profile information.\n\n## Edit an Existing Form Field\nIn this example, an existing field is edited in the Listing - Contact Details - Member Form .\nGo to:\nToolbox\nForm Manager\nClick Customize for the form, or Edit if the form has already been customized\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607051/original/EO1RdCHLk8_ucDQTmsUrjNLJ5JIkyF7ipQ.png?1687981743 | alt: ]\nFind the field that needs to be updated, make the changes, and click Save Changes .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607265/original/bYgtOQdbmv7NxI_V2PjHu7U3GkFMxcsyJw.png?1687981960 | alt: ]\nIn this example, the Company Name field was changed to Business Name .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286143/original/Z4DPY5SlEqYflYvjUgRDrAId2aOJgQyaxw.png?1618332401 | alt: ]\nAfter the member saves the updated field in the dashboard, the updated label will display on the member profile.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286189/original/8SRKEYCGiFuN7ajlEHO2QmagSoHt_NKMkg.png?1618332483 | alt: ]\n\n## Delete an Existing Form Field\nTo delete a field, open the form in the Form Manager and find the field that needs to be removed.\nClick Delete Field from the Actions dropdown.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607300/original/467tpwEWHTUXOHmdZFpQ1AzAzYgcddWgHg.png?1687982015 | alt: ]\nImportant: If a member already saved information in a deleted field, that saved data may still appear on the member profile because it remains stored in the database.\nFor this reason, it is best to finalize form fields before launching the website or before members begin adding profile information.\n\n## Add a New Form Field\nIn this example, a new field is added to the Listing - Additional Details - Member Form .\nGo to:\nToolbox\nForm Manager\nClick Customize for the form, or Edit if the form has already been customized\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607349/original/y6uKxKeJkPmOxE5KVSL7923xyXUoNnWtdQ.png?1687982084 | alt: ]\nClick Add Field . Enter the field details, including the Field Label and Database Variable .\nSelect the field type and enable Display View if the field should display on the member profile.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107066179/original/OQ2YM8LUjdvcsDNb8jf676xGkAcQDD3uvg.png?1648745406 | alt: ]\nOnce saved, the new field will display in the member dashboard form.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286831/original/NbdsqVXeOVQOSeYLwZi6SvGKCCAXR4eWVA.png?1618333367 | alt: ]\nAfter the member saves information in the new field, the field will display on the member profile if Display View is enabled.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286863/original/Jm2Kppj3MVRhXZiYgP6bOzqbNO9hsaLyDQ.png?1618333443 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091285359/original/pGw8IMBNpwDdx9vmYGj1ZEB_W_BHa3zvBA.png?1618331242",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127606905/original/jMQbVt3j9IOZ7OkuS3PEiIv8KbBBkvPegg.png?1687981563",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127606988/original/elQ-LMuoUhe4RD4G4qgAXf6FHIE0U0erzw.png?1687981642",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607051/original/EO1RdCHLk8_ucDQTmsUrjNLJ5JIkyF7ipQ.png?1687981743",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607265/original/bYgtOQdbmv7NxI_V2PjHu7U3GkFMxcsyJw.png?1687981960",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286143/original/Z4DPY5SlEqYflYvjUgRDrAId2aOJgQyaxw.png?1618332401",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286189/original/8SRKEYCGiFuN7ajlEHO2QmagSoHt_NKMkg.png?1618332483",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607300/original/467tpwEWHTUXOHmdZFpQ1AzAzYgcddWgHg.png?1687982015",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607349/original/y6uKxKeJkPmOxE5KVSL7923xyXUoNnWtdQ.png?1687982084",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107066179/original/OQ2YM8LUjdvcsDNb8jf676xGkAcQDD3uvg.png?1648745406",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286831/original/NbdsqVXeOVQOSeYLwZi6SvGKCCAXR4eWVA.png?1618333367",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286863/original/Jm2Kppj3MVRhXZiYgP6bOzqbNO9hsaLyDQ.png?1618333443",
+      "alt": ""
+    }
+  ],
+  "content_hash": "86b60ec122331174164445a02e3557b4ea8a66df4071bc3b85be1663f41b6c87",
+  "ingested_at": "2026-10-17T14:34:24.848588+00:00"
+}

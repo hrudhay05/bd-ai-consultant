@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047896-developer-hub-htaccess-file",
+  "title": "Developer Hub » HTACCESS File",
+  "text": "\n## Developer Hub » HTACCESS File\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000047896\nAn .htaccess (hypertext access) file is a directory-level configuration file supported by several web servers, used for configuration of site-access issues, such as URL redirection, URL shortening, access security control (for different web pages and files), and more.\nBecause of the sensitivity of this file, edits should only be made by someone familiar with server-side configuration. Incorrect changes can cause the website to stop loading .\n\n## Before Editing the HTACCESS File\nThe .htaccess file is powerful but easy to break. Even a small typo can make the entire website inaccessible . For that reason:\nAlways save a copy of the current .htaccess content before making any changes.\nOnly make changes when absolutely necessary.\nIf unsure about a directive or configuration rule, please consult a qualified developer.\n\n## Accessing the HTACCESS File\nGo to Developer Hub\nClick on \" HTACCESS File\"\nFrom this screen, the current file contents can be viewed and edited if needed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180160067/original/qKGvK0_9j0MSXCzR1Xn2QrOABSWrIzYCTw.png?1781041510 | alt: ]\n\n## Restoring the Default File\nIf issues arise or a reset is required, the Restore Default button can be used to revert the file to its original version.\nBefore restoring, it is strongly recommended to copy and save the current content into a .txt file for reference.\n.htaccess file code area.\n\"Save Changes\" button.\n\"Restore Default\" .htaccess file button.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180160225/original/86Gs0AJ_4f_KX6ki2R6ajloNacDDmq4uhw.png?1781041674 | alt: ]\n\n## When This Tool Should Be Used\nMost website owners will not need to edit the .htaccess file. Edits should be considered only when:\nA server-level configuration change is specifically required.\nThe impact of the modification is fully understood.\nA backup of the current file has been created.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180160067/original/qKGvK0_9j0MSXCzR1Xn2QrOABSWrIzYCTw.png?1781041510",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180160225/original/86Gs0AJ_4f_KX6ki2R6ajloNacDDmq4uhw.png?1781041674",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7644d3eaa35122c8f3a6d7f14527033c3c32779225da4b08514238c942778022",
+  "ingested_at": "2026-10-17T14:39:50.907192+00:00"
+}

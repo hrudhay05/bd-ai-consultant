@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000074302-web-page-builder-pre-made-elements",
+  "title": "Web Page Builder » Pre-Made Elements",
+  "text": "\n## Web Page Builder » Pre-Made Elements\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000074302\nThe ability to insert pre-made content elements into custom web pages and landing pages is now available. These elements can be used to create all kinds of custom landing pages.\n\n## Available Pre-Made Elements\nThere are 14 available pre-made elements to choose from:\nImage Video Button Link Contact Form Text Block Section Title Divider Line Line Break Text With Image Right Text with image Left Three Column Feature List Four Column Feature List FAQ Module Pricing Plan\nImage\nVideo\nButton Link\nContact Form\nText Block\nSection Title\nDivider Line\nLine Break\nText With Image Right\nText with image Left\nThree Column Feature List\nFour Column Feature List\nFAQ Module\nPricing Plan\n\n## Use the Pre-Made Elements\nAdd content to a static page in My Content >> Web Page Builder >> Click \" Edit \" for existing page OR click New Web Page button to create a new web page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182156890/original/Fi94uvWFCGhSsY45o50RTg5uBVLIbo3y3g.png?1784219267 | alt: ]\nOnce on the web page, search for the \"Pre-Made Elements\" on the right sidebar:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182156918/original/qpaOv9yzxs6cjQwQctlEH9Bnh5xalsrk9Q.png?1784219298 | alt: ]\nDrag and Drop the elements into the static page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182157036/original/gbY57dEnntdCHY6wlZmweCj1qX75iz6GDw.gif?1784219404 | alt: ]\nCustomize and Edit the elements by using the FROALA Editor options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182157056/original/kGy5iUGxoqDp-elRieb8Ow1ok6FGfmZJwQ.png?1784219435 | alt: ]\n\n## Live Example\nThis is an example of a page that uses the pre-made elements:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182157216/original/ZWx9dikBT2ZB5VwbfzL6gC8K7WUpmXbZtw.png?1784219541 | alt: ]\nThis page uses 1 \"Text with Image Left\" and 1 \"Text with Image Right\" blocks:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160402096/original/rFbHEV295zOzGDxUGoXXrXA9eFUGj7EJFA.png?1745537178 | alt: ]\n\n## Video\n\n## Important Notes\nThe FAQ module is a static display, so it won’t expand or collapse when clicked. It’s designed for straightforward, always-visible answers.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182156890/original/Fi94uvWFCGhSsY45o50RTg5uBVLIbo3y3g.png?1784219267",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182156918/original/qpaOv9yzxs6cjQwQctlEH9Bnh5xalsrk9Q.png?1784219298",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182157036/original/gbY57dEnntdCHY6wlZmweCj1qX75iz6GDw.gif?1784219404",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182157056/original/kGy5iUGxoqDp-elRieb8Ow1ok6FGfmZJwQ.png?1784219435",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182157216/original/ZWx9dikBT2ZB5VwbfzL6gC8K7WUpmXbZtw.png?1784219541",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160402096/original/rFbHEV295zOzGDxUGoXXrXA9eFUGj7EJFA.png?1745537178",
+      "alt": ""
+    }
+  ],
+  "content_hash": "14c8d56bad30aa60f3b7bd3e6bebc0ab5ff758f51e4016398d91408b02d80809",
+  "ingested_at": "2026-10-17T14:47:18.943565+00:00"
+}

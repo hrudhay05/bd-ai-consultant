@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000071552-how-to-turn-posts-and-post-categories-search-results-pages-into-static-pages",
+  "title": "How to Turn Posts and Post Categories Search Results Pages into Static Pages",
+  "text": "\n## How to Turn Posts and Post Categories Search Results Pages into Static Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000071552\nThis functionality allows editing and adding custom elements on post search results pages (general and for specific post categories) by turning them into static pages. In order to achieve this follow these steps:\nAccess the Admin Dashboard and navigate to My Content >> Web Page Builder >> Click on \"New Web Page +\" :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972374/original/EZ-LnsZ9kOzS37DWHx8xN5pyFJy2DnOi2A.png?1783980787 | alt: ]\nOnce the new page has been created, edit it accordingly. Please see the following points mentioned on the images shown below:\nSelect the Page Type as \" Post Search Results \"\nChoose the Linked Post Type\nAdd a Title\nAdd a Sub title\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972549/original/UyoOJ3cm-epUYrTUAGXOnRwDb2-byFa18A.png?1783980942 | alt: ]\n\n## Target Category\nSelect the Target Category: Choose either Main Page which will display all the published posts from that post type or pick one category to display the published posts listed under a specific category.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972567/original/gBD7V77U6HIOG1CA71s3hrOoaL9A6Sm-Fw.png?1783980983 | alt: ]\nImportant Note: When linking the page to the Post Type Properties , the only available option to choose from the Target Category is Main Page .\nLearn more: Adding Or Editing Categories To Post Types .\n\n## Page Options\nAdjust the Page options to include sidebars, hide elements and apply specific rules to the page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972570/original/-m59Spqj1RtaPN6pF5uQBF5RCMIovqiXIg.png?1783981006 | alt: ]\nMore information\nWebpage Builder: Page Details Tab & Page Options Tab\n\n## Additional Web Page Tabs\nThese additional tabs control the hero section, additional seo fields and the \"Advanced\" tab is for adding custom code to a web page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972573/original/tUlKDEaD0-tTrTyKk527ar_htFDPeHqejw.png?1783981022 | alt: ]\nMore Information\nHow To Add A Hero Section To Static Pages\nEdit The SEO & Social Media Settings\nWeb Pages: Advanced Tab\n\n## Example Page\nThis is an example of a Static Page created for \" Job Openings \" showing the results for Sample Category 1 :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166425636/original/b9MRyoFa6-zSWI9QkjpBPLHfg_YrvrRmAQ.png?1756170839 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972374/original/EZ-LnsZ9kOzS37DWHx8xN5pyFJy2DnOi2A.png?1783980787",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972549/original/UyoOJ3cm-epUYrTUAGXOnRwDb2-byFa18A.png?1783980942",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972567/original/gBD7V77U6HIOG1CA71s3hrOoaL9A6Sm-Fw.png?1783980983",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972570/original/-m59Spqj1RtaPN6pF5uQBF5RCMIovqiXIg.png?1783981006",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972573/original/tUlKDEaD0-tTrTyKk527ar_htFDPeHqejw.png?1783981022",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166425636/original/b9MRyoFa6-zSWI9QkjpBPLHfg_YrvrRmAQ.png?1756170839",
+      "alt": ""
+    }
+  ],
+  "content_hash": "4e18f912f3c2b4760cfc70debf39f832883b7e8bdc7c4aac320550d64233dd88",
+  "ingested_at": "2026-10-17T14:46:25.826028+00:00"
+}

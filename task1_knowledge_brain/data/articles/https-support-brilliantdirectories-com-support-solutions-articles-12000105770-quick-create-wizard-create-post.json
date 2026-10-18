@@ -1,0 +1,57 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000105770-quick-create-wizard-create-post",
+  "title": "Quick Create Wizard - Create Post",
+  "text": "\n## Quick Create Wizard - Create Post\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000105770\n\n## Create a new post\nBy clicking on the Create Post option a pop up wizard will show onscreen.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021298/original/vDzBdMIgxnj5saHoe9H12BJhYjSa2fdCrA.png?1780873088 | alt: ]\n\n## Select the type of content  and author you want to publish on your website.\nOnce the admin selected the type of post type type to work on, the option to assign the Post author shows right underneath the post type.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166832536/original/eOgsPCBLyckQbFyuy5DnlIVpHrsNPejnCg.png?1756845702 | alt: ]\nWith the AI Tool, the admin will be able to create full posts including images, links and formatting following the steps on the wizard.\nAfter selecting the Author, The option to generate a post with AI will appear, along with the option to do a manual post.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166105032/original/5hyfDAJtvebNnFEn4WEVw5JGSadD-3lkaA.png?1755627030 | alt: ]\n\n## Generate Post with AI\nCreate a good AI prompt with all the required details so the System is guided to create a high quality post.\nThe admin will also be able to select additional options like:\nTone\nstyle\nLength\nEngagement\ninclude images\nadditional links to add in the post.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166832957/original/yEzNijo4lou9_YWRXEgwFJleoQCORVuJSw.png?1756846235 | alt: ]\nOnce that is completed, a status bar will show indicating that is currently working on creating the post and within a minute or two, everything is done automatically.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833013/original/4azKGY6U-t2fuIEUCux0gjx3b2h_rCZzEA.png?1756846275 | alt: ]\n\n## Review and Finalize Post\nLast Step will be to review and post the AI generated  on the site, select if the post should be published, and select the post category. For more information about these post categories: How To Add or Edit Categories For Post Types\nReview the AI-generated content. The Admin will be able edit and add more details once the post is created:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833096/original/kGuIed9CyVU4mP5N0xPjKhBbW4MwZkJflA.png?1756846325 | alt: ]\n\n## Post Created Successfully\nOnce the post is created, the admin will have the ability to Continue editing the post as normal, it will also have the option to start a new AI post. And if the prompt is  high quality and the admin would like to use it a template for other posts, the system will guide the admin the chance to copy the prompt for future use:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833427/original/xXs6MsTmiAaw1qbAyM-YaYYVeVARG4EViQ.png?1756846516 | alt: ]\n\n## Important Notes\nFor post types like events that have dates and time, the wizard will not set the date and time of the event.  To add a date and time to an event created with the wizard, the admin will need to click on continue editing  the post directly from the member dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833462/original/LXEWqAMh1ogNTpYsOPULWLvrQBkiMc5TkQ.png?1756846594 | alt: ]\nFrom here, the admin will be able to set the time and date for the event.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166106586/original/KUzS-nk1vm0aKRlq0ng9j2Q79OLCO9goiQ.png?1755628242 | alt: ]\n\n## Generate Post from Scratch\nThe admin can also create a post without AI with the option Start from Scratch\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833527/original/S_YFFniT-DW5G5MvxorhJ_LKmajN-ttcsg.png?1756846650 | alt: ]\nFrom here the admin will be able to complete the details of the post, by adding the title, also selecting the publish status and Post category :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833815/original/9IG5EzdQxZ4-HjbnKcxBVIJfU13IaOTzgg.png?1756846914 | alt: ]\nOnce completed, the wizard will show a confirmation message:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833940/original/sJxaGEnrUP2oMGxS1TjX72x7sX_PGB_htA.png?1756847121 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021298/original/vDzBdMIgxnj5saHoe9H12BJhYjSa2fdCrA.png?1780873088",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166832536/original/eOgsPCBLyckQbFyuy5DnlIVpHrsNPejnCg.png?1756845702",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166105032/original/5hyfDAJtvebNnFEn4WEVw5JGSadD-3lkaA.png?1755627030",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166832957/original/yEzNijo4lou9_YWRXEgwFJleoQCORVuJSw.png?1756846235",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833013/original/4azKGY6U-t2fuIEUCux0gjx3b2h_rCZzEA.png?1756846275",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833096/original/kGuIed9CyVU4mP5N0xPjKhBbW4MwZkJflA.png?1756846325",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833427/original/xXs6MsTmiAaw1qbAyM-YaYYVeVARG4EViQ.png?1756846516",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833462/original/LXEWqAMh1ogNTpYsOPULWLvrQBkiMc5TkQ.png?1756846594",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166106586/original/KUzS-nk1vm0aKRlq0ng9j2Q79OLCO9goiQ.png?1755628242",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833527/original/S_YFFniT-DW5G5MvxorhJ_LKmajN-ttcsg.png?1756846650",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833815/original/9IG5EzdQxZ4-HjbnKcxBVIJfU13IaOTzgg.png?1756846914",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166833940/original/sJxaGEnrUP2oMGxS1TjX72x7sX_PGB_htA.png?1756847121",
+      "alt": ""
+    }
+  ],
+  "content_hash": "37a985b327c4bce3fd4770671c549053c709bb1c300adfe534eed610ff92ee5a",
+  "ingested_at": "2026-10-17T15:35:14.712240+00:00"
+}

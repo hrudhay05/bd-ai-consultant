@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097799-how-to-enable-stock-photos-for-single-image-posts",
+  "title": "How to Enable Stock Photos for Single Image Posts",
+  "text": "\n## How to Enable Stock Photos for Single Image Posts\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000097799\nSingle-Image Posts such as blog articles, jobs, or events, ( Single-Image Posts vs Multi-Image Posts) now have the option to use the stock photo libraries to select their images. To enable this feature, go to Advanced Settings and check the following option under Froala Enable Stock Photo Library:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936156/original/nb4xoZUbzOgzoybubEjSnm4Uko5RaRl0sg.jpg?1704813937 | alt: ]\nOnce the option has been enabled, using the Stock Libraries will become enabled for Single Image Posts:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936317/original/WGl4XpIWLnUslizq390c_4M8QM5ok-UUDw.png?1704814094 | alt: ]\nClicking on this button will open up the following options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936924/original/ZTWydO-4NUlpXtB1lVtYTlivhTXaLmfF1A.png?1704814557 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936967/original/5YUKAFX_miuiXphitVwvGoLrLGF9j7SPig.png?1704814594 | alt: ]\n\n## Enabling this Feature for Specific Membership Plans or Members\nOn each Membership Plan's Settings, the option to use stock photo libraries can be limited with the following settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141231184/original/ZcVsgvXS29rG2zijljkGfJ6kTRWiByZmuQ.png?1712248893 | alt: ]\nThis can also be activated for specific members only by accessing the Quick Edit menu on the Search Members tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141231281/original/ULyRlaCbozhXwMWPDrrEevKl94R5Nm5Ekw.png?1712248966 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936156/original/nb4xoZUbzOgzoybubEjSnm4Uko5RaRl0sg.jpg?1704813937",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936317/original/WGl4XpIWLnUslizq390c_4M8QM5ok-UUDw.png?1704814094",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936924/original/ZTWydO-4NUlpXtB1lVtYTlivhTXaLmfF1A.png?1704814557",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936967/original/5YUKAFX_miuiXphitVwvGoLrLGF9j7SPig.png?1704814594",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141231184/original/ZcVsgvXS29rG2zijljkGfJ6kTRWiByZmuQ.png?1712248893",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141231281/original/ULyRlaCbozhXwMWPDrrEevKl94R5Nm5Ekw.png?1712248966",
+      "alt": ""
+    }
+  ],
+  "content_hash": "e3eb2ac95a5789a79e192d3fda9a324bbecd2712a17ac107f0d9b0edee2dbf91",
+  "ingested_at": "2026-10-17T15:25:03.260418+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100077-how-to-edit-the-home-url-of-the-domain",
+  "title": "How to Edit the /home URL of the Domain",
+  "text": "\n## How to Edit the /home URL of the Domain\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000100077\nBy default the Homepage of the site is www.yourdomain123.com /home\nHowever, depending on the site verbiage or language, this may need to be changed. There is an advanced setting that will allow the / home portion of the URL to be updated.\n\n## Advanced Settings\nWebsite Homepage URL System Variable: default_home_url\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647802/original/R1jfYNPjr_OglhKrIl-3AxSqbhW-4JnuuQ.png?1753162566 | alt: ]\nAdd the text into the field, save the changes, and the URL is immediately updated without needing to reset anything.\n\n## Example\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647808/original/3Vg_oFuqMJKW22MHk_RYLEjQmSMTm_caSQ.png?1753162588 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144018845/original/676N0aanYpbYybuelFi6zTIiE8jR96OgTQ.png?1717017175 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647802/original/R1jfYNPjr_OglhKrIl-3AxSqbhW-4JnuuQ.png?1753162566",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647808/original/3Vg_oFuqMJKW22MHk_RYLEjQmSMTm_caSQ.png?1753162588",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144018845/original/676N0aanYpbYybuelFi6zTIiE8jR96OgTQ.png?1717017175",
+      "alt": ""
+    }
+  ],
+  "content_hash": "25afba8b47ef4adb906e15ea77b2218321e65f8af7f38e72e65e381bfb924f69",
+  "ingested_at": "2026-10-17T15:26:24.330857+00:00"
+}

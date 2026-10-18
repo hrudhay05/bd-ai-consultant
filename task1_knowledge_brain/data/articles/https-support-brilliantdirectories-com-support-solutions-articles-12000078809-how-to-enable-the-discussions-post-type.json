@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078809-how-to-enable-the-discussions-post-type",
+  "title": "How to Enable the Discussions Post Type",
+  "text": "\n## How to Enable the Discussions Post Type\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000078809\nThe Discussions Post type along with the free Community Comments , will allow members to post content and easily connect with one another. This feature essentially has the same functionality as a forum.\nThe comments need to be enabled for this post type: Community Comments Add-On\nThis post type is enabled per Membership Plan, giving the admin the opportunity to choose which members can post a Discussion topic, and which others can only view and comment. Click on the following article for more information -> Finance » Membership Plans - Post Publishing .\nIt can also be edited as any of the available post types. Here's an article to learn more on Edit Post Settings\n\n## Create A Discussion\nFollow these steps to publish a Discussion on the website:\nAccess the Member Dashboard, on the left sidebar find the Discussions post type. Click on it to add a new Discussion.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090851720/original/aijEjbbIIG0QysOsntFS3Nb55l4mCAf0PA.png?1617457636 | alt: ]\nAdd some content to the discussion, for example a title, description, image and more as explained below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090851778/original/3SnGUp2bQXkqDG0EVgL2VC921pcSEih_sA.png?1617457971 | alt: ]\n1. Publish content on the site or save it as a draft.\n2. Add the Title of the Discussion\n3. Add an image to the Discussion.\n4. Select the category. For more information check this article -> How To Add or Edit Categories For Post Types (events, coupons, classifieds, etc)\n5. Enter keywords that apply. Separate with comma.\n6. Add content to the article, use the Froala Editor to give the desired style and structure.\n7. Save the changes\nOnce the Discussion post has been created, it will display the current Status (Published, Draft, Expired).\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852440/original/NPUwq4UUtJbsTSOGViq7Dx2G5VgC43QiQQ.png?1617460720 | alt: ]\nClick on the Actions button to View, Edit, Clone or Delete the discussion:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852503/original/BkVZz9yfXO-B8BjUB0cPBJ3QRKAZqotDmQ.png?1617460935 | alt: ]\n\n## Discussion Post Example\nThis is how a Discussion post appears live on the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852566/original/7PezkVA1bqPJvcAyDlT1HjfNpFD-iqNm5A.png?1617461270 | alt: ]\nAll  Post Types have a designated search results page:\nEG: http://yourbrilliantdomain.directoryup.com/discussions\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852550/original/gsUv1G42n2zb1ix5-CRn1baCs2CKd1QJyQ.png?1617461166 | alt: ]\n\n## Post Bookmarks and Views\nThe number of views and Bookmarks will only show if the correspondent add ons are active on the site:\nMember Profile Analytics\nBookmark My Favorites Add-On",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090851720/original/aijEjbbIIG0QysOsntFS3Nb55l4mCAf0PA.png?1617457636",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090851778/original/3SnGUp2bQXkqDG0EVgL2VC921pcSEih_sA.png?1617457971",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852440/original/NPUwq4UUtJbsTSOGViq7Dx2G5VgC43QiQQ.png?1617460720",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852503/original/BkVZz9yfXO-B8BjUB0cPBJ3QRKAZqotDmQ.png?1617460935",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852566/original/7PezkVA1bqPJvcAyDlT1HjfNpFD-iqNm5A.png?1617461270",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852550/original/gsUv1G42n2zb1ix5-CRn1baCs2CKd1QJyQ.png?1617461166",
+      "alt": ""
+    }
+  ],
+  "content_hash": "17c9366940c582ca1e64d42768f5689099d19a6b4146c6fe905c623d4581a654",
+  "ingested_at": "2026-10-17T14:49:35.735765+00:00"
+}

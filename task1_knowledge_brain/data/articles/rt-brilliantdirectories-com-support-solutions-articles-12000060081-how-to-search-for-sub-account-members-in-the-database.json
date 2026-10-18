@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000060081-how-to-search-for-sub-account-members-in-the-database",
+  "title": "How To Search For Sub Account Members In The Database",
+  "text": "\n## How To Search For Sub Account Members In The Database\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000060081\nTo see the list of members who have been added as a sub account, Navigate to Developers --> MySQL Database :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181295265/original/JTbR7UUvK-JVmiCXwHSzwsduycvxoxcIgw.png?1782859186 | alt: ]\nClick on the database that ends with wording \" directory \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054756843/original/-TTymp_26JNpYlimLXee1IrWG4XeblcAHg.png?1564938216 | alt: ]\nConduct a search for the table users_data and open it by clicking on it:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054756885/original/wAcgeIaMYrBS2xKDcwFmB8yjTBnTlpMWAw.png?1564938245 | alt: ]\nClick on SQL :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054756890/original/I5MGdBi_epDaBJGuBdTxjKQulEDix-Fmqg.png?1564938274 | alt: ]\nPaste the specified SQL code and click Go :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054757050/original/_YVNJ-7l0NYNcVZxLqXDm9JV7yiuukkWbQ.png?1564938618 | alt: ]\nThis is the SQL code needed to run:\nWhich will display your members that are added as sub accounts:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054757088/original/BV7BBbaW87IVCxmHtUMKyv2iBru04Z39Wg.png?1564938703 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181295265/original/JTbR7UUvK-JVmiCXwHSzwsduycvxoxcIgw.png?1782859186",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054756843/original/-TTymp_26JNpYlimLXee1IrWG4XeblcAHg.png?1564938216",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054756885/original/wAcgeIaMYrBS2xKDcwFmB8yjTBnTlpMWAw.png?1564938245",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054756890/original/I5MGdBi_epDaBJGuBdTxjKQulEDix-Fmqg.png?1564938274",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054757050/original/_YVNJ-7l0NYNcVZxLqXDm9JV7yiuukkWbQ.png?1564938618",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054757088/original/BV7BBbaW87IVCxmHtUMKyv2iBru04Z39Wg.png?1564938703",
+      "alt": ""
+    }
+  ],
+  "content_hash": "ea178b59b9648e107b946fa2836edd344b6788855dc46af69eefbcd0e589403c",
+  "ingested_at": "2026-10-17T14:43:41.779449+00:00"
+}

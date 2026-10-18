@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000681551-search-layouts-the-difference-between-list-grid-and-map-view",
+  "title": "Search Layouts - The Difference Between List, Grid And Map View",
+  "text": "\n## Search Layouts - The Difference Between List, Grid And Map View\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000681551\n\n## It is possible to control whether the member search result pages, and post types pages display results in list, grid or map view. This is done to personalize the website and to provide better user experience. Here are the different type of views visitors can select: -List View\nIt is possible to control whether the member search result pages, and post types pages display results in list, grid or map view. This is done to personalize the website and to provide better user experience. Here are the different type of views visitors can select:\n- Grid View ( Grid View Search Results )\nList View\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12036130540/original/6GUkRQRtTGRejUMo3Sv9tu5Ilt-tUTHRqw?1530196452 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12036130560/original/0XHXwv4DlcI6dWms3cBU8rAqHuyaP-3Pgw?1530196476 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12036130604/original/jpPA2Wo89hvjqqrpUv-RG9_uS5lSNP3gLg?1530196502 | alt: ]\n\n## How To Change The Default Search View?\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089358167/original/kmEhRWdKelIkAE832ZKbEVOqsNOW_xbAgQ.png?1614435528 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089358182/original/AKcbca_VP_hgC6BLQZ416TE87wAcwM0NyQ.png?1614435593 | alt: ]\n\n## Member Search Layout\nThis setting applies to Member Search Results. There are 3 options:\nStarts in List View\nStarts in Grid View\nStarts in Map View Add-on\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089358199/original/q4hUB4SnEGEtyHz-6i6rsJHayLNwQ1-ghg.png?1614435635 | alt: ]\n\n## Post Search Layout\nThis setting applies to Post Types Search Results. There are 2 options:\nStarts in List View\nStarts in Grid View\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089358206/original/VpH6iYSqsKW8RLo8EKfRbM-u0JtJ8HLW4g.png?1614435698 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12036130540/original/6GUkRQRtTGRejUMo3Sv9tu5Ilt-tUTHRqw?1530196452",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12036130560/original/0XHXwv4DlcI6dWms3cBU8rAqHuyaP-3Pgw?1530196476",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12036130604/original/jpPA2Wo89hvjqqrpUv-RG9_uS5lSNP3gLg?1530196502",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089358167/original/kmEhRWdKelIkAE832ZKbEVOqsNOW_xbAgQ.png?1614435528",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089358182/original/AKcbca_VP_hgC6BLQZ416TE87wAcwM0NyQ.png?1614435593",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089358199/original/q4hUB4SnEGEtyHz-6i6rsJHayLNwQ1-ghg.png?1614435635",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089358206/original/VpH6iYSqsKW8RLo8EKfRbM-u0JtJ8HLW4g.png?1614435698",
+      "alt": ""
+    }
+  ],
+  "content_hash": "82a174f0dd97d4e16358f8441404548d854e70cf454e0476d342539252fe792b",
+  "ingested_at": "2026-10-17T10:27:29.678899+00:00"
+}

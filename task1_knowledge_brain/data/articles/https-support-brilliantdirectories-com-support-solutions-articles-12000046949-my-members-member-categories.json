@@ -1,0 +1,101 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000046949-my-members-member-categories",
+  "title": "My Members » Member Categories",
+  "text": "\n## My Members » Member Categories\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000046949\nAn essential part of the directory's search experience is the ability to filter results by categories. Below, we will provide an overview of this module.\nFor a full explanation of how categories behave on the front-end and back-end, see the Member Categories Overview article.\nTo access member categories, navigate to My Members >> Member Categories :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160405151/original/Dfgc1OxBNXQA1Ur1XEjKdRyiPaSyyMHztA.png?1745548624 | alt: ]\nThis section is divided into three tabs to display Top , Sub , and Sub-Sub Categories on the site:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160405162/original/YG3_MYBok8NQMvjzuowJuk7QVqNcAQC9tw.png?1745548667 | alt: ]\nEach of these tabs will have identical functionality, where categories can be searched by keyword or ID:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160405176/original/2lKWnAWwU451zOfwzmuUGhQu6cJ97crjUw.png?1745548713 | alt: ]\nAnd can be sorted by the following options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179811824/original/seIgdfZnG0okQDWioDtVTmPaYmGZ_bzbjg.png?1780482771 | alt: ]\nKeep in mind that these sort order options will only apply to the Member Categories view in admin, it will not apply to how categories will display in the front-end.\n\n## Category Image\nIf needed, an image can be uploaded or removed to each category, which will be used on a streaming widget on the homepage. These images are exclusively for the homepage streaming widget and do not affect individual member profile styling.\nThese images are used when the categories are set to display on the homepage: Displaying Top-Level and Sub-Level Categories On The Homepage\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160405184/original/yBYbpn0sP8Yry7pVE2SOaP7pi7-3b6CnlQ.png?1745548813 | alt: ]\n\n## Manually Add Categories\nOne of the options to add categories is to do it manually via the Add Top Level Categories button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160405197/original/qM4sYPSBb-GIlvsnld8uU3X0qQlU2mKb1g.png?1745548940 | alt: ]\nMore information about this process: How To Add Categories Manually From The Admin\n\n## Member Category Actions\nThis dropdown includes actions like importing, exporting, and editing the code used when displaying the categories on the profile pages.\n\n## Import Categories\nAnother option to add member categories is via importing a CSV file:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093192676/original/DNsfjgwYQjHXntk7Q4YsAwqIa7wIrmY3PQ.png?1622053485 | alt: ]\nMore information about this process: How To Import Categories Via CSV File\n\n## Export Categories\nThe existing member categories can be exported via the Member Category Actions dropdown:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093192728/original/BYrQiWlMQyb8oAaxnh2pzZAQivZ_m6Y72Q.png?1622053556 | alt: ]\nMore information about this process: How To Export Member Categories\n\n## Edit Specialties Tab Code\nAnd the Specialities tab of member profiles can be edited via the Edit Specialities Tab Code:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093192770/original/p8r2xFnt0UTiZ51AlRWripTVbYM-5rGusA.png?1622053638 | alt: ]\nMore information about this process: How To Edit Specialities Tab Code in Member Profiles\n\n## Category Name and URL\nEach of the category tabs will have the same display, with additional options to further edit them. The category name can be edited under the Name section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194242/original/aFATrQezxR0iksnEBK0dM8MdKx9BGQcj0A.png?1622055920 | alt: ]\nIts live URL can be edited under the Link URL section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194257/original/XEZ9DQnn7pyy_DPm8_Tx6KD2gB8_Zqz6tQ.png?1622055931 | alt: ]\nKeep in mind that if there are two categories with the same name, the system will assign a unique URL to one of them as can be seen in the image below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194289/original/8L_dZ_icdmCa3Kh6GbIKV19gKAIUTzu9DA.png?1622055979 | alt: ]\nTip: While the system automatically prevents URL conflicts, we recommend keeping your category names unique to ensure clean SEO patterns and a better search experience for your visitors.\n\n## Sort Order\nThe Sort Order option will determine categories' position in the Homepage streaming widget: Displaying Top-Level Categories On The Homepage\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194302/original/INoDXeONGXJbsKnHB0ewNF959po7kW-Upg.png?1622056002 | alt: ]\nThis category sort order can also be selected for category searches and drop-downs.\nSettings > General Settings > Search Settings > Default Category Sort Order:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141890989/original/phJCMkL1bikYfrTc5UHuGkiBN9a7N_zvuA.png?1713371263 | alt: ]\n\n## Lead Price by Category\nIf the Lead Price By Category add-on is active on-site, the price can be set under the Lead Price section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194309/original/D5tVc25PnBStMHPhiS138RJWjaD7ROfX4A.png?1622056016 | alt: ]\n\n## Category Related Keywords\nIf the Keywords For Categories add-on is active on-site, related keywords can be added under the Related Keywords section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194321/original/CuYq2S818wnGQ0uUoKAGsAxeiOOCOwDwjg.png?1622056029 | alt: ]\n\n## Total Members per Category\nUnder the Actions column, the total number of members in each category can be seen:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194331/original/jV1HC2o8H8lxb6a1oHJdY7nwxBBOI6Lr3A.png?1622056041 | alt: ]\nIf clicked on this section, the system will display the members that are in that category under the Search Members section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160421185/original/v-eQ85on0lARgQynLNngLXoWGiWtjE13-w.png?1745583620 | alt: ]\n\n## Category Live Page\nUnder the Actions dropdown, the live page of the selected categories search results can be found:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194363/original/ngxg-u6D0V9izX9HUVpTvAv-UD2mCePttg.png?1622056103 | alt: ]\n\n## Delete Category\nThe selected category can be deleted if needed. Clicking the Delete option will open a module showing an overview of the category, including any members assigned to it and any child categories it contains.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161116672/original/3jYWiLocE9Bgp9SasRyhaYridI8ZpTbxOQ.png?1746834865 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090681993/original/LV-_MPsfrx6DLWK1RMeEcOYv98Ate2guYw.png?1617122440 | alt: ]\n\n## Bulk Delete Categories\nAll category tabs come with the option to delete categories in bulk. Select multiple categories manually or select all at once.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161151107/original/m96vEC507JDdm1XldW_FWC-SBeBOITVD8A.png?1746989887 | alt: ]\nNote: Selecting “All” does not select every category in the system, only the categories visible on the current page. For example, if a category list spans 3 pages, using “Select All” and then deleting will only affect the categories shown on the first page, not those on subsequent pages.\n\n## Parent Category\nUnder the Sub and Sub-Sub Level Categories tab, an additional search filter called Parent Category can be found:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090682118/original/6sAbVSaR53TW4z-zPJOqZY1rAnYBpeZhXA.png?1617122598 | alt: ]\n\n## Reassigning Structures\nCurrently, admins can’t reassign the category structure directly through the system settings. To make changes, the best approach is to create a CSV file with the new structure and upload it.\nMembers assigned to the old categories will be unassigned after the update and will need to be recategorized. Admins can bulk-assign members to a Top - Level Category, but not to subcategories.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160405151/original/Dfgc1OxBNXQA1Ur1XEjKdRyiPaSyyMHztA.png?1745548624",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160405162/original/YG3_MYBok8NQMvjzuowJuk7QVqNcAQC9tw.png?1745548667",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160405176/original/2lKWnAWwU451zOfwzmuUGhQu6cJ97crjUw.png?1745548713",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179811824/original/seIgdfZnG0okQDWioDtVTmPaYmGZ_bzbjg.png?1780482771",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160405184/original/yBYbpn0sP8Yry7pVE2SOaP7pi7-3b6CnlQ.png?1745548813",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160405197/original/qM4sYPSBb-GIlvsnld8uU3X0qQlU2mKb1g.png?1745548940",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093192676/original/DNsfjgwYQjHXntk7Q4YsAwqIa7wIrmY3PQ.png?1622053485",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093192728/original/BYrQiWlMQyb8oAaxnh2pzZAQivZ_m6Y72Q.png?1622053556",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093192770/original/p8r2xFnt0UTiZ51AlRWripTVbYM-5rGusA.png?1622053638",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194242/original/aFATrQezxR0iksnEBK0dM8MdKx9BGQcj0A.png?1622055920",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194257/original/XEZ9DQnn7pyy_DPm8_Tx6KD2gB8_Zqz6tQ.png?1622055931",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194289/original/8L_dZ_icdmCa3Kh6GbIKV19gKAIUTzu9DA.png?1622055979",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194302/original/INoDXeONGXJbsKnHB0ewNF959po7kW-Upg.png?1622056002",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141890989/original/phJCMkL1bikYfrTc5UHuGkiBN9a7N_zvuA.png?1713371263",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194309/original/D5tVc25PnBStMHPhiS138RJWjaD7ROfX4A.png?1622056016",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194321/original/CuYq2S818wnGQ0uUoKAGsAxeiOOCOwDwjg.png?1622056029",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194331/original/jV1HC2o8H8lxb6a1oHJdY7nwxBBOI6Lr3A.png?1622056041",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160421185/original/v-eQ85on0lARgQynLNngLXoWGiWtjE13-w.png?1745583620",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194363/original/ngxg-u6D0V9izX9HUVpTvAv-UD2mCePttg.png?1622056103",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161116672/original/3jYWiLocE9Bgp9SasRyhaYridI8ZpTbxOQ.png?1746834865",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090681993/original/LV-_MPsfrx6DLWK1RMeEcOYv98Ate2guYw.png?1617122440",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161151107/original/m96vEC507JDdm1XldW_FWC-SBeBOITVD8A.png?1746989887",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090682118/original/6sAbVSaR53TW4z-zPJOqZY1rAnYBpeZhXA.png?1617122598",
+      "alt": ""
+    }
+  ],
+  "content_hash": "e2edd6168290e99e0e3d8a12bd3e45f81257cb48cf52b023a99ef477ecabd707",
+  "ingested_at": "2026-10-17T14:39:20.010969+00:00"
+}

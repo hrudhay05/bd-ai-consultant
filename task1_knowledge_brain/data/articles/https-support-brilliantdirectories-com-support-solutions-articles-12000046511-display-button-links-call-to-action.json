@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000046511-display-button-links-call-to-action",
+  "title": "Display Button Links - Call To Action",
+  "text": "\n## Display Button Links - Call To Action\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000046511\nNavigate to Settings >> Design Settings >> Homepage >> Top Hero Section >> Search Box / Call to Action  > Click on Select Call to Action.\nSelect the Display Button Links option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117399496/original/kQ7tjjTKSNvFkKPxj7q8rKyvy2Qq5jd0Ag.png?1668697531 | alt: ]\nThis will activate the following fields:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117399521/original/IDZBKnKEtC6KR6_jtwIN8F2OBFXbpN1xTQ.png?1668697559 | alt: ]\nButton Text: Add the text to be displayed. Example: Join Now\nButton URL: Add the permalink that the button will link to. Example /join\nButton Class: Choose the type of button.\nThis is what a homepage looks like when using three buttons:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117399713/original/n_dslZH59RQ1xYJUyezeNXv7flZXYUwynw.png?1668697730 | alt: ]\nImportant Note: This section support classes like fontawesome class, hence the preferred icons can be used as shown below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117399869/original/sRAC2wZ1V9-4duKChKqvH_XqfQtjheHsIg.png?1668697897 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117399883/original/xEWrkB1-Iymm-7-P0Hq_WgU_D1udkHiojA.png?1668697914 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117399496/original/kQ7tjjTKSNvFkKPxj7q8rKyvy2Qq5jd0Ag.png?1668697531",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117399521/original/IDZBKnKEtC6KR6_jtwIN8F2OBFXbpN1xTQ.png?1668697559",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117399713/original/n_dslZH59RQ1xYJUyezeNXv7flZXYUwynw.png?1668697730",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117399869/original/sRAC2wZ1V9-4duKChKqvH_XqfQtjheHsIg.png?1668697897",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117399883/original/xEWrkB1-Iymm-7-P0Hq_WgU_D1udkHiojA.png?1668697914",
+      "alt": ""
+    }
+  ],
+  "content_hash": "fa6ffe24fe4f01ec3197a21d8a0846a702cc32c29eb241ce03d7f5edcf92decf",
+  "ingested_at": "2026-10-17T14:38:57.299520+00:00"
+}

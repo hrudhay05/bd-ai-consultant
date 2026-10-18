@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048836-finance-membership-plans-overview",
+  "title": "Finance » Membership Plans Overview",
+  "text": "\n## Finance » Membership Plans Overview\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000048836\nThis section allows administrators to manage membership plans.\nAt the top are the following columns:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170355732/original/mBpybJFKY6tcB9x27LU-xCCfUWdLIeA1Pg.png?1762864612 | alt: ]\n\n## 1. Actions Column\nView the sign-up page (if public), edit the membership plan, and perform additional actions.\nNOTE : If a red button appears in this section, members cannot sign up for this membership plan. This setting can be managed in Pricing » Disable Signups for This Product » Yes..  Scroll down to the bottom to access the \"Pricing\" documentation.\nHover over the Actions button and choose an action from the dropdown. Actions include:\nClone Membership Plan.\nCopy Sign Up Link.\nMove members from one membership to another.\nEmail Sign Up Link.\nDelete the membership plan.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126977321/original/FRPd2Ce_G94cvNt4_YHJfXc7-ED0W1iN4A.png?1686845385 | alt: ]\n\n## 2. Plan Details\nThis section displays key information about each membership plan, including:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156920892/original/PBrjjFfL6xai4QIcCcJntEh5KJ5DlCwfoQ.png?1739458379 | alt: ]\n1. Membership Plan Name: The name of the membership plan (e.g., General User Account ).\n2. Membership Plan ID: A unique identifier for each membership plan (e.g., Membership Plan ID: 5 ).\n3. Membership Plan Type: Indicates whether the plan is Free , Paid , or a Claim Listing account.\n4. Last Updated Date: The most recent date when any changes were made to the plan settings.\nThis information helps admins quickly identify and manage their membership plans.\n\n## 3. Members\nThis section displays the number of members assigned to the membership plan. Click it to view member information. This section also displays the total 'Payments Received' for the membership plan.\n\n## 4. Post Publishing\nThis section displays all post types enabled for the membership plan.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127299345/original/Ohs7Jt4Pug-kRrkiaPg_vw5rTJojLiQoMA.gif?1687432565 | alt: ]\n\n## 5. Pricing\nThis section displays lead pricing and available subscription rates, including monthly, quarterly, semiannual, and yearly options.If no lead prices are displayed, the membership plan is free, and leads are available at no cost.\n\n## 6. Search Rules\nThis section shows whether the membership plan is searchable on the website or not.\nSearch Visibility.\nThe Search Results Priority.\nCategory Limit.\nMax. Location Limit.\n\n## 7. Search by Keyword\nThis feature allows admins to quickly locate a specific membership plan by typing a keyword or the Membership Plan ID in the search bar.\nUse this tool to find plans efficiently when managing multiple memberships. For example, search by the plan name (“Featured Plan”) or directly by its ID (“2”) to bring it up instantly.\n\n## Editing Membership Plans\nMembership plans can be edited from the Actions section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12060107605/original/6k7_1XE3o3WqiEVMiqEgIE7M8XKq9Ocxog.png?1574437353 | alt: ]\nThe membership plan settings are divided into five sections:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131986547/original/xv9oFr_4ijDqb1Aj9cYOXxCCZgAF69VguA.png?1695906840 | alt: ]\n\n## Documentation for each tab\nSelect a link below to learn more about the settings in each section\n1. Sign Ups & Upgrades\n2. Profile Page\n3. Member Dashboard\n4. Search Visibility\n5. Post Publishing\n\n## Additional Functionality\nThere is no need to return to the membership plan’s checkout page. Now, a button next to the search bar opens the live form directly:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083878945/original/NHc6o9E-q_iD0z0fFYg0PYzQ6GkdfTZUKA.gif?1603208336 | alt: ]\nA Keyword Search option is available in the top-right corner of the page. It searches across all tabs simultaneously:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131986655/original/EBc64OPvyfURlXt63pUGKLjjxkHTCxHpXg.png?1695906920 | alt: ]\nFor example, to find the ‘ Articles ’ post type within the membership plan settings, enter ‘ Articles ’ in the search field. The system will display the tab where it is located",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170355732/original/mBpybJFKY6tcB9x27LU-xCCfUWdLIeA1Pg.png?1762864612",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126977321/original/FRPd2Ce_G94cvNt4_YHJfXc7-ED0W1iN4A.png?1686845385",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156920892/original/PBrjjFfL6xai4QIcCcJntEh5KJ5DlCwfoQ.png?1739458379",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127299345/original/Ohs7Jt4Pug-kRrkiaPg_vw5rTJojLiQoMA.gif?1687432565",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12060107605/original/6k7_1XE3o3WqiEVMiqEgIE7M8XKq9Ocxog.png?1574437353",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131986547/original/xv9oFr_4ijDqb1Aj9cYOXxCCZgAF69VguA.png?1695906840",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083878945/original/NHc6o9E-q_iD0z0fFYg0PYzQ6GkdfTZUKA.gif?1603208336",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131986655/original/EBc64OPvyfURlXt63pUGKLjjxkHTCxHpXg.png?1695906920",
+      "alt": ""
+    }
+  ],
+  "content_hash": "d6d08bff1e6bd1b22de4de695a380fe895581e1b4962e10d0dc9632250dd467e",
+  "ingested_at": "2026-10-17T14:40:18.455458+00:00"
+}

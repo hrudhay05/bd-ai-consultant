@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000681833-service-areas-in-australia-city-vs-suburb",
+  "title": "Service Areas in Australia - City vs Suburb",
+  "text": "\n## Service Areas in Australia - City vs Suburb\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000681833\nThe Service Areas functionality of the software, just like all other location-based features of the platform, is powered by Google Maps.\nGoogle Maps treats Australian 'suburbs' the same as 'cities' in the rest of the world. Australian \"cities\" (Brisbane, for example), are treated as both a suburb and what they call a \"Colloquial Area\" (IE an unofficial name for a region that contains multiple suburbs).\nFor example, if 'Brisbane' is added as a service area, Google Maps treats it as a \"city\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141260/original/R36wdGrl9G2csQ0GjYOqO2VGsjU0A0MwIQ.png?1620095749 | alt: ]\nAnd when searching for \"Banksia Beach\" (a suburb in Brisbane), it will also treat this as a \"city\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141271/original/K2TWbXErlhpUGJ3l2878vZZVWZ8V2Mejcg.png?1620095787 | alt: ]\nSmaller regions within cities (North Brisbane, for example), are not recognized by Google Maps.\nWhen searching for a region like this, Google Maps will simply return results for 'Brisbane' by default:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141286/original/GEnxHUXg8qq3rqnc3b5ZoYs-vtWMkX5tpQ.png?1620095843 | alt: ]\nSince Google Maps treats Australian suburbs and cities this way, the recommended way to allow members to add additional Service Areas is to allow them to add \"suburbs\" (Suggestion: Change to \"(which are referred to as 'city' in both the Brilliant Directories system and Google Maps).\nTo allow members to add suburbs as service areas, sset the 'Maximum Number of Locations' to a value greater than 0 and select \"City\" as an option in the \"Location Types Member Can Select\"  in the Membership Plan Settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131882323/original/mqIoZp_1xlojmnCin29EbefWTjYGpX8gqQ.png?1695749590 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141260/original/R36wdGrl9G2csQ0GjYOqO2VGsjU0A0MwIQ.png?1620095749",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141271/original/K2TWbXErlhpUGJ3l2878vZZVWZ8V2Mejcg.png?1620095787",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141286/original/GEnxHUXg8qq3rqnc3b5ZoYs-vtWMkX5tpQ.png?1620095843",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131882323/original/mqIoZp_1xlojmnCin29EbefWTjYGpX8gqQ.png?1695749590",
+      "alt": ""
+    }
+  ],
+  "content_hash": "4ee6f7ff76e726e206f4e84633a311609fe69614b5b9f95e11bd1f676c37ee56",
+  "ingested_at": "2026-10-17T14:07:17.469468+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095798-add-custom-tabs-to-member-profile-pages-using-jquery",
+  "title": "Add Custom Tabs to Member Profile Pages Using JQuery",
+  "text": "\n## Add Custom Tabs to Member Profile Pages Using JQuery\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000095798\nThis article provides jQuery examples for adding one or more custom tabs to member profile pages.\nWhen the page loads, the script appends a new tab to the profile navigation and creates the corresponding tab content.\nInsert the desired code snippet at the bottom of the SEO Template or in Design Settings → Custom Footer Code .\nTip\nIf the custom tab contains more than plain text (such as widgets or dynamic content), using [widget=shortcode] inside the tab content may provide more reliable rendering.\n\n## Add a Single Custom Tab\nUse the following example to add a single custom tab to member profile pages.\n\n## Add Multiple Custom Tabs\nUse the following example to add multiple custom tabs to member profile pages.",
+  "images": [],
+  "content_hash": "f5a29bc10d0f230796573227e44f5c04d012767029f4c86e012557297ed2456a",
+  "ingested_at": "2026-10-17T15:24:00.948376+00:00"
+}

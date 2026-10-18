@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108058-api-reference-category-groups",
+  "title": "API Reference - Category Groups",
+  "text": "\n## API Reference - Category Groups\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108058\n← Back to API Reference | Getting Started\n\n## Category Groups\nCategory Groups are top-level containers for organizing categories into logical sections. Each category group can be associated with a specific database and used to group related categories together for display and filtering purposes.\n\n## The Category Group Object\nField Type Description group_id integer Unique category group ID (primary key, read-only) group_filename string URL-friendly slug for this group group_name string Display name of the category group group_desc text Description of the category group database string The database/table this group is associated with (EG list_services ) revision_timestamp timestamp Last modified timestamp (auto-updated)\n\n## List Category Group Records\nReturns a paginated list of category group records.\n\n## Example Request\n\n## Example Response\n\n## Retrieve a Category Group Record\n\n## Example Request\n\n## Example Response\n\n## Create a Category Group Record\n\n## Example Request\n\n## Example Response\n\n## Update a Category Group Record\n\n## Example Request\n\n## Example Response\n\n## Delete a Category Group Record\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "5b8951a3752726cefd72452b142539e97e5c00f2d7137ed80bcc4effd3b78a9e",
+  "ingested_at": "2026-10-17T15:39:30.468150+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000052073-how-to-edit-login-page-button",
+  "title": "How To Edit Login Page Button",
+  "text": "\n## How To Edit Login Page Button\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000052073\nEvery Brilliant Directories website comes with a default /login page. On this page, the default login form and the signup button are available to edit:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301181/original/FnUYz7OLT7JEtdVeWO5_6KD_2SR0QpuK0g.png?1781230881 | alt: ]\n\n## Edit This Button in the Back End\nNavigate to Toolbox » Menu Manager , search for the \" Login Page Signup Buttons \" menu, and click \" Customize \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301189/original/05lWFQZuAuIXh2L4q4DsxJOoir_qkl3e1w.png?1781230939 | alt: ]\nIn the \" Edit \" view, the text areas can be edited to change the wording and the URLs:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301209/original/2fGUAqR4yJLk2VVKYrBiKRsKd93y4uxp9A.png?1781231032 | alt: ]\nThe admin can choose to either edit the wording directly in the Menu Manager or edit the text labels.\nThe text and URL can be edited under Settings » Text Labels : login_form_join_cta\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301339/original/h2NRFWwRMV6AX9kn3sddAwKuGDvm09yKEg.png?1781231403 | alt: ]\ndefault_signup_url\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301347/original/jAQWwM_-ca26bSe5RyPWirOnawvk8hHInw.png?1781231445 | alt: ]\n\n## Make the Link a Button\nEach menu link has its own \" Edit \" button for further changes. Clicking it opens a dropdown of settings. In the Menu Item CSS Class field, add the following:\nMenu Item CSS Class\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301423/original/DcSL4Edl6IRfr1-a1C7HubO9xfht-dcctA.png?1781231653 | alt: ]\nIt will look like this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301431/original/kVUIthDoYdZuSnbPJQWfZbBTr_ouaeiysg.png?1781231696 | alt: ]\n\n## Change The Link to the Deprecated Two Buttons\nOlder versions of the /login page displayed two signup buttons instead of one. To recreate that layout, add two menu items with the following settings.\nThis is the information that needs to be added to add the 2 buttons, please click on Add Menu Item:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301483/original/Mx5rHyqN3DAA9ZOw7eVFIR49BiQ7RxWigA.png?1781231913 | alt: ]\nNote: the URLs below are examples. /checkout/5 points to a specific membership plan — replace the plan ID with the correct one for the website.\n\n## Button 1\nTEXT: Not a Registered User? <span class=\"inline-block\">Create Free User Account</span>\nURL: /checkout/5\nMenu Item CSS Class: btn btn-danger btn-block sm-bmargin\nOuter <li> CSS Class: col-xs-12 col-sm-12 col-md-6 nolpad sm-nopad nav\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301582/original/QNKC2n4mSCY0lN3vB09HGlQr0eUcAqIPww.png?1781232002 | alt: ]\n\n## Button 2\nTEXT: Are You a Local Business? <span class=\"inline-block\">List Your Company Now</span>\nURL: /join\nMenu Item CSS Class: btn btn-success btn-block\nOuter <li> CSS Class: col-xs-12 col-sm-12 col-md-6 norpad sm-nopad nav\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301593/original/4h29794YISw8hSsmxkAdp4co0VIls4tDbg.png?1781232078 | alt: ]\nThis is how it will look on the /login page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301601/original/szCvEVGw9OWtpYFwMG-GXGq6VCd8o_GZ0Q.png?1781232136 | alt: ]\n\n## Change The Color of These Buttons\nThe menu link has its \" Edit \" button that can be utilized to make further changes. When clicked on these, a dropdown of sections will appear. On one this section called \" Link CSS Class \", the kind of a button that is being used as default will display:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301621/original/A_4oIQmR-1Rd6zdgjzaPb1qVAbhtzS0KIQ.png?1781232206 | alt: ]\nHighlighted areas indicate our button is Danger Button. In this scenario, the specific button color can be changed via Settings » Design Settings » Default Button Link Colors\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301625/original/VWxScto1_v1TfA9_UFLTNgudV2btyUPqCg.png?1781232280 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301181/original/FnUYz7OLT7JEtdVeWO5_6KD_2SR0QpuK0g.png?1781230881",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301189/original/05lWFQZuAuIXh2L4q4DsxJOoir_qkl3e1w.png?1781230939",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301209/original/2fGUAqR4yJLk2VVKYrBiKRsKd93y4uxp9A.png?1781231032",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301339/original/h2NRFWwRMV6AX9kn3sddAwKuGDvm09yKEg.png?1781231403",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301347/original/jAQWwM_-ca26bSe5RyPWirOnawvk8hHInw.png?1781231445",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301423/original/DcSL4Edl6IRfr1-a1C7HubO9xfht-dcctA.png?1781231653",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301431/original/kVUIthDoYdZuSnbPJQWfZbBTr_ouaeiysg.png?1781231696",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301483/original/Mx5rHyqN3DAA9ZOw7eVFIR49BiQ7RxWigA.png?1781231913",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301582/original/QNKC2n4mSCY0lN3vB09HGlQr0eUcAqIPww.png?1781232002",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301593/original/4h29794YISw8hSsmxkAdp4co0VIls4tDbg.png?1781232078",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301601/original/szCvEVGw9OWtpYFwMG-GXGq6VCd8o_GZ0Q.png?1781232136",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301621/original/A_4oIQmR-1Rd6zdgjzaPb1qVAbhtzS0KIQ.png?1781232206",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301625/original/VWxScto1_v1TfA9_UFLTNgudV2btyUPqCg.png?1781232280",
+      "alt": ""
+    }
+  ],
+  "content_hash": "917ef288b87ecd74edbf149ac46e88f17ffb6f3750463c204e9dceb538eecfaa",
+  "ingested_at": "2026-10-17T14:41:25.474416+00:00"
+}

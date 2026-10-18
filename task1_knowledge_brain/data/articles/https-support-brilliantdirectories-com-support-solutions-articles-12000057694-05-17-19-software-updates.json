@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000057694-05-17-19-software-updates",
+  "title": "05/17/19 - Software Updates",
+  "text": "\n## 05/17/19 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000057694\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\nWe made an update so that an Admin will be redirected to the Member Categories page after importing Member Categories in the Admin.  Previously it was redirecting the user back to the Member Category Import Tool instead.\nWe implemented a speed enhancement by only calling of the Facebook SDK on the frontend of websites on pages where it is required. Widget Involved: Bootstrap Theme Framework\nWe released the Sell Digital Downloads Add-On. Click here for more information. Widgets Involved: Bootstrap Theme - Account - Member Dashboard Bootstrap Theme - Account - Sidebar Bootstrap Theme - Group Post Form Patch Bootstrap Theme - Success Page - Lead Purchase\nWe updated the aesthetics of the Member Reviews, Send Newsletter, Manage Leads, Email Templates Preview, Import Member Categories, and View Contacts pages in the Admin.",
+  "images": [],
+  "content_hash": "471ebcbeb059761f6448244998af2e2159f78a089ffd5857a132976aed3f9424",
+  "ingested_at": "2026-10-17T14:42:51.733125+00:00"
+}

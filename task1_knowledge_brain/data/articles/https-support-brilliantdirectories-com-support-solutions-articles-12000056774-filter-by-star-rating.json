@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000056774-filter-by-star-rating",
+  "title": "Filter by Star Rating",
+  "text": "\n## Filter by Star Rating\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000056774\n\n## Overview\nThe Filter by Search Results add-on will allow the website visitors to perform a search of the members who have only a specific overall star rating.\nWhen a visitor performs a member search on the website, they can use this additional filter to only display members with an overall rating of, for example, 4 or more stars.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Filter By Star Rating Add-On\n\n## Enabling the Add-On\nIn Settings - Design Settings, click on General and expand \" Search Results Pages\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091953517/original/dkFHiOLXiLG78HUZMuUCpXAtqafTbciv4Q.png?1619650512 | alt: ]\nEnable the Display Star Rating Filter option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091953553/original/bGtziBe1s-TWqPs5n2d2Wh7FwA8SWOyOiA.png?1619650622 | alt: ]\n\n## Star Rating Filter\nIn the search results, there’s a dropdown filter that lets users select a star rating to filter members based on their reviews rating:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157207420/original/ldUfBJPthMCZ-kuzGPh5h3oV6EKIC0hy3g.png?1739985939 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157207505/original/7kyzkHZ9d6iGSfpFDAi5-BKGAFMIxPdzag.png?1739986013 | alt: ]\n\n## Star Filter Text Labels\nThe text for the filter can be edited through text labels:\nStar Rating\n(Best)\nStar Rating (Best)\nStar Rating (Worst)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157209514/original/skwSs61nJFtUZitiyim9vnvFrAK3QabGNw.png?1739988113 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157209516/original/1eWlXTcoMlPZy3E2JIs9q2IpBhk2dtZyeQ.png?1739988124 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157209520/original/mqhorFwcA115uKVB4c7rezV_3tTxqKbjeA.png?1739988134 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157209523/original/OeXbuVtBUKPxFAvUMlZRN3ihxz4doOgqWQ.png?1739988139 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091953517/original/dkFHiOLXiLG78HUZMuUCpXAtqafTbciv4Q.png?1619650512",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091953553/original/bGtziBe1s-TWqPs5n2d2Wh7FwA8SWOyOiA.png?1619650622",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157207420/original/ldUfBJPthMCZ-kuzGPh5h3oV6EKIC0hy3g.png?1739985939",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157207505/original/7kyzkHZ9d6iGSfpFDAi5-BKGAFMIxPdzag.png?1739986013",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157209514/original/skwSs61nJFtUZitiyim9vnvFrAK3QabGNw.png?1739988113",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157209516/original/1eWlXTcoMlPZy3E2JIs9q2IpBhk2dtZyeQ.png?1739988124",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157209520/original/mqhorFwcA115uKVB4c7rezV_3tTxqKbjeA.png?1739988134",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157209523/original/OeXbuVtBUKPxFAvUMlZRN3ihxz4doOgqWQ.png?1739988139",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2019f60ceb73e5c6581398115a1cdfd0647bea9cc49e89c599cd763e1d239de2",
+  "ingested_at": "2026-10-17T14:42:36.946160+00:00"
+}

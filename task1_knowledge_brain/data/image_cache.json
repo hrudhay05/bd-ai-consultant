@@ -1,0 +1,112 @@
+{
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415572/original/0_RFHNGWzxRNTrt3i385M8zCmScYPSCYpg.png?1791392588": {
+    "description": "In the left navigation menu under \"**Emails**\", select \"**Email Accounts**\" (marked 1). In the main content area under \"**Domain Manager**\", navigate to the \"**Mailboxes**\" tab (marked 2).",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358595/original/8ZBIk7xdczVdG2JjzsZeChbSSdKHPbks4Q.png?1791318600": {
+    "description": "In the **\"Manage Email Accounts\"** section, the current domain is displayed under **\"Current Domain: http://bd-documentation.directoryup.com\"**. To proceed with setting up email accounts, click the highlighted **\"Connect Live Domain\"** button (marked 1).",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132171349/original/ScGFFTLRwpppX7RsyMTIz3RaD35rEBxnOA.png?1696295524": {
+    "description": "The section header is labeled \"**Social Media Links**\" and contains numbered fields for configuring social profiles: **1** \"**Facebook**\", **2** \"**Twitter**\", **3** \"**LinkedIn**\", **4** \"**Pinterest**\", **5** \"**Instagram**\", **6** \"**Youtube**\", **7** \"**RSS Feed**\", **8** \"**Tik Tok**\", **9** \"**Whatsapp**\", and **10** \"**Snapchat**\". Each field includes an input box with an example URL placeholder (e.g., \"`(e.g. https://www.facebook.com/CompanyFacebook)`\").",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132162075/original/1UNijwTWHMGd6c0gwTZBva0OSvnTeXXyEA.png?1696281494": {
+    "description": "The screenshot highlights a website footer displaying a row of social media icons (including email, Facebook, Twitter, Pinterest, LinkedIn, YouTube, Instagram, TikTok, WhatsApp, Snapchat, and RSS) beneath the “About” section. Other surrounding elements include the banner with “Join Our Newsletter - Today” and “Click to Subscribe”, along with navigation columns for “Website”, “Search”, “Support”, and the button “Members - Get Listed Today”.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842": {
+    "description": "The spreadsheet template is titled `\"member-category-structure-import-template\"`. Category hierarchy is organized across columns `\"A\"`, `\"B\"`, and `\"C\"`, featuring entries such as `\"Top Category 1\"` in column A, subcategories like `\"Sub Category 1a\"` and `\"Sub Category 2a\"` in column B, and nested items such as `\"Sub-Sub Category 1a\"` in column C.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074694409/original/_CpKps0VX60nBTIrY3r1GfXBvyjYylQJXg.png?1583249244": {
+    "description": "The spreadsheet organizes category hierarchy across columns **\"A\"**, **\"B\"**, and **\"C\"**, with the top-level category **\"Real Estate Services\"** in cell A1, secondary categories like **\"Apartments\"**, **\"Mortgages\"**, and **\"Real Estate\"** in column B, and subcategories listed in column C (such as **\"Apartment Buildings\"** and **\"Real Estate Agency\"**). At the bottom, there is an **\"Add\"** button next to an input field set to **\"1000\"** followed by the label **\"more rows at bottom.\"**",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252789/original/c_8Lg6thRZqJ4vbTF83U2iteIZAplJLMxg.png?1764552502": {
+    "description": "Under the left navigation menu, navigate to **\"My Members\"** and select **\"Member Categories\"**. Then, open the **\"Member Category Actions\"** dropdown menu in the upper right and click **\"Import Categories\"** (indicated by the red arrow).",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097399352/original/tIBlFCLyIiZTlHaEeqcG_95NyCvySXaDZg.png?1630013869": {
+    "description": "The page displays **\"Import Settings\"** with the checkbox option **\"Delete existing member top and sub level categories\"**. Step 2 includes the upload section labeled **\"Upload CSV File Here\"** with a **\"Choose File\"** button, along with the reminder **\"Use .csv file format, not excel worksheets.\"** Finally, users complete the process by clicking the **\"Begin File Import\"** button.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587": {
+    "description": "The image highlights the CSV header row (Row 1) containing columns `\"listing_type\"`, `\"logo\"`, `\"profile_photo\"`, `\"first_name\"`, `\"last_name\"`, and `\"name\"`. For the `\"listing_type\"` column, the only accepted inputs shown are `\"Company\"` and `\"Individual\"`, as indicated by the note `\"(These are the only 2 inputs that will work for listing_type!)\"`.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415566/original/_lApz_l-6xTA4OMVw-a-80IKNpAkVY4kRA.png?1791392586": {
+    "description": "The spreadsheet shows the column headers `\"listing  type\"`, `\"logo\"`, `\"profile  photo\"`, `\"first  name\"`, `\"last  name\"`, and `\"name\"`. The highlighted area specifies the valid inputs under `\"listing  type\"` as `\"Company\"` and `\"Individual\"`, noted by `\"(These are the only 2 inputs that will work for listing  type!)\"`, alongside placeholder values including `\"(URL of the logo)\"` and `\"(URL of the profile photo)\"`.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186370587/original/V8jnRipUli7if57-q0dRCo0NYYElXfiTNQ.png?1791335039": {
+    "description": "The image highlights two spreadsheet columns: column **\"AM\"** with the header `\"profession_name\"` and description `\"(the top level category assoc\"`, and column **\"AN\"** with the header `\"services\"` and description `\"(comma separated sub leve\"`. The formula bar also displays the selected range `\"AM1:AN6\"` and value `\"profession_name\"`.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186370639/original/OcC1SJc3czBgn6AkYOQRZiOlP7NcjIvdrQ.png?1791335128": {
+    "description": "The popup displays a **\"Conflicting Data Error\"** modal stating: *\"The import file can have either a name field OR first_name and last_name fields. Please make sure only one or the other is included in the import file and try again.\"* To dismiss the alert, click the **\"OK\"** button. In the background, related interface elements include **\"Step 1. Import Settings\"**, the **\"Browse...\"** button under **\"2. Upload CSV File\"**, the uploaded file **\"conflict.csv\"**, and the **\"Begin File Import\"** button.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367408/original/Q1tgsJhsckMplXJJmPHj6pnH4hjem-v97w.png?1791329939": {
+    "description": "The highlighted steps point to the **\"Billing Cycle\"** field (1) and the **\"Start Billing On\"** field (2), which displays the date **\"10/06/2026\"**. Other related options on the **\"Create New Order:\"** screen include **\"Membership Plan\"**, **\"Price Override:\"**, **\"Admin Notes:\"**, and the **\"Create Order\"** button.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367409/original/7jHFR6x9c1zD9ALuOHV4OI6N73nMIVCF3w.png?1791329940": {
+    "description": "Click the **\"List Actions\"** dropdown (1) and select **\"Import Members via CSV File\"** (2).",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367411/original/Jsm0YQlCBZicGy7Zbx1Pt4_66HNnfQoRhQ.png?1791329943": {
+    "description": "Under **Step 1. Import Settings**, configure the dropdowns for **\"Assign Membership Plan\"** (2) and **\"Set as ACTIVE Members\"** (3), enter or select a tag under **\"Create Member Tag\"** (4), and select any desired checkboxes under **\"Advanced Options\"** (5), such as **\"If email already exists, create multiple accounts\"** or **\"Auto Import the users image during import.\"** Under **Step 2. Upload CSV File Here** (6), click the **\"Browse...\"** button to select your file, then click the **\"Begin File Import\"** button (7).",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367412/original/FuVSBrUA54k44PTOXSx37yF89lifH1JLqQ.png?1791329944": {
+    "description": "Under **Step 1. Import Settings**, open the **Assign Membership Plan** dropdown menu (callout 1) to select a plan, with options including **Basic (member) ID #3**, **Featured (member) ID #2**, **General User (member) ID #4**, and **Premium (member) ID #1**. To the right, **Step 2. Upload CSV File Here** provides a **Browse...** button to select a file and a **Begin File Import** button to proceed.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367415/original/2p-3KIZZE4cW9ElGGGyzdgGFujUhj7G1tA.png?1791329945": {
+    "description": "Under **\"Step 1. Import Settings\"**, the callout highlights the dropdown set to **\"Set as ACTIVE Members\"**, located directly below the **\"Assign Membership Plan\"** dropdown menu. Below this section is **\"Create Member Tag\"** with fields for **\"Import - 2026-10-06 16:21:59\"** and **\"Custom Tags\"**.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367410/original/RZ-uVOsXakfPS00Zn9Ami1HqFXFhLzyZUA.png?1791329941": {
+    "description": "Under the **\"Create Member Tag\"** section, step 1 points to a text field containing the default value **\"Import - 2026-10-06 16:21:59\"**, while step 2 highlights a dropdown menu set to **\"Custom Tags\"**. Below the fields, the instruction notes: **\"Tag the import to segment and identify these members. Use at least 3 characters (letters and numbers only, no symbols).\"**",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186366524/original/-5LSZqaX1__qj8L6DqsEolmu__eltnQxmA.png?1791327983": {
+    "description": "The image highlights the alert under the **Advanced Options** checkbox for **\"Geocode the users based on location information during import. (Requires Server Side Google Maps API Key)\"**, displaying the message **\"This option needs a server key.\"** along with the **\"Test\"** and **\"Add a server key\"** links. Additional visible controls include **\"Step 1. Import Settings\"** (**\"Assign Membership Plan\"**, **\"Set as ACTIVE Members\"**), **\"Create Member Tag\"**, and **\"Step 2. Upload CSV File Here\"** with the **\"Browse...\"** and **\"Begin File Import\"** buttons.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186370641/original/eNn_0kzkFRl9HVUy3V78Dy9CiTdThiZngA.png?1791335129": {
+    "description": "In the **\"Import Members Data Map\"** screen, callout 1 highlights the mapping table with columns for **\"COLUMN HEADER FROM FILE\"**, **\"PREVIEW INFORMATION\"**, and **\"DIRECTORY PROPERTY\"** (with dropdowns such as **\"Choose or create a p...\"**). Callout 2 points to the **\"Continue with Import\"** button, located beside **\"Cancel Import\"**.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186725075/original/quteFAsvvESYqTaexfZ7clKAUKXH-BPGdg.png?1791920520": {
+    "description": "In the **\"Import Members Data Map\"** screen, locate the row where **\"COLUMN HEADER FROM FILE\"** is **\"favorite_color\"** and **\"PREVIEW INFORMATION\"** is **\"Blue\"**. Under the **\"DIRECTORY PROPERTY\"** column (marked by callout **1**), select the dropdown menu labeled **\"Choose or create a p...\"** to assign or create a matching property.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  },
+  "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186725076/original/ozc7OaPIZ5FACx06nbxl1KRH6D3EhzvmAQ.png?1791920521": {
+    "description": "In the **\"Import Members Data Map\"** screen, select the **\"DIRECTORY PROPERTY\"** dropdown menu displaying **\"Choose or create a property\"** (shown truncated as **\"Choose or create a p...\"**) (1). From the opened menu list, click **\"Create new property\"** (2) to add a missing property. Other relevant controls include **\"Don't import column\"** and the **\"Continue with Import\"** button.",
+    "decorative": false,
+    "article": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file"
+  }
+}

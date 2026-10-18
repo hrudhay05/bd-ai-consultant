@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000109411-content-web-page-builder-draft-system-autosave-",
+  "title": "Content » Web Page Builder » Draft System (Autosave)",
+  "text": "\n## Content » Web Page Builder » Draft System (Autosave)\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000109411\nWhile editing a page in the Web Page Builder, the system automatically saves work in progress as a draft every few seconds. If the tab closes accidentally, the browser crashes, or the editor is closed before clicking Save, the changes aren't lost, the draft is offered back so editing can continue right where it left off.\nThis article explains how the draft system works, what counts as a change, and how to discard one.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184266684/original/rdYdaja2knUExRTYXP2oZZYevPNtgOExgg.png?1787824823 | alt: ]\n\n## How It Works\nAs edits are made in the Web Page Builder, the system silently saves a draft copy of the page every 2 seconds. A status badge next to the Save button reflects the current state, for example:\nSaving Draft — the draft is being written\nDraft saved Just now — the latest changes are saved as a draft\n\n## What Counts as a Change\nThe draft system captures any edit made in the page editor, including:\nTyping or editing text (including single keystrokes, like adding a space)\nRearranging or restyling content\nInserting an image\nInserting a video\nChanging Page Details and Page Options settings\nAny of these will trigger the autosave and update the draft badge.\n\n## Drafts Don't Go Live\nSaving a draft is not the same as publishing. Nothing written to a draft ever appears on the live, front-facing page until Save is explicitly clicked on the page.\nThis means edits can be made freely, experimenting, stepping away, or losing connection mid-edit, without any risk of half-finished changes showing up for site visitors. Clicking Save publishes the changes and clears the auto-saved draft, since it's no longer needed once the page is saved.\n\n## Discarding a Draft\nTo discard a draft, click the \"Discard Draft\" button. This deletes the draft and reverts the page back to its last saved (original) state.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184266700/original/r5Gi9tUptuRcBktLbU9BDU1RgCNzIpxJDA.png?1787824848 | alt: ]\n\n## How to Disable This Functionality\nIf needed, this functionality can be disabled under Settings » Advanced Settings by disabling the Auto-Save Drafts advanced setting.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183902884/original/CHSTAKy4ErRvk5Q6nb5nobyL0CVRmPZWbA.png?1787218657 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184266684/original/rdYdaja2knUExRTYXP2oZZYevPNtgOExgg.png?1787824823",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184266700/original/r5Gi9tUptuRcBktLbU9BDU1RgCNzIpxJDA.png?1787824848",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183902884/original/CHSTAKy4ErRvk5Q6nb5nobyL0CVRmPZWbA.png?1787218657",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2654479460627df4679d6375d06518cbb58e92097abb1ffd7a027ab13340bbac",
+  "ingested_at": "2026-10-17T15:44:22.195158+00:00"
+}

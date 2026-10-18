@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097494-how-to-replace-blue-twitter-bird-icon-logo-with-x-icon",
+  "title": "How to Replace Blue Twitter Bird Icon/Logo with X Icon",
+  "text": "\n## How to Replace Blue Twitter Bird Icon/Logo with X Icon\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000097494\nFollow these steps to replace the Twitter bird icon with the X icon for the website social media links as well as for the members overview tab.\n1. Copy the following snippet of code:\n2. Go to Settings - Design settings - Custom CSS/HEAD tab and paste the code in the Additional Footer Code section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135534501/original/TeNUX39vG2jTi6ZabCOF4gvyR7-EHrI5XQ.png?1701953014 | alt: image]\nThe icon will then be reflected on the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135534528/original/aw22YurYIoYFHx3oChstK0m-dCZrmcRjNw.png?1701953047 | alt: image]\nAs well as in member profiles:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135534542/original/qhfevXFot-uKonNZ1WWOjIxK2l2-d4_M1A.png?1701953087 | alt: image]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135534501/original/TeNUX39vG2jTi6ZabCOF4gvyR7-EHrI5XQ.png?1701953014",
+      "alt": "image"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135534528/original/aw22YurYIoYFHx3oChstK0m-dCZrmcRjNw.png?1701953047",
+      "alt": "image"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135534542/original/qhfevXFot-uKonNZ1WWOjIxK2l2-d4_M1A.png?1701953087",
+      "alt": "image"
+    }
+  ],
+  "content_hash": "0061382c0343dbd90e68d9294940c3afc235d0c4ee89fb0513c23f2030627f15",
+  "ingested_at": "2026-10-17T15:24:42.438087+00:00"
+}

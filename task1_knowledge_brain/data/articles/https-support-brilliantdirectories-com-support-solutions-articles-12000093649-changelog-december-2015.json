@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093649-changelog-december-2015",
+  "title": "Changelog - December 2015",
+  "text": "\n## Changelog - December 2015\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000093649\nNew Features\nYou can now choose the font awesome icon you want to use for the 'Add To Favorites' button in Settings -> Design Settings -> Additional Design Settings -> Favorite Icon\nYou can now choose the font size for the H1 and H2 of search results pages in Settings -> Design Settings > Additional Design Settings > Search Results H1 Size/ Search Results H2 Size\nYou can now choose to hide the Google Map that displays on the member's profile page in Members -> Membership Levels > Display Tab > Hide Google Map on Profile\nEnhancements / Fixes\nMore Optimizations to code Infrastructure\nMore than 70 bugs found and fixed ranging from Backend, Admin Panel, Frontend and more.",
+  "images": [],
+  "content_hash": "92774e323c11fee9dad0623cacb45651c7c8701f844d85e236cec4dea1ddd14e",
+  "ingested_at": "2026-10-17T15:13:26.988877+00:00"
+}

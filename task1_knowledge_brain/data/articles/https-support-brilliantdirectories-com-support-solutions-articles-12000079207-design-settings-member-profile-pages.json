@@ -1,0 +1,93 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000079207-design-settings-member-profile-pages",
+  "title": "Design Settings » Member Profile Pages",
+  "text": "\n## Design Settings » Member Profile Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000079207\n\n## Member Profile Pages\nThis article reviews the available settings to modify the layout of Member Profile Pages. To edit these settings navigate to\nSettings\nDesign Settings\nGeneral\nAdditional Design Settings\nMember Profile Pages .\n\n## Visual Guide of the Member Profile Pages Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134719841/original/ucRjr1-3zyZW7DATd0AA-DsgWqwOclJDlw.png?1700514659 | alt: ]\n\n## 1. Profile Photo Style\nThe available options for the profile image are Standard and Circle.\n\n## Standard Corners\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134719967/original/D5PScgGEle4f2-TLsrIle0VaI0QFoVCTCg.png?1700514767 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134719985/original/7whY0xNwTk7PFWXmKY31zvlgXdMcqP8i4Q.png?1700514782 | alt: ]\n\n## Circled Corners\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720132/original/4uwHEeeqVRiH_ryKa--2O9Ewo4Y82sAxNA.png?1700514929 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720070/original/RUrXSsLjDm5w-nz_i14ri979eumTiFQb0A.png?1700514868 | alt: ]\n\n## 2. Profile Page Header\nThe available options to align the header in profile pages are: Full-Width Header Above Sidebar and Align Header with Sidebar.\n\n## Full-Width Header Above Sidebar\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720227/original/NS7K3w5VW8pPqqDHwupwkxZcoLAQqB-2dg.png?1700515059 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720231/original/5Io2GfDwCGZvdWI70abnO_RD8IBMlNXGBg.png?1700515067 | alt: ]\n\n## Align Header with Sidebar (Default)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720316/original/-q5TYY7qL1PwCylQROG1t8s3eUMOVeF5RQ.png?1700515128 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720317/original/qya1jSDAvv_rUhGr3rIvqmpEBpJfkk1TyA.png?1700515128 | alt: ]\n\n## 3. Display Content in Tabbed Layout\nThe available options to display the content in the members profile pages are: Display Content n Separate Tabs (Default) and Stream All Content Without Tabs\n\n## No - Stream All Content Without Tabs\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720472/original/mm3XDR2cO4KofE206yODPJWClvD_d_pA4Q.png?1700515286 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721230/original/obcr98xpvy5mnvkMqF4UB84OLnb0oy9QaQ.png?1700516034 | alt: ]\n\n## Yes - Display Content in Separate Tabs (Default)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720659/original/uFQCRqntoSceoNUohGs8FOZGFmek1MaCzg.png?1700515500 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720661/original/4dt-3jE3lmOaH-XGt6C-LWv_FuWjlDIG9Q.png?1700515500 | alt: ]\n\n## 4. Display Post Count in Tab Title\nThe available options are Yes - Display Post Count in Tab Title and No - Hide Post Count in Tab Title\n\n## Yes - Display Post Count in Tab Title\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721454/original/86Ktw_LnSXK0lanZJ7nmlKME2i9xltoJvg.png?1700516173 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721474/original/9kj1gGSOqxii_k1ukCBSbwTxsTqq_NzkSQ.png?1700516180 | alt: ]\n\n## No - Hide Post Count in Tab Title\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721578/original/Pj5LeDt30LFdvhyIGxYMuIMrm8k2iz2TWQ.png?1700516315 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721611/original/lstLiBYaceVF4L51tyDaMUwib8SP5lyJ4A.png?1700516374 | alt: ]\n\n## 5. Profile Page Tabs Behavior\nThe available options are Stack or Scroll\n\n## Stack\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721716/original/7uVewHFciBevu9SbGufcCPfhchUG1qpKAA.png?1700516536 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721720/original/XR8r1S66-WJwg4OZSdGdWXFrz0EGWfO86g.png?1700516545 | alt: ]\n\n## Scroll\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721716/original/7uVewHFciBevu9SbGufcCPfhchUG1qpKAA.png?1700516536 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134778855/original/B9QFJ4trOh3kJKSxB7F1QlfwBin3d2GywQ.png?1700595536 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134719841/original/ucRjr1-3zyZW7DATd0AA-DsgWqwOclJDlw.png?1700514659",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134719967/original/D5PScgGEle4f2-TLsrIle0VaI0QFoVCTCg.png?1700514767",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134719985/original/7whY0xNwTk7PFWXmKY31zvlgXdMcqP8i4Q.png?1700514782",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720132/original/4uwHEeeqVRiH_ryKa--2O9Ewo4Y82sAxNA.png?1700514929",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720070/original/RUrXSsLjDm5w-nz_i14ri979eumTiFQb0A.png?1700514868",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720227/original/NS7K3w5VW8pPqqDHwupwkxZcoLAQqB-2dg.png?1700515059",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720231/original/5Io2GfDwCGZvdWI70abnO_RD8IBMlNXGBg.png?1700515067",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720316/original/-q5TYY7qL1PwCylQROG1t8s3eUMOVeF5RQ.png?1700515128",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720317/original/qya1jSDAvv_rUhGr3rIvqmpEBpJfkk1TyA.png?1700515128",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720472/original/mm3XDR2cO4KofE206yODPJWClvD_d_pA4Q.png?1700515286",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721230/original/obcr98xpvy5mnvkMqF4UB84OLnb0oy9QaQ.png?1700516034",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720659/original/uFQCRqntoSceoNUohGs8FOZGFmek1MaCzg.png?1700515500",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134720661/original/4dt-3jE3lmOaH-XGt6C-LWv_FuWjlDIG9Q.png?1700515500",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721454/original/86Ktw_LnSXK0lanZJ7nmlKME2i9xltoJvg.png?1700516173",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721474/original/9kj1gGSOqxii_k1ukCBSbwTxsTqq_NzkSQ.png?1700516180",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721578/original/Pj5LeDt30LFdvhyIGxYMuIMrm8k2iz2TWQ.png?1700516315",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721611/original/lstLiBYaceVF4L51tyDaMUwib8SP5lyJ4A.png?1700516374",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721716/original/7uVewHFciBevu9SbGufcCPfhchUG1qpKAA.png?1700516536",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721720/original/XR8r1S66-WJwg4OZSdGdWXFrz0EGWfO86g.png?1700516545",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134721716/original/7uVewHFciBevu9SbGufcCPfhchUG1qpKAA.png?1700516536",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134778855/original/B9QFJ4trOh3kJKSxB7F1QlfwBin3d2GywQ.png?1700595536",
+      "alt": ""
+    }
+  ],
+  "content_hash": "5ba0434584d40453964cd0b9d11135f6db4addfb2ba3eb8b3eba6d5aa93c17b7",
+  "ingested_at": "2026-10-17T14:50:03.506834+00:00"
+}

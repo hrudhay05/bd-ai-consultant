@@ -1,0 +1,61 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000089230-how-to-export-import-text-labels-via-database",
+  "title": "How to Export/Import Text Labels via Database",
+  "text": "\n## How to Export/Import Text Labels via Database\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000089230\nThis article covers how to import and export text labels from one site to another using the database. This can be a good workaround for site owners with multiple sites in different languages, where all translated text labels can be transferred from one site to another.\n\n## 1) How to Export Text Labels\nTo accomplish this, navigate to Developer Hub >> MySQL Database :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184814442/original/d-FO7idgMu_nQxcobg5iwoZCQzaEoqxSLQ.png?1788804440 | alt: ]\nClick on the _directory database:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184814478/original/WJyDBuTjlTDJ5OwO__WD4yv_EY2h1ZnbFQ.png?1788804477 | alt: ]\nSearch for the table website_labels and click on it:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838030/original/mqxi2oi8DH0x1SW_XPwSzJO2i5vctpX_Hg.png?1660050459 | alt: ]\nClick on the Export navigation link:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838073/original/HSXVfeXmBbDNHnjYPL4MMe5aFnRXRMve8w.png?1660050502 | alt: ]\nChoose the Custom option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838121/original/exU0GFpduHj93lQr3G-nzRUhPLUHHXtuyA.png?1660050536 | alt: ]\nName the file and choose the gzipped Compression option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838224/original/RoCnIReRLitKvwxatTnByg5FJgEdlhqbAQ.png?1660050599 | alt: ]\nSelect the Add Drop Table / Trigger statement option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838283/original/bc5mnbnuRVNDKICGeUpMDMdUjL0RVm_HDw.png?1660050646 | alt: ]\nClicking on Go downloads the file:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838296/original/1zUAxJF7epkLa6lq1JTtQAdXDoQRiNP94Q.png?1660050680 | alt: ]\n\n## 2) How to Import Text Labels\nNow that the export file is ready and downloaded, the next step is to navigate to a different site where these text labels will be imported.\nTo accomplish this, navigate to Developer Hub >> MySQL Database :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838977/original/lkFRM4ip0QHiCuCehUQteMDOuSnCRsJ2Uw.png?1660051271 | alt: ]\nClick on the _directory database:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839015/original/1urpoCb5ZoHfQgAiSJj2UkMz-ha2ikXa8A.png?1660051298 | alt: ]\nClick on the Import navigation link:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839063/original/a43lYOr9o8d89GiYQMMDE5sP9yOq8gXZDw.png?1660051349 | alt: ]\nChoose the correct exported file and click on Go :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839122/original/RwVlApRGYuHGYRh0wJgrNWEwkFp06wRgkg.png?1660051395 | alt: ]\nThere will be an indication that the queries were executed correctly:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839187/original/Eg_LfMM8Ks9Dm4Z2xcHCQf9dsCB2nR2MjQ.png?1660051443 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184814442/original/d-FO7idgMu_nQxcobg5iwoZCQzaEoqxSLQ.png?1788804440",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184814478/original/WJyDBuTjlTDJ5OwO__WD4yv_EY2h1ZnbFQ.png?1788804477",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838030/original/mqxi2oi8DH0x1SW_XPwSzJO2i5vctpX_Hg.png?1660050459",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838073/original/HSXVfeXmBbDNHnjYPL4MMe5aFnRXRMve8w.png?1660050502",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838121/original/exU0GFpduHj93lQr3G-nzRUhPLUHHXtuyA.png?1660050536",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838224/original/RoCnIReRLitKvwxatTnByg5FJgEdlhqbAQ.png?1660050599",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838283/original/bc5mnbnuRVNDKICGeUpMDMdUjL0RVm_HDw.png?1660050646",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838296/original/1zUAxJF7epkLa6lq1JTtQAdXDoQRiNP94Q.png?1660050680",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838977/original/lkFRM4ip0QHiCuCehUQteMDOuSnCRsJ2Uw.png?1660051271",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839015/original/1urpoCb5ZoHfQgAiSJj2UkMz-ha2ikXa8A.png?1660051298",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839063/original/a43lYOr9o8d89GiYQMMDE5sP9yOq8gXZDw.png?1660051349",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839122/original/RwVlApRGYuHGYRh0wJgrNWEwkFp06wRgkg.png?1660051395",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839187/original/Eg_LfMM8Ks9Dm4Z2xcHCQf9dsCB2nR2MjQ.png?1660051443",
+      "alt": ""
+    }
+  ],
+  "content_hash": "29ba56368b010f1173411e228c509499cd9565adfa73f38012c551a5d060afc0",
+  "ingested_at": "2026-10-17T15:00:43.260722+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000077982-edit-checkout-pages-how-to-display-a-sidebar",
+  "title": "Edit Checkout Pages: How To Display a Sidebar",
+  "text": "\n## Edit Checkout Pages: How To Display a Sidebar\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000077982\n\n## Overview\nAdding sidebars to checkout pages helps visitors learn more about the website and learn why they should join.\nThere are some pre-made sidebars, but they are not recommended for checkout pages because they contain links that direct visitors away from the checkout page. The goal is for visitors to complete the sign-up process and become free or paid members while they are on the checkout page. Below is a sidebar example we recommend. It includes text and images.\n\n## Sidebar example:\nHow To Add Confidence Boosters To Checkout Sign Up Pages\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144197/original/In_QIQpnVPj5GuaLnpu74MPQeTLJEk2ZYA.png?1614036907 | alt: ]\nAfter the sidebar is added to the Sidebar Manager, it can be selected by going to Finance » Membership Plans » Edit » Sign Ups & Upgrades » Sign Up Page Sidebar:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105383433/original/olmmXou2Y8HwSyjHPlWESzP9ubBdUl0I3A.png?1645474742 | alt: ]\nNow, this new sidebar will be displayed on the checkout page of that specific membership plan.\nThe system allows adding one sidebar per product (Free, Premium, Featured, etc).\nImportant Note: If the Use Default Setting option is selected for the Sign Up Page Sidebar Position:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116491546/original/ffhpoFvkaVV9qvADNwX5LJmHEEUARF9CBg.png?1666883702 | alt: ]\nThen the position specified under the Checkout Pages Sidebar Alignment setting:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116491603/original/vtwRIF5fqe6TBT8M5kI_sh1ZCswhM5iYBw.png?1666883772 | alt: ]\n\n## More About Editing Sign Up Pages:\nOverview Article\nHow to Edit Titles, Text & Language On Sign Up Pages\nHow to Add, Edit, and Remove Input Fields on Sign Up Pages",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144197/original/In_QIQpnVPj5GuaLnpu74MPQeTLJEk2ZYA.png?1614036907",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105383433/original/olmmXou2Y8HwSyjHPlWESzP9ubBdUl0I3A.png?1645474742",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116491546/original/ffhpoFvkaVV9qvADNwX5LJmHEEUARF9CBg.png?1666883702",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116491603/original/vtwRIF5fqe6TBT8M5kI_sh1ZCswhM5iYBw.png?1666883772",
+      "alt": ""
+    }
+  ],
+  "content_hash": "ad7a7869f772b45bde88d1cc6f238ae4b6315b21888b7061ec92592920bade64",
+  "ingested_at": "2026-10-17T14:48:47.963590+00:00"
+}

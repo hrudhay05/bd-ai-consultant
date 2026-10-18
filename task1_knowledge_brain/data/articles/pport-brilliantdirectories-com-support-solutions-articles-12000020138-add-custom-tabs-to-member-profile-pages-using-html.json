@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000020138-add-custom-tabs-to-member-profile-pages-using-html",
+  "title": "Add Custom Tabs to Member Profile Pages Using HTML",
+  "text": "\n## Add Custom Tabs to Member Profile Pages Using HTML\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000020138\nImportant\nThis article is intended for developers.\nThis method only works when at least one default navigation tab is already displayed on the member profile page. If no default tabs are available, additional custom development is required to create custom tabs.\nTo add a custom tab, edit the following widget:\nBootstrap Theme - Member Profile - Member Tabs Lazyload\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089141830/original/jSSY-4-XVA7J08qkGPnOZghVrD6IR8lhAQ.png?1614031933 | alt: ]\n\n## Step 1: Add the Navigation Tab\nThe following example adds a new Facebook tab when the member has a Facebook URL.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129062442/original/xwAKAI5nRKiWmBZ1ASW-viqh_J5c2S9QFw.png?1690561449 | alt: ]\n\n## Step 2: Add the Tab Content\nNext, add the content that will be displayed when the custom tab is selected.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129062444/original/6ylMCkK5FZTmZsSKtB2iIaZI_fk34q0vYg.png?1690561456 | alt: ]\nThe content inside the <div> can be replaced with any custom HTML, PHP, widgets, or other supported content.\nThe value used in the href attribute of the navigation tab ( #35 ) must match the id attribute of the corresponding content container ( id=\"35\" ).\n\n## Summary\nCreating a custom profile tab requires two components:\nA navigation tab added to the member profile tabs.\nA matching content container with the same ID.\nOnce both components use the same identifier, selecting the tab displays the associated content.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089141830/original/jSSY-4-XVA7J08qkGPnOZghVrD6IR8lhAQ.png?1614031933",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129062442/original/xwAKAI5nRKiWmBZ1ASW-viqh_J5c2S9QFw.png?1690561449",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129062444/original/6ylMCkK5FZTmZsSKtB2iIaZI_fk34q0vYg.png?1690561456",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f0431be96e5759fe7fb5b67238f2f170677197fc9c5a55ba1106de9349df2915",
+  "ingested_at": "2026-10-17T14:34:13.173073+00:00"
+}

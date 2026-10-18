@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000107802-how-to-get-member-subscriptions-through-the-api",
+  "title": "How to Get Member Subscriptions Through the API",
+  "text": "\n## How to Get Member Subscriptions Through the API\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000107802\nIn this article, we will go over how to use the Subscriptions API to retrieve subscription information for a single member.\n\n## How to get member subscriptions\nThe Subscriptions API leverages a single parameter (User ID or Client ID) to retrieve  all the transactions data.\n/api/v2/user/subscriptions\n\n## Parameters\nOnly one parameter is required to run the API. It can be either the User ID or the Client ID (the ID from the tblclients table in the billing database).\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175570914/original/BCGHdMTcS_KqjOJ5YfjTd7xirk2oRrsxlg.png?1772727706 | alt: ]\n\n## Example with Postman\nSending the user ID as the parameters:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175571763/original/Vs_gwgWIB8iX_0j-XP_FhbqobYUA7bpM1g.png?1772728439 | alt: ]\nThe results will show all subscriptions from that particular member in a Json Array format:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175571834/original/PmyT5pZP1b87mHtdTjD1FDr3D8ZLk2zOEg.png?1772728556 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175570914/original/BCGHdMTcS_KqjOJ5YfjTd7xirk2oRrsxlg.png?1772727706",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175571763/original/Vs_gwgWIB8iX_0j-XP_FhbqobYUA7bpM1g.png?1772728439",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175571834/original/PmyT5pZP1b87mHtdTjD1FDr3D8ZLk2zOEg.png?1772728556",
+      "alt": ""
+    }
+  ],
+  "content_hash": "bdef4c4ddcd073b61853b7a26429c1c019e2f86142e17ea360a5a65754c25194",
+  "ingested_at": "2026-10-17T15:38:56.708445+00:00"
+}

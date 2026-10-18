@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000034913-the-difference-between-blog-article-and-community-member-article",
+  "title": "The Difference Between Blog Article and Community/Member Article",
+  "text": "\n## The Difference Between Blog Article and Community/Member Article\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000034913\nThe website comes with two article post types.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126596392/original/2w6iOQAzLBq0uLiUKXUYT1y-lifH9sqZTQ.png?1686172975 | alt: ]\nBlog Article\nCommunity/Member Article\nThese are similar post types but with a few differences, specifically for the Blog post type.\n\n## Blog Article\nHow to Add a Blog Post\nThe default Permalink URL is: /blog\nThis post type is intended for curated articles created only by the Site Administrator or designated Blog Contributors, not by regular members of the directory.\nThis is because the Blog Articles have the \"Featured on Homepage?\" option: Featured Blog Article Slider This add-on allows the website admin to select and manage which Blog articles are featured on the homepage slider, which can display up to five posts. If this setting is enabled for all members and profiles, it becomes difficult to control which posts are displayed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126593962/original/d0mDWzU8szQuZRnsObjdWWXRNol2Ery67w.png?1686169739 | alt: ]\n\n## Custom SEO Data\nThere are also additional Custom SEO Data fields available.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126594005/original/-rKzJhYmBltPiENsFaZsbgcaudYCZ3hYnA.png?1686169784 | alt: ]\nThese fields are only available to the admin for two reasons:\nThis ensures each post can have SEO data tailored to the individual post instead of being tied to the overall post type. How To Edit The SEO Settings Of Dynamic (Search Results) Pages\nThis prevents harmful or false data from being entered, which could damage the website’s SEO and result in lower search engine rankings.\n\n## Adding Images to Blog Articles\nWhen adding images to blog articles, this post type uses the Media Manager to store uploads. Both the cover image and any files added through the Froala Editor are saved in a designated folder, keeping everything organized on the admin side.\nMy Content » Media Manager\nBecause the Media Manager is the central storage tool for site images, this post type is meant for admin use only. Allowing all users to upload here could lead to unnecessary or low-quality files, so keeping it limited to admins ensures the Media Manager stays clean and reliable.\n\n## Community/Member Article\nHow to Post an Article\nThe default Permalink URL is: /articles\nThis post type is intended for members use only.\nThis post type does not include the ‘ Featured on Homepage ’ option or Custom SEO fields.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126591640/original/FejTAVB8m-b-o3roz5BvVhCl5UgBiGW49Q.png?1686166923 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126596392/original/2w6iOQAzLBq0uLiUKXUYT1y-lifH9sqZTQ.png?1686172975",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126593962/original/d0mDWzU8szQuZRnsObjdWWXRNol2Ery67w.png?1686169739",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126594005/original/-rKzJhYmBltPiENsFaZsbgcaudYCZ3hYnA.png?1686169784",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126591640/original/FejTAVB8m-b-o3roz5BvVhCl5UgBiGW49Q.png?1686166923",
+      "alt": ""
+    }
+  ],
+  "content_hash": "40f88a3cb0ac676779807abd09fea3d8f6d5b139b6a550ddd140a6529cf66da6",
+  "ingested_at": "2026-10-17T14:36:18.913083+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078375-generating-a-new-google-maps-api-key",
+  "title": "Generating a New Google Maps API Key",
+  "text": "\n## Generating a New Google Maps API Key\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000078375\nA new Google Maps API key may be needed when setting up Google Maps for a new website, adding another Brilliant Directories license, or replacing an existing key that is not working correctly.\nThis article shows how to generate a new API key in Google Cloud. After the key is created, it should be restricted to the correct website domain and limited to the required Google Maps APIs.\n\n## Step 1 - Open the Google Cloud Credentials Page\nLog in to the Google account connected to Google Cloud and open the Credentials page:\nOpen Google Cloud Credentials\nMake sure the correct Google Cloud project is selected at the top of the page before creating the new key.\n\n## Step 2 - Create a New API Key\nClick Create Credentials .\nSelect API Key .\nGoogle will generate a new API key.\nCopy the new API key.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179115264/original/ODSf_x6HqTftJx717GyOHBtS-ZJA38vCaA.png?1779237816 | alt: ]\nThe new key can now be restricted and added to the Brilliant Directories website.\n\n## Step 3 - Add HTTP Referrers\nAfter creating the new API key, add the approved website referrers so Google knows which domains are allowed to use the key.\nThis usually includes the live website domain and the Brilliant Directories admin domain.\nGoogle Maps: Edit HTTP Referrers .\n\n## Step 4 - Add API Restrictions\nAfter adding the referrers, restrict the key to the Google Maps APIs used by the website.\nThis helps make sure the key is only used for the needed Google Maps services.\nGoogle Maps: Add APIs .\n\n## Step 5 - Add the New Key in Brilliant Directories\nLog in to the Brilliant Directories admin.\nGo to Settings .\nClick General Settings .\nSearch for Google Maps .\nClick the Integrations tab.\nPaste the new Google Maps API key into the Google Maps API key field.\nSave the changes.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179115424/original/JfuLqh1NzqqBjEglxAMV-2GD3cTqu8U2EQ.png?1779238007 | alt: ]\nThe new Google Maps API key is now connected to the website.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179115264/original/ODSf_x6HqTftJx717GyOHBtS-ZJA38vCaA.png?1779237816",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179115424/original/JfuLqh1NzqqBjEglxAMV-2GD3cTqu8U2EQ.png?1779238007",
+      "alt": ""
+    }
+  ],
+  "content_hash": "0ea2ba333539ea9ea9208bae048cb9499ee35d0729b66eca12cc9a848a6e87a7",
+  "ingested_at": "2026-10-17T14:49:05.857263+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000033973-how-to-add-a-video-in-a-sidebar",
+  "title": "How to Add a Video in a Sidebar",
+  "text": "\n## How to Add a Video in a Sidebar\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000033973\nThis article describes the steps necessary for adding a video to any website sidebar.\nFor this example, the site is a Real Estate/Property site, and the video we will add is of a house. The video we are adding is to promote a new house, recently put on the market.\nThis can be used to sell promotional ad space for existing profiles and external companies.\nResults:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079594453/original/XNpfmBLGOjahSPyRMaKfDwMNJr27DoxMwQ.png?1594043032 | alt: ]\n\n## Step 1 - Create A New Widget:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093126657/original/u5Mgbwnhq323_SwNYcF-dMZbWmNRlhVDLQ.png?1621958008 | alt: ]\nIn the HTML tab, add the EMBED code for the video below the \"<div style=...>\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079594780/original/26Qc8C_OPj2f8CwpVsbZ_7huHcs0mLp42w.png?1594043376 | alt: ]\nIt is also possible to add text and links to the sidebar:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079595518/original/ZtpZY01RzHg8DpuB8SW8thVtqiUXMPa5Lg.png?1594044046 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079594880/original/C_emdJLDm6OEeGtFc1D6bUtbsGvmqPRU1A.png?1594043486 | alt: ]\nAdditional Information:\n» Toolbox » Widget Manager\n\n## Step 2 - Find the Sidebar to Display the New Video Widget\nGo to Toolbox » Sidebar Manager » Select the Sidebar, click Edit or Customize :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093126792/original/0QKJQw3gF3yXrlnpANAUCOnaVvxd46UMhw.png?1621958125 | alt: ]\nFor this example, we are using the Posts Search Result Sidebar. Inside the Sidebar, find the name of the new widget and drag-and-drop the widget:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095917127/original/ihS-5yobIjFjIG-DtzsbJfVMihCBFTXX4Q.png?1627064515 | alt: ]\nNow click on Save Changes .\nExternal Resources:\n» CSS Margin » HTML YouTube Videos",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079594453/original/XNpfmBLGOjahSPyRMaKfDwMNJr27DoxMwQ.png?1594043032",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093126657/original/u5Mgbwnhq323_SwNYcF-dMZbWmNRlhVDLQ.png?1621958008",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079594780/original/26Qc8C_OPj2f8CwpVsbZ_7huHcs0mLp42w.png?1594043376",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079595518/original/ZtpZY01RzHg8DpuB8SW8thVtqiUXMPa5Lg.png?1594044046",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079594880/original/C_emdJLDm6OEeGtFc1D6bUtbsGvmqPRU1A.png?1594043486",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093126792/original/0QKJQw3gF3yXrlnpANAUCOnaVvxd46UMhw.png?1621958125",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095917127/original/ihS-5yobIjFjIG-DtzsbJfVMihCBFTXX4Q.png?1627064515",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b68e4fa98d66e7a3e713d4128a1984e758e16781e0d934a07ae16276bb7bf28e",
+  "ingested_at": "2026-10-17T14:35:59.356310+00:00"
+}

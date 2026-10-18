@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000036665-10-20-17-software-updates",
+  "title": "10/20/17 - Software Updates",
+  "text": "\n## 10/20/17 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000036665\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\n\n## Updates:\nWe updated the Success Message Modal when a Member updates his Credit Card information.\nWe fixed an issue that was affecting the 404 error Advanced Setting. Now the error_404 Advanced Setting is working as it should.\nWe added new functionality to the Admin Account Page in the Admin area. Now the system tracks the IP from which an Admin logged in most recently.",
+  "images": [],
+  "content_hash": "e34e356a87a42c947815d100ebe9066c3cecb455b0a85e67b6c0bb4425f6ce84",
+  "ingested_at": "2026-10-17T14:36:47.998236+00:00"
+}

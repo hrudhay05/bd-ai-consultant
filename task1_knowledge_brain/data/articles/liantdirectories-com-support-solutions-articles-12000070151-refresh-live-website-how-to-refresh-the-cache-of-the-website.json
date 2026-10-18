@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000070151-refresh-live-website-how-to-refresh-the-cache-of-the-website",
+  "title": "Refresh Live Website: How To Refresh The Cache Of The Website",
+  "text": "\n## Refresh Live Website: How To Refresh The Cache Of The Website\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000070151\nRefreshing the cache of the website makes sure that recent changes that have been made to widgets, forms, and other elements of the website through the Admin Area are reflected in the website's cache.\nSometimes a change made through the Admin Area of the site will not be reflected immediately on the frontend of the website. This is often due to the change not yet being reflected in the website's cache. To fix this, Refresh the Cache of the website in one simple step.\n\n## Refresh Cache\nNavigate to Dashboard >> Refresh Live Website in the Admin Area of the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114898624/original/9eS-e6BEKPqrhT1aBCU32KdZWpVO6YuVsA.png?1663787394 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090899787/original/TS_TFSdikd25Guxvzg31csOnXjA7UBUV8g.png?1617638168 | alt: ]\n\n## Refresh Cache - Admin Bar\nThe Admin Bar on the front end of the website also has an option to refresh the live website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159694995/original/fciAcpvLRO4XaJfdWc_1qjFl2Oj2jyeZrQ.png?1744236124 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114898624/original/9eS-e6BEKPqrhT1aBCU32KdZWpVO6YuVsA.png?1663787394",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090899787/original/TS_TFSdikd25Guxvzg31csOnXjA7UBUV8g.png?1617638168",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159694995/original/fciAcpvLRO4XaJfdWc_1qjFl2Oj2jyeZrQ.png?1744236124",
+      "alt": ""
+    }
+  ],
+  "content_hash": "cac004bbb7a1a40565c5cd7c756252c1e6157b85afe82bef1293498b27a3590e",
+  "ingested_at": "2026-10-17T14:46:04.430442+00:00"
+}

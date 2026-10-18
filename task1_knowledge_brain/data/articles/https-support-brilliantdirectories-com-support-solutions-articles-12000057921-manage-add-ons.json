@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000057921-manage-add-ons",
+  "title": "Manage Add-ons",
+  "text": "\n## Manage Add-ons\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000057921\nIn this section, the admin can view all activated add-ons on the site, see details about each one, and find out how to get them individually if needed.\nGo to Dashboard > Manage Add-Ons :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168212706/original/53Nj6vdF0LgPFxSAR1HvgelhDQvLAhP2oQ.png?1759160048 | alt: ]\n\n## Add-On Status\nThe admin can filter the results:\nActive\nInactive\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168213259/original/xr2wzsmLBz4B8-ztCYsWB3jKhn6q-N0MMA.png?1759160440 | alt: ]\n\n## Add-Ons Search\nOr search for a specific add-on:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168213299/original/-k0PaEk9n-Ly03BLR9srn_fY61OfwoqLIA.png?1759160487 | alt: ]\n\n## Add-Ons Documentation\nThere is also a link to the documentation about the add-on:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168213338/original/3a2kz9y8IP3h7OimIrqT6lqdAHHo8fU9tA.png?1759160539 | alt: ]\n\n## Activating Add-Ons\nAlready purchased Add-Ons will be available to activate in the Account Dashboard. A ny purchased Add-Ons still pending activation will be listed in this section.\nThe \" Click to Activate + \" button to assign the add-on package to one of the available Website Licenses.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123337109/original/4B1MKtW7LBCe5qAe4lqDPra9eAMlftIzvQ.png?1680119884 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168212706/original/53Nj6vdF0LgPFxSAR1HvgelhDQvLAhP2oQ.png?1759160048",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168213259/original/xr2wzsmLBz4B8-ztCYsWB3jKhn6q-N0MMA.png?1759160440",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168213299/original/-k0PaEk9n-Ly03BLR9srn_fY61OfwoqLIA.png?1759160487",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168213338/original/3a2kz9y8IP3h7OimIrqT6lqdAHHo8fU9tA.png?1759160539",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123337109/original/4B1MKtW7LBCe5qAe4lqDPra9eAMlftIzvQ.png?1680119884",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7d2f286491925f3455e2490522f8079af0f0b3c17294bad4e600851bc7f480e7",
+  "ingested_at": "2026-10-17T14:42:58.661937+00:00"
+}

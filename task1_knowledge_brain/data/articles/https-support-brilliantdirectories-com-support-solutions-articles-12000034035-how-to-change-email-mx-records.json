@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000034035-how-to-change-email-mx-records",
+  "title": "How To Change Email MX Records",
+  "text": "\n## How To Change Email MX Records\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000034035\n\n## How to Change Email MX Records\nMX records determine where incoming email for a domain is delivered. The mail provider supplies the required destination and priority values.\n\n## Domain Manager Mailboxes\nWhen the Mailboxes tab offers provider changes for Brilliant Directories-hosted DNS or a connected Cloudflare zone, open Settings > Domain Manager > Mailboxes . Use the routing option in that area when the mailbox service must be changed. For the complete mailbox workflow, see Manage Mailboxes and Email Routing . Keep a copy of the current MX, SPF (TXT), and autodiscover records from the DNS tab first. After the change, confirm in the DNS tab that only the new provider's MX records remain and that the SPF and autodiscover records are still present, and restore anything missing from the copy.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185668539/original/X_mzqGTAsl6kvQGKy0U-hkcRIHqw_bGFcA.png?1790182293 | alt: Change your email provider, with the four provider choices marked]\nThe Mailboxes tab offers the supported incoming-mail providers before the MX change is confirmed.\n\n## cPanel Alternative\nIf the DNS zone is managed through the website's cPanel account:\nOpen Developer Hub > cPanel Dashboard .\nOpen Zone Editor and select Manage for the domain.\nFilter the records by MX .\nEdit or replace the existing MX destination and priority with the values supplied by the new mail provider.\nRemove obsolete or conflicting MX records only after the new provider confirms the correct record set.\nIf the domain uses Cloudflare or another external DNS provider, change the MX records at that provider or through a supported connected Domain Manager workflow, rather than in cPanel.\nDNS changes often appear within a few hours but can take longer to update globally.\nAfter the change, recheck the mail provider in Domain Manager and send a test message to confirm that new mail reaches the intended mailbox.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185668539/original/X_mzqGTAsl6kvQGKy0U-hkcRIHqw_bGFcA.png?1790182293",
+      "alt": "Change your email provider, with the four provider choices marked"
+    }
+  ],
+  "content_hash": "9695fc0356be87977b4e5496b075968766d0cc3a6965b484deff7aa2d22828b5",
+  "ingested_at": "2026-10-17T14:36:02.571634+00:00"
+}

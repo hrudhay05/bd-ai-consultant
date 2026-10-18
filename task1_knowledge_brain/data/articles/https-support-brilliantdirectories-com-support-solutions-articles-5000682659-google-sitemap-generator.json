@@ -1,0 +1,81 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682659-google-sitemap-generator",
+  "title": "Google Sitemap Generator",
+  "text": "\n## Google Sitemap Generator\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000682659\n\n## Overview\nThe Google Sitemap Generator add-on greatly improves the directory website’s SEO by creating XML sitemaps. These sitemaps help search engines like Google and Bing better index all of the pages that make up the membership website.\nNOTE: Keep in mind that submitting your sitemap to the Google Console doesn't ensure that all pages will get indexed by Google. This article explains more about this: https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview\nNot all pages in a sitemap have value to Google. Learn more about thin pages here: https://developers.google.com/search/docs/advanced/guidelines/thin-content\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Google Sitemap Generator Add-On\n\n## Enabling the Add-On\n\n## Create Sitemap File\nLogin to the Admin area of the site for the Sitemap Generator settings.\nNavigate to Toolbox » Sitemap Generator\nClick on the \" Generate Sitemap \" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610183/original/iMap_s5geJbqqjN-k1DTPmWjrK3e5Iot5Q.png?1790104733 | alt: Generate Sitemap button in the Sitemap Generator Tool]\nThe admin will see a message that a sitemap is being generated.  Depending on the size of the site and how many members it might have, this could take anywhere from a few seconds to a few minutes to complete.  Please do not navigate away from this page while it is processing.\nOnce it is complete, the admin will see a success message.  Click on \"Close Window\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610184/original/2JNpZN-tFZLAMt7yJrM28RmiOUEHRHP8ng.png?1790104735 | alt: Sitemap Created success message with the Close Window button]\nThe admin will now see a link for the XML sitemap that they can submit to search engines.  They can copy this link directly or click on the \"Copy to Clipboard\" button to copy the link to the clipboard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610186/original/81TOCRTRGyJLTMtwVU07zmiAkEG-HApj0Q.png?1790104738 | alt: Sitemap link to submit to search engines with the Copy to Clipboard button]\nThe admin can now create a cron job that automatically updates the sitemap of the site: The admin will have these different options for how often the sitemap is automatically regenerated: every day, every 7 days, or every 30 days:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610187/original/yJmB9BIc-m35m1x2SpCrgEV-sEgRczXuQg.png?1790104744 | alt: Automatic sitemap update setting]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610189/original/CzpS4js8rDsHuJGBdiHjZxsUwbosnaZuqg.png?1790104746 | alt: Automatic update options: Never, Every day, Every 7 days, Every 30 days]\n\n## Submit the sitemap to the search engines\nSubmit a sitemap to Google\nSubmit a sitemap to Bing\n\n## Advanced Sitemap Generation\n\n## How the Sitemap Generator works:\n\n## Exclusions to the Sitemap:\nAny Web Page with the \"Apply NoIndex, NoFollow\" setting checked is not included in the sitemap:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606766/original/BLXGaabbVUKwLWCJ4k8GnizrzAsKOe79wA.png?1790101863 | alt: Apply NoIndex, NoFollow checked under Advanced Options on the Page Options tab]\nIf \"Add \"NOFOLLOW\" to Member Web Links?\" and \"Hide Member Profile from Search Engines?\" are set to \"YES\" within the Membership Plans:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606772/original/i3zSY_dvnW8IN7HH-FfUO3_18hFTxjn77Q.png?1790101869 | alt: Hide Member Profile from Search Engines and Add NOFOLLOW to Member Web Links set to ON on the Search Visibility tab]\nIf the Noindex Review & Connect Pages setting is turned on (Settings >> Advanced Settings >> URL Rules tab), the members' write-a-review pages and connect (contact) pages are left out of the sitemap, including pages that use a custom URL for either one. Those pages already tell search engines not to index them, so leaving them out keeps the sitemap limited to pages that can appear in search results.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606746/original/KdWCz7wbz7X5QbWwDwQc7NRwn-jRMqXb3w.png?1790101857 | alt: Noindex Review and Connect Pages set to ON on the URL Rules tab of Advanced Settings]\nThe change takes effect the next time the sitemap is generated. In Advanced Controls, the Write a Review and Contact Form SEO Templates are still listed, but with no Sitemap File.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606776/original/xTuEi5Dj3r7DpunmKwdOd63sJy0W3oeXDQ.png?1790101871 | alt: Are These Members Searchable and Can Unregistered Visitors View These Members settings on the Search Visibility tab]\n\n## Sitemap Index File\n\n## Advanced Controls\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610190/original/9tAnYpstsk4U-DWuVHHX46b7oIX-kKLs7g.png?1790104749 | alt: Show Advanced Controls button]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610203/original/6AVd8O41LnAmIMZ7hmFtuTHLLGPPPreiWg.png?1790104755 | alt: SEO Template list in Advanced Controls]\n\n## Generate or Update a Sitemap File for a Single SEO Template\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610221/original/8sI-l41LF97i1TDaNiifK7j7zU5KZKQb9A.png?1790104757 | alt: Add / Update Sitemap button for a single SEO Template]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610227/original/ogP0zHYZbGq5ONuhDk803QS3e6uPp7RWZA.png?1790104760 | alt: Sitemap File link for the updated SEO Template]\n\n## Generate or Update Sitemap Files for Multiple Selected SEO Templates\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610230/original/1wQaOTMIU4FR1FYgdtJypEONZQIO9w_FKw.png?1790104766 | alt: Checkboxes selected for several SEO Templates]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610233/original/ZtTpJ92Ub_cz2PUVXEDx1lirKkAwDgdL0g.png?1790104768 | alt: Bulk Add / Update button]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610236/original/AsQ2E0IjukPXJw1VIhz1Xmu95D0L9d_ICA.png?1790104771 | alt: Sitemap File links for each updated SEO Template]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610239/original/y0bVqEDeAu81Wgu_TA3Gvvm-Dc8b59_FOw.png?1790104777 | alt: Sitemap to submit to search engines at the top of the page]\n\n## SEO Templates That Will Generate More Than 50,000 URLs\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610246/original/VQtRN6H-Z83UFiDfbP84lWnyrksZBmc5Zw.png?1790104779 | alt: A single Sitemap File link for an SEO Template]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610183/original/iMap_s5geJbqqjN-k1DTPmWjrK3e5Iot5Q.png?1790104733",
+      "alt": "Generate Sitemap button in the Sitemap Generator Tool"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610184/original/2JNpZN-tFZLAMt7yJrM28RmiOUEHRHP8ng.png?1790104735",
+      "alt": "Sitemap Created success message with the Close Window button"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610186/original/81TOCRTRGyJLTMtwVU07zmiAkEG-HApj0Q.png?1790104738",
+      "alt": "Sitemap link to submit to search engines with the Copy to Clipboard button"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610187/original/yJmB9BIc-m35m1x2SpCrgEV-sEgRczXuQg.png?1790104744",
+      "alt": "Automatic sitemap update setting"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610189/original/CzpS4js8rDsHuJGBdiHjZxsUwbosnaZuqg.png?1790104746",
+      "alt": "Automatic update options: Never, Every day, Every 7 days, Every 30 days"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606766/original/BLXGaabbVUKwLWCJ4k8GnizrzAsKOe79wA.png?1790101863",
+      "alt": "Apply NoIndex, NoFollow checked under Advanced Options on the Page Options tab"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606772/original/i3zSY_dvnW8IN7HH-FfUO3_18hFTxjn77Q.png?1790101869",
+      "alt": "Hide Member Profile from Search Engines and Add NOFOLLOW to Member Web Links set to ON on the Search Visibility tab"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606746/original/KdWCz7wbz7X5QbWwDwQc7NRwn-jRMqXb3w.png?1790101857",
+      "alt": "Noindex Review and Connect Pages set to ON on the URL Rules tab of Advanced Settings"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606776/original/xTuEi5Dj3r7DpunmKwdOd63sJy0W3oeXDQ.png?1790101871",
+      "alt": "Are These Members Searchable and Can Unregistered Visitors View These Members settings on the Search Visibility tab"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610190/original/9tAnYpstsk4U-DWuVHHX46b7oIX-kKLs7g.png?1790104749",
+      "alt": "Show Advanced Controls button"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610203/original/6AVd8O41LnAmIMZ7hmFtuTHLLGPPPreiWg.png?1790104755",
+      "alt": "SEO Template list in Advanced Controls"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610221/original/8sI-l41LF97i1TDaNiifK7j7zU5KZKQb9A.png?1790104757",
+      "alt": "Add / Update Sitemap button for a single SEO Template"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610227/original/ogP0zHYZbGq5ONuhDk803QS3e6uPp7RWZA.png?1790104760",
+      "alt": "Sitemap File link for the updated SEO Template"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610230/original/1wQaOTMIU4FR1FYgdtJypEONZQIO9w_FKw.png?1790104766",
+      "alt": "Checkboxes selected for several SEO Templates"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610233/original/ZtTpJ92Ub_cz2PUVXEDx1lirKkAwDgdL0g.png?1790104768",
+      "alt": "Bulk Add / Update button"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610236/original/AsQ2E0IjukPXJw1VIhz1Xmu95D0L9d_ICA.png?1790104771",
+      "alt": "Sitemap File links for each updated SEO Template"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610239/original/y0bVqEDeAu81Wgu_TA3Gvvm-Dc8b59_FOw.png?1790104777",
+      "alt": "Sitemap to submit to search engines at the top of the page"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185610246/original/VQtRN6H-Z83UFiDfbP84lWnyrksZBmc5Zw.png?1790104779",
+      "alt": "A single Sitemap File link for an SEO Template"
+    }
+  ],
+  "content_hash": "810c899fb530190d1183a8849e5c9be52fe6abb037c128e36107d5ff40976941",
+  "ingested_at": "2026-10-17T14:07:43.987180+00:00"
+}

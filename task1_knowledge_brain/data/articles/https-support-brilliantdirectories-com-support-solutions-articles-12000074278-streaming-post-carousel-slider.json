@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000074278-streaming-post-carousel-slider",
+  "title": "Streaming Post Carousel Slider",
+  "text": "\n## Streaming Post Carousel Slider\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000074278\nDisplay streaming posts on the website’s homepage in a horizontally sliding carousel rather than in the default multi-row layout. Works with all post types and can be enabled for individual streaming post sections on the homepage.\nPost carousel sliders are mobile-friendly and touch responsive! The sliders also respect the total number of posts and columns set for each streaming section.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Streaming Post Carousel Slider Add-On\n\n## Enabling the Add-On\nGo to Settings - Design Settings - Homepage - Select Content to Display:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452200/original/pG6COoILPzyZaMDcYKn3FUlV_Uop12zMag.png?1781542239 | alt: ]\nThis controls the order that items appear on the homepage. To add or edit which type of content the owners would like to stream on the homepage click on on the down arrow and select the appropriate data.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452255/original/4X5IALDSgcVR2F3C7TSRfWKUb_EAh0at3A.png?1781542296 | alt: ]\nClick on Edit Settings to expand the additional options and enable/disable the Carousel Slider.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452284/original/bFkilGydZ7-M75TExPeJKoPiJCSchSKvhw.png?1781542330 | alt: ]\nEnable/disable the Carousel Slider on the homepage:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452305/original/yn2-pZc5PoC4hCQiZby0uot_JeAc8m6fWA.png?1781542373 | alt: ]\nThe Streaming Post Carousel Slider setting applies to the:\nMember Profiles Streaming Widgets\nMember Top and Sub Categories Streaming Widgets\nPost Types Streaming Widgets\nThis will allow members to go back and forth between the streaming features:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907172/original/Kt01NJUW8hyVwaO7z7PGU6HoRokPAgHNWA.png?1617650185 | alt: ]\n\n## Embedding Post Slider on Static Web Pages\nThe streaming post carrousel add-on is built to work on the Hompage, but it can also be added it to a Static Page, here's how:\n1. Identify the widget that will be displayed in the static page: How to Locate Widgets, Sidebars, Menus, and Forms Via Admin Bar\n2. To add the widget, copy the widget shortcode and then add it to the static page: How To Call a Widget On a Custom Page .\nIMPORTANT NOTE: Do not add inside a table. The carousel slider is incompatible and therefore won't work inside a table element.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452200/original/pG6COoILPzyZaMDcYKn3FUlV_Uop12zMag.png?1781542239",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452255/original/4X5IALDSgcVR2F3C7TSRfWKUb_EAh0at3A.png?1781542296",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452284/original/bFkilGydZ7-M75TExPeJKoPiJCSchSKvhw.png?1781542330",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452305/original/yn2-pZc5PoC4hCQiZby0uot_JeAc8m6fWA.png?1781542373",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907172/original/Kt01NJUW8hyVwaO7z7PGU6HoRokPAgHNWA.png?1617650185",
+      "alt": ""
+    }
+  ],
+  "content_hash": "06711ad53520a39820cc13b97a650e156abe8539b41ee8f6eaa8d1d2b1e12ac7",
+  "ingested_at": "2026-10-17T14:47:17.283001+00:00"
+}

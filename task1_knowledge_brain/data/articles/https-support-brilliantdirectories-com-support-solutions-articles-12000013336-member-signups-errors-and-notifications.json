@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000013336-member-signups-errors-and-notifications",
+  "title": "Member Signups - Errors and Notifications",
+  "text": "\n## Member Signups - Errors and Notifications\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000013336\n\n## Paid Membership Plans\nIf a person enters incorrect credit card information on the paid signup form, the payment will be rejected by the payment gateway and an error message displaying the payment gateway response will appear:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850268/original/fWAWAZmvIxOdhk5nxhvjP_qmdiR4bGIUmw.png?1615427485 | alt: ]\nThe visitor will then have the opportunity to update their credit card information and try submitting the form again.\nIn the past, the system created the member and the account was marked as past due. However, now, the member's account will not be created until the payment is completed.\n\n## Admin Notifications\nThe system will track the failed sign-ups in the Activity Tracker.\n1. Find these and other billing-related log entries by navigating to Dashboard » Activity Tracker.\n2. TThen go to the Filters section.\n3. Filter the results by \" Finance \".\n4. The category of these messages will be \" Failed Transaction \".\n5. The description will show the signup details such as the name on the card, email, membership plan, billing cycle, and address.\n6. The 'Failed Signup Reason' will appear at the bottom.. This is the most important part of the message because it shows the exact reason the payment failed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850360/original/zBrLc8wl5xFkV7T_B3ij3TR70DXzvT2wyQ.png?1615427761 | alt: ]\nThe system will also send an email notification of the failed sign-up to the Default Website Email:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850387/original/rnmVMj6eohftZU3gTFWvHiOlKHE6QF4aag.png?1615427892 | alt: ]\nThe system will only send these email notifications when there is a failed paid signup attempt.. If they tried to sign up for a free membership, then no notification will be sent.\nIt is recommended to contact the member by email if the signup was unsuccessful.  This will give the admin an opportunity to offer assistance with the signup process.\nNote: The system does not consider blocked words added into the \"Block Spam Keywords\" add-on. This add-on only applies to free membership signup forms..\n\n## Free Membership Plans\nThere are different reasons why a free member cannot sign up on the website.\nFor example, if they enter a word added to the 'Block Spam Keywords' list:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074698933/original/JmWEi1QhN_y9tiW0ba6KbG6gS3abXgfXEQ.png?1583254364 | alt: ]\nThe system won't allow the member to create an account because the submission will be identified as spam:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850473/original/OEj7onealtFB2IF0gjnq5cnXH-vtt5n-nA.png?1615428214 | alt: ]\nThe error will be displayed in the Dashboard » Activity Tracker.\nIn this case, the error was caused by a blocked spam word, so the exact word will be displayed in the description:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850475/original/ktykbibzlbvVS0Pn1uPsuAlQkoiTOfznEQ.png?1615428268 | alt: ]\nThere are other errors that may prevent account creation. So It is recommended to review the 'Failed Signup Reason' as it will explain the exact cause of the issue.\nFor more information about the signup process from the member's perspective, please see this article: Member Signups from the Member's Perspective .",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850268/original/fWAWAZmvIxOdhk5nxhvjP_qmdiR4bGIUmw.png?1615427485",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850360/original/zBrLc8wl5xFkV7T_B3ij3TR70DXzvT2wyQ.png?1615427761",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850387/original/rnmVMj6eohftZU3gTFWvHiOlKHE6QF4aag.png?1615427892",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074698933/original/JmWEi1QhN_y9tiW0ba6KbG6gS3abXgfXEQ.png?1583254364",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850473/original/OEj7onealtFB2IF0gjnq5cnXH-vtt5n-nA.png?1615428214",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850475/original/ktykbibzlbvVS0Pn1uPsuAlQkoiTOfznEQ.png?1615428268",
+      "alt": ""
+    }
+  ],
+  "content_hash": "0fb33c93ce5c25cbdf3bf0571ebdafa8c9df9d58986c6393a4ee7a3949311dd8",
+  "ingested_at": "2026-10-17T14:33:32.919353+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000049983-media-manager-lazy-load",
+  "title": "Media Manager Lazy Load",
+  "text": "\n## Media Manager Lazy Load\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000049983\nWhen the Media Manager holds a large number of images, a lazy-load option appears within the manager. Two controls are available:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919867/original/vqLivbhYa1R9jjgRRJfTmo9DWN1lHLsXHw.png?1700856680 | alt: ]\n\n## Load More\nLoads an additional 10 images per click, allowing fast browsing through the folder.\n\n## Load All\nLoads every image in the folder at once.\nNOTE: Selecting Load All may take several seconds to several minutes to complete, depending on how many images the folder contains.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919867/original/vqLivbhYa1R9jjgRRJfTmo9DWN1lHLsXHw.png?1700856680",
+      "alt": ""
+    }
+  ],
+  "content_hash": "68ed7f13d98d377a358ef082c06ff10a498d8be207b104f516654adf31821414",
+  "ingested_at": "2026-10-17T14:40:44.807446+00:00"
+}

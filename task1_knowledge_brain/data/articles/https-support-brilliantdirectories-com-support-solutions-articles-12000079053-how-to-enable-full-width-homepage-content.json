@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000079053-how-to-enable-full-width-homepage-content",
+  "title": "How to Enable Full-Width Homepage Content",
+  "text": "\n## How to Enable Full-Width Homepage Content\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000079053\nIn order to display the Homepage Streaming Content full-width please follow these steps:\n1. Navigate to My Content -> Web Page Builder:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972707/original/s1ZjYZfaqSkqG32tf5N2UJF62XqP9rhC0Q.png?1783981316 | alt: ]\n2. Search for the Homepage and click on Edit:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972723/original/pjYKmbJnCWU6P911C7LqZMFwButHTKS3DA.png?1783981338 | alt: ]\n3. Move to Page Options Tab on the sidebar and select the Full Screen Page Width option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972740/original/yJcmKw5ltGcwrwv12ZjZnb0XF56FSV-RWQ.png?1783981368 | alt: ]\n4. Save the changes.\nThis is what the Homepage streaming content will look like after enabling this setting:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124823238/original/pSSkVYzO0wT9mcXNwufHDh8_4cetDE75Ew.jpeg?1682979659 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972707/original/s1ZjYZfaqSkqG32tf5N2UJF62XqP9rhC0Q.png?1783981316",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972723/original/pjYKmbJnCWU6P911C7LqZMFwButHTKS3DA.png?1783981338",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972740/original/yJcmKw5ltGcwrwv12ZjZnb0XF56FSV-RWQ.png?1783981368",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124823238/original/pSSkVYzO0wT9mcXNwufHDh8_4cetDE75Ew.jpeg?1682979659",
+      "alt": ""
+    }
+  ],
+  "content_hash": "df5a524b8a7b2b455556ddde0ae196840797ca16bfc0f7b23e369a7b8d51928f",
+  "ingested_at": "2026-10-17T14:49:57.176121+00:00"
+}

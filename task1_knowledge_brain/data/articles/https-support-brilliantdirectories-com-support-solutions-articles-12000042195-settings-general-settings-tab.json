@@ -1,0 +1,73 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000042195-settings-general-settings-tab",
+  "title": "Settings » General Settings Tab",
+  "text": "\n## Settings » General Settings Tab\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000042195\nThis article explains the General Settings Tab and all the settings within this tab.\n\n## General Setting Fields\nBelow is a full list of the settings available within the general settings tab.\n\n## Visual Guide of General Settings\nFull visual list of the General Settings Tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135061529/original/oNVZdCx70f7xZfgkga0mKk2WJywT2ExHZg.png?1701184987 | alt: ]\n\n## 1. Website Name\nThe Website Name or the Business Name of the website goes here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131941605/original/DzYAiO9Wje9IB6GbVlk5gPrtob2kxfLXgw.png?1695833003 | alt: ]\n\n## 2. Website Phone Number\nThe Website's or Company's Phone Number goes here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131941870/original/WBz1ZA1n75hJvBx3uUEClRbgGVwFQ0QHcw.png?1695833298 | alt: ]\n\n## 3. Industry Name\nThe Website's or Company's related Industry goes here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942088/original/CgbI2IjaVjzqPUSGN47f6zGSLNjI6tbFjA.png?1695833501 | alt: ]\n\n## 4. Profession Name\nThe Profession Name for the members of the directory goes here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942176/original/0vmYAWiukjDuy7H2x20oE8Xaasb1u-8o9w.png?1695833599 | alt: ]\n\n## 5. Default From Email Name\nThe Website or companies main email name:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135062953/original/06z7edsPLyALVs5vXYaMrEB4yrgx0m6YwA.png?1701186284 | alt: ]\n\n## 6. Website \"FROM\" Email Address\nThis is the email address that the system will use to send out emails from the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135062955/original/LZf4zdMt_ohVBOfAVLfIxiIXP8S-L9-DAA.png?1701186289 | alt: ]\nSend Email Test\nThis tool will complete a test using the default website email address to ensure that this is working well and that it is not blocked. After clicking Send Test Email to Ensure Email is Working this message will show up:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133733793/original/oQKyQIYgZVd73bgPBIAwOds0--aaP-XujQ.png?1699020591 | alt: ]\nIf the email address is working properly, the following message will show up:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132218146/original/KRhB_VuJM1ZDkxpU_SrOy9vZ_wKylW-xqw.png?1696355094 | alt: ]\n\n## 7. Admin Notification Email Address\nPrimary email address to receive Admin-only website notification emails:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133631505/original/1Pe9DN-sgI8R09BvBXi9SvWtIjQMDcA3Lw.png?1698864736 | alt: ]\n\n## 8. Website Status\nHere is where the status of the website is set, when set to Staging Mode, a \"Coming Soon\" form will display on the homepage, instead of the regular homepage.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942514/original/Q2rt9SgvDBG_RKOlfBcHbfJDUjkX_Vmuwg.png?1695833918 | alt: ]\n\n## 9. Search Engine Visibility\nHere is where it's determined or set if Google or other search engines (Google, Bing, Yahoo, etc) can find and index the website :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942668/original/aAcaebi6stiljZA6AwOpUtWQu29Le5QEGQ.png?1695834093 | alt: ]\n\n## 10. Require User Consent To Store Data (GDPR)\nSelect Yes if this website stores any personal data of EU citizens, or requires additional consent to store user data. More Info\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942729/original/c7SZoHA4Y4duHjwBp9fFcGPqR6rspD-3LQ.png?1695834187 | alt: ]\n\n## 11. Express Sign Up Membership Plan\nSelect Yes to activate the Express Registration functionality, this is a free add-on but requires an SSL to work, to learn more about this free add-on click the following link: Express Member Registration\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942958/original/qHOxmk7MPSg04DhXCXcKAxZC_MSGuMzLIQ.png?1695834402 | alt: ]\nSSL Security Add-On is required for this to work properly.\nWebsite must have at least one FREE membership plan that users can sign up to.\n\n## 12. Default Email Signature\nCreate an email signature that will be included at the end of all email templates.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131949204/original/IrxBJMM563weJ-djGGkHv_IPQZQrLQZqWg.png?1695841246 | alt: ]\n\n## 13. Include Website Signature In All Automatic Emails Sent?\nIf set to no, the emails sent will follow the email template signature setting.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131949302/original/iWCsOiY-4V0ZseK3LWkjtDIRXuw5z2ddog.png?1695841327 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135061529/original/oNVZdCx70f7xZfgkga0mKk2WJywT2ExHZg.png?1701184987",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131941605/original/DzYAiO9Wje9IB6GbVlk5gPrtob2kxfLXgw.png?1695833003",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131941870/original/WBz1ZA1n75hJvBx3uUEClRbgGVwFQ0QHcw.png?1695833298",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942088/original/CgbI2IjaVjzqPUSGN47f6zGSLNjI6tbFjA.png?1695833501",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942176/original/0vmYAWiukjDuy7H2x20oE8Xaasb1u-8o9w.png?1695833599",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135062953/original/06z7edsPLyALVs5vXYaMrEB4yrgx0m6YwA.png?1701186284",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135062955/original/LZf4zdMt_ohVBOfAVLfIxiIXP8S-L9-DAA.png?1701186289",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133733793/original/oQKyQIYgZVd73bgPBIAwOds0--aaP-XujQ.png?1699020591",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132218146/original/KRhB_VuJM1ZDkxpU_SrOy9vZ_wKylW-xqw.png?1696355094",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133631505/original/1Pe9DN-sgI8R09BvBXi9SvWtIjQMDcA3Lw.png?1698864736",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942514/original/Q2rt9SgvDBG_RKOlfBcHbfJDUjkX_Vmuwg.png?1695833918",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942668/original/aAcaebi6stiljZA6AwOpUtWQu29Le5QEGQ.png?1695834093",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942729/original/c7SZoHA4Y4duHjwBp9fFcGPqR6rspD-3LQ.png?1695834187",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942958/original/qHOxmk7MPSg04DhXCXcKAxZC_MSGuMzLIQ.png?1695834402",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131949204/original/IrxBJMM563weJ-djGGkHv_IPQZQrLQZqWg.png?1695841246",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131949302/original/iWCsOiY-4V0ZseK3LWkjtDIRXuw5z2ddog.png?1695841327",
+      "alt": ""
+    }
+  ],
+  "content_hash": "fcbf9f8f06d387690ac40587c7388d8e980491751a7c62f4d4c1d4d5721da311",
+  "ingested_at": "2026-10-17T14:37:40.865259+00:00"
+}

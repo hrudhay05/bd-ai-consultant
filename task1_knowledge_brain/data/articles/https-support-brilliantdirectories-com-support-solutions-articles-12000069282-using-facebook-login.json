@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069282-using-facebook-login",
+  "title": "Using Facebook Login",
+  "text": "\n## Using Facebook Login\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000069282\nFacebook Login allows members to create a membership or sign in with a linked Facebook account. The add-on must be activated and enabled for the applicable membership plan before use.\nIf Facebook login credentials haven't been set up yet, please follow this article:\nActivating Facebook Login Add-On\n1. Once the setup has been completed, go to Finance - Membership Plans and enable Facebook Login for the membership plan:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100913901/original/6YLJQ5e6AlNx7rkfHarxWYi39Zl-Iss3_g.png?1636771859 | alt: ]\n2. Search for \" login \" and in the M ember's Dashboard tab the setting will appear. Make sure it is set to \" YES \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100913958/original/nqt6U-MUgu8-RcAUzGQ3hiWgMrh2wOY95g.png?1636772301 | alt: ]\n\n## Front End Use:\nAfter this is set up, the Facebook login option will display throughout the website:\nWith this button the members can sign up using their Facebook account:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100913978/original/jhRB46xAmvUqsnX9xRKwUJUx5VDqTMij1g.png?1636772486 | alt: ]\nExisting members can sign in using a linked Facebook account:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100913974/original/lTf1kLMvBlz-pXeyM4jTFRQRGi7bxzYvrQ.png?1636772433 | alt: ]\nFacebook login works when the member signed up with that Facebook account or synced it from an existing member dashboard. A matching email address alone does not establish this link:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100913986/original/E7KL2ChvfXbgf1vjYvXOXFJxJAM2ntln2A.png?1636772629 | alt: ]\nMembers with a password can remove the Facebook connection by selecting Unsync. Accounts without a password must set one first, as explained below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100914047/original/XQWxuXgHq0DUsxsDlHnz9gwgA6zbYekESw.png?1636772950 | alt: ]\n\n## Recovering Access When the Account Is Not Linked\nIf the selected Facebook account is not linked to a member profile, a message titled Facebook account no longer linked provides a password recovery link. Using the same email address for both accounts does not automatically link them. This message alone does not confirm whether a membership exists for that email address.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185238333/original/SwtRWa2sGgRncNQe41i9iRdo3MJ0Ag3zNA.png?1789496509 | alt: Facebook account not linked message with password recovery link]\nOpen the password recovery link in the message.\nEnter or confirm the email address associated with the existing membership.\nSubmit the password reset request.\nFor an existing account, follow the instructions in the password reset email to set a password.\nSign in with the membership email address and password.\nSync the Facebook account again from the member dashboard.\nOnce the account is synced, Facebook login can access that member profile again. The signup option is for creating a new membership, not for recovering an existing one.\n\n## Setting a Password Before Unsyncing\nA member account must have a password before its Facebook connection can be removed. If no password has been set, clicking Unsync displays Set a Password First and leaves the social account linked.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185238334/original/h_NkL0PJAaZImIDmSD2g24C6QtW_My57gA.png?1789496510 | alt: Facebook message requiring a password before unsyncing]\nOpen the password link in the message. This logs the member out and opens password recovery with the member email address filled in.\nSubmit the password reset request.\nUse the emailed link to set a password.\nSign in with the membership email address and the new password.\nReturn to the member dashboard and click Unsync for Facebook.\nAfter unsyncing, the member can continue to sign in with the membership email address and password.\nFor additional login scenarios, see Common Mistakes with Google and Facebook Login .",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100913901/original/6YLJQ5e6AlNx7rkfHarxWYi39Zl-Iss3_g.png?1636771859",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100913958/original/nqt6U-MUgu8-RcAUzGQ3hiWgMrh2wOY95g.png?1636772301",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100913978/original/jhRB46xAmvUqsnX9xRKwUJUx5VDqTMij1g.png?1636772486",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100913974/original/lTf1kLMvBlz-pXeyM4jTFRQRGi7bxzYvrQ.png?1636772433",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100913986/original/E7KL2ChvfXbgf1vjYvXOXFJxJAM2ntln2A.png?1636772629",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100914047/original/XQWxuXgHq0DUsxsDlHnz9gwgA6zbYekESw.png?1636772950",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185238333/original/SwtRWa2sGgRncNQe41i9iRdo3MJ0Ag3zNA.png?1789496509",
+      "alt": "Facebook account not linked message with password recovery link"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185238334/original/h_NkL0PJAaZImIDmSD2g24C6QtW_My57gA.png?1789496510",
+      "alt": "Facebook message requiring a password before unsyncing"
+    }
+  ],
+  "content_hash": "8801a29b723235fbe643ee337c8e5f1f1ffd42b40d8f6701d268b1a298408da7",
+  "ingested_at": "2026-10-17T14:45:39.555607+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000034561-cancellations-from-member-s-perspective",
+  "title": "Cancellations from Member's Perspective",
+  "text": "\n## Cancellations from Member's Perspective\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000034561\nThis guide explains how members can cancel their account.. In their dashboard, members should navigate to the left sidebar, where they will see these options.\nAccount » Manage Account » Close My Account:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152561733/original/Nl4GUZunR3KXnxgd4r7G3vvOmMKdYlLMuA.png?1731618411 | alt: ]\nNext, they can choose to close the account immediately or at the end of the current billing period\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168706805/original/FiY7nxiWW6iveVJXXpqs1KkfoIvTtPx9Iw.png?1759958746 | alt: ]\nThe system will display a confirmation prompt, where they can select \" Yes, Close My Account \" to proceed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168706831/original/hJO_aT10PU85CUFt1NECLtK7vFrMcs-jIA.png?1759958786 | alt: ]\nIf the member has an active subscription, it will automatically be cancelled.\nAfter confirming, the system logs them out and redirects to the Member Login page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796862/original/AOcKEyK7cnYcGryFpDiYOs62i7r26Pd3yQ.png?1615347157 | alt: ]\nImportant: Ending a subscription does not always immediately close the member’s account.\nIf the member is on a recurring subscription, their access will remain active until the end of the current billing cycle. Once that billing period ends, the account will be automatically closed.\nIf the member has a one-time payment (non-subscription), closing the account will be immediate.\n\n## Member Cancellation Email\nA confirmation email will then be sent to the member, as shown below.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850622/original/XznpIDpz3t9h1juSxPX04WLhG8hINauRrg.png?1615428917 | alt: ]\nFind this email template inside the admin dashboard:\nSystem Email: cancel-account\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153460870/original/Kk6pTyKq_GNoXGY3YPI5ig0eWbCrxXdXBw.png?1733262383 | alt: ]\n\n## Cancelled Accounts - Admin Perspective\nIn the Member’s Dashboard, their account status will display as “ Cancelled ”.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153461290/original/5gSblEvVG5VGFm3C3KGtShPztG4i9QQzLg.png?1733262880 | alt: ]\n\n## Cancellations - Admin Perspective\nCancelling an account through the admin dashboard is possible. here are also admin notifications when a member cancels.\nMore information: Cancellations From Website Admin Perspective",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152561733/original/Nl4GUZunR3KXnxgd4r7G3vvOmMKdYlLMuA.png?1731618411",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168706805/original/FiY7nxiWW6iveVJXXpqs1KkfoIvTtPx9Iw.png?1759958746",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168706831/original/hJO_aT10PU85CUFt1NECLtK7vFrMcs-jIA.png?1759958786",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796862/original/AOcKEyK7cnYcGryFpDiYOs62i7r26Pd3yQ.png?1615347157",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850622/original/XznpIDpz3t9h1juSxPX04WLhG8hINauRrg.png?1615428917",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153460870/original/Kk6pTyKq_GNoXGY3YPI5ig0eWbCrxXdXBw.png?1733262383",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153461290/original/5gSblEvVG5VGFm3C3KGtShPztG4i9QQzLg.png?1733262880",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c6f0508bc6a6926f6930e3262805fd7a88596f569249a2e07336ac80264c8e76",
+  "ingested_at": "2026-10-17T14:36:05.798590+00:00"
+}

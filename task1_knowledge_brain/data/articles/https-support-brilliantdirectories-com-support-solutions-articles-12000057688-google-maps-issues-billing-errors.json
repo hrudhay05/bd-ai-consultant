@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000057688-google-maps-issues-billing-errors",
+  "title": "Google Maps Issues: Billing Errors",
+  "text": "\n## Google Maps Issues: Billing Errors\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000057688\nCHECK ERROR CODE: Google Maps Issues: Index\nIf Google Maps locations aren't loading on the homepage or search modules even though the Initial Set Up Steps have been completed, it's most likely because the site is missing the billing information.\nNext Steps:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073724718/original/sJZrPjNmIF-yYKnBWWJJWfo6UQkpUtqvPA.png?1581203345 | alt: ]\n2. From there select \"Billing\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073724732/original/fsHcpJ1ICsPcSt9gE3BkeoHHD3Rw58L6Tg.png?1581203406 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073724735/original/OdpPWktBbaNG4eeXumzfbnqXVfyro5gCBg.png?1581203463 | alt: ]\nIf there is a valid card on file, the account may need to be \" Activated \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095180803/original/GdjMeCXZjBUM2Z0IXTcJlMeSL_SD7MUMvQ.png?1625689724 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12137377343/original/iM5EotfK4IWRWBrvTZIurfXXr5LuLBRbyw.png?1705538896 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073724718/original/sJZrPjNmIF-yYKnBWWJJWfo6UQkpUtqvPA.png?1581203345",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073724732/original/fsHcpJ1ICsPcSt9gE3BkeoHHD3Rw58L6Tg.png?1581203406",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073724735/original/OdpPWktBbaNG4eeXumzfbnqXVfyro5gCBg.png?1581203463",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095180803/original/GdjMeCXZjBUM2Z0IXTcJlMeSL_SD7MUMvQ.png?1625689724",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12137377343/original/iM5EotfK4IWRWBrvTZIurfXXr5LuLBRbyw.png?1705538896",
+      "alt": ""
+    }
+  ],
+  "content_hash": "6d6f8bca9afb23a235d9e121a9bdfccfbd93df41d38e0eda5ad3fe1ea404c425",
+  "ingested_at": "2026-10-17T14:42:50.106497+00:00"
+}

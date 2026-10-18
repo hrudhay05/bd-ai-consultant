@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000098739-design-settings-homepage-select-content-to-display-custom-content",
+  "title": "Design Settings » Homepage » Select Content to Display » Custom Content",
+  "text": "\n## Design Settings » Homepage » Select Content to Display » Custom Content\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000098739\n\n## Custom Content\nThis article goes over the available settings to edit the Custom Content sections on the homepage of the website, there are a total of 10 Custom Content sections. This section is meant to be displayed on the homepage exclusively and it consists of a Froala editor. To learn more about the available settings on the Froala editor, navigate to the following link: Everything About Froala WYSIWYG Text Editor\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140066190/original/GuXkxa_e4jHn7DHRi09yIkYS5sv9LH3WDA.png?1710259598 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140066472/original/utJEalW8ob9eNLKqqWdjvj5Ea82l1k3Xwg.png?1710259821 | alt: ]\n\n## Visual Guide of the Custom Content Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140066526/original/RNtZ6ulCPAp_Yco8e6EN8vKGUxSqaXbF7Q.png?1710259909 | alt: ]\n\n## 1. Hide On Mobile?\nThis setting controls if this section will be displayed on mobile devices or not.\nNo\nThis will show the section on mobile devices.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140067657/original/q82LDUyy8tMNfvBMwiZalqSboOK8VEKslQ.png?1710260837 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140067891/original/xDBlpkwvRhKtrRaaPDEUrN_GlqDFuVDLTw.png?1710260993 | alt: ]\nYes\nThis will hide the section on mobile devices\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140068011/original/CBGUH3PX1Tycml0GX9HipWW3AWZflW76Ow.png?1710261079 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12139804412/original/Ol1shLcqe11VTYVCylSAW9Soblj5wpXt0g.png?1709778962 | alt: ]\n\n## 2. FROALA Editor\nThe settings available for each Custom Content section is the FROALA editor, to learn more about the available settings navigate to the following link: Everything About Froala WYSIWYG Text Editor\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140075901/original/EOM9T7twas49YrELibi7_V5zRW8EbbjvEA.png?1710267458 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140075902/original/ya-zi-yvWE6VtTn4i-rZhGu55-vzsD2pgA.png?1710267459 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140066190/original/GuXkxa_e4jHn7DHRi09yIkYS5sv9LH3WDA.png?1710259598",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140066472/original/utJEalW8ob9eNLKqqWdjvj5Ea82l1k3Xwg.png?1710259821",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140066526/original/RNtZ6ulCPAp_Yco8e6EN8vKGUxSqaXbF7Q.png?1710259909",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140067657/original/q82LDUyy8tMNfvBMwiZalqSboOK8VEKslQ.png?1710260837",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140067891/original/xDBlpkwvRhKtrRaaPDEUrN_GlqDFuVDLTw.png?1710260993",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140068011/original/CBGUH3PX1Tycml0GX9HipWW3AWZflW76Ow.png?1710261079",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12139804412/original/Ol1shLcqe11VTYVCylSAW9Soblj5wpXt0g.png?1709778962",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140075901/original/EOM9T7twas49YrELibi7_V5zRW8EbbjvEA.png?1710267458",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140075902/original/ya-zi-yvWE6VtTn4i-rZhGu55-vzsD2pgA.png?1710267459",
+      "alt": ""
+    }
+  ],
+  "content_hash": "6248c7037a2a1e65eadee34451068fcb80a53c406bf63de9aaf4fbf20c17f75c",
+  "ingested_at": "2026-10-17T15:25:40.052032+00:00"
+}

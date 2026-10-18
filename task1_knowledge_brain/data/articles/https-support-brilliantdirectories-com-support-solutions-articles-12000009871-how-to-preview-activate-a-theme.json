@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000009871-how-to-preview-activate-a-theme",
+  "title": "How to Preview & Activate a Theme",
+  "text": "\n## How to Preview & Activate a Theme\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000009871\nTo activate a Theme go to:\nSETTINGS >> DESIGN SETTINGS >> Homepage >> Change Homepage Theme\nClick on \"View Homepage Themes\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12111329964/original/Lu0rfaNgtvbo1QwAEt-IDehowhMj5L2tyA.png?1657162141 | alt: ]\n\n## Live Preview Theme\nThe Live Preview Theme button it's a direct link to the Demo Live Site of the theme, we recommend to use this tool to see it before applying it to the site.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123979460/original/hWCal-swbS0vvZ5OqcjIJYv-AxpScFnB4w.png?1681344799 | alt: ]\nOnce the decision is made it's time to enable the theme on the website.\n\n## Activate Theme\nThe Activate Theme button is going to apply the theme to the site. Once the Theme is active click on \"View Website\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123979470/original/n5jl5wsCJrDRYrmy46qG3eOOaPfp19Gxag.png?1681344827 | alt: ]\nThere are 2 options to choose from when activating a theme:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124579042/original/yLZNV4h4o1eBE7xfcuNeYrAzDS1_EI_sAg.png?1682463526 | alt: ]\n1. Homepage Design:\nSelect this option to override all design changes made to the site to this point will be overwritten with the design settings of the chosen theme except for the following settings:\nCustom CSS / Head Code / Footer Code\nBanner Ad Design Settings\nWebsite Announcement Message\nGoogle Translate Setting\nMain Menu\n2. Main Menu:\nChoose this option to replace the current Main Menu with the menu used for the theme, as shown in the preview. Note that the Main Menu copied with the theme is only a template that points to example URLs.  When choosing to install the theme's Main Menu, be sure to update the text and URLs of the menu items to align with the pages of the website.\nImportant : Copying the main menu may require an update after it is copied to make sure all of the links are pointing to the correct URLs to existing web pages in the site.\n\n## Restore Backup\nTo go back to a previous version of the site, use the Available Backup tool to select a Design Settings Backup.\n1. Select the Date & Time to go back to a previous version of the Design Settings of the site:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091610160/original/k_6FtgN1y31gV4t1UZBzPSMwclZbc67T-g.png?1618966122 | alt: ]\n2. Click on \"Restore Backup\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091610194/original/q3ml0GBvjcj5AyZ8YvXs0EH_1qJAmAnNEw.png?1618966156 | alt: ]\n\n## Frequently Asked Questions\n\n## Q: Will I lose any functionality by changing one theme to another?\nA: No, all the Themes there are available offer the same exact functionality. A difference between one theme to another is simply cosmetic and would be limited to the homepage design, what modules are being called on the homepage, the color sets of the website, etc. The website will also still have all the post types available.\n\n## Q: Will I lose any data by changing one theme to another?\nA: No, changing a theme would not have any effect on the data of the website.\n\n## Q: Will I be receiving any of the dummy data that is shown on the demo website when I change one theme to another?\nA: No, there won't be any additional data added to the site when changing a theme. Our demo website is a presentation of what can be done with the website and there are differences between our demo websites and the themes we offer.\nImportant : The tool is only going to create a Backup of the Design Settings, to request a full website backup contact our support staff.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12111329964/original/Lu0rfaNgtvbo1QwAEt-IDehowhMj5L2tyA.png?1657162141",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123979460/original/hWCal-swbS0vvZ5OqcjIJYv-AxpScFnB4w.png?1681344799",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123979470/original/n5jl5wsCJrDRYrmy46qG3eOOaPfp19Gxag.png?1681344827",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124579042/original/yLZNV4h4o1eBE7xfcuNeYrAzDS1_EI_sAg.png?1682463526",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091610160/original/k_6FtgN1y31gV4t1UZBzPSMwclZbc67T-g.png?1618966122",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091610194/original/q3ml0GBvjcj5AyZ8YvXs0EH_1qJAmAnNEw.png?1618966156",
+      "alt": ""
+    }
+  ],
+  "content_hash": "70d3aa71b65d010259777bb7d869a082b6bc2909d804cd9dec6a7748991f65e0",
+  "ingested_at": "2026-10-17T14:33:21.138372+00:00"
+}

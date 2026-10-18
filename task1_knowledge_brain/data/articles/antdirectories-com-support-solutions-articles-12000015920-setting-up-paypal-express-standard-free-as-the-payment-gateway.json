@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000015920-setting-up-paypal-express-standard-free-as-the-payment-gateway",
+  "title": "Setting Up PayPal Express/Standard (Free) As The Payment Gateway",
+  "text": "\n## Setting Up PayPal Express/Standard (Free) As The Payment Gateway\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000015920\nFor the best results, it is recommended to use the Stripe payment gateway .\nBefore setting up a payment gateway, review this article to learn about the differences between Stripe and PayPal Express/Standard .\n\n## Enter the Gateway Credentials\nHowever, if PayPal Standard (Free) is preferred, complete the steps below after entering the payment gateway credentials by going to Finance >> Payment Settings >> Select  PayPal Express/Standard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181852946/original/ke0_eTxINEnd9yWkGlDbuK0UvwFZyHh4-g.png?1783724206 | alt: ]\nThen add the credentials:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181852885/original/I1yrD2VAw3NR2gb2yXx4LMwvMAThl6Bwig.png?1783723836 | alt: ]\nFor assistance in locating the PayPal API Username, API Password, and API Signature, refer to the official PayPal documentation .\nIMPORTANT: This guide applies only to PayPal Standard (Free). If the PayPal account is a paid Business account that uses PayPal Payflow, refer to the PayPal Payflow setup guide instead.\n\n## Instant Payment Notification (IPN) URL\nAfter PayPal Standard has been activated as the website's payment gateway, the IPN URL can be found on the Payment Gateways page in the Admin.\nIf the IPN URL cannot be located, it can be created using the following format by replacing www.domain.com with the website's domain: https://www. domain.com /checkout/notifications/paypalipn\nFor example, if the website domain is www.marys-website.com , the IPN URL would be:\nhttp://www. marys-website.com /checkout/notifications/paypalipn\n\n## Configure the Instant Payment Notification (IPN) Settings\nNOTE: PayPal provides several account layouts, so the screenshots and navigation shown below may differ depending on the account. If the available options do not match the screenshots, contact PayPal Support for assistance enabling IPN notifications using the IPN URL described above.\nThe screenshots below were captured using a U.S. PayPal Standard (Free) account during the fourth quarter of 2016.\nSign in to the PayPal account and open Seller Preferences from the left navigation menu. Alternatively, access the Seller Preferences page directly: https://www.paypal.com/us/cgi-bin/webscr?cmd=_profile-display-handler&tab_id=SELLER_PREFERENCES\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079645/original/blob1472662204625.png?1472662204 | alt: ]\nSelect Update next to Instant Payment Notifications .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079704/original/blob1472662284451.png?1472662284 | alt: ]\nSelect Choose IPN Settings .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079732/original/blob1472662321028.png?1472662321 | alt: ]\nComplete the following steps: Enter the IPN URL into the Notification URL field. Select Receive IPN messages . Click Save .\nEnter the IPN URL into the Notification URL field.\nSelect Receive IPN messages .\nClick Save .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079836/original/blob1472662520936.png?1472662520 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181852946/original/ke0_eTxINEnd9yWkGlDbuK0UvwFZyHh4-g.png?1783724206",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181852885/original/I1yrD2VAw3NR2gb2yXx4LMwvMAThl6Bwig.png?1783723836",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079645/original/blob1472662204625.png?1472662204",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079704/original/blob1472662284451.png?1472662284",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079732/original/blob1472662321028.png?1472662321",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079836/original/blob1472662520936.png?1472662520",
+      "alt": ""
+    }
+  ],
+  "content_hash": "af4e7cde8155852a1d30915e07dfdacc79e4b3627e77c7415f70fdf3fd1f8966",
+  "ingested_at": "2026-10-17T14:33:42.910831+00:00"
+}

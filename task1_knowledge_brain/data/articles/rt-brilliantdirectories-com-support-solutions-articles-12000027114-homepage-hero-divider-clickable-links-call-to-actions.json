@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000027114-homepage-hero-divider-clickable-links-call-to-actions-",
+  "title": "Homepage Hero Divider - Clickable Links (Call-To-Actions)",
+  "text": "\n## Homepage Hero Divider - Clickable Links (Call-To-Actions)\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000027114\nThe Hero Divider is one of the most utilized design features with the Brilliant Directories platform. It is a great way to teach new website visitors what it is they can do on the site. It is also one of the first things they see, taking up some of the most valuable real-estate on the website, both for desktop view and mobile devices.\nBrilliant Directories have been asking to convert this section into a great opportunity to add high-quality call-to-actions that are clickable. This increases page views and helps the end-user find what they are looking for quicker.\nDesktop View:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362599/original/6xXv6zjf_QAB4OAG8AUETu3kPv0akhdpgQ.png?1614454922 | alt: ]\nMobile View:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362600/original/t472sb0JAfQZ1JYtCFJrnLBOGMA9gqMDSg.png?1614454953 | alt: ]\n\n## Adding Clickable Links To The Hero Divider\nTo add clickable buttons to the hero divider please follow these instructions:\nGo to SETTINGS >> DESIGN SETTINGS >> General >> HOMEPAGE >>  Select Content to Display\nFind the Section spot where the Homepage Hero Divider is selected or select this option and click on Edit Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362624/original/3Ae7LHUGrrUjf4vsDhGqv3i-cHndhd5NrQ.png?1614455112 | alt: ]\nAdd the \"Link Name\". This is the text that will appear on the clickable button itself.\nAdd the \"Link URL\" for each button. When the button is clicked, the website visitor will be taken to the link provided.\nClick \"Save Changes\"\n\n## Hero Divider Settings\n\n## Use Icon / Use Image\nUse Icon: Select this option to use web icons from the already made Fontawesome Gallery.\nUse Image: Use custom icons or images to create the clickable links.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362727/original/NwtEQ5EH467K1M501roZqdL0j3pfT5ES_A.png?1614455657 | alt: ]\n\n## Hide on Mobile?\nDisable or enable the Homepage Divider Section on a mobile device. Please see the image below to find this useful setting:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117400066/original/CLpPzoNTnK1dl3025opazJC5MZwjX4s0WA.png?1668698098 | alt: ]\n\n## Selecting Image\n1. Select Use Image .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362743/original/YSwgTW-7aT-fr8ll9x-ZkYfz-oXeYsmPBg.png?1614455786 | alt: ]\n2. Add the Title , here we are using the same title of the Post:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362764/original/p4ei7RGvk1y2eTpTknWdVFtlBGLTrIcD-g.png?1614455908 | alt: ]\n3. Add the Caption , on this section we are adding a short description of what this Post is about, use this to call visitors attention:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362765/original/KVckAYZFxHeFAuemQG08trZn4hbQMvVeEw.png?1614455920 | alt: ]\n4. Add the Link Text , we are adding who created this Post (links can open in a new tab by checking the :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117400143/original/2dZrtdWg01zF9pXzaWGytmjtnnkmxv6LyA.png?1668698192 | alt: ]\n5. Add the Link URL of the post:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117400166/original/Aei0Z302Bj6QWuDhJiXZKLPmjZotY_3lEQ.png?1668698212 | alt: ]\nFinally, add the other two and change the Background Color, Font Color and tweak the padding to personal liking.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362599/original/6xXv6zjf_QAB4OAG8AUETu3kPv0akhdpgQ.png?1614454922",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362600/original/t472sb0JAfQZ1JYtCFJrnLBOGMA9gqMDSg.png?1614454953",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362624/original/3Ae7LHUGrrUjf4vsDhGqv3i-cHndhd5NrQ.png?1614455112",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362727/original/NwtEQ5EH467K1M501roZqdL0j3pfT5ES_A.png?1614455657",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117400066/original/CLpPzoNTnK1dl3025opazJC5MZwjX4s0WA.png?1668698098",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362743/original/YSwgTW-7aT-fr8ll9x-ZkYfz-oXeYsmPBg.png?1614455786",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362764/original/p4ei7RGvk1y2eTpTknWdVFtlBGLTrIcD-g.png?1614455908",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362765/original/KVckAYZFxHeFAuemQG08trZn4hbQMvVeEw.png?1614455920",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117400143/original/2dZrtdWg01zF9pXzaWGytmjtnnkmxv6LyA.png?1668698192",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117400166/original/Aei0Z302Bj6QWuDhJiXZKLPmjZotY_3lEQ.png?1668698212",
+      "alt": ""
+    }
+  ],
+  "content_hash": "be8863c23a95e48fe2f481d401a47c35190ba98e56bec8a8cbca426135ce579c",
+  "ingested_at": "2026-10-17T14:34:49.163333+00:00"
+}

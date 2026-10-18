@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000049274-finance-membership-plans-search-visibility",
+  "title": "Finance » Membership Plans - Search Visibility",
+  "text": "\n## Finance » Membership Plans - Search Visibility\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000049274\nIn this article, we will go over all the settings available in the \"Search Visibility\" tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133502026/original/b6vLEmbw4aqFOtIvRWalBYh004c_QCerQw.png?1698679676 | alt: ]\n\n## Set Visibility Rules Section\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131881325/original/lmNiZeVBr3h3oCXSJ4h_jnzwIJ3BwKtesg.png?1695748694 | alt: ]\n\n## 1. Are These Members Searchable on the Website?\nThis setting determines whether these members are searchable (appear on search result pages) on the website\nIf YES, these members will display in search results for users that are permitted to view them.\nIf NO, these members will not appear in any search results.\n\n## 2. Can Unregistered Visitors View These Members?\nThis setting is used when the site is \"Members Only\" and unregistered visitors can or can't view these listings on search results pages.\nIf YES, these members will display on search result pages for users that are not logged in.\nIf the site needs to be members only, please refer to this article: Members-Only Content\n\n## 3. Members-Only Access\nThis setting provides more granular control over member profile pages where site owners can hide individual pages of a member profile.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098191593/original/fiiY1sHhZxz43i60Ufp7Yq2lwSUDEgA8qQ.png?1631636087 | alt: ]\nThis setting will only be available if the Members-Only Content add-on is active on a site.\nIf there is a custom widget preventing this setting from working properly, the system will display the name of the custom widget:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098191809/original/GPBSL9jOnqShbEyUJd4iysqZndA5-O90AQ.png?1631636344 | alt: ]\n\n## 4. Hide Member Profile from Search Engine s?\nIf YES, the system adds a 'nofollow, noindex' directive to the member's listing page. Keep in mind that this is only for search engines.\n\n## 5. Add \"NOFOLLOW\" to Member Web Links?\nIf set to YES, web links on member profile pages will have the \"NOFOLLOW\" attribute.\nKeep in mind that this is only for search engines. The nofollow tag tells search engines to not follow that link. So search engine bots will skip those links when they crawl the site.\n\n## 6. Search Results Priority\nOrder in which members with this account level will appear in search results. 0 is the highest priority.\nFor example: If this is the most expensive membership, it is recommended setting this to \"0\". This way this membership plan appears first on search result pages.\n\n## 7. Max. Sub-Level Categories Member Can Select\nThis setting defines the maximum number of categories a member can be listed in. This will include top-level, sub-level, and sub-sub level categories.\nFor example: If this value is set to 10. Members in this membership will only select up to 10 categories total, including top-level, sub-level, and sub-sub-level categories.\nEnter 'all' to automatically list members in all the available sub-categories.\nEnter ' unlimited' to allow members to select as many categories as they wish.\n\n## 8. Membership Plan Search Results URL\nThis option allows a unique URL to be assigned to this membership plan.. Each URL needs to be unique and cannot be repeated across plans.\nIf a URL is already specified and saved, a quick link will appear to visit the page while logged in as an administrator:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114947500/original/YTS5D-_NjrWPERMnHKYlcUyjUgoyK5I9Yg.png?1663864886 | alt: ]\nIt is NOT possible to use the slug \"pro\" as it will break this feature. If the word \"pro\" needs to be used, please enter \"pro-plan\" to resolve this issue.\n\n## Multi-Location / Service Area Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131881406/original/EB4GVif_Xx84aX6224AfsT5kh_wnHA8rTg.png?1695748751 | alt: ]\n\n## 1. Location Types Member Can Select\nSelect the types of locations this member can be listed in. The options are: Country, State, County, City, and Zip Code.\nThese options are available only if this an add-on Multi-Location Listings is active.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12040630600/original/RW4QIUEe1vrqWQMNQODOZykzLc-ish0Ayg?1536782023 | alt: ]\n\n## 2. Maximum Number of Locations\nMaximum geographic locations a member can list in. Type 'all' to auto list members in all locations.\nNOTE: If this field is not available on the site, it is because this is an add-on called: Multi-Location Listings .\n\n## Highlight Member Profiles\nImportant Note: This is an add-on must first be activated on the site. More information about this add-on can be found here .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083882003/original/7JxK2YFpeCzD6h02L2TFjxODapjvT-nsew.png?1603212233 | alt: ]\nEnable Search Results Highlight? This add-on highlights members of specific membership plans within the member search result pages of the website.\nIt changes the design such as the border, the border color, text color, border width, the displayed text, the font size, text position, and the border radius.\nExample:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058558628/original/iULTvCRg0qsjnddmibLgFfj9CZDQL89Jmg.png?1571761034 | alt: ]\n\n## Hidden Member Profile Settings\nImportant Note: This is an add-on that needs to be activated first on-site. More information about this add-on can be found here .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085436772/original/1buLduVyoXoCqdcTVgUlJ2Nxk0V9TOiRcA.png?1606225003 | alt: ]\nSelect which other members these members can search for: The easiest way to determine which options to select is to answer the following question: \"Who can these members search for?\" Select the checkboxes that answer this question.\nIf all options are selected or all options are deselected, these members can search for all valid listings.\nFor example, if these members can search \"Featured\" listings, just select the \"Featured\" membership:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085436818/original/6llDg-Ri5oKQ4kKUbSIiig8s5nvyJfuk8Q.png?1606225040 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133502026/original/b6vLEmbw4aqFOtIvRWalBYh004c_QCerQw.png?1698679676",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131881325/original/lmNiZeVBr3h3oCXSJ4h_jnzwIJ3BwKtesg.png?1695748694",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098191593/original/fiiY1sHhZxz43i60Ufp7Yq2lwSUDEgA8qQ.png?1631636087",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098191809/original/GPBSL9jOnqShbEyUJd4iysqZndA5-O90AQ.png?1631636344",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114947500/original/YTS5D-_NjrWPERMnHKYlcUyjUgoyK5I9Yg.png?1663864886",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131881406/original/EB4GVif_Xx84aX6224AfsT5kh_wnHA8rTg.png?1695748751",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12040630600/original/RW4QIUEe1vrqWQMNQODOZykzLc-ish0Ayg?1536782023",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083882003/original/7JxK2YFpeCzD6h02L2TFjxODapjvT-nsew.png?1603212233",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058558628/original/iULTvCRg0qsjnddmibLgFfj9CZDQL89Jmg.png?1571761034",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085436772/original/1buLduVyoXoCqdcTVgUlJ2Nxk0V9TOiRcA.png?1606225003",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085436818/original/6llDg-Ri5oKQ4kKUbSIiig8s5nvyJfuk8Q.png?1606225040",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b575f039595cdaaefee7b6e6c2a88ae1905c761bb4c82fa216df58d74a1ea5c0",
+  "ingested_at": "2026-10-17T14:40:35.245141+00:00"
+}

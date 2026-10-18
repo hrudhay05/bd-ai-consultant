@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101405-how-to-remove-location-searches-from-the-search-modules",
+  "title": "How to Remove Location Searches from the Search Modules",
+  "text": "\n## How to Remove Location Searches from the Search Modules\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000101405\nFor the Homepage , Header and Member Sidebar , you can just choose search modules that don’t have location in them:\nDesign Settings » Header Design\nDesign Settings » Header Search\nDesign Settings » Search Box / Call To Action\nToolbox » Sidebar Manager\nFor the Post Types sidebar, the location search field is wrapped with a CSS class that can be targeted with one rule to hide it for all those:\nThis will hide the rest of the location input fields for posts in the sidebar searches.",
+  "images": [],
+  "content_hash": "12a81e58caaaffb39a2892c7b5549661ac796e965c354caff1f6e0c31333dacb",
+  "ingested_at": "2026-10-17T15:27:58.748698+00:00"
+}

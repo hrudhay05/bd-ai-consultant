@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000103082-setting-up-razorpay",
+  "title": "Setting Up Razorpay",
+  "text": "\n## Setting Up Razorpay\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000103082\nAs of February 1st, 2025, Razorpay is available as a native payment gateway integration in Brilliant Directories. Follow the steps below to generate the necessary credentials and complete the setup process.\n\n## Step 1: Access the Razorpay API Section\nLog in to the Razorpay Dashboard at https://dashboard.razorpay.com .\nClick Account & Settings from the left sidebar.\nNavigate to API Keys under Website and App Settings .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182028879/original/2GTwLWppM0bmVJ_UkTDzxDdKjtpdCwk3zg.png?1784054853 | alt: ]\n\n## Step 2: Generate the Razorpay API Key\nIf an API Key has not been created yet, click Generate Key .\nNote whether the system is in Test or Live mode. Test mode keys work only for test transactions. If these keys are for the live website, ensure Live mode is selected before generating keys.\n\n## Step 3: Copy the Key ID and Key Secret\nAfter generating the keys, a pop-up will display the Key ID and Key Secret .\nCopy the Key ID . This will be required to complete the integration.\nCopy the Key Secret . The Key Secret will only be displayed once, so ensure it is securely saved.\nIMPORTANT: If a new API Key is ever created in the future, make sure to update the Brilliant Directories website with the new Key ID and Key Secret to ensure uninterrupted payment processing.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156117745/original/7GeTB0xonTcqtaOSSF-OkDRzITL_EgGYSQ.png?1738112362 | alt: ]\n\n## Step 4: Add Razorpay as a Payment Gateway in Brilliant Directories\nLog in to the Brilliant Directories Admin .\nNavigate to Finance → Payment Settings .\nClick Add a New Payment Gateway .\nSelect Razorpay from the list of available payment gateways.\n\n## Step 5: Enter the Razorpay Keys and Save\nIn the Razorpay setup popup, paste the Key ID into the designated field.\nPaste the Key Secret into the corresponding field.\nClick Save Changes to complete the integration.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182034858/original/cZa21tG9TSF_Fp2SBChJtShfIo5HfyW1Qg.png?1784060583 | alt: ]\n\n## Step 6: Verify the Integration\nProcess a test transaction to confirm that payments are being processed correctly.\nCheck the Razorpay Dashboard for transaction logs.\nIf any issues arise, refer to Razorpay’s official support documentation or contact Brilliant Directories support for assistance.\n\n## IMPORTANT: Required Razorpay Settings\nThe following settings must be configured correctly for the integration to work properly:\nUnder General Settings >> Locatlization >> Website Currency Set To: Indian Rupee\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182035116/original/Qi93OI7tRzcLHa2gCFrhM5YANPRlyfK_JA.png?1784060823 | alt: ]\nEnsure these settings are verified before completing the setup. Incorrect configurations may cause payment issues.\n\n## Live Mode vs. Test Mode\nRazorpay offers two modes: Live Mode and Test Mode .\nLive Mode: Use this mode to process actual transactions. The Key ID and Key Secret generated in Live Mode are separate from those in Test Mode.\nTest Mode: Use this mode for testing purposes. Transactions in Test Mode do not involve real payments, but the Test Mode Key ID and Key Secret must be used.\nEnsure the appropriate mode is selected based on the intended use of the integration.\nAfter completing these steps and verifying the configuration, transactions will be securely processed through Razorpay, ensuring a seamless payment experience.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182028879/original/2GTwLWppM0bmVJ_UkTDzxDdKjtpdCwk3zg.png?1784054853",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156117745/original/7GeTB0xonTcqtaOSSF-OkDRzITL_EgGYSQ.png?1738112362",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182034858/original/cZa21tG9TSF_Fp2SBChJtShfIo5HfyW1Qg.png?1784060583",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182035116/original/Qi93OI7tRzcLHa2gCFrhM5YANPRlyfK_JA.png?1784060823",
+      "alt": ""
+    }
+  ],
+  "content_hash": "31576a46a8a4ca34df6cfd22c7c5a299b54dc79c3074fa9521281f463ff59c28",
+  "ingested_at": "2026-10-17T15:33:37.391365+00:00"
+}

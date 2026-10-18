@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000673830-finance-payment-settings-setting-up-a-payment-gateway",
+  "title": "Finance » Payment Settings - Setting Up A Payment Gateway",
+  "text": "\n## Finance » Payment Settings - Setting Up A Payment Gateway\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000673830\nSee the steps below for connecting a payment gateway (Stripe, PayPal Standard, 2Checkout, PayPal Payments Pro, Authorize.net...).\n\n## 1. Set Up An Account\nIf the website does not already have an account with a supported payment gateway, set one up.\nTo see a list of all supported payment gateways, refer to this documentation.: Supported Payment Gateways\n\n## 2. Add New Payment Gateway\nAfter selecting a payment gateway, create an account with the chosen payment gateway if one does not already exist. Navigate to Finance » Payment Settings, where a list of available gateways is displayed. Click the \"Add New Payment Gateway\" drop-down and select the desired gateway.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159945105/original/bFrhPSZcRKGsJXG8FDL-Y4No-Zk7myrhLg.png?1744725847 | alt: ]\nNOTE: Stripe and PayPal are the most commonly used payment gateways. However, before selecting either option, review this article \"Stripe or PayPal Standard?\"\n\n## 3. Account Credentials\nEach gateway requires different credentials to connect it to Brilliant Directories.\nKeep in mind that the payment gateway will use the Website Currency selected under Settings » General Settings » Localization .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160605908/original/p9GdBmMEh-cb6ZoAKpZAlKu1bL9TmeZ91A.png?1745948869 | alt: ]\nImportant Note: When adding credentials for the Stripe gateway, there will be additional validation on each key field as the valid credentials should be between 25 and 255 characters, and the key cannot include dots (ex: ....).\nIn the \"Secret or Restricted Key\" field, it is possible to enter either a standard Secret Key (beginning with sk_) or a Restricted Key (beginning with rk_).\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160605958/original/xh7aAjBGxIP60qlVW0UjZaob4biooqwGrw.png?1745948915 | alt: ]\nStripe Credentials - How To Roll Key\n\n## 4. Verify \" Active \" Status\nComplete a test transaction by signing up as a new member on the front-end of the website.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100659351/original/-zLf9Vo_OSNIzCBnsgzaLqT8Zzz9qdUUxA.png?1636383524 | alt: ]\n\n## Updating a Payment Gateway\nWhen adding an additional payment gateway, a notification will show indicating that making the new gateway active will not migrate active subscriptions to the new gateway and that the other gateways need to be deleted for the migration to occur:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124215885/original/aYpeYrgwqAT8aGS8KML0oHnYZZog2dNVXA.png?1681820894 | alt: ]\nNote that if the previous payment gateway was an on-site payment gateway and the update is to another on-site gateway (Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro) the billing database will keep the member's billing information on file and if there are any past due invoices the system will still attempt to bill the card on file using the new payment gateway.\nThis does not apply when the payment gateway update is from an off-site payment gateway to an on-site or another off-site, from Stripe to another on-site, from Stripe to another off-site gateway, or any other payment gateway to Stripe. The table below describes this information in detail:\nCurrent Payment Gateway New Payment Gateway Billing Information on File  Automatically Transferred Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro Stripe No Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro Yes Stripe Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro No Stripe PayPal Express / Standard, PayFast, Verifone No Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro PayPal Express / Standard, PayFast, Verifone No PayPal Express / Standard, PayFast, Verifone, Razorpay PayPal Express / Standard, PayFast, Verifone No PayPal Express / Standard, PayFast, Verifone, Razorpay Authorize.net,  PayPal Website Payments Pro, PayPal PayFlow pro, Stripe, Eway No\nFor more details on which payment gateways are on-site or off-site, refer to this article: Supported Payment Gateways\nImportant Note :\nStripe Customer ID's can be imported during the member import process . This is helpful when migrating from another platform and needing to associate existing Stripe customers with imported members, allowing subscriptions and payment records to remain linked.\nTo import the Stripe Customer ID, use the following variable name in the import file: stripe_customer_id\nThe accepted value must match the following format:\ncus_ followed by alphanumeric characters only (eg: cus_ABC123xyz789)\n\n## Deleting a Payment Gateway\nIf a payment gateway needs to be deleted, make sure to set up a new one and then make it \" Active \". After that, try to delete the old one. Trying to delete the active one will make this message appear:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087649731/original/076Pne3PE0tmYWBNlcbLQOkD_Q1kV_owNQ.png?1611065625 | alt: ]\nWhen there is more than one payment gateway, the one that is not active can be deleted:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087649756/original/OwGd5eEZM4Du2Y_b3OPJT5WP6NTxeGQTwA.png?1611065662 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081936076/original/_pPq628fqDI17pChIBx2pSacf1eYgwqewA.png?1599098813 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159945105/original/bFrhPSZcRKGsJXG8FDL-Y4No-Zk7myrhLg.png?1744725847",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160605908/original/p9GdBmMEh-cb6ZoAKpZAlKu1bL9TmeZ91A.png?1745948869",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160605958/original/xh7aAjBGxIP60qlVW0UjZaob4biooqwGrw.png?1745948915",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100659351/original/-zLf9Vo_OSNIzCBnsgzaLqT8Zzz9qdUUxA.png?1636383524",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124215885/original/aYpeYrgwqAT8aGS8KML0oHnYZZog2dNVXA.png?1681820894",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087649731/original/076Pne3PE0tmYWBNlcbLQOkD_Q1kV_owNQ.png?1611065625",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087649756/original/OwGd5eEZM4Du2Y_b3OPJT5WP6NTxeGQTwA.png?1611065662",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081936076/original/_pPq628fqDI17pChIBx2pSacf1eYgwqewA.png?1599098813",
+      "alt": ""
+    }
+  ],
+  "content_hash": "8a0a039e7189cc51d88e17be932da91e8fb9bac2f6bb2c64a4dd0c96a94f6188",
+  "ingested_at": "2026-10-17T10:27:12.823499+00:00"
+}

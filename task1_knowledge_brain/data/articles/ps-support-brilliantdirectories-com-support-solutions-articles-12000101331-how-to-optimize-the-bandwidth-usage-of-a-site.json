@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101331-how-to-optimize-the-bandwidth-usage-of-a-site",
+  "title": "How to Optimize the Bandwidth Usage of a Site",
+  "text": "\n## How to Optimize the Bandwidth Usage of a Site\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000101331\n\n## How to Optimize the Bandwidth Usage of a Site\nHigh bandwidth usage can affect website performance and can require additional capacity. The tools below help measure traffic and reduce unnecessary transfer.\n\n## Viewing Bandwidth Usage\nOpen Settings > Domain Manager > Usage for the current usage summary. The displayed limit includes the website license and any capacity purchased through the VIP Add-Ons Club or Bandwidth Boost Add-Ons .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185668551/original/mTOt576FMgjIQ4_oz3gJLDCTkWNFDJ0HQA.png?1790182305 | alt: Usage tab with the member, bandwidth, storage, and daily email allowances marked]\nThe Usage tab compares current consumption with the website’s plan limits.\nOpen Developer Hub > cPanel Dashboard , then select Bandwidth under Metrics. cPanel includes historical totals and separates traffic such as HTTP, FTP, IMAP, POP3, and SMTP.\nAWStats identifies traffic sources and the bandwidth each source consumed. See Identifying Sources of Bandwidth Usage with AWStats .\n\n## General Strategies\nCloudflare can cache static files and filter unwanted traffic, reducing requests to the origin server. See Connecting a Site to Cloudflare .\nImageKit can resize and optimize images for the requesting device. See Use a Content Delivery Network for Images .\nDisable screenshot previews in admin areas where they are not useful, including Dashboard, Web Page Builder, Edit Post Settings, Form Manager, and Domain Manager.\n\n## Address Specific Traffic Sources\nUse AWStats before blocking traffic. For sites using Cloudflare, its WAF custom rules can restrict selected countries or request patterns. Other sites can use the Block Traffic by Country tool.\nRestore the default crawler rules or add deliberate custom rules through the robots.txt documentation . Blocking legitimate search crawlers can reduce indexing.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185668551/original/mTOt576FMgjIQ4_oz3gJLDCTkWNFDJ0HQA.png?1790182305",
+      "alt": "Usage tab with the member, bandwidth, storage, and daily email allowances marked"
+    }
+  ],
+  "content_hash": "a3df663eb2cf20e476e50d0759dc8de2cf9092321ea62aebc18f5939a606892a",
+  "ingested_at": "2026-10-17T15:27:52.362442+00:00"
+}

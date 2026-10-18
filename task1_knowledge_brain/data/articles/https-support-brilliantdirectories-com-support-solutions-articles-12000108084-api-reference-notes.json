@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108084-api-reference-notes",
+  "title": "API Reference - Notes",
+  "text": "\n## API Reference - Notes\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108084\n← Back to API Reference | Getting Started\n\n## Notes\nNotes are short internal annotations that can be attached to any record in the system, such as a member profile, order, lead, or task. They are used by site administrators to log activity, track history, and leave internal comments. Notes are not visible to end users.\n\n## The Note Object\nField Type Description NOTE_ID integer Unique note ID (primary key, read-only) DB_ID integer ID of the record this note is attached to DB string Table name of the record this note is attached to (EG users_data , orders ) NOTE text Full text content of the note DATE_ADDED string Date the note was created (format: YYYYMMDDHHmmss ) NOTE_BY string Username or identifier of who created the note revision_timestamp timestamp Timestamp of last record modification (auto-managed)\n\n## List Notes\n\n## Example Request\n\n## Example Response\n\n## Retrieve a Note\n\n## Example Request\n\n## Example Response\n\n## Create a Note\n\n## Example Request\n\n## Example Response\n\n## Update a Note\n\n## Example Request\n\n## Example Response\n\n## Delete a Note\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "ca71bfb5aaf2d289dca3766305b3242b5adfd7dfb7863f28dbf59586f0ae6e98",
+  "ingested_at": "2026-10-17T15:40:15.060181+00:00"
+}

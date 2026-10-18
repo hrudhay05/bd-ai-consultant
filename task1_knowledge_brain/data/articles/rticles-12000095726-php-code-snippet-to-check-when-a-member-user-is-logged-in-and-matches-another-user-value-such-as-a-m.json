@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095726-php-code-snippet-to-check-when-a-member-user-is-logged-in-and-matches-another-user-value-such-as-a-m",
+  "title": "PHP code snippet to check when a member/user is logged in AND matches another user value (such as a membership plan ID)",
+  "text": "\n## PHP code snippet to check when a member/user is logged in AND matches another user value (such as a membership plan ID)\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000095726\nThe following examples demonstrate how to display content only when a member is logged in and matches specific user criteria, such as a Membership Plan ID.\nThe examples first verify that a member is logged in, retrieve the member's information, and then display content based on the member's subscription_id .\n\n## Example: Display Content for a Specific Membership Plan\nThe following example displays content only for members whose Membership Plan ID is 1 .\nReplace ENTER CONTENT FOR MEMBERSHIP PLAN ID 1 with the content that should be displayed to members assigned to Membership Plan ID 1 .\n\n## Example: Display Different Content for Multiple Membership Plans\nThe following example displays different content depending on the logged-in member's Membership Plan ID.\nReplace each placeholder with the content that should be displayed for the corresponding Membership Plan ID. The else block can be used to display content for members who do not match any of the specified plans.",
+  "images": [],
+  "content_hash": "d4fc53b77b703f90a08117c904f41eef3f14a85a77052829c2956664f545e030",
+  "ingested_at": "2026-10-17T15:23:53.434339+00:00"
+}

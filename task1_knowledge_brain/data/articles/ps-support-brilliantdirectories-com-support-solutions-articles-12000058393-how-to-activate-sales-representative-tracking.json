@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000058393-how-to-activate-sales-representative-tracking",
+  "title": "How to Activate Sales Representative Tracking",
+  "text": "\n## How to Activate Sales Representative Tracking\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000058393\nWithin the BD platform, it is possible to activate Sales Representative Tracking for members.\nTo activate this feature, navigate to Settings >> Advanced Settings and search for:\nEnable Sales Rep Field In Edit Members Form\nSystem Variable: enable_sales_rep_field\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647160/original/eDR6uyUSFpkmA9V6kGzD7JBX2DWzqWdovw.png?1753160933 | alt: ]\nWhen activated, a new search field called Choose Sales Rep Name will be available under My Members > > Search Members:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777744/original/jBBv010n6JK7ovNTIkgKsTyDDzkIyy6tVA.png?1624973520 | alt: ]\nAlso, a new filter will be added in the Finance >> Transaction History section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124676126/original/_fUrtJuffFElZC0elMVZz_P7chkYcLwDBA.png?1682614478 | alt: ]\nAssign a Sales Rep for each member by clicking on the Quick Edit option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777816/original/Ly_Gm7ScBnOsuNCeM_Q5n51RbxbQx5obDA.png?1624973573 | alt: ]\nAnd assign a Sales Rep directly under the Sales Representative field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777874/original/u9X7TLVmsS-fur35LWPJxOxYkJIUX0_aDg.png?1624973625 | alt: ]\nThis system name for the sales rep value is ref_code\nNow this information added will display as a dropdown option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777979/original/gGwXOnpQbAl6ppMUoWgU9zFm380D3rrCBg.png?1624973698 | alt: ]\nImportant Note: This field will be available as a column when Exporting Member Results as well.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647160/original/eDR6uyUSFpkmA9V6kGzD7JBX2DWzqWdovw.png?1753160933",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777744/original/jBBv010n6JK7ovNTIkgKsTyDDzkIyy6tVA.png?1624973520",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124676126/original/_fUrtJuffFElZC0elMVZz_P7chkYcLwDBA.png?1682614478",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777816/original/Ly_Gm7ScBnOsuNCeM_Q5n51RbxbQx5obDA.png?1624973573",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777874/original/u9X7TLVmsS-fur35LWPJxOxYkJIUX0_aDg.png?1624973625",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777979/original/gGwXOnpQbAl6ppMUoWgU9zFm380D3rrCBg.png?1624973698",
+      "alt": ""
+    }
+  ],
+  "content_hash": "eee15e62176c0b9ab094979339e53e33042a49bca22c29d11f6f01a64d366d65",
+  "ingested_at": "2026-10-17T14:43:08.626623+00:00"
+}

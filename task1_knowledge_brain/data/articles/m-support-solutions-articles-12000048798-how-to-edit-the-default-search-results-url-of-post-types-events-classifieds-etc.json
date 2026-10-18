@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048798-how-to-edit-the-default-search-results-url-of-post-types-events-classifieds-etc-",
+  "title": "How to Edit the Default Search Results URL of Post Types (Events, Classifieds, Etc.)",
+  "text": "\n## How to Edit the Default Search Results URL of Post Types (Events, Classifieds, Etc.)\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000048798\nTo change the default URL of a post type, please follow the steps below.\nGo to My Content >>  Edit Post Settings. Search and click Edit for the post type that needs to be updated.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184883564/original/xRZHTjcYJEWEtH595GMzYQM2cIacv_Ynew.png?1788903994 | alt: ]\nScroll down, find the URL Permalink field, and update the URL as desired.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184883194/original/lAvNhO06yfw822t1HQGcbBOpk6S3ItrcWw.png?1788903566 | alt: ]\nImportant: Make sure to not have any spaces or special characters in the new URL.\nWhen Saving the Post Type, a message will display to confirm this change: \"The URL of this Post Type is being changed from classifieds to brilliant-classifieds. This action will also update the slug URL of all associated posts.\"\nThis means that already created posts showing under the URL  /classifieds now are going to display under /brilliant-classiffieds.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184883495/original/rV5QaELJlOxRSgUeFv0dilR6sfY9KrdcqA.png?1788903952 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184883564/original/xRZHTjcYJEWEtH595GMzYQM2cIacv_Ynew.png?1788903994",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184883194/original/lAvNhO06yfw822t1HQGcbBOpk6S3ItrcWw.png?1788903566",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184883495/original/rV5QaELJlOxRSgUeFv0dilR6sfY9KrdcqA.png?1788903952",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c550aeda7cdb7f9b8698c352d0aad96134edda10b7307fe1de8348870a543ec8",
+  "ingested_at": "2026-10-17T14:40:12.191604+00:00"
+}

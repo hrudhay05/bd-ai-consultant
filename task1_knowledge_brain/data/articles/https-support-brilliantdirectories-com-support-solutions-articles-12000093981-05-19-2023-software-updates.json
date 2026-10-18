@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093981-05-19-2023-software-updates",
+  "title": "05/19/2023 - Software Updates",
+  "text": "\n## 05/19/2023 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000093981\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\nWe added the ability to search by Sub-Sub Level Categories when using the search filter module on the Search Members page in the Admin.\nWe fixed an issue which was preventing the Start Date option in the \"Order Results By\" Post Type setting from working properly on the event search result page when the site has enabled the Auto-Recurring Events Add-On in some cases.\nWe released a new version of the Brilliant Directories Zapier App. This version includes some minor fixes for the create, update, and delete actions of member posts.",
+  "images": [],
+  "content_hash": "8c7dedef5e5324544940e3b50e516143819422002a2ca07532315832073e8930",
+  "ingested_at": "2026-10-17T15:16:00.909448+00:00"
+}

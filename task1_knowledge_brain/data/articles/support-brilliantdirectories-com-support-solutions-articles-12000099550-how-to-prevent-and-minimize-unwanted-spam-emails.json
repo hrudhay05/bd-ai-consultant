@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000099550-how-to-prevent-and-minimize-unwanted-spam-emails",
+  "title": "How to Prevent and Minimize Unwanted Spam Emails",
+  "text": "\n## How to Prevent and Minimize Unwanted Spam Emails\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000099550\nUnfortunately, websites that have Contact Us forms are susceptible to unwanted spam form submissions, this is quite common on the internet.\nHere are a few recommendations to address this:\n\n## Block SPAM Keywords\nRead more : Spam Form Protector Add-On\nGo to Settings\nClick on General Settings\nUse the Integrations tab to access the SPAM Keyword Blocker\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180649797/original/M1rUjYKfSSMRulDqyUSA64TTGrm-nsQB7Q.png?1781795131 | alt: ]\n\n## Block Individual IPs\nRead more : Block An IP Address From The Website\nGo to Emails\nClick on Forms Inbox\nThe IP will be displayed in the Inquiry Details\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180649933/original/SyhjjsA8fr57SnejG8nsVeDSMEZmNG_fQg.png?1781795208 | alt: ]\nBlock the IP of individual spammers if there is an influx of spam submissions from one IP Address.\n\n## Block Traffic by Country\nRead more : Block Traffic By Country\nGo To Settings\nClick on General Settings\nUse the Localization tab to access the Block Traffic by Country setting\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180649983/original/JeBQwhBj93U5Yev9icx81AREsUHJSfeSZg.png?1781795265 | alt: ]\nEasily prevent visitors from specific countries from accessing the front-end of the website, this add-on identifies a visitor's country based on their IP address.\nThis prevents the submission of the forms on the site from users in the blocked countries.\n\n## Members-Only Pages\nRead more: Members-Only Content\nThis add-on provides full control over who can access the website’s content by requiring designated “members” to log in before being able to view certain pages.\nIn this case the pages with the forms can be protected.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180649797/original/M1rUjYKfSSMRulDqyUSA64TTGrm-nsQB7Q.png?1781795131",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180649933/original/SyhjjsA8fr57SnejG8nsVeDSMEZmNG_fQg.png?1781795208",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180649983/original/JeBQwhBj93U5Yev9icx81AREsUHJSfeSZg.png?1781795265",
+      "alt": ""
+    }
+  ],
+  "content_hash": "6214d2fa9f529034587b2ff509c16790918d76e1e769f1cd41b6d99b105ed025",
+  "ingested_at": "2026-10-17T15:26:01.996523+00:00"
+}

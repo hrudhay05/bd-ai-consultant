@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000096277-using-stock-images-photos-by-pexels-pixabay-stock-icons-and-giphy",
+  "title": "Using Stock Images: Photos by Pexels, Pixabay, Stock Icons and Giphy",
+  "text": "\n## Using Stock Images: Photos by Pexels, Pixabay, Stock Icons and Giphy\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000096277\nSearching for royalty-free images is available through the Media Manager's stock library.\nOpen My Content > Media Manager and click Stock Library .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182911482/original/e2xFS-5P8SMi9qHfMQzLPkbYweFrjcbDbQ.png?1785488595 | alt: ]\n\n## Image Selection\nType in the keyword to search, select the Orientation (square, vertical, horizontal), choose from the dropdown the source (Pixabay, Pexels or Giphy) and click on \" Search Photos \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171319786/original/XBqsLu_7zZ4KJoW0rBHTnu-EadqvkEie8Q.png?1764641740 | alt: ]\nIMPORTANT: The Icon Library is available only in the admin section.\nSelect the size and click the download button to add the image to the Media Manager.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132677186/original/M63xL6vmwGPE2Iw16OkuY3u78xM6elFSsA.jpg?1697135555 | alt: ]\nThe image will now be available in the Media Manager:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919568/original/fd_AL6QlNmlbJ6A1JZs0gfguTDZv5poCUg.png?1700856053 | alt: ]\n\n## Icon Library\nWhen selecting an icon from the Icon Library, a color can also be chosen so the icon matches the site's colors. After a color is selected, each icon previews in the color it will be downloaded as.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156575762/original/nU74LOKKthPIX6dSwfGorPmv8MmqmlR2VA.png?1738863270 | alt: ]\nAdditional Information\n» Content » Media Manager Upload Image",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182911482/original/e2xFS-5P8SMi9qHfMQzLPkbYweFrjcbDbQ.png?1785488595",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171319786/original/XBqsLu_7zZ4KJoW0rBHTnu-EadqvkEie8Q.png?1764641740",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132677186/original/M63xL6vmwGPE2Iw16OkuY3u78xM6elFSsA.jpg?1697135555",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919568/original/fd_AL6QlNmlbJ6A1JZs0gfguTDZv5poCUg.png?1700856053",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156575762/original/nU74LOKKthPIX6dSwfGorPmv8MmqmlR2VA.png?1738863270",
+      "alt": ""
+    }
+  ],
+  "content_hash": "ceeebbedcffe7448f443e322b4dd773d744f5d1a740e1e0868e837396658dc34",
+  "ingested_at": "2026-10-17T15:24:18.712800+00:00"
+}

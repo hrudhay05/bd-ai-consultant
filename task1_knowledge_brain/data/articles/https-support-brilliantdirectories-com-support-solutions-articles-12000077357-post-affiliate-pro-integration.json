@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000077357-post-affiliate-pro-integration",
+  "title": "Post Affiliate Pro Integration",
+  "text": "\n## Post Affiliate Pro Integration\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000077357\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181273661/original/K2sJF9Sywx62UHYPShmzTlBwSFlOYA6kQQ.png?1782838141 | alt: ]\n\n## Overview\nAs a merchant, the admin may want to enlist the help of affiliate marketers to advertise and sell the membership website’s products and services. Post Affiliate Pro can help the admin accurately monitor transactions on the website that have been facilitated by the affiliates.\nThis integration requires the admin to have a Post Affiliate Pro affiliate program.\n\n## What is Post Affiliate Pro?\nPost Affiliate Pro is an all-in-one affiliate tracking software designed to help businesses scale their affiliate marketing programs. It easily tracks referrals, manage commissions, and analyze performance, making it super efficient to grow your business through partnerships.\nIt’s helpful because it streamlines affiliate management, tracks conversions with accuracy, and provides real-time insights, making your affiliate program run smoothly.\n\n## Enabling the Add-On\n1. Go to Settings » General Settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088272184/original/XUGiZO6_THegaC4TYOq9tlhiPMGITQ1YnA.png?1612276486 | alt: ]\n2. Search for the keyword \" affiliate \" which will show the Post Affiliate Pro field to add the URL:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097234120/original/k6TnFrOOl4GxzHfn-dOeHsD8BGUYtB3GkQ.png?1629761656 | alt: ]\n\n## Trackable T ransaction Types\nThese integrations can track any of the following T ransaction Types :\nMember Sign Ups\nMember Upgrades\nMember Lead Purchases\nDigital Product Purchases\nPay-Per-Post Purchases\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097233490/original/Ct-XRW--Epq1xVPcDTWGBJKMjQGFW0XzKg.png?1629760135 | alt: ]\n\n## Example\nWhen a site using Post-Affiliate-Pro the code would look similar to this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088274090/original/LEBq9CnLJCeP76p4Tsp8MpFuL43xuZgAvA.png?1612278089 | alt: ]\nThese codes will include information about the purchase such as:\n1. Tracking code\n2. Total Cost\n3. Order ID, or Invoice ID\n4. Product ID",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181273661/original/K2sJF9Sywx62UHYPShmzTlBwSFlOYA6kQQ.png?1782838141",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088272184/original/XUGiZO6_THegaC4TYOq9tlhiPMGITQ1YnA.png?1612276486",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097234120/original/k6TnFrOOl4GxzHfn-dOeHsD8BGUYtB3GkQ.png?1629761656",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097233490/original/Ct-XRW--Epq1xVPcDTWGBJKMjQGFW0XzKg.png?1629760135",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088274090/original/LEBq9CnLJCeP76p4Tsp8MpFuL43xuZgAvA.png?1612278089",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c84eab63a5b583eff36d6332a936c658b1711c0cec3eca2d50c1f9518f0df203",
+  "ingested_at": "2026-10-17T14:48:34.857637+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000073080-side-by-side-pricing-plans-how-to-display-on-web-pages",
+  "title": "Side-by-Side Pricing Plans: How to Display on Web Pages",
+  "text": "\n## Side-by-Side Pricing Plans: How to Display on Web Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000073080\nWebsites powered by Brilliant Directories have a default pricing page that utilizes the basic webpage text editor to display membership plans in a modern, vertical format. This, however, requires users to scroll down the page to compare plans.\nThe Side-by-Side Pricing Plan feature provides an alternative horizontal column layout for the pricing page, making it easier to compare the membership plans.\n\n## What It Looks Like By Default:\nWhen using the Side-By-Side Pricing Tables, the information can be updated and edited via the Pricing Page Menu Toolbox » Menu Manager » then edit/customize the \"Pricing Page Menu\"\n* The Pricing Page menu is not automatically updated according to the Membership Plan settings. Manually edit the text that will be displayed here via the Menu Manager.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087520494/original/c6opO5c5taLQC5cGuSWXWPSRH1bRe1WfbA.png?1610747409 | alt: ]\n\n## How To Add This To A Web Page:\n1. Go to Toolbox » Menu Manager »  Find the \"Side by Side Pricing Menu\" and h over over the ACTIONS button and click on the Copy to Clipboard option. Then paste the copied shortcode for this menu directly into a web page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541620/original/HctVOcZtMgkvWRY1taTvRRHSAvVBq5fRBw.png?1781642054 | alt: ]\n2. Paste the copied shortcode and add it to an existing web page or create a new one in the Content »  Web Page Builder section of the admin.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541634/original/lMSeW_w-MNtV63OzN66BEOk6_7zsYWrrig.png?1781642114 | alt: ]\nAdditional Information:\n» How To Create A New Static Page\nWhen editing the Pricing Page Menu in the Menu Manager, manually add/edit or remove plans : How To Link Membership Plans To The Pricing Tables .\nAdditional Information:\n» Simple Style Guide For Pricing Table Elements\n» How To Control The Width And Size Of Each Pricing Table",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087520494/original/c6opO5c5taLQC5cGuSWXWPSRH1bRe1WfbA.png?1610747409",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541620/original/HctVOcZtMgkvWRY1taTvRRHSAvVBq5fRBw.png?1781642054",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541634/original/lMSeW_w-MNtV63OzN66BEOk6_7zsYWrrig.png?1781642114",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2495c51e6b2629b3838f046705e5f134aa43812379e7130baae4087f78d422ea",
+  "ingested_at": "2026-10-17T14:46:54.170456+00:00"
+}

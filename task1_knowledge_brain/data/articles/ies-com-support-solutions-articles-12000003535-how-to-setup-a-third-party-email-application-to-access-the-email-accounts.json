@@ -1,0 +1,65 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000003535-how-to-setup-a-third-party-email-application-to-access-the-email-accounts",
+  "title": "How To Setup A Third Party Email Application To Access The Email Accounts",
+  "text": "\n## How To Setup A Third Party Email Application To Access The Email Accounts\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000003535\nTo set upTo setup a 3rd party email client (Outlook, Thunderbird, Macmail, Gmail, etc) to access the account, follow these steps to find out the proper settings to use:\nNavigate to Emails >> Email Accounts:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145529312/original/fmDajUNNtmi8NwG2YeCNoi6ejz-xpZhALw.png?1719523554 | alt: ]\nClick on the \" Add/Edit Email Addresses \" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146366005/original/Us_mUbncT-wYrnlKutDLeT55axgNrJuzFQ.png?1721068750 | alt: ]\nLocate the email address to connect with the 3rd party email application and click on \" Connect Devices \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163665906/original/V6dLa55tbF6Mbe6_-cgqBbJfYHND5D2dAA.png?1751387905 | alt: ]\n\n## Mail Client Configuration\nThis section provides instructions on how to configure email connection settings.\n\n## Automatic Connection\nBelow is a collection of tutorials for configuring specific email applications. The appropriate protocol should be selected based on the email application in use.\nFor Mac devices such as iPhone, iPad, or macOS, Mail.app, select the iOS option. For any Windows device, including those using Windows Live Mail, select the corresponding Windows option.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163666282/original/H2kYm0tVHP5LPPo35chG-p2LT3prPnQEPA.png?1751388158 | alt: ]\n\n## Manual Connection\nAdditionally, 'Manual Settings' are provided for configuring applications not included in the listed tutorials:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163666297/original/Cxd4vZRONLGmdfiSpLCWznprSwaNgWT56g.png?1751388184 | alt: ]\n\n## Domain Connection Method\nIt is necessary to identify the domain connection method being used to complete the email configuration.\nThis information can be found in the Domain Manager.\nIf the connection method is listed as 'NS', it indicates the use of nameservers.\nIf it displays 'Cloudflare', 'CNAME', or any other value, the CNAME method is being used.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163670649/original/FDZgfhgJzo5s3X-d2_pUcqwy09SOH8R8Hg.png?1751391901 | alt: ]\n\n## Nameservers Domains\nIf the site is connected via nameservers , the 'Incoming' and 'Outgoing' server details provided in the Secure SSL/TLS Settings table should be used:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163670299/original/OFMLDdzu4hMSr3oWxDU2X1qCJgHNKuxOSg.jpeg?1751391473 | alt: ]\n\n## CNAME Domains\nIf the domain was connected using a CNAME r ecord (meaning it is hosted with the domain registrar or Cloudflare, not with BD), and the 'Incoming Server' and 'Outgoing Server' details provided by cPanel are not working, use the secure target URL displayed in the Domain Manager as both the incoming and outgoing server address instead:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163666407/original/TIJpOCVJOIpn1SmYP1R1xklCnNnnq3zPWg.png?1751388288 | alt: ]\n\n## Connection Example with IOS\nWe will use the \"Automatic Connection\" for this example.\nClick on the IMAP over SSL/TLS option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163668102/original/57xxD6f9ijItj-PKzY2AXT-LXSgmAy7HLw.png?1751389436 | alt: ]\nGo to your device's \"System Settings\", and type \"Email\".\nThen select \"Internet Accounts\", and click on \"Add Account\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163669496/original/YMCm6_cjyOybuwEswx2Pl-U25dIlu8W6pA.png?1751390790 | alt: ]\nSelect the \"Mail Account\" option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163667888/original/EF4Omt8A4ebZ_OKUk4R5sUmvE8xjGZIfEA.png?1751389301 | alt: ]\nSince the domain is connected via a CNAME record, the 'Secure Target URL' displayed in the Domain Manager should be used as both the 'Incoming Mail Server' and the 'Outgoing Mail Server'.\nRefer to the 'Email Setup for CNAME Domains' section above for guidance.\nAdd the email address and password.\nThen add the Incoming and Outgoing Mail Server.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163667058/original/rAa-vpn2aFkOML6n40HFkVeqttF10GzRmw.png?1751388723 | alt: ]\nSelect the applications that should be enabled for use with this account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163667489/original/65GqTRTd84J2jwwV7Ro4UzZIyWZaye6V5w.png?1751388970 | alt: ]\nOpen the Mail application on the device; the email account will appear in the left sidebar.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163667616/original/FK0ium5L4mzFYUmJgWVqz7pUDKQ6AbmRbg.png?1751389070 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145529312/original/fmDajUNNtmi8NwG2YeCNoi6ejz-xpZhALw.png?1719523554",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146366005/original/Us_mUbncT-wYrnlKutDLeT55axgNrJuzFQ.png?1721068750",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163665906/original/V6dLa55tbF6Mbe6_-cgqBbJfYHND5D2dAA.png?1751387905",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163666282/original/H2kYm0tVHP5LPPo35chG-p2LT3prPnQEPA.png?1751388158",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163666297/original/Cxd4vZRONLGmdfiSpLCWznprSwaNgWT56g.png?1751388184",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163670649/original/FDZgfhgJzo5s3X-d2_pUcqwy09SOH8R8Hg.png?1751391901",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163670299/original/OFMLDdzu4hMSr3oWxDU2X1qCJgHNKuxOSg.jpeg?1751391473",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163666407/original/TIJpOCVJOIpn1SmYP1R1xklCnNnnq3zPWg.png?1751388288",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163668102/original/57xxD6f9ijItj-PKzY2AXT-LXSgmAy7HLw.png?1751389436",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163669496/original/YMCm6_cjyOybuwEswx2Pl-U25dIlu8W6pA.png?1751390790",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163667888/original/EF4Omt8A4ebZ_OKUk4R5sUmvE8xjGZIfEA.png?1751389301",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163667058/original/rAa-vpn2aFkOML6n40HFkVeqttF10GzRmw.png?1751388723",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163667489/original/65GqTRTd84J2jwwV7Ro4UzZIyWZaye6V5w.png?1751388970",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163667616/original/FK0ium5L4mzFYUmJgWVqz7pUDKQ6AbmRbg.png?1751389070",
+      "alt": ""
+    }
+  ],
+  "content_hash": "31853d0f584000a77a34ccef97c1b72df3e1d5ee4d87bac88bff8238846b8658",
+  "ingested_at": "2026-10-17T16:52:47.875226+00:00"
+}

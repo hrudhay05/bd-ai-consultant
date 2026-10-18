@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069993-get-parameter-rule-for-post-and-group-search-results-userid-",
+  "title": "GET parameter rule for $POST and $GROUP search results \"&userid=\"",
+  "text": "\n## GET parameter rule for $POST and $GROUP search results \"&userid=\"\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000069993\nThe userid URL parameter can be used to filter Post and Group search results by the member who created them.\nWhen a User ID is specified, the search results display only the posts created by that member.\n\n## URL Format\nAppend the userid parameter to a Post or Group search results URL.\nFor example:\nReplace 1 with the desired member's User ID.\n\n## Find the Member's User ID\nTo locate a member's User ID, see:\nHow to View a Member's Unique ID Number in the Admin Area\n\n## Example\nThe following example displays all Classifieds posts created by the member whose User ID is 1 .\nHow To View A Member's Unique ID Number In The Admin Area\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076747396/original/EG_i2l5-17BAd_BBuCAnjUpQYimpTc762w.png?1588089524 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076747396/original/EG_i2l5-17BAd_BBuCAnjUpQYimpTc762w.png?1588089524",
+      "alt": ""
+    }
+  ],
+  "content_hash": "94378b103ab1e89d3e7eee896243f5a532515d1a1c7f390cba3434dc8f92915b",
+  "ingested_at": "2026-10-17T14:46:02.716324+00:00"
+}

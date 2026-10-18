@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000046441-toolbox-form-manager",
+  "title": "Toolbox » Form Manager",
+  "text": "\n## Toolbox » Form Manager\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000046441\nThe Form Manager is a core module of the Brilliant Directories platform, as it contains all forms used throughout the site.\nForms allow members and visitors to submit information, making this the place to create, edit, and customize how data is collected.\n\n## How to Access the Form Manager\nTo access the Form Manager, navigate to Toolbox >> Form Manager :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819095/original/Sk5-PWIecSBDqcoTFcJhCCJggJD9lI8pew.png?1761870888 | alt: ]\n\n## Default Forms\nEvery Brilliant Directories site includes a set of default forms. These forms are labeled with a DEFAULT FORM tag:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819116/original/-twSwZoyBmERCPCxbBGP6qWYWVATCSCJUw.png?1761871062 | alt: ]\nTo learn more about default form types, see Default Form Types\n\n## Customized Forms\nNew websites are launched without customized forms:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819114/original/303-qCYWSPPbrZRT93RZe36vSth0OlOhoQ.png?1761871019 | alt: ]\nOnce a default form is customized, it appears above the Default Forms section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819135/original/u9gfBT_h2tZQqNPZmqA6zGkXAv0L2ZmWPw.png?1761871136 | alt: ]\nTo learn how to customize a form, see How to Customize a Form\n\n## Bulk Actions\nBulk actions are available for custom and newly created forms:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819160/original/EEAWFe5V_-40b3qx2aJEYyb59dLU22u6xg.png?1761871182 | alt: ]\nTo learn more about bulk actions, see Bulk Actions for Forms\n\n## Form Filters\nFilters organize forms by status, type, alphabetical order, or last update:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819193/original/2Ic11pJMKsiRmyzpDtfZMbkyzz2JBOr2yw.png?1761871303 | alt: ]\n\n## Filter by Status\nView forms that are currently active or disabled.\n\n## Filter by Type: Member Listings\nForms associated with membership listing sections such as Contact Details, Additional Details, or About.\n\n## Filter by Type: Post Types\nForms related to post types such as Classifieds, Albums, or Blog Posts.\n\n## Filter by Type: General\nForms not associated with listings or post types.\n\n## Allowed Frontend HTML Tags\nSite owners can control which HTML elements are allowed in front-end forms.\nThis setting is located under Settings >> Advanced Settings >> Allowed Frontend HTML Tags :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109998940/original/yZ3TEm-UV7h6TIcVfLijdBXPZXf9McsVmA.png?1654620008 | alt: ]\nNote: For security reasons, the following HTML elements are never allowed:\n\n## Important Information\nForms cannot be imported or exported.\nAdvanced searching and filtering can be performed using SQL queries.\nThe Leads Form is tied directly to the Leads System. Most changes should be made in Lead Settings . Keeping the default Get Matched form and only adding new fields is recommended, to avoid conflicts.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819095/original/Sk5-PWIecSBDqcoTFcJhCCJggJD9lI8pew.png?1761870888",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819116/original/-twSwZoyBmERCPCxbBGP6qWYWVATCSCJUw.png?1761871062",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819114/original/303-qCYWSPPbrZRT93RZe36vSth0OlOhoQ.png?1761871019",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819135/original/u9gfBT_h2tZQqNPZmqA6zGkXAv0L2ZmWPw.png?1761871136",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819160/original/EEAWFe5V_-40b3qx2aJEYyb59dLU22u6xg.png?1761871182",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819193/original/2Ic11pJMKsiRmyzpDtfZMbkyzz2JBOr2yw.png?1761871303",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109998940/original/yZ3TEm-UV7h6TIcVfLijdBXPZXf9McsVmA.png?1654620008",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b89c02b47e8685ae69b2de95faa0371a1e8c22936921173aa00feb36439990eb",
+  "ingested_at": "2026-10-17T14:38:50.115965+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000085516-01-28-22-software-updates",
+  "title": "01/28/22 - Software Updates",
+  "text": "\n## 01/28/22 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000085516\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\nWe updated the \"Member Signup Page URL\" validation message to display the name of the Membership Plan setting instead of \"CHECKOUT URL\".\nWe updated how front-end cookies are stored in browsers to allow login pages to work in iframes.\nWe updated the layout of the Subscription Tab and added the date subscriptions were ended on the Member Details page in the Admin. Also, the \"End Subscription\" action s now being logged in the Activity Tracker.\nWe fixed an issue which was affecting the ability to use credit cards issued by banks in the European Union in some cases.\nWe updated the Google Sitemap Generator to not include the search results and details pages of Post Types that are set as Members Only.\nWe updated the logic of the Google Sitemap Generator to not include the member profile /connect pages when the 'Show \"Send Message\" Buttons & Forms' Membership Plan setting is set to \"No\"",
+  "images": [],
+  "content_hash": "3c815e1e3b645a4fa26154f7cf8d2f0596770df313923d862f25bcdbf37e4c8d",
+  "ingested_at": "2026-10-17T14:59:21.955989+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000094073-chatgpt-content-creator",
+  "title": "ChatGPT Content Creator",
+  "text": "\n## ChatGPT Content Creator\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000094073\n\n## Overview\nEnhance productivity & efficiency by harnessing the AI-powered capabilities of ChatGPT within Brilliant Directories. Built directly inside the BD text editors… Use ChatGPT to elevate website content creation, email writing & more!\nShare the power of ChatGPT with the website members, giving them access to ChatGPT when writing content inside the text editors.\n\n## Step-by-Step Requirements\nCreate a ChatGPT Account – Sign Up Now\nCopy the ChatGPT API Key – Create Secret Key\n\n## Key Features & Benefits\nGenerate high-quality content for web pages, posts or email campaigns\nAsk ChatGPT for content ideas, add more info to your existing posts & more\nIntegrated directly into the Froala text editor\nEnable use of ChatGPT for your members when creating posts\nEfficiently complete more tasks by streamlining your content creation\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: ChatGPT Content Creator Add-On\n\n## Create Secret Key\nOnce the Chat GPT account has been created, use the following link to generate the Secret Key:\nhttps://platform.openai.com/account/api-keys\nOn this page use the \" + Create new secret key \" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152868028/original/tTwmlD5we4DpdVw57IdgDNHaEyPiKIRbrg.png?1732152853 | alt: ]\nAdd a name for the key, keep the default permissions settings (ALL):\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152867994/original/s7RGZOOQnTz7Z1baZMZutdAXt9KMefEuOA.png?1732152750 | alt: ]\nClick \" Create secret key \" to continue and the generated key appears:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152868031/original/ZiUSiZ1kmdtpHujTJvKuFteXlyha1zMnLA.png?1732152894 | alt: ]\n*Please note that Chat GPT will not display the secret API keys again after they generate them.\nCopy this key and add it to the website Integrations tab... the field to add the key can be found by searching \" chatgpt \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949008/original/NCtB0svGyn6W9FxRafpYbgjyqfIkDapsiA.png?1684975384 | alt: ]\n\n## Enabling ChatGPT for Members\nThere are 3 ways to enable and control the ChatGPT feature:\n\n## Advanced Setting\nBy default when the add-on is enabled this is only available for the Froala Text Editor - Access Media Manager :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125950055/original/-nuzNvy4C0QTrFkl4d8qinol_DsV2SfO3g.png?1684978580 | alt: ]\nThis Froala Editor is the one used for the Blog and Digital Products post types, which are the ones that only the website Admin profile has access to.\nThis is done to mitigate the Rate Limits for FREE users:\nhttps://platform.openai.com/docs/guides/rate-limits/overview\nSince free users get limited requests per minute.\nFor those using PAID accounts, go to Settings » Advanced Settings » Search for froala_chatgpt and select the additional Froala classes that can use the add-on:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125950293/original/jK1RS8secq4n0QI1yYi62H5ITFP3Zixqjw.png?1684979158 | alt: ]\n\n## Membership Plan\nTo enable ChatGPT for members in specific membership plans, go to Finance » Membership Plans - Member Dashboard , scroll down to the Additional Settings section and choose the option accordingly:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127300134/original/7IUTOmJE4EgXtRM_TQ1XspeRijT1cHU-pA.png?1687433633 | alt: ]\nNote : If the Advanced Setting is active for all Froalas but not enabled in the membership plan setting, opting for \" No \" will disable the ChatGPT integration on the post.\n\n## Quick Edit Section\nIt is also possible to enable this feature for individual members. Go to the Quick Edit Module For Members » Listing Settings Tab » Find the 'Enable ChatGPT in Text Editors option and activate it:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127300294/original/ApfRV_ch67taKloy_IuT6XKSZUvloUweEA.png?1687433845 | alt: ]\nWhen enabled for members, the add-on works in the same manner as it does inside the Admin dashboard.\nNote : If the Advanced Setting and Membership plan are both enabled, but a particular member should not have access to the addon, choosing \"No\" will deactivate the ChatGPT integration on the Article Froala.\n\n## ChatGPT API Pricing\nA \"ChatGPT Plus\" subscription is distinct from having billing information on file for API usage. ChatGPT operates as a separate product. Therefore, a ChatGPT Plus subscription is not required to access or use the API.\nUsers intending to utilize the API must ensure their billing information is correctly entered in the API billing section.\n\n## ChatGPT Button\nOnce the key is saved, the Admin will start to display the ChatGPT button within the Froala editors.\n\n## Email Signature\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949121/original/y6uIDOno-zu6PN_56e81Kxe5ukDkCn_AvA.png?1684975771 | alt: ]\n\n## Web Pages\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949122/original/DHuWK5LJT0w0xxlP-jiOGJDJ5bxEYuH39g.png?1684975778 | alt: ]\n\n## Compose Emails\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949134/original/K68E6ihFoQcGTEKrE67nKpF2WN2TGUexLg.png?1684975833 | alt: ]\n\n## Using ChatGPT\nType in the prompt\nHighlight the text\nClick the \" Ask ChatGPT \" button\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125947888/original/n05S-B7vJDcR3owy41mdosawXsfs0MKa8g.gif?1684972020 | alt: ]\nThe speed at which the response is generated will depend on the request, asking it to write a 500 word post will take anywhere between 5-10 seconds depending on the complexity. Whereas a request for 1 sentence will be generated almost immediately, typically within 1 second.\nThis is all governed by the capabilities of ChatGPT and their AI model. The ChatGPT Content Creator Add-on modal uses gpt-4o-mini.\n\n## How Each Session Works\nWhen using ChatGPT to create content, each session can handle 4,000 tokens , which is roughly around 3,000 , words total. What this means is that each word is converted into a legible token whenever a question is asked. To break it down further, tokens are text fragments . The 4000 tokens are a sum of the original prompt, original response and any content generated during the session.\nA new chat session will automatically start when: The token limit is reached, an alert will pop up to notify you The web page is reloaded\nThe token limit is reached, an alert will pop up to notify you\nThe web page is reloaded\nThe integration is programmed to return responses that do not exceed 750 tokens. If the response is \"cut off\" because the 750 response limit has been reached, ask the AI to continue and the content can be completed. But after the 4,000 token limit has been reached in a session, ChatGPT's memory will reset and a new chat session will begin; it will not recall previous chat inputs.\n\n## Limitations\nThe ChatGPT API includes some limitations, but Brilliant Directories has configured it for maximum output. The ability for ChaptGPT to recall and remember previous inputs and outputs is limited to about 3,000 words and/or characters.\nAlthough this limits the API’s ability to output a 2,000 word article in one shot, it is proven to provide a helping hand with creating snippets of content in real-time.\nAfter this limit is reached, an alert will display and the next input will start a fresh chat session with ChatGPT.\nThere are 3 limits that can be reached:\nSession tokens reached, next input will start a new chat session (old chat session memory is gone):\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126127614/original/82l25MyzJHQ59QMxkH7grwt_y-UEYJugPA.png?1685407991 | alt: ]\nMax. Input requests per minute reached. Wait a few seconds before sending the next input request:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126127615/original/WEbduch-gh6aWSB73jykT3s_asf5-0SHCg.png?1685407999 | alt: ]\nTotal monthly usage limit reached. Users can see their monthly usage in the Openai account settings. Upgrading to a pay-as-you-go plan increases this monthly limit, but it’s still capped. Here's where users can see their monthly usage limits: https://platform.openai.com/account/usage",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152868028/original/tTwmlD5we4DpdVw57IdgDNHaEyPiKIRbrg.png?1732152853",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152867994/original/s7RGZOOQnTz7Z1baZMZutdAXt9KMefEuOA.png?1732152750",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152868031/original/ZiUSiZ1kmdtpHujTJvKuFteXlyha1zMnLA.png?1732152894",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949008/original/NCtB0svGyn6W9FxRafpYbgjyqfIkDapsiA.png?1684975384",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125950055/original/-nuzNvy4C0QTrFkl4d8qinol_DsV2SfO3g.png?1684978580",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125950293/original/jK1RS8secq4n0QI1yYi62H5ITFP3Zixqjw.png?1684979158",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127300134/original/7IUTOmJE4EgXtRM_TQ1XspeRijT1cHU-pA.png?1687433633",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127300294/original/ApfRV_ch67taKloy_IuT6XKSZUvloUweEA.png?1687433845",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949121/original/y6uIDOno-zu6PN_56e81Kxe5ukDkCn_AvA.png?1684975771",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949122/original/DHuWK5LJT0w0xxlP-jiOGJDJ5bxEYuH39g.png?1684975778",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949134/original/K68E6ihFoQcGTEKrE67nKpF2WN2TGUexLg.png?1684975833",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125947888/original/n05S-B7vJDcR3owy41mdosawXsfs0MKa8g.gif?1684972020",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126127614/original/82l25MyzJHQ59QMxkH7grwt_y-UEYJugPA.png?1685407991",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126127615/original/WEbduch-gh6aWSB73jykT3s_asf5-0SHCg.png?1685407999",
+      "alt": ""
+    }
+  ],
+  "content_hash": "316726a865a616591530c6444ace2875364a52750dd609b476a1142c18ab4b34",
+  "ingested_at": "2026-10-17T15:16:02.608805+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000053017-01-04-19-software-updates",
+  "title": "01/04/19 - Software Updates",
+  "text": "\n## 01/04/19 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000053017\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\n\n## Updates:\nWe fixed an issue wich was affecting the Post Tags search functionality when a tag contained an apostrophe.\nWe fixed an issue that was causing the Breadcrumbs on profile pages to link to a 404 page error in some cases. Widget Involved: Bootstrap Theme - Function - Display Breadcrumbs\nWe fixed an issue which was causing the Back button on the Edit Widget page to redirect to a 404 error in some cases.\nWe updated the Lead Information on the Dashboard page in the Admin to show the number of Leads that need to be matched instead of the total number of Leads.\nWe fixed an issue which was affecting the normal behavior of the Show Advertisement On Listing Product setting in some cases.\nWe fixed an issue which was causing the location of a member search to not display in the H1 tag of the search results page in some cases. Widget Involved: Bootstrap Theme - Function - Google Location Suggest",
+  "images": [],
+  "content_hash": "eb8c0f2ea02a0c678b6e42e02066174a8f27e2852071558d30574ca353bb85ee",
+  "ingested_at": "2026-10-17T14:41:47.314494+00:00"
+}

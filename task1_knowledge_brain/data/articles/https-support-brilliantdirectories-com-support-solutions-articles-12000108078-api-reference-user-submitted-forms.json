@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108078-api-reference-user-submitted-forms",
+  "title": "API Reference - User Submitted Forms",
+  "text": "\n## API Reference - User Submitted Forms\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108078\n← Back to API Reference | Getting Started\n\n## User Submitted Forms\nUser Submitted Forms tracks which members have submitted specific forms on your directory website. Each record links a user ID to a form name and records the timestamp of submission. This is useful for tracking profile completion, onboarding steps, and whether a member has submitted a particular form at least once.\n\n## The User Submitted Forms Object\nField Type Description id integer Unique record ID (primary key, read-only) user_id integer ID of the member who submitted the form form_name string Machine name of the form that was submitted submitted_at timestamp Date and time the form was submitted (auto-set on create)\n\n## List User Submitted Forms Records\nReturns a paginated list of user submitted form records.\n\n## Example Request\n\n## Example Response\n\n## Retrieve a User Submitted Form Record\n\n## Example Request\n\n## Example Response\n\n## Create a User Submitted Form Record\n\n## Example Request\n\n## Example Response\n\n## Update a User Submitted Form Record\n\n## Example Request\n\n## Delete a User Submitted Form Record\n\n## Example Request",
+  "images": [],
+  "content_hash": "92d451cba53ef7739989a2eb5af7f6b952734c62d3c639c63a4db1f05e06e39f",
+  "ingested_at": "2026-10-17T15:40:04.780833+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000105171-cookie-consent-tool-cookiepal",
+  "title": "Cookie Consent Tool – CookiePal",
+  "text": "\n## Cookie Consent Tool – CookiePal\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000105171\n\n## Integrating Third-Party Cookie Consent\nCookiePal offers an affordable third-party cookie consent solution that can be embedded on a Brilliant Directories website. The steps below outline how to integrate CookiePal to meet cookie compliance requirements.\n\n## Step 1: Create a CookiePal Account\nNavigate to https://cookiepal.io/pricing .\nSelect the preferred pricing plan (a free option is available).\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163671622/original/17xUcrTwEY9WmamSl01N_bnHZTyQM_EziA.png?1751393027 | alt: ]\nComplete the sign-up process, including the website domain.\nComplete the sign-up process, including the website domain.\n\n## Step 2: Configure the Cookie Banner\nChoose between the Fast or Advanced setup. In this example we will choose the Fast Setup :\nChoose between the Fast or Advanced setup. In this example we will choose the Fast Setup :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163671878/original/P37yr61juDOTMR2QMXtvZnF-uoF0wzZW7A.png?1751393324 | alt: ]\nCookiePal offers an already preconfigured the banner. Customise the layout, colors, position, and content text to align with branding and legal requirements using the side bar on the left.\nCookiePal offers an already preconfigured the banner. Customise the layout, colors, position, and content text to align with branding and legal requirements using the side bar on the left.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163672062/original/qfD3LLfpM82ZXXjRC2P6BNoZivmSvVdU7w.png?1751393483 | alt: ]\nOnce the colors, layout and alignment have been selected, click \"Next\" to proceed.\nOnce the colors, layout and alignment have been selected, click \"Next\" to proceed.\n\n## Step 3: Copy the Installation Script\nOnce the configuration is complete, choose the preferred option for installation: COPY & PASTE THE CODE\nOnce the configuration is complete, choose the preferred option for installation: COPY & PASTE THE CODE\nCopy the code to integrate the banner into the website.\nClick on Finish to go to the CookiePal dashboard.\nClick on Finish to go to the CookiePal dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163672197/original/5peqyxLwR5yfSPtmJBobYWCEe_lSBXMI7A.png?1751393656 | alt: ]\n\n## Step 4: Insert the Script into the Website\nLog into the Brilliant Directories Admin Dashboard.\nLog into the Brilliant Directories Admin Dashboard.\nNavigate to Toolbox > Widget Manager .\nSearch for the widget titled Bootstrap Theme - Cookie Consent Code .\nPaste the CookiePal script into the HTML editor.\nPaste the CookiePal script into the HTML editor.\nClick Save Changes .\nClick Save Changes .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164697236/original/JqHVnJEkfkslK_cR_IlNwKY-wYYFVOC3GA.gif?1753203500 | alt: ]\nLoad the website to see the cookie consent:\nLoad the website to see the cookie consent:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163673521/original/cUxrT_rQpEiXpXfxM387FO8S2SEXcN1aoQ.png?1751394817 | alt: ]\n\n## Step 5: Check the Cookies\nReturn to the CookiePal dashboard.\nReturn to the CookiePal dashboard.\nNavigate to Cookie Manager .\nCheck the cookies that have been gathered: Necessary, Analytics, Performance, etc.\nCheck the cookies that have been gathered: Necessary, Analytics, Performance, etc.\nCookiePal auto-classifies most cookies; remaining cookies can be classified manually.\nCookiePal auto-classifies most cookies; remaining cookies can be classified manually.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163673681/original/u0TX_s3-Jd1cG-XHnZ6oSSDkjNqfz8fGoA.png?1751394953 | alt: ]\n\n## Step 6: Troubleshooting and Testing\nIf the cookie banner does not display as expected:\nClear the browser cache and cookies.\nClear the browser cache and cookies.\nOpen the website in a private/incognito browser window.\nOpen the website in a private/incognito browser window.\nVerify that the script is correctly placed in the widget and saved.\nVerify that the script is correctly placed in the widget and saved.\n\n## Additional Infomration and Support from CookiePal\nCookiePal Introduction Video\nCookiePal Help Guide\nCookiePal Support\n\n## Related Articles\nHow to Add Cookie Consent\nCookie Consent Tool – Osano",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163671622/original/17xUcrTwEY9WmamSl01N_bnHZTyQM_EziA.png?1751393027",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163671878/original/P37yr61juDOTMR2QMXtvZnF-uoF0wzZW7A.png?1751393324",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163672062/original/qfD3LLfpM82ZXXjRC2P6BNoZivmSvVdU7w.png?1751393483",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163672197/original/5peqyxLwR5yfSPtmJBobYWCEe_lSBXMI7A.png?1751393656",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164697236/original/JqHVnJEkfkslK_cR_IlNwKY-wYYFVOC3GA.gif?1753203500",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163673521/original/cUxrT_rQpEiXpXfxM387FO8S2SEXcN1aoQ.png?1751394817",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163673681/original/u0TX_s3-Jd1cG-XHnZ6oSSDkjNqfz8fGoA.png?1751394953",
+      "alt": ""
+    }
+  ],
+  "content_hash": "6135f5963c8ca64018c9486dd570a296cf28bdf7d45965391a9cb137758fef3b",
+  "ingested_at": "2026-10-17T15:34:51.222406+00:00"
+}

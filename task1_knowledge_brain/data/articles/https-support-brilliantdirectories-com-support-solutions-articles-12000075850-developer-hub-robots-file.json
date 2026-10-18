@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000075850-developer-hub-robots-file",
+  "title": "Developer Hub » Robots File",
+  "text": "\n## Developer Hub » Robots File\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000075850\nTo edit the default version of the Robots.txt file navigate to Developer Hub >> Robots File :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094106908/original/OpJk8GuLXGPLPrn69hN3Z96LG_XooIXB9A.png?1623774021 | alt: ]\n\n## Default Rules\nThe default file includes the following rules.\nTo add to the file, click inside the text field and add the necessary rules.\nSee How To Add Bots To Your Robots.Txt File (Ahrefs Example) .\n\n## Restore Default File\nThe following button replaces any value imputed to the default version of the file:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085399056/original/SMAL8GXCLwyM4T8t-DZRRhzyFxUwMDVmUQ.png?1606162699 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094106908/original/OpJk8GuLXGPLPrn69hN3Z96LG_XooIXB9A.png?1623774021",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085399056/original/SMAL8GXCLwyM4T8t-DZRRhzyFxUwMDVmUQ.png?1606162699",
+      "alt": ""
+    }
+  ],
+  "content_hash": "39ce3b46ce2b3b96cf01bc3b6d8a8a86506479050cee47837cd270b10715b5fa",
+  "ingested_at": "2026-10-17T14:47:50.395552+00:00"
+}

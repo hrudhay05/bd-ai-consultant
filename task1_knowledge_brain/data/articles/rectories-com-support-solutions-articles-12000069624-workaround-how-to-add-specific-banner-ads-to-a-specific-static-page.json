@@ -1,0 +1,57 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069624-workaround-how-to-add-specific-banner-ads-to-a-specific-static-page",
+  "title": "Workaround: How to Add Specific Banner Ads to a Specific Static Page",
+  "text": "\n## Workaround: How to Add Specific Banner Ads to a Specific Static Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000069624\n2. To add a Header banner consider adding a hero section, which allows to add a Hero banner to the header of a Static Page: How To Add A Hero Section On Static Pages\n\n## Adding Banners to a Specific Static Page\nTo display different custom banners on a Header banner, Below Header banner and Footer Banner, it is necessary to create custom widgets that will display in those specific locations.\nIn order to check on which page the banners will display and to select which banners, custom logic to each of those widgets will be required. Please bear in mind that this is a more advanced set up and that the help of a developer might be necessary.\nIf banners have already been placed on Banner Ad Design section, and want to hide these on this specific page follow the instructions on this article: Hiding Banner Ads On a Specific Static Page\n\n## Recommended Banner Sizes\nRemember to use the recommended image sizes for each of these banners:\nHeader and Footer: Recommended Max. Width 970 Pixels\nSidebar: Recommended Max. Width 360 Pixels\n\n## Method 1: Turn a Custom Image into Banner Ad\nSince it is only possible to add a Banner in the Header section using the Banner Ad Design tool, we recommend adding an image to the top of the page, this will display the banner below the H1 and H2, but on top of the rest of the page content.\n\n## Add a Banner Below The H1 and H2 Section\n1. Upload the image to be displayed as a banner. The recommended size for this banner is 970 x 90 pixels:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125282708/original/pJZZZ-FRkFUye-9rle3a83Qc7RxJkx5khA.png?1683752161 | alt: ]\n2. Insert the image before the text:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821208/original/BI97IDcD74TZfnxQF-OhjWUrLNZNLhHIfQ.png?1682977185 | alt: ]\nClick HERE to learn more about how to add an image on a web page.\n3. Click on the image to resize it to be 970px wide:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821210/original/PpQwPaZYfNX4MIIzG6JoSKT8kC6J1_dv_A.png?1682977199 | alt: ]\n4. Center the image:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821218/original/wf0Nm4Yb1ApQO8Ealojrzz8JXlnX2B7M1Q.png?1682977208 | alt: ]\n5. Click on the image to add a link:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821220/original/fBZ-8iNNWmm3uVbdNXCgUI4jeS4tPRqUuQ.png?1682977217 | alt: ]\nThe same logic will apply to the footer. However the banner image needs to be added at the bottom of the page content. Simply scroll all the way down and add an image at the bottom of the page. Then follow the steps 3, 4 & 5 explained above.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821240/original/85x3eI-vr4uXHRToN78Q1OEzF8WvwcXw6A.png?1682977229 | alt: ]\nThis is what the page will look like:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821242/original/vp8w2Fib9RYv_4-1vSaO5YUdHoS19ePHXA.png?1682977241 | alt: ]\n\n## Method 2: Use a Custom Widget\nBanner Ads are composed of an image and a link. This is a simplified code to display a banner:\nThe href section is where the link needs to be added, in this case, the banner will be linked to https://www.brilliantdirectories.com . That looks like this:\n<a href=“ https://www.brilliantdirectories.com ”> <img src=“enter-the-full-image-filename”> </a>\nIn order to add the image, first upload the file to the Media Manager. Here is a helpful article to learn more: Content » Media Manager Upload Image .\nOnce the image has been uploaded, right-click on it and select Copy URL .  We recommend to copy only the relative path, which is the link information after the .com This will avoid conflicts if the site's domain gets changed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821252/original/GCdHvaufSgfk801GIEzWoTX8UijqcKLxaw.jpeg?1682977253 | alt: ]\nAdd the relative path to the code structure, which in this example would look like this:\n<a href=“ https://www.brilliantdirectories.com” > <img src=“ images/bd-banner.png ”> </a>\nWith this code, create a custom widget . For this example, a custom widget called Banner Ad for a specific page was added.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821279/original/gv2gWU1iOwQEzv4hR7em0jG4IJIy7Exryg.jpeg?1682977265 | alt: ]\nCopy the shortcode to add this widget to the Static Page . The image can be used as a below H1 H2 , footer or sidebar banner.\nAdd a Custom Sidebar Banner\nCreate a custom sidebar , and simply add the new widget to this sidebar in the Toolbox » Sidebar Manager\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125285241/original/FQp9YdS4bMCBPj1wYBWmMdAqFfPKdcfQqQ.png?1683755351 | alt: ]\nAdd a Footer Banner using the Footer Code Section\nAdding the widget to the Footer section will allow to keep this banner using the full width of the page in case it's add it in a sidebar.\nThis is what a page would look like with the 3 banners in place:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821325/original/ii7059yb55BCqEiJ_vMikcNO8cVtrisetQ.jpeg?1682977289 | alt: ]\nIt's possible to add the banner code directly to the  Advanced tab >> Footer Content or create a custom widget and then add that widget:\nAdding just the widget or the code without any attribute or CSS class will display the banner left-aligned by default.\nTo center align this banner, put it inside a div like this:\n<div align=\"center\"> [widget=Footer Banner for specific page] </div>\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125282710/original/pZnZ9hl3BIM84ykIli5hCtHYqIOBYbBiWw.jpeg?1683752162 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125282708/original/pJZZZ-FRkFUye-9rle3a83Qc7RxJkx5khA.png?1683752161",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821208/original/BI97IDcD74TZfnxQF-OhjWUrLNZNLhHIfQ.png?1682977185",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821210/original/PpQwPaZYfNX4MIIzG6JoSKT8kC6J1_dv_A.png?1682977199",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821218/original/wf0Nm4Yb1ApQO8Ealojrzz8JXlnX2B7M1Q.png?1682977208",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821220/original/fBZ-8iNNWmm3uVbdNXCgUI4jeS4tPRqUuQ.png?1682977217",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821240/original/85x3eI-vr4uXHRToN78Q1OEzF8WvwcXw6A.png?1682977229",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821242/original/vp8w2Fib9RYv_4-1vSaO5YUdHoS19ePHXA.png?1682977241",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821252/original/GCdHvaufSgfk801GIEzWoTX8UijqcKLxaw.jpeg?1682977253",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821279/original/gv2gWU1iOwQEzv4hR7em0jG4IJIy7Exryg.jpeg?1682977265",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125285241/original/FQp9YdS4bMCBPj1wYBWmMdAqFfPKdcfQqQ.png?1683755351",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821325/original/ii7059yb55BCqEiJ_vMikcNO8cVtrisetQ.jpeg?1682977289",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125282710/original/pZnZ9hl3BIM84ykIli5hCtHYqIOBYbBiWw.jpeg?1683752162",
+      "alt": ""
+    }
+  ],
+  "content_hash": "752256445d9fb0bb3e8ddbe754ba15ce87e4b275a236a97343e7b60da624d9d6",
+  "ingested_at": "2026-10-17T14:45:52.794884+00:00"
+}

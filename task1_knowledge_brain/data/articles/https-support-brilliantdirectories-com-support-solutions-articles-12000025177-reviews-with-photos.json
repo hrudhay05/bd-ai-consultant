@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000025177-reviews-with-photos",
+  "title": "Reviews With Photos",
+  "text": "\n## Reviews With Photos\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000025177\nUsers can leave reviews on the members’ profile pages by default. This add-on, however, expands this functionality by allowing users to upload up to 5 images when leaving a review.\nThis functionality is completely mobile-friendly as well. Users can upload images from their smartphones and tablets in addition to their computers.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Reviews With Photos Add-On\n\n## Enabling the Add-On\nGo to Finance - Membership Plans:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086467582/original/gnUz-xtpO-ppWUI4KJmj51CsHAGRGPTj7A.png?1608237491 | alt: ]\nSelect the membership level that this add-on will be activated for:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086467715/original/aWZDPWTZaSOkO1B0c4lX73J16L-O2Kr-dg.png?1608237698 | alt: ]\nNext click on the Profile Page tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086467744/original/vXs_ujkYDAd6mEMZIunk16gfYTbRHTqk8g.png?1608237769 | alt: ]\nScroll down until the Member Review Settings shows and allow/disable image uploads with reviews:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086467769/original/-TgN72SzkIOk3phWxiNgalaM2r4jJ3dBTQ.png?1608237840 | alt: ]\nThis will allow members to upload images when submitting a review for members:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091956092/original/eb05dlPnF07qL93F-uw-_x3O2IlJtLLVcg.gif?1619658262 | alt: ]\nThis is how it will display on the member's profile:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086468856/original/l1ugS4y2hfNoVpXiO2VUpbtIMS7q6ktBzA.png?1608239741 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086468896/original/9_mx5bbvlKnn0SJS4MdBeRq8NsWfNP3n1g.png?1608239792 | alt: ]\nNote: This feature will only work for logged in members, not for regular users.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086467582/original/gnUz-xtpO-ppWUI4KJmj51CsHAGRGPTj7A.png?1608237491",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086467715/original/aWZDPWTZaSOkO1B0c4lX73J16L-O2Kr-dg.png?1608237698",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086467744/original/vXs_ujkYDAd6mEMZIunk16gfYTbRHTqk8g.png?1608237769",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086467769/original/-TgN72SzkIOk3phWxiNgalaM2r4jJ3dBTQ.png?1608237840",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091956092/original/eb05dlPnF07qL93F-uw-_x3O2IlJtLLVcg.gif?1619658262",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086468856/original/l1ugS4y2hfNoVpXiO2VUpbtIMS7q6ktBzA.png?1608239741",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086468896/original/9_mx5bbvlKnn0SJS4MdBeRq8NsWfNP3n1g.png?1608239792",
+      "alt": ""
+    }
+  ],
+  "content_hash": "a47b0ca9f5008298dfb3878e039365bbe071135fecfba3b86870e722269b0b96",
+  "ingested_at": "2026-10-17T14:34:36.206002+00:00"
+}

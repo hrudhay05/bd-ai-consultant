@@ -1,0 +1,133 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000008053-member-leads-lead-settings-form-settings",
+  "title": "Member Leads » Lead Settings » Form Settings",
+  "text": "\n## Member Leads » Lead Settings » Form Settings\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000008053\nTo edit the general settings of the Leads Module, Navigate to Interactions » Member Leads » Lead Settings . This opens the Edit Lead Settings Basic page\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153051910/original/aeO58O1yQf7-PUENC8u5gZjZSkUN-ebqgA.png?1732547564 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153052037/original/lNDEaQkL4OJT6Ibq7swB8QsjMlc9KdXn9A.png?1732547622 | alt: ]\nIf the Automatic Lead Matching Add-On is active on the site, these settings will appear inside the lead action module. Click Edit to open the form settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127483963/original/mjegsdcetCPB3WCBZ9ZjtMH64Ut3zYVzZw.png?1687812431 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127484030/original/WSqg0D8H5NH21knzDwAlJ0ePiH38dZ4Jpw.png?1687812470 | alt: ]\n\n## Lead Settings (Basic)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092434743/original/GaKRyBOVjbc9C9SXZf7ZnY8SvkSrAkKetA.png?1620663672 | alt: ]\nMaximum Acceptances Set the maximum number of members who can accept or purchase each lead after it has been matched to them. This includes members matched directly or automatically.).\nMaximum Lead Inquiries Per Day Set the maximum number of lead inquiries a visitor can submit per day. Enter 0 for unlimited submissions. This limit is based on the visitor’s IP address.\nAfter the limit has been reached by a visitor, it will show an alert “ Daily Submission Limit Reached ”\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153061738/original/dxgqZMQQ9sp_xJyUwB4bKOxXb1xvk5MwYA.png?1732554726 | alt: ]\nThis alert is a text label:\nDaily Getmatched Limit Reached\nDatabase Variable: daily_getmatched_limit_reached\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153062115/original/NysIcrsgFLcV-0RrKsIO7gsZ_mBhcZFfjg.png?1732554974 | alt: ]\n\n## Automatically Match Leads to Qualified Members\n* This will only appear if the site has the Automatic Lead Matching Add-On *\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084473963/original/uZnl_lTi-co0yTJgWII95UrREY18CRpxmg.png?1604416108 | alt: ]\n\n## Form Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12111879581/original/P_Jib4nO4x4aYM6kT_fWUPJA17kSP2MeTA.png?1658251272 | alt: ]\n\n## Enable \"Get Replies from more members?\" Option\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092434873/original/EcGy1p0zH83w4Pzw6iQf-iNdOOVYLr1h0g.png?1620663785 | alt: ]\nSelect \"Yes\" to display \"Get Replies from more members?\" . Only applies for Lead forms on the profile pages:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079934475/original/5kToE_AI80o977UKSJ3AbnizJ08qewQPJQ.png?1594733936 | alt: ]\n\n## Hide Field Labels\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092434911/original/38nYuJQsOwngRy4PqyojvcQihh0QO83ZoA.png?1620663820 | alt: ]\nOFF (Show Field Label) ON (Hide Field Label)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153062393/original/zLsTmxyi177RuXeYNTuDb2XJYgJZMAGJag.png?1732555319 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153062388/original/PhSUaF5UkNnkV2SfChB8fg9oSMXFTbftQw.png?1732555315 | alt: ]\nNote: When field labels are hidden, the system automatically displays the word Required for required fields. This text can be edited from the corresponding text label.\n\n## Display Location Fields & Make Location Fields Required?\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092435062/original/ynUK-dlCU2v_hu9BV8RNWM4vgoU9ljdF-g.png?1620663994 | alt: ]\nChoose whether to display location fields on the lead form, and whether those fields should be required.\nIMPORTANT NOTE: For automatching to work, a lead must include category information, location information, or both. If automatching is enabled, at least one of these fields should be required\n\n## Map Display Options\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092435086/original/Du5sIGOWytDCvUH-6U0eSyufsvryxv-mcw.png?1620664022 | alt: ]\nDefault Only Map Only Input\nDefault\nOnly Map\nOnly Input\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094449379/original/yC3Z039Njfggoa8s80WBi-afuVmGb7OYXA.png?1624379968 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094449279/original/VUgb4JoMOSbY63ec82KodvkI_HZBvq3RVA.png?1624379895 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094449230/original/TGFeIU0WovwB9h-lZ8mp7qeHw5HIvEJ05Q.png?1624379830 | alt: ]\n\n## Display Preferred Reply Day & Time\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092435409/original/dqYRu7E95gjjK29W6li1IimYqAyCNS9Suw.png?1620664318 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092435264/original/EQsni9-u-u1_TcKotxqi25-y8OJMBS7zcw.png?1620664183 | alt: ]\n\n## Make Category Fields Required?\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438081/original/dgViHDstlcuwNrzwCvppKSEQ6i_YPLi-jQ.png?1620667618 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438059/original/IYxG0VMW9t0O6rM5Tqeme-EwQZihqyzuEg.png?1620667611 | alt: ]\n\n## Category Display Options\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438130/original/2A4ytZaI2DCr21wlZsNG_N_CoSiOAMlozA.png?1620667669 | alt: ]\nSelect which category levels should appear on the lead form.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438133/original/bgbARIxZMysUCcPVbzT5E8_2kRymnNOL7w.png?1620667676 | alt: ]\nWhen selecting the \"Only Sub Level Categories\" or \"Sub & Sub-Sub Categories\" options, it's possible to select the top-level categories of the sub-level categories that will display:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438137/original/_-qjZ255EhAWYTFGexTmxB5Tm9psTPp15Q.png?1620667683 | alt: ]\n* Limit sub-categories that will be included. Leave all unchecked or check all to include sub-categories from all top-level categories.\nNote: If the member hasn't selected a Top, Sub, or Sub-sub category the specific category dropdown fields would be hidden.\n\n## Pre-Selected Categories\nSelect which categories should be pre-selected or available in the lead form for top-level, sub-level, and sub-sub-level categories.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153063040/original/JxdzDwx_cXiUoJUlxlJOaYFhxczmX6iFAQ.png?1732555827 | alt: ]\nThis setting will preselect the categories that display in the form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153063011/original/ZTljgNLxj3d0JH--Z_RW3umARQelrpGB1w.png?1732555794 | alt: ]\nThe category fields will respect the order assigned to the categories using the \" Default Category Sort Order \" setting:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153063130/original/3Sv2khZ2oI4qU2_Vn8EGwX_LlTbGKH_6Tg.png?1732555884 | alt: ]\n\n## Share Form Settings: Profile Pages & Website Pages\n* This will only appear if the site has the Automatic Lead Matching Add-On *\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438420/original/0zCLzqG5XV7578QyJInEhP5y41ZRbimL2A.png?1620668003 | alt: ]\nTurn this setting ON to use the same lead form settings for both profile pages and website pages. Turn it OFF to configure separate settings for website pages.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112017251/original/-1fuXpOk8I4cFHBmLX7oBc7eWzbEhYTRpw.png?1658423458 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153051910/original/aeO58O1yQf7-PUENC8u5gZjZSkUN-ebqgA.png?1732547564",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153052037/original/lNDEaQkL4OJT6Ibq7swB8QsjMlc9KdXn9A.png?1732547622",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127483963/original/mjegsdcetCPB3WCBZ9ZjtMH64Ut3zYVzZw.png?1687812431",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127484030/original/WSqg0D8H5NH21knzDwAlJ0ePiH38dZ4Jpw.png?1687812470",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092434743/original/GaKRyBOVjbc9C9SXZf7ZnY8SvkSrAkKetA.png?1620663672",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153061738/original/dxgqZMQQ9sp_xJyUwB4bKOxXb1xvk5MwYA.png?1732554726",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153062115/original/NysIcrsgFLcV-0RrKsIO7gsZ_mBhcZFfjg.png?1732554974",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084473963/original/uZnl_lTi-co0yTJgWII95UrREY18CRpxmg.png?1604416108",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12111879581/original/P_Jib4nO4x4aYM6kT_fWUPJA17kSP2MeTA.png?1658251272",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092434873/original/EcGy1p0zH83w4Pzw6iQf-iNdOOVYLr1h0g.png?1620663785",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079934475/original/5kToE_AI80o977UKSJ3AbnizJ08qewQPJQ.png?1594733936",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092434911/original/38nYuJQsOwngRy4PqyojvcQihh0QO83ZoA.png?1620663820",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153062393/original/zLsTmxyi177RuXeYNTuDb2XJYgJZMAGJag.png?1732555319",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153062388/original/PhSUaF5UkNnkV2SfChB8fg9oSMXFTbftQw.png?1732555315",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092435062/original/ynUK-dlCU2v_hu9BV8RNWM4vgoU9ljdF-g.png?1620663994",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092435086/original/Du5sIGOWytDCvUH-6U0eSyufsvryxv-mcw.png?1620664022",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094449379/original/yC3Z039Njfggoa8s80WBi-afuVmGb7OYXA.png?1624379968",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094449279/original/VUgb4JoMOSbY63ec82KodvkI_HZBvq3RVA.png?1624379895",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094449230/original/TGFeIU0WovwB9h-lZ8mp7qeHw5HIvEJ05Q.png?1624379830",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092435409/original/dqYRu7E95gjjK29W6li1IimYqAyCNS9Suw.png?1620664318",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092435264/original/EQsni9-u-u1_TcKotxqi25-y8OJMBS7zcw.png?1620664183",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438081/original/dgViHDstlcuwNrzwCvppKSEQ6i_YPLi-jQ.png?1620667618",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438059/original/IYxG0VMW9t0O6rM5Tqeme-EwQZihqyzuEg.png?1620667611",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438130/original/2A4ytZaI2DCr21wlZsNG_N_CoSiOAMlozA.png?1620667669",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438133/original/bgbARIxZMysUCcPVbzT5E8_2kRymnNOL7w.png?1620667676",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438137/original/_-qjZ255EhAWYTFGexTmxB5Tm9psTPp15Q.png?1620667683",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153063040/original/JxdzDwx_cXiUoJUlxlJOaYFhxczmX6iFAQ.png?1732555827",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153063011/original/ZTljgNLxj3d0JH--Z_RW3umARQelrpGB1w.png?1732555794",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153063130/original/3Sv2khZ2oI4qU2_Vn8EGwX_LlTbGKH_6Tg.png?1732555884",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092438420/original/0zCLzqG5XV7578QyJInEhP5y41ZRbimL2A.png?1620668003",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112017251/original/-1fuXpOk8I4cFHBmLX7oBc7eWzbEhYTRpw.png?1658423458",
+      "alt": ""
+    }
+  ],
+  "content_hash": "84329d3f7f9fdb1e06101139e62924d0839d73f319da603052ea83abd196bc4b",
+  "ingested_at": "2026-10-17T14:32:54.132696+00:00"
+}

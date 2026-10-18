@@ -1,0 +1,61 @@
+ROLE-PLAYED TRANSCRIPT. This is a fictional client meeting written for the capstone. Not a real client.
+Meeting ID: A
+Project: Hyderabad Home Services Directory (Brilliant Directories website)
+Date: 2026-10-12
+Participants: Arjun Mehta (Consultant), Priya Rao (Client owner), Neha Sharma (Client operations)
+
+[00:00:05] Arjun: Thanks for joining. Today I want to understand what you want to improve on your directory website, and then I will send a proposal.
+[00:00:18] Priya: Thanks Arjun. Our site is live since last year. We list plumbers, electricians, painters and AC repair people in Hyderabad. Customers say it is hard to find the right person.
+[00:00:41] Arjun: When you say hard to find, what happens exactly?
+[00:00:50] Priya: They type something in the search box and the results feel random. Search is just bad. We need better search.
+[00:01:12] Neha: To be specific, if someone types "plumber Gachibowli" they get plumbers from all over the city. Location is ignored.
+[00:01:30] Arjun: So location should be part of the search. Is that the main problem?
+[00:01:38] Priya: Yes, that is the main one. Also people misspell things, like "electrician" with a wrong letter, and get zero results.
+[00:02:05] Arjun: Okay. Misspelling tolerance, and location-aware search. Let me note both.
+[00:02:20] Neha: And the filters. Right now there is only a category dropdown.
+[00:02:33] Priya: We want filters for rating, for area, and for verified members. Customers trust verified members more.
+[00:02:55] Arjun: Do you already have a verified badge on member profiles?
+[00:03:04] Neha: Yes, we give a "Verified" badge by hand after we check their documents. But customers cannot filter by it.
+[00:03:25] Priya: We also want a price range filter. Like cheap, medium, premium.
+[00:03:40] Arjun: Do members enter their price today?
+[00:03:47] Neha: No. We would need to add a field. Members do not have prices now.
+[00:04:02] Arjun: Understood. So the price filter needs a new field and member data. We should keep that in mind for the estimate.
+[00:04:20] Priya: Fine. It is a nice to have, not a must.
+[00:04:35] Arjun: Good, I will mark the price filter as optional. Now, the mobile experience?
+[00:04:48] Priya: Most of our visitors, almost 80 percent I think, use phones. And the site feels bad on mobile.
+[00:05:10] Neha: The member profile page is the worst. The phone number is far down the page. People have to scroll a lot to call.
+[00:05:32] Priya: We want a call button that is always visible on the profile page.
+[00:05:45] Arjun: A sticky call button on mobile profile pages. That sounds clear. Anything else on mobile?
+[00:05:58] Neha: The homepage image slider is slow on phones.
+[00:06:10] Priya: Overall we just want the site to feel faster. Can you make it faster?
+[00:06:22] Arjun: Faster can mean many things. Do you have a number or a page in mind?
+[00:06:30] Priya: Not really. Just faster. I will think about it.
+[00:06:45] Arjun: Okay, I will list it as unclear for now, and we can decide later what faster means.
+[00:07:05] Priya: One more thing on the member side. We want members to be able to reply to customer reviews.
+[00:07:20] Arjun: Do you want that to be public, so everyone can see the reply?
+[00:07:28] Priya: Hmm. I am not sure. Maybe public. Let me check with my partner.
+[00:07:45] Arjun: Fine, that stays an open question.
+[00:08:00] Arjun: Now timing and budget. Do you have a date in mind?
+[00:08:10] Priya: We want to launch the improvements by 15 December 2026. That is before the wedding season rush.
+[00:08:30] Arjun: Noted, 15 December 2026.
+[00:08:40] Neha: Actually, Priya, we also said we would like it before Diwali traffic, right? That is early November.
+[00:08:52] Priya: Hmm, yes. Ideally end of November if possible. But December 15 is the hard date.
+[00:09:10] Arjun: So December 15 is the deadline, and end of November is a wish. I will record both clearly.
+[00:09:30] Arjun: What budget did you set for this phase?
+[00:09:38] Priya: Our budget is 2,500 US dollars for this phase.
+[00:09:52] Neha: If the mobile part turns out to be big, we could maybe stretch to 3,000. But I cannot promise that.
+[00:10:08] Priya: Right, Neha. Let us plan for 2,500. Do not count on the 3,000.
+[00:10:25] Arjun: Understood. Planning for 2,500 dollars, and the extra amount is not confirmed.
+[00:10:45] Arjun: A few things I need from you. Do you have the list of area names and categories ready?
+[00:10:58] Priya: Neha will send the area list and the category list. We can send them by 20 October.
+[00:11:10] Neha: Yes, I will send both by 20 October, as a spreadsheet.
+[00:11:25] Arjun: Also, who will test the changes before launch?
+[00:11:35] Priya: Neha and I will test it. We will need about one week for testing.
+[00:11:50] Arjun: Good. What about payments or member subscriptions? Any change there?
+[00:12:00] Priya: No, not in this phase. Leave payments as they are.
+[00:12:12] Arjun: Good, so payment changes are out of scope for this phase.
+[00:12:25] Neha: Also please do not change the design colors or the logo. We like how it looks.
+[00:12:38] Arjun: Understood. No visual redesign. Only search, filters and mobile improvements.
+[00:12:55] Arjun: To summarize: location-aware search, spelling tolerance, filters for rating, area and verified, a price filter as optional, a sticky call button, a faster slider, and faster feel in general which is still unclear. Reply to reviews is an open question.
+[00:13:25] Priya: That is right. Please send us a proposal and estimate.
+[00:13:35] Arjun: I will. Thank you both.

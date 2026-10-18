@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000105576-admin-universal-search",
+  "title": "Admin Universal Search",
+  "text": "\n## Admin Universal Search\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000105576\nThe Universal Search allows admins to search across the entire website directly from the admin header. The search sits at the top left of every admin page, beside Switch Website : a filter menu (set to All by default) followed by the Search Website... box. Results are filtered based on each admin’s role permissions, ensuring access is limited to authorized data only.\nA built-in search cache improves speed and performance by storing recent queries per admin and website. Future updates may include a searchable history of recent admin searches for added convenience.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415491/original/f6n5ozHyty_9pz1Uj3fkR-n29hSvD340sQ.png?1791392532 | alt: The Universal Search filter menu and Search Website box in the admin header]\n\n## How to Search\nOptionally, choose a content type from the filter menu at the left of the search box (leave it on All to search everything).\nClick the Search Website... box and type at least two characters. Matching records appear in a panel below the box, grouped by content type, with a count of how many were found.\nClick a result to open that record.\n\n## Universal Search Filters\nThe Universal Search is designed to locate specific records quickly, even on websites with a large amount of content. Filters are available to narrow searches to specific areas of the website, helping admins find exactly what is needed without sifting through unrelated results.\nSelecting a filter before entering a keyword focuses the search on that content type only, which can make the process faster and more precise.\nAvailable filters include:\nMembers\nSingle Photo Posts\nMulti Photo Posts\nReviews\nLeads\nForm Inquiries\nMembership Plans\nWidgets\nSidebars\nMenus\nPost Settings\nForms\nThere is a limit of 10 results per table.\n\n## Members\nLocate member profiles by name or email.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730105/original/wV2ppz24f0Rv0hM4xAh9A7OiIet-QUuhgA.png?1791925385 | alt: Members filter with the keyword John and two matching members]\n\n## Single Photo Posts\nFind posts that feature a single image.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730113/original/hf7JXIzX1o85RB8cvHJj9hqi0fvZ9O63Hg.png?1791925392 | alt: Single Photo Posts filter with the keyword Tips and two matching posts]\n\n## Multi Photo Posts\nSearch posts containing multiple images, like event galleries or product showcases.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730108/original/ov6RfhypCpHULAAI0Fot8DVjE7AtJZ07mQ.png?1791925387 | alt: Multi Photo Posts filter with the keyword House and three matching posts]\n\n## Reviews\nAccess customer or member reviews quickly by keyword.\n\n## Leads\nRetrieve lead submissions to track inquiries and follow-ups.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730104/original/kZ8a-wubqBzQ4YUNbl4nPDQUhTWIQVP9xA.png?1791925384 | alt: Leads filter with the keyword Lead and one matching lead]\n\n## Form Inquiries\nSearch messages submitted through contact or custom forms.\n\n## Membership Plans\nLocate and manage membership plan settings and details.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730110/original/LV-gKh9abNqo6UP5GMVjnmm2zmx6kCHc4A.png?1791925389 | alt: Membership Plans filter with the keyword Premium and one matching plan]\n\n## Widgets\nFind the custom widgets saved on the site.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730118/original/GEzxUEOUMjaOybk4KjCsjishium6P_KGVw.png?1791925393 | alt: Universal Search set to the Widgets filter with the keyword co (1) and the one matching custom widget, Bootstrap Theme - Cookie Consent Code (2).]\n\n## Sidebars\nIdentify and edit sidebars assigned to various pages.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730112/original/cF4AoJJorHL1hHbVIpbyKMO-sQQ_KLlzCg.png?1791925391 | alt: Universal Search set to the Sidebars filter with the keyword bl (1) and the one matching sidebar, Blog Sidebar (2).]\n\n## Menus\nSearch for navigation menus to update links and structure.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730107/original/Nsh4Ple8UtMZokFPiBD1I8cvFLsfQA3smQ.png?1791925386 | alt: Menus filter with the keyword Menu and two matching menus]\n\n## Post Settings\nAccess and adjust configuration options for posts of all types.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730111/original/NS0Qjr5_JHwNzd5D7bCKcRLf49EOngrKag.png?1791925390 | alt: Post Settings filter with the keyword Blog and one matching post type]\n\n## Forms\nLocate forms used for signups, submissions, or other interactions.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730101/original/mGwJwBf3VzNX2mNJ6fIldRB0pyUOAWNbog.png?1791925382 | alt: Forms filter with the keyword listing and one matching form]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415491/original/f6n5ozHyty_9pz1Uj3fkR-n29hSvD340sQ.png?1791392532",
+      "alt": "The Universal Search filter menu and Search Website box in the admin header"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730105/original/wV2ppz24f0Rv0hM4xAh9A7OiIet-QUuhgA.png?1791925385",
+      "alt": "Members filter with the keyword John and two matching members"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730113/original/hf7JXIzX1o85RB8cvHJj9hqi0fvZ9O63Hg.png?1791925392",
+      "alt": "Single Photo Posts filter with the keyword Tips and two matching posts"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730108/original/ov6RfhypCpHULAAI0Fot8DVjE7AtJZ07mQ.png?1791925387",
+      "alt": "Multi Photo Posts filter with the keyword House and three matching posts"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730104/original/kZ8a-wubqBzQ4YUNbl4nPDQUhTWIQVP9xA.png?1791925384",
+      "alt": "Leads filter with the keyword Lead and one matching lead"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730110/original/LV-gKh9abNqo6UP5GMVjnmm2zmx6kCHc4A.png?1791925389",
+      "alt": "Membership Plans filter with the keyword Premium and one matching plan"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730118/original/GEzxUEOUMjaOybk4KjCsjishium6P_KGVw.png?1791925393",
+      "alt": "Universal Search set to the Widgets filter with the keyword co (1) and the one matching custom widget, Bootstrap Theme - Cookie Consent Code (2)."
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730112/original/cF4AoJJorHL1hHbVIpbyKMO-sQQ_KLlzCg.png?1791925391",
+      "alt": "Universal Search set to the Sidebars filter with the keyword bl (1) and the one matching sidebar, Blog Sidebar (2)."
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730107/original/Nsh4Ple8UtMZokFPiBD1I8cvFLsfQA3smQ.png?1791925386",
+      "alt": "Menus filter with the keyword Menu and two matching menus"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730111/original/NS0Qjr5_JHwNzd5D7bCKcRLf49EOngrKag.png?1791925390",
+      "alt": "Post Settings filter with the keyword Blog and one matching post type"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186730101/original/mGwJwBf3VzNX2mNJ6fIldRB0pyUOAWNbog.png?1791925382",
+      "alt": "Forms filter with the keyword listing and one matching form"
+    }
+  ],
+  "content_hash": "b580ba9a489c36ca5e3f61d14af064e0044cfd0749c39095b580fdbe9b3b02b7",
+  "ingested_at": "2026-10-17T15:35:02.804287+00:00"
+}

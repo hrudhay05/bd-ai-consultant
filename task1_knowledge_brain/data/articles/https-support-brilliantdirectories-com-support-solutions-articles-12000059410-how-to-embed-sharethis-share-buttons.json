@@ -1,0 +1,81 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000059410-how-to-embed-sharethis-share-buttons",
+  "title": "How to Embed sharethis Share Buttons",
+  "text": "\n## How to Embed sharethis Share Buttons\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000059410\nThis article covers how to embed third-party ShareThis social media share buttons.\n\n## How to Receive the Code\nTo embed ShareThis share buttons on web pages, first navigate to https://sharethis.com/ .\nThen click on Start with Share Buttons :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104315720/original/YisF5la20KzYXctoUcvIqOGWfK4_zQzHfg.png?1643412211 | alt: ]\nChoose from the sharing button options and click on Next :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104315719/original/TSPe1dAvT1ryVFo7HkOdXOUn0Psstn0aGA.png?1643412199 | alt: ]\nImportant Note: Before clicking Next, customize the share buttons further by clicking \"Customize your share buttons\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104315731/original/-5ndkDbvW-cVfhjAPUt-I6z7mkHvqVdubg.png?1643412261 | alt: ]\nDrag and order these buttons:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411099/original/8-NDI5f9eAXkLDZoiRpFolzg-7VU8aogKA.gif?1643674407 | alt: ]\nAdd or remove buttons:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411171/original/K9uCaYH9BG5Kyb4H87zZiAV2IzT04egQeA.gif?1643674558 | alt: ]\nIt is also possible to further customize the design and settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104413006/original/3khSZ6NHv0S5VKPPJnoL7Lbtvxd5aoerdw.png?1643680073 | alt: ]\nAfter customizing the buttons, click Next . When asked to specify the platform, choose the HTML option and click Next :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104412327/original/avEJHqWI6Ozhvcwl2Sqcz86Gw4pSOGDjFw.png?1643677974 | alt: ]\nLog in or sign up to receive the code, then click Get The Code :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104413052/original/ezAuGbg8GXvdERtHM2R97GuLlS90V6v_bw.png?1643680265 | alt: ]\nThis displays the installation guide for HTML:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104412570/original/fv1X-Kw5bl0nt_vDfp-laRW0T7-yY_DEuQ.png?1643678461 | alt: ]\n\n## How to Embed the Code On Static Pages\nTo embed the code on static pages, copy the first code:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411958/original/MqdUrRUsvIqoi7PKzy_WOkvmTPqLc5Du6g.png?1643676818 | alt: ]\nPaste it into the website's Additional HEAD Code section, under Settings >> Design Settings >> Custom CSS/HEAD :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411930/original/c2FgmeiR0WhrTGd9tPFFxBzxR3g7yJcyTg.png?1643676790 | alt: ]\nThen copy the second code:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411924/original/m7cpKCXi4I5a37DYmR7wajqeS15cOu3Ddw.png?1643676769 | alt: ]\nNavigate to Toolbox >> Widget Manager and click New Widget :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411283/original/EehGSibgb4KKLgPZJO--FLMyKWALVoYhxg.png?1643675132 | alt: ]\nCreate the new widget with the second code:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411289/original/dd-fgOSLsNsbUUuDnOdzdkzydH7EdH0UOg.png?1643675144 | alt: ]\nCopy the new widget's Shortcode :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411303/original/xMHGaTLkn26qtfkxmugDAN7oyzRd4lFJFg.png?1643675192 | alt: ]\nWith the widget's shortcode, call these buttons on any page. Navigate to My Content >> Web Page Builder then click Edit on an existing page or click New Web Page to create a new one:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411595/original/ix50AcZ-ujwDPVj7vD9fOUZpy5dnPt901Q.png?1643676052 | alt: ]\nAnd simply paste the code in the text editor section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411677/original/zw_FDVnX9h_qtsb-re-KU36ybatKxORwTQ.png?1643676239 | alt: ]\nThe buttons will appear on the front-end page immediately:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079372572/original/OHZ5Wzvrma6lLvqLvTdatouMF3EYz4zRQw.png?1593528290 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104315720/original/YisF5la20KzYXctoUcvIqOGWfK4_zQzHfg.png?1643412211",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104315719/original/TSPe1dAvT1ryVFo7HkOdXOUn0Psstn0aGA.png?1643412199",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104315731/original/-5ndkDbvW-cVfhjAPUt-I6z7mkHvqVdubg.png?1643412261",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411099/original/8-NDI5f9eAXkLDZoiRpFolzg-7VU8aogKA.gif?1643674407",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411171/original/K9uCaYH9BG5Kyb4H87zZiAV2IzT04egQeA.gif?1643674558",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104413006/original/3khSZ6NHv0S5VKPPJnoL7Lbtvxd5aoerdw.png?1643680073",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104412327/original/avEJHqWI6Ozhvcwl2Sqcz86Gw4pSOGDjFw.png?1643677974",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104413052/original/ezAuGbg8GXvdERtHM2R97GuLlS90V6v_bw.png?1643680265",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104412570/original/fv1X-Kw5bl0nt_vDfp-laRW0T7-yY_DEuQ.png?1643678461",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411958/original/MqdUrRUsvIqoi7PKzy_WOkvmTPqLc5Du6g.png?1643676818",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411930/original/c2FgmeiR0WhrTGd9tPFFxBzxR3g7yJcyTg.png?1643676790",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411924/original/m7cpKCXi4I5a37DYmR7wajqeS15cOu3Ddw.png?1643676769",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411283/original/EehGSibgb4KKLgPZJO--FLMyKWALVoYhxg.png?1643675132",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411289/original/dd-fgOSLsNsbUUuDnOdzdkzydH7EdH0UOg.png?1643675144",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411303/original/xMHGaTLkn26qtfkxmugDAN7oyzRd4lFJFg.png?1643675192",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411595/original/ix50AcZ-ujwDPVj7vD9fOUZpy5dnPt901Q.png?1643676052",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104411677/original/zw_FDVnX9h_qtsb-re-KU36ybatKxORwTQ.png?1643676239",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079372572/original/OHZ5Wzvrma6lLvqLvTdatouMF3EYz4zRQw.png?1593528290",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1f758bf235d2c5f1ba4bc47ce3c5710f22ea03e4d395bdff1999ededfe179d75",
+  "ingested_at": "2026-10-17T14:43:27.224683+00:00"
+}

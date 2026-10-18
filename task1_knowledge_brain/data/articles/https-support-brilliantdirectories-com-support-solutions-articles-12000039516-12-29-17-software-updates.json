@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000039516-12-29-17-software-updates",
+  "title": "12/29/17 - Software Updates",
+  "text": "\n## 12/29/17 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000039516\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\n\n## Updates:\nWe refactored one of the core files that loads every time a frontend page of a website is requested in order to make it process faster.  We also removed several lines of code that were present to support pages that have since been deprecated.\nWe fixed an issue that was affecting the normal behavior of the US MAP Search Widget. Widget Involved: Bootstrap Theme - Homepage Search - Clickable USA Map\nWe improved the CSS of the Edit Package Data Flow Lightbox (Lead Settings section) in the Admin.\nWe released version 2 of the Add-On Manager System.\nWe improved the Restore Default Code Module in the Edit Post Setting section on the Admin in order to remove the blank lines that were added when the code was restored from default.\nWe removed the Recaptcha Update Message from the Admin when the Software Version is lower than 4.",
+  "images": [],
+  "content_hash": "b62f45e102a4b28cc1c2c0f805f81e6daa68f071711b061433dd18d53960c30d",
+  "ingested_at": "2026-10-17T14:37:13.934584+00:00"
+}

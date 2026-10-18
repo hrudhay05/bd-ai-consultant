@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000046485-setting-up-recurring-payments",
+  "title": "Setting up Recurring Payments",
+  "text": "\n## Setting up Recurring Payments\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000046485\nThis article explains how to configure recurring membership payments, including monthly, quarterly, semi-annual, and yearly billing cycles, as well as recurring subscriptions with optional one-time setup fees.\nSometimes, admins want to add a one-time payment + a recurring subscription or they might only want a regular subscription.\nIf this is the case, follow these simple steps to set it up correctly:\n1. Go to Finance » Membership Plans and click Edit:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172838167/original/8Nz0FBu__jRS1jXRlzaJ2pm-aPY9Lw0hdQ.png?1767713254 | alt: ]\n2. Then go to the \"Sign Ups & Upgrades\" tab. Scroll down and add the price of the recurring options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117393234/original/9suNNENZ_dWesE4GLyaRmiQ14-wsfVHcsA.png?1668690553 | alt: ]\nDo the same if need to set up a \"One-time setup fee\" option + recurring payments.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117393260/original/YM4bncLLXRrMjeaWAQsFNwhT1BDXpQv4JQ.png?1668690593 | alt: ]\n3. Make sure the \"Account type\" says \"Paid\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117393291/original/3YJOTQjjK0P7MRT0oQ_RU6V2iWAj2YVS9w.png?1668690607 | alt: ]\nWhen the price has been set up, scroll up and click the \"Sign Up Page\" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390908/original/Eq2yBSb8wyy-6Vwx4SUVAsTRVci1UNUIww.png?1620597965 | alt: ]\nMake sure the price is showing up correctly in the \"Checkout\" Form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390922/original/0tco7OHRFm5rH0bkEipO6SE1bg-gmXzMcw.png?1620598106 | alt: ]\nTo create one-time payments, read this article: Setting up One Time Payments .\nIf Free Membership Plans need to be created, read this documentation: Setting up Free Membership Plans .\nIf need to edit the amounts displayed on the /join page, read these articles:\nSide-By-Side Pricing Plans: How To Link Membership Plans To The Price Matrix\nGuide 5. How to Edit Public Pricing Page (the /join page)",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172838167/original/8Nz0FBu__jRS1jXRlzaJ2pm-aPY9Lw0hdQ.png?1767713254",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117393234/original/9suNNENZ_dWesE4GLyaRmiQ14-wsfVHcsA.png?1668690553",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117393260/original/YM4bncLLXRrMjeaWAQsFNwhT1BDXpQv4JQ.png?1668690593",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117393291/original/3YJOTQjjK0P7MRT0oQ_RU6V2iWAj2YVS9w.png?1668690607",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390908/original/Eq2yBSb8wyy-6Vwx4SUVAsTRVci1UNUIww.png?1620597965",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390922/original/0tco7OHRFm5rH0bkEipO6SE1bg-gmXzMcw.png?1620598106",
+      "alt": ""
+    }
+  ],
+  "content_hash": "0764c63212859970bdf4b3f2cd95472b8170712b7e4f5c41631768d4a867602f",
+  "ingested_at": "2026-10-17T14:38:51.731541+00:00"
+}

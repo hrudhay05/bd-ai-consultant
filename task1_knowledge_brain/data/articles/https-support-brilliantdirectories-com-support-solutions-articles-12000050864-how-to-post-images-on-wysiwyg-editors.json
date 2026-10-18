@@ -1,0 +1,121 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000050864-how-to-post-images-on-wysiwyg-editors",
+  "title": "How to Post Images On WYSIWYG Editors",
+  "text": "\n## How to Post Images On WYSIWYG Editors\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000050864\n\n## What is WYSIWYG Editor?\nWYSIWYG is an acronym for \"what you see is what you get\". The WYSIWYG Editor enables rich text editing capabilities for post types, about me sections, creating emails and even landing pages.\nFor more information regarding WYSIWYG Editors, please visit the master article shared down below.\nEverything About WYSIWYG Editors\nBefore starting, first add images to the Media Manager by following one of the two methods below:\n\n## Method 1: Upload Images\nNavigate to My Content → Media Manager → Click on “ Upload Image ”\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318784/original/lsg3MddkOe3_ARXdKg8RT_Xkx-TZ2yV6GA.png?1698279511 | alt: ]\nIn this section, there are two options to upload an image.\n\n## Click to Upload / Drag the Files to Upload\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134440960/original/bttukTtMVZ8Xa0jtKRrb-c4zKvdMRlbldw.png?1699994926 | alt: ]\n\n## Method 2: Download Photos by Pexels\nNavigate to My Content → Media Manager → Click on “ Photos by Pexels ”\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318817/original/rQA0H8VY31-Rf2zw1IOd_BNtcX_Nq_TmCg.png?1698279696 | alt: ]\nSearch by Keyword using the designated field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318809/original/ahUT90N3RwPAEBK6i6C9v118OR5n57IA9w.png?1698279657 | alt: ]\nSelect the preferred orientation and image size here, then click \"Search Photos\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318847/original/8mngo9qsDE8jDqHzhTh1ashAv3HGsk4B3g.png?1698279820 | alt: ]\nSelect the size for download and click the download button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318883/original/5bA80mKEJjGDS1-7132Th3vuYu96SiTQug.jpg?1698279929 | alt: ]\nClick on Back to return to the Media Manager again, right-click on the preferred image, and click “ Copy Image URL ”\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441047/original/SFlDmu7y9NrbRPB2xDcuW4b2JqAbQQT9iw.png?1699995050 | alt: ]\nThe images FULL URL path should look like this:\nhttp://YOURDOMAIN/images/background-pricing1-(1).jpg\nThe URL path that will be used to post on WYSIWYG Editor looks like this:\n/images/background-pricing1-(1).jpg\nNow that the images have been uploaded and the URL path has been copied it's possible to insert these images on preferred WYSIWYG Editors.\nFor this instance, an example Blog Article will be presented.\n\n## Adding Images on WYSIWYG Editors\n\n## 1) Adding Images on Blog Articles\nLogin as preferred member who is also allowed to post “ Blog Articles ”\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089661722/original/K88vFj301xXwXl-rUOQY9OhXqZ7t-Gqupg.png?1615050725 | alt: ]\nOn the Member's Dashboard, navigate to Blog Articles → Add Blog Articles\nOn the “ Article Content ” section, click on “ Code View ”\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089661758/original/ua4HIM_dbM3C_3QOReO1-CrIDpZT-r0LSA.png?1615050828 | alt: ]\nOn a new line, paste the code specified down below:\n<img src=\" PASTE YOUR URL PATH \" >\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089661798/original/BAn8jgyuNVVG17MFVCfHVwaxyWnQIOpLHg.png?1615050936 | alt: ]\nThe image will be rendered on the fly.\nIMPORTANT NOTE #1 : In this example, the URL path is “/images/test.jpg”\nIMPORTANT NOTE #2: In this example, the full code with the URL path is:\n<img src=\"/images/test.jpg\" >\n\n## 2) Adding Images on Static Pages\nNavigate to My Content --> Web Page Builder --> Click on \" New Web Page \"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441082/original/52z2Wnz18_ZjMMJzhrPKZGb5DfGxplDQ7A.png?1699995115 | alt: ]\nOn WYSIWYG Editor, click on \"Insert Image\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133555944/original/Yg82jKKGs-W5DFDHqdqWQkXH0cizsYUfOg.png?1698759539 | alt: ]\nThere are 4 available options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556045/original/PCeGBidZBA4i-6q0P-39oYS5XmBUvU-iUQ.png?1698759634 | alt: ]\n1. Drag and Drop the image:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556506/original/NwTh3n7tDAuFzeihh2yLaToHtbsItO5Now.jpg?1698760031 | alt: ]\n2. Paste the FULL URL path and click \" Insert \"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556529/original/ZQKTCSa0XyqHZLy3AhgD3JztwPIdiWu-Pw.jpg?1698760055 | alt: ]\n3. Click \" Browse \" to choose the image manually from the Media Manager\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556575/original/h1kx0hfksM_cKbYEQoSC9QwtkM6dWW6SFw.jpg?1698760093 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662000/original/4fTUP-fI8h07iSg9ZUgZzXXUzzPrHcwTjg.png?1615051921 | alt: ]\n4. Click \" Pexels \" to open up the following Image Search Menu:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556177/original/rsKVXvZP66ePgWFwuYxs_LwOqv_ke7XZ7A.png?1698759777 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556371/original/ih09dvoHb7MbNLJ1lwOr2syFuiqAXVrAzA.jpg?1698759946 | alt: ]\n\n## Additional Image Options\n\n## Alignment\nAlign Image \"left\", \"Centered\" or \"right\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662046/original/NGPz0mc_iOJ3FO-lFmwdi0qGCdCtPQdGPA.png?1615052217 | alt: ]\n\n## Image Caption\nAdd a description or caption to the image:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662057/original/JO-IlYvCgfafrCJnjP7YsBJ9xeLY-g78DQ.png?1615052324 | alt: ]\n\n## Insert Link\nTurn the image into a clickable link.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662063/original/8SpMSV26C2-Ooa8bMPWhOLe_vBZJtxSa9A.png?1615052390 | alt: ]\n\n## Add Alternative Text\nAdd Alt Text for SEO purposes:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662083/original/gz43ul5tVpXfyhHhbOGEIo0h7mDOLaxzug.png?1615052465 | alt: ]\n\n## Change Image Size\nSpecify the height and width of the image:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662103/original/yFNs6XvCu8pgLS3mgKsJH-9I_VXYIarUug.png?1615052554 | alt: ]\n\n## Style\nChoose different styles, including the ability to hide the image on mobile:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662106/original/yAt2ibR_QqAfL0lzsI5bn_gOXIzlacnYvQ.png?1615052574 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090670821/original/vHmv0IvRFRyDEry1t6kmQB2KLhdvdMJRQQ.png?1617110833 | alt: ]\nThis is an example of how a \"Circle\" styled image looks like:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662118/original/irv4ziHyJfRJjZM5iggaxDslf2dQ8-i5ow.png?1615052667 | alt: ]\n\n## Remove\nClick to delete the image:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090670666/original/jjNKpPwmwEcxETbMpAILcpFuS5TIbjnVaw.png?1617110714 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318784/original/lsg3MddkOe3_ARXdKg8RT_Xkx-TZ2yV6GA.png?1698279511",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134440960/original/bttukTtMVZ8Xa0jtKRrb-c4zKvdMRlbldw.png?1699994926",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318817/original/rQA0H8VY31-Rf2zw1IOd_BNtcX_Nq_TmCg.png?1698279696",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318809/original/ahUT90N3RwPAEBK6i6C9v118OR5n57IA9w.png?1698279657",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318847/original/8mngo9qsDE8jDqHzhTh1ashAv3HGsk4B3g.png?1698279820",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318883/original/5bA80mKEJjGDS1-7132Th3vuYu96SiTQug.jpg?1698279929",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441047/original/SFlDmu7y9NrbRPB2xDcuW4b2JqAbQQT9iw.png?1699995050",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089661722/original/K88vFj301xXwXl-rUOQY9OhXqZ7t-Gqupg.png?1615050725",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089661758/original/ua4HIM_dbM3C_3QOReO1-CrIDpZT-r0LSA.png?1615050828",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089661798/original/BAn8jgyuNVVG17MFVCfHVwaxyWnQIOpLHg.png?1615050936",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441082/original/52z2Wnz18_ZjMMJzhrPKZGb5DfGxplDQ7A.png?1699995115",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133555944/original/Yg82jKKGs-W5DFDHqdqWQkXH0cizsYUfOg.png?1698759539",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556045/original/PCeGBidZBA4i-6q0P-39oYS5XmBUvU-iUQ.png?1698759634",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556506/original/NwTh3n7tDAuFzeihh2yLaToHtbsItO5Now.jpg?1698760031",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556529/original/ZQKTCSa0XyqHZLy3AhgD3JztwPIdiWu-Pw.jpg?1698760055",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556575/original/h1kx0hfksM_cKbYEQoSC9QwtkM6dWW6SFw.jpg?1698760093",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662000/original/4fTUP-fI8h07iSg9ZUgZzXXUzzPrHcwTjg.png?1615051921",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556177/original/rsKVXvZP66ePgWFwuYxs_LwOqv_ke7XZ7A.png?1698759777",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556371/original/ih09dvoHb7MbNLJ1lwOr2syFuiqAXVrAzA.jpg?1698759946",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662046/original/NGPz0mc_iOJ3FO-lFmwdi0qGCdCtPQdGPA.png?1615052217",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662057/original/JO-IlYvCgfafrCJnjP7YsBJ9xeLY-g78DQ.png?1615052324",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662063/original/8SpMSV26C2-Ooa8bMPWhOLe_vBZJtxSa9A.png?1615052390",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662083/original/gz43ul5tVpXfyhHhbOGEIo0h7mDOLaxzug.png?1615052465",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662103/original/yFNs6XvCu8pgLS3mgKsJH-9I_VXYIarUug.png?1615052554",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662106/original/yAt2ibR_QqAfL0lzsI5bn_gOXIzlacnYvQ.png?1615052574",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090670821/original/vHmv0IvRFRyDEry1t6kmQB2KLhdvdMJRQQ.png?1617110833",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662118/original/irv4ziHyJfRJjZM5iggaxDslf2dQ8-i5ow.png?1615052667",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090670666/original/jjNKpPwmwEcxETbMpAILcpFuS5TIbjnVaw.png?1617110714",
+      "alt": ""
+    }
+  ],
+  "content_hash": "fdeebe58242a476be2291d94891f862cbd3ba5448f408e97e2f5a8a693246d45",
+  "ingested_at": "2026-10-17T14:41:01.149868+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000020258-verification-for-a-g-suite-account-gmail-for-email",
+  "title": "Verification For A G Suite Account (Gmail) For Email",
+  "text": "\n## Verification For A G Suite Account (Gmail) For Email\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000020258\nG Suite is our recommended solution for 3rd party email platforms.\nNote that Google changes their workflow and design often, so the steps below may not be 100% accurate at the time of reading.  For the most up to date documentation from Google on this topic, reference their documentation here: https://support.google.com/a/answer/172171?hl=en&ref_topic=2705493\nTo verify a G Suite Accountfollow these instructions -\nGo to https://gsuite.google.com/products/gmail/ and click on \"Get Started\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075742390/original/-LpXY_LojjJOY7-MDzUwj2RbBA-uN-9E7Q.png?1585612229 | alt: ]\n\n## Verification Process:\nNow it is time to add one of the ways provided by Google for the \"Verification Step\" -\n1. CNAME:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075742585/original/7w71qu7EuENSurPeM684K9I7dhyECC1GuQ.png?1585612815 | alt: ]\n2. TXT Record:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075742600/original/__hUCheTvHs74Tq4cPpVck3uDW8Of2UWhw.png?1585612868 | alt: ]\nLogin to the admin of a website and go to Developer Hub » cPanel Dashboard » \" Zone Editor \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094923324/original/CehrXm86rDQOA0hH9gmCO1Bqn0UmtPbgTw.png?1625182100 | alt: ]\n**Important Note: The cPanel dashboard layout is continuously being updated, however, all the instructions presented in this article apply in the same way.\nWe recommend using the keyword search tool to find specific sections:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124667198/original/Cc6UdNTUXD9pxZFR03-_eSclogkQI7RgPA.png?1682605797 | alt: image]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075742697/original/Q3JvlXYp28R1BP-6axAdtG-JAbjk2EBnoA.png?1585613055 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075742746/original/IcVfxU_xA7Zrm_B41IpI1F61E39COWHJUA.png?1585613189 | alt: ]\nAdd the records for the site:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075744487/original/6-XetKVm5aDXkSY3r7PIuXm50baUTw4J8g.png?1585619311 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075744491/original/Qv03GWR40PgDcG3lrB3vIBZbyy1GoHFZoQ.png?1585619327 | alt: ]\nCNAME :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075744511/original/EkXsXvfjy7SU3JNZgBQf_bfSc1tJzQFIyQ.png?1585619353 | alt: ]\nTXT :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075744512/original/V_Z4WnFRRLbPnuJa3DVxeWrGWSQObenSRw.png?1585619357 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075742390/original/-LpXY_LojjJOY7-MDzUwj2RbBA-uN-9E7Q.png?1585612229",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075742585/original/7w71qu7EuENSurPeM684K9I7dhyECC1GuQ.png?1585612815",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075742600/original/__hUCheTvHs74Tq4cPpVck3uDW8Of2UWhw.png?1585612868",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094923324/original/CehrXm86rDQOA0hH9gmCO1Bqn0UmtPbgTw.png?1625182100",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124667198/original/Cc6UdNTUXD9pxZFR03-_eSclogkQI7RgPA.png?1682605797",
+      "alt": "image"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075742697/original/Q3JvlXYp28R1BP-6axAdtG-JAbjk2EBnoA.png?1585613055",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075742746/original/IcVfxU_xA7Zrm_B41IpI1F61E39COWHJUA.png?1585613189",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075744487/original/6-XetKVm5aDXkSY3r7PIuXm50baUTw4J8g.png?1585619311",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075744491/original/Qv03GWR40PgDcG3lrB3vIBZbyy1GoHFZoQ.png?1585619327",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075744511/original/EkXsXvfjy7SU3JNZgBQf_bfSc1tJzQFIyQ.png?1585619353",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075744512/original/V_Z4WnFRRLbPnuJa3DVxeWrGWSQObenSRw.png?1585619357",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1da0d24496fddee76b7cf9c825122403b9b8af72326b482f36b18d441f8c3aef",
+  "ingested_at": "2026-10-17T14:34:14.888499+00:00"
+}

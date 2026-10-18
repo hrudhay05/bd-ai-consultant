@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108059-api-reference-tags",
+  "title": "API Reference - Tags",
+  "text": "\n## API Reference - Tags\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108059\n← Back to API Reference | Getting Started\n\n## Tags\nTags are labels that can be attached to members and other objects on your directory. Tags are organized into tag groups and connected to objects via tag relationships. This enables flexible, custom classification beyond standard categories.\n\n## The Tag Object\nField Type Description id integer Unique tag ID (primary key, read-only) tag_name string The label text for this tag group_tag_id integer ID of the tag group this tag belongs to (foreign key to tag_groups ) added_by integer User ID of the user who created this tag updated_by integer User ID of the user who last updated this tag created_at datetime Timestamp when this tag was created updated_at datetime Timestamp when this tag was last updated\n\n## List Tag Records\nReturns a paginated list of tag records.\n\n## Example Request\n\n## Example Response\n\n## Retrieve a Tag Record\n\n## Example Request\n\n## Example Response\n\n## Create a Tag Record\n\n## Example Request\n\n## Example Response\n\n## Update a Tag Record\n\n## Example Request\n\n## Example Response\n\n## Delete a Tag Record\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "14971e9d5378498e434a78a0a837a4390d1ca6b222c62d14f71c1e6cbf0f6892",
+  "ingested_at": "2026-10-17T15:39:32.039694+00:00"
+}

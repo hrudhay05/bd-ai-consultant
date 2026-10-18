@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076725-tax-and-vat-manager",
+  "title": "Tax and VAT Manager",
+  "text": "\n## Tax and VAT Manager\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000076725\nConfigure unlimited tax & value-added tax (VAT) rules to be applied on the website’s checkout pages with the Tax and VAT Manager Add-on . Tax rules can be applied universally to all members/customers or location-specific tax rules can be created.\nThe tax rules will be applied to all payments processed by the website including one-time and recurring payments.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Tax & VAT Manager Add-On\n\n## Enabling the Add-On\n1. Go to Finance - Payment Settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180451801/original/d09MZKZBObHA2XBC7kM_rPPq94tfyeh0DA.png?1781541905 | alt: ]\n2. Click on Tax/VAT Settings (This will only display if the payment gateway and the add-on active):\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180451934/original/irc932qUkliVy3k6mLpEHSJ6PqQvq7YgEA.png?1781541963 | alt: ]\n3. To create a new tax rule click on the blue button on the right side:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180451977/original/Hq8sm6D5FLasTZcQ0T0NdQMewNCweabYFQ.png?1781541999 | alt: ]\n4. Fill out the pop-up form to complete the new tax rule:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117305077/original/7bAwFe4JSJFapNvhH-YVZi1qoGcOSmqYFA.png?1668538663 | alt: ]\n1. Enter Tax Name - This will appear on the invoice as the name of the tax.\n2. Select Country - This will allow the admin to select the country that the tax will apply.\n3. Select State - This will allow the admin to select the state/province that the tax will apply.\n4. Tax Rate - This will be the tax percent-based tax rates, enter value between -100 and 100.\n5. Tax Rule Order - If this is the first tax, select primary. If this is a second-level tax rule, select secondary.\n5. Click Save Tax Rule when everything is set up to the admin's liking.\n6. The admin will be able to edit an existing tax rule here as well create a brand new tax rule:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452053/original/AOJwAH451Y7T26sP-rD1j9RQljJ2E27nSg.png?1781542112 | alt: ]\nThe admin also has the option to select how the tax will display for the members in the front end:\nImportant : One must be selected in order to show in the front-end.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452100/original/Ldvid29QHsKtENU6U6HtzFYOf_rbxIbb6g.png?1781542172 | alt: ]\nExclusive - Tax price will be charged in addition to the prices the admin sets:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087616645/original/LxX1l9b5KRFukymgppzOrrurJIupbO6vLg.png?1611008539 | alt: ]\nInclusive -  Tax price will be included in the price the admin sets:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087616707/original/90H1ZaXIftiCGRuzweBp0y4d8iqI7BVbuA.png?1611008658 | alt: ]\nNow there is also a Membership Plan setting to select if this order summary displays or not and the position of the promo code input.\nChoose the position in which the promo code input will display. There are 3 options:\nLeft\nRight\nDo Not Display\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12101993111/original/zENX5kPsE-dqOUBZAQAqFn8ck6Izjh9s7A.png?1638853047 | alt: ]\nThis is how the promo code applied to the price will display on the left side, the tax is applied to the discounted price:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102030532/original/PnK04VLGheSIVXxE9jrEUlqG3kV_Sdutfw.png?1638895517 | alt: ]\nIf the promo code is set to display on the right:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102030651/original/OigFeUteEIkbU9ILDRNt47dtF3ui4eo_iQ.png?1638895661 | alt: ]\nKeep in mind that if Do Not Display is selected, the order summary won't display and this includes the tax information. Also, users won't have the option to enter a promo code.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180451801/original/d09MZKZBObHA2XBC7kM_rPPq94tfyeh0DA.png?1781541905",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180451934/original/irc932qUkliVy3k6mLpEHSJ6PqQvq7YgEA.png?1781541963",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180451977/original/Hq8sm6D5FLasTZcQ0T0NdQMewNCweabYFQ.png?1781541999",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117305077/original/7bAwFe4JSJFapNvhH-YVZi1qoGcOSmqYFA.png?1668538663",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452053/original/AOJwAH451Y7T26sP-rD1j9RQljJ2E27nSg.png?1781542112",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452100/original/Ldvid29QHsKtENU6U6HtzFYOf_rbxIbb6g.png?1781542172",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087616645/original/LxX1l9b5KRFukymgppzOrrurJIupbO6vLg.png?1611008539",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087616707/original/90H1ZaXIftiCGRuzweBp0y4d8iqI7BVbuA.png?1611008658",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12101993111/original/zENX5kPsE-dqOUBZAQAqFn8ck6Izjh9s7A.png?1638853047",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102030532/original/PnK04VLGheSIVXxE9jrEUlqG3kV_Sdutfw.png?1638895517",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102030651/original/OigFeUteEIkbU9ILDRNt47dtF3ui4eo_iQ.png?1638895661",
+      "alt": ""
+    }
+  ],
+  "content_hash": "06e5ae3b9316a475221bd23e54e06eac33f235fd62b5308ac49c3cf42d25e1d8",
+  "ingested_at": "2026-10-17T14:48:13.141464+00:00"
+}

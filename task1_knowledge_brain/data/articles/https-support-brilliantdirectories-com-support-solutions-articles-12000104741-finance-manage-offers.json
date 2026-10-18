@@ -1,0 +1,57 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000104741-finance-manage-offers",
+  "title": "Finance » Manage Offers",
+  "text": "\n## Finance » Manage Offers\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000104741\nThe Manage Offers page in the Admin Dashboard allows directory owners to earn affiliate commissions by promoting trusted third-party business tools to their members. These offers appear in the ‘Business Toolkit’ section of their dashboard.\nAdmins can toggle individual offers on or off, register for affiliate programs, and optionally insert their own affiliate links for each tool. Only offers that are enabled by the admin and enabled within the Membership Plan settings will be shown to members.\n\n## Accessing the Manage Offers Page\nThis page can be found by navigating to Finance »  Manage Offers in the admin sidebar. This section displays all available Business Toolkit offers and allows the admin to control their visibility, as well as optionally add affiliate referral links.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172174104/original/21FPijRPeNDsjwHttOA-A4771ntpmNF_vQ.png?1766085082 | alt: ]\n\n## Enabling & Disabling Offers\nEach offer has an ON/OFF toggle. The admin can turn ON the offers that should be visible to members, or turn OFF any solutions that are not being promoted. Even if all offers are enabled, members will only see them if their Membership Plan is configured to display the \"Business Toolkit\" section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533713/original/0ECkK8xKIOA-Ti3jh9-9CJQ1UX6CZln-uA.png?1749434167 | alt: ]\n\n## Adding an Affiliate Link\nAdding a custom affiliate link is optional — it's a perk for directory owners who want to earn a commission, but it is not required to display offers to members. Most solutions include a link to register for their affiliate program. Once approved, the admin can paste the affiliate link into the “Use Your Own Affiliate Link” field for that solution. This will override the default link and ensure credit and commission are received for any referrals made by members.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533720/original/eb6LHTzZXX34WNxyOfRT1mnMSCefXi-eog.png?1749434236 | alt: ]\n\n## Affiliate Links Are Optional\nIt is not required to enter an affiliate link to offer a tool. The admin can enable a solution in member dashboards and return later to insert an affiliate link if needed. The priority is to provide valuable tools that help members manage and grow their businesses.\n\n## Controlling Visibility via Membership Plans\nTo show the \"Business Toolkit\" section inside the member's dashboard, edit the Membership Plan settings for each plan and set Show \"Business Toolkit\" Offers to YES. If this setting is disabled, members who belong to that membership plan will not see the \"Business Toolkit\" link in their dashboards, even if offers are turned ON in the admin.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533796/original/rB4GQ___rEiH_PAN5rvaTNFBrr1cEdGoDA.png?1749434569 | alt: ]\nNavigate to:\nFinance\nMembership Plans\nEdit a Specific Membership Plan\nClick  the \"Member's Dashboard\" tab\nThen scroll down to the \"Additional Settings\" section\nLocate the setting for Show \"Business Toolkit\" Offers\nSet this to 'YES' to enable the Business Toolkit link in the dashboard side menu\nNote: If this setting is enabled but no offers are turned ON in the admin, the “Business Toolkit” link will not appear in the member dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533946/original/7AsgqHHUihOw5i7WVFYjQhk7rQ7HDYx_eg.png?1749435018 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533943/original/SagCp05wvAalPfILwjKXbhI3zNsMNmaAig.png?1749434978 | alt: ]\n\n## Adding a New Custom Offer\nIn addition to enabling the pre-loaded Business Toolkit offers, admins can also create their own custom offers. This is useful if the admin wants to recommend a specific tool, product, or service that is not already included, or if the admin has their own affiliate or partnership links they'd like to promote.\nSteps to Add a Custom Offer:\nClick the Add New Offer button for the section that fits best.\nClick the Add New Offer button for the section that fits best.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166676819/original/p4C78FnaWAg-DN-ZkQTk0pH9cS_XohJ48Q.png?1756499444 | alt: ]\nEnter the ' New Offer' name , Description , and an optional Image or Logo for the tool or service.\nEnter the ' New Offer' name , Description , and an optional Image or Logo for the tool or service.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166676858/original/doxZkJkMOnH6rEC89iICge9nUHKpKtIW3w.png?1756499502 | alt: ]\nProvide the Offer Link . This can be a standard link or the admin's own affiliate/referral link.\nProvide the Offer Link . This can be a standard link or the admin's own affiliate/referral link.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166676928/original/sXJgFr3Vho429R9oFDA2eE-jRspfge1IFQ.png?1756499582 | alt: ]\nSave the Offer details.\nSave the Offer details.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166677049/original/0eibQlT9bhD-7_tKyikisgeuLgBMi0ZNwA.png?1756499752 | alt: ]\nSet the Status to 'ON' to make the offer available. By default, it will be OFF.\nSet the Status to 'ON' to make the offer available. By default, it will be OFF.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166677111/original/-3X4GwEqxo4HMgrbiDYrHGjwbtzdv9YmtA.png?1756499803 | alt: ]\nThe new option will appear in the member's dashboard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166677205/original/p0Hqbs774e7nlzOOYqGhB8fwjlOh4nkhKA.png?1756499954 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172174104/original/21FPijRPeNDsjwHttOA-A4771ntpmNF_vQ.png?1766085082",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533713/original/0ECkK8xKIOA-Ti3jh9-9CJQ1UX6CZln-uA.png?1749434167",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533720/original/eb6LHTzZXX34WNxyOfRT1mnMSCefXi-eog.png?1749434236",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533796/original/rB4GQ___rEiH_PAN5rvaTNFBrr1cEdGoDA.png?1749434569",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533946/original/7AsgqHHUihOw5i7WVFYjQhk7rQ7HDYx_eg.png?1749435018",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533943/original/SagCp05wvAalPfILwjKXbhI3zNsMNmaAig.png?1749434978",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166676819/original/p4C78FnaWAg-DN-ZkQTk0pH9cS_XohJ48Q.png?1756499444",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166676858/original/doxZkJkMOnH6rEC89iICge9nUHKpKtIW3w.png?1756499502",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166676928/original/sXJgFr3Vho429R9oFDA2eE-jRspfge1IFQ.png?1756499582",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166677049/original/0eibQlT9bhD-7_tKyikisgeuLgBMi0ZNwA.png?1756499752",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166677111/original/-3X4GwEqxo4HMgrbiDYrHGjwbtzdv9YmtA.png?1756499803",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166677205/original/p0Hqbs774e7nlzOOYqGhB8fwjlOh4nkhKA.png?1756499954",
+      "alt": ""
+    }
+  ],
+  "content_hash": "10865bfa8761f41355b3f41efd299888bde7c7857734d92525abaeafd76ec9d3",
+  "ingested_at": "2026-10-17T15:34:37.373114+00:00"
+}

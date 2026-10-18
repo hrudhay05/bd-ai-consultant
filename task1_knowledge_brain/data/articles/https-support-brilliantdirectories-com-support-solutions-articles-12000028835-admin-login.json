@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000028835-admin-login",
+  "title": "Admin Login",
+  "text": "\n## Admin Login\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000028835\nIn this article, we are going to cover:\nLogging in as an admin.\nRetrieving, modifying or adding a new password.\nEmails on the \"Block\" List.\n\n## How to Access the Admin Login Page\nGo to: http://managemydirectory.com\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162703978/original/kQUDll7gKESKnEB56H9ReAHjBVqq9Y_AAA.png?1749661007 | alt: ]\nThis page is for website owners and admins. Not for website members/users.\n\n## Login as an Admin\nEnter the admin email and password\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162704014/original/HEmEoYkJZxlFBCQoeBAj4oUK5gFU80uHgw.png?1749661052 | alt: ]\nThen click on \" Log In Now » \" to enter the admin.\n\n## Reset an Admin Password\nClick on \" I forgot my password\" :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162704044/original/BhS_UE_T-s5wbpsbCeQVb_WPr2cdkAozJQ.png?1749661087 | alt: ]\nEnter the Account Email Address and click on \"Send Password Reset Email »\" :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162704164/original/C6uoH7vJ5WlZDUgIGD0UCXzHSwwf2dJdvw.png?1749661191 | alt: ]\nShortly, the \" Reset Password \" email will be sent:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091358926/original/6OOJ_VZA2DluWoGe0G_2bvTXbz50pDqlUw.png?1618448856 | alt: ]\nThe link will redirect to this page where the new password is entered:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091358959/original/g3gV9FTZIRpkkAL2CBDqTycXzlnf_oeF7w.png?1618448893 | alt: ]\n\n## Emails on the Bounce/Block List\nOn rare occasions an email may be on the \"bounce\" or \"block\" email list, which can prevent the password reset or 2FA emails from being delivered properly.\nThere are a few reasons this can happen, but the system will automatically clear emails from these lists and explain why, so the admin knows if anything needs fixing.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160680891/original/dQS5aM_iFdKPVYk2Nz2CASDUoRhYwILxdQ.png?1746046720 | alt: ]\n\n## Update Password in the Admin Area\nIt is only possible to change the password for a personal account and not other admin accounts.\nGo to: Settings » Admin Accounts\nClick on Edit :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114092051/original/qsSazIqroDOHDuuL4YeW86EjdDBtFvjn0A.png?1662476420 | alt: ]\nUpdate the password and/or contact information if necessary:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114093543/original/rDEUls_0_nUWD0yvhFGEoJQf5It5KdgP-g.png?1662477570 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114093563/original/2epPo57mL3e4Es-PIgSSir8rEEX0tOcsJQ.png?1662477590 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114093620/original/6TA8zQjXUuhYm2O0_qHXJaNd-Rljg7rSNA.png?1662477629 | alt: ]\nThen save the changes.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162703978/original/kQUDll7gKESKnEB56H9ReAHjBVqq9Y_AAA.png?1749661007",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162704014/original/HEmEoYkJZxlFBCQoeBAj4oUK5gFU80uHgw.png?1749661052",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162704044/original/BhS_UE_T-s5wbpsbCeQVb_WPr2cdkAozJQ.png?1749661087",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162704164/original/C6uoH7vJ5WlZDUgIGD0UCXzHSwwf2dJdvw.png?1749661191",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091358926/original/6OOJ_VZA2DluWoGe0G_2bvTXbz50pDqlUw.png?1618448856",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091358959/original/g3gV9FTZIRpkkAL2CBDqTycXzlnf_oeF7w.png?1618448893",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160680891/original/dQS5aM_iFdKPVYk2Nz2CASDUoRhYwILxdQ.png?1746046720",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114092051/original/qsSazIqroDOHDuuL4YeW86EjdDBtFvjn0A.png?1662476420",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114093543/original/rDEUls_0_nUWD0yvhFGEoJQf5It5KdgP-g.png?1662477570",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114093563/original/2epPo57mL3e4Es-PIgSSir8rEEX0tOcsJQ.png?1662477590",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114093620/original/6TA8zQjXUuhYm2O0_qHXJaNd-Rljg7rSNA.png?1662477629",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f22dbeae083847f6acabd2eaa2eebe8f209ef0d32f487620cd7d19d8674acc5d",
+  "ingested_at": "2026-10-17T14:35:08.874348+00:00"
+}

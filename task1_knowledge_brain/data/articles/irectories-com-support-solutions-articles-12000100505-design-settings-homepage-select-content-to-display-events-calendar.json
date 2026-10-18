@@ -1,0 +1,61 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100505-design-settings-homepage-select-content-to-display-events-calendar",
+  "title": "Design Settings » Homepage » Select Content to Display » Events Calendar",
+  "text": "\n## Design Settings » Homepage » Select Content to Display » Events Calendar\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000100505\n\n## Settings Documentation for Streaming Events Calendar\nThis document provides detailed descriptions of the settings available for configuring the streaming events calendar section on the platform. Each setting allows for customization to meet specific needs and preferences.\nTo edit these settings, navigate to:\nIn the Admin Sidebar Open Settings\nSelect Designs Settings\nOpen The Homepage Tab\nOpen The Module Select Content to Display\nSelect The Events Calendar\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398727/original/Hp8VlJVPqbB90oleMaD_VVxgbs7wUqHfPg.png?1719348046 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398774/original/aFv-LLr1MmVoZN1FTrZdUl2NKoEmQId49w.png?1719348086 | alt: ]\n\n## Visual Guide of the  Streaming Events Calendar\nThese are the available settings for the Streaming Events Calendar section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398812/original/FOfxVQYuZL4_1Aesowf28Ka3-ktY8tnOpg.png?1719348166 | alt: ]\n\n## 1. Events Calendar Title\nThis setting allows the Admin to set the title for the events calendar section. The title can be customized by entering the desired text in the provided input field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398916/original/E-GfDjRN6UNEv0fFQll325j_3C2P90ekfQ.png?1719348276 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398953/original/PHZnMkk5zxmfCBec0g5k5n6OscXla_5tFA.png?1719348300 | alt: ]\n\n## 2. Events Calendar Sub Title\nThis setting allows the Admin to set the subtitle for the events calendar section. The subtitle can be customized by entering the desired text in the provided input field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398964/original/8fadli86FJL0DSFVJBauvj38TyhiOMuzzg.png?1719348334 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398959/original/dzgkRciUeoUil5PmiWjkrxoW_XGDmmHKqw.png?1719348320 | alt: ]\n\n## 3. Title Color\nThe title color setting enables the customization of the title's color. Admins can choose a color by inputting the desired color code or using the color picker tool provided.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398988/original/1f3-N5VUAdFzP_onE5Wqo9SfeaFqqIhhaA.png?1719348375 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145399037/original/JbtW5AT7r9tMgsVjp8buIUKV1_QK2ATvxg.png?1719348404 | alt: ]\n\n## 4. Show Sidebar?\nThis setting allows the Admin to choose whether to display a sidebar in the events calendar section. Options include no sidebar, left sidebar, or right sidebar.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145399069/original/kmO5Au7N_InUxtRLWcHd4ckwbdnUq6YQKQ.png?1719348457 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145399106/original/BKWAg_uuPVBgvsMqYFoYnqWAMSGQJG-JFQ.png?1719348504 | alt: ]\n\n## 5. Sidebar to Use\nThis setting allows the Admin to select which sidebar to display in the events calendar section. Options include custom sidebars and default sidebars.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145399145/original/sz3Y6uw3TBoYQ_nbQHcovMFaUmzKu3P6Dw.png?1719348541 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145399106/original/BKWAg_uuPVBgvsMqYFoYnqWAMSGQJG-JFQ.png?1719348504 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398727/original/Hp8VlJVPqbB90oleMaD_VVxgbs7wUqHfPg.png?1719348046",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398774/original/aFv-LLr1MmVoZN1FTrZdUl2NKoEmQId49w.png?1719348086",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398812/original/FOfxVQYuZL4_1Aesowf28Ka3-ktY8tnOpg.png?1719348166",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398916/original/E-GfDjRN6UNEv0fFQll325j_3C2P90ekfQ.png?1719348276",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398953/original/PHZnMkk5zxmfCBec0g5k5n6OscXla_5tFA.png?1719348300",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398964/original/8fadli86FJL0DSFVJBauvj38TyhiOMuzzg.png?1719348334",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398959/original/dzgkRciUeoUil5PmiWjkrxoW_XGDmmHKqw.png?1719348320",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145398988/original/1f3-N5VUAdFzP_onE5Wqo9SfeaFqqIhhaA.png?1719348375",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145399037/original/JbtW5AT7r9tMgsVjp8buIUKV1_QK2ATvxg.png?1719348404",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145399069/original/kmO5Au7N_InUxtRLWcHd4ckwbdnUq6YQKQ.png?1719348457",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145399106/original/BKWAg_uuPVBgvsMqYFoYnqWAMSGQJG-JFQ.png?1719348504",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145399145/original/sz3Y6uw3TBoYQ_nbQHcovMFaUmzKu3P6Dw.png?1719348541",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145399106/original/BKWAg_uuPVBgvsMqYFoYnqWAMSGQJG-JFQ.png?1719348504",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b5994d0e64f7be3af65c90c042cf6663475a5486a3e928e88996680191be9eb4",
+  "ingested_at": "2026-10-17T15:27:05.221005+00:00"
+}

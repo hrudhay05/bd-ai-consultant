@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000067747-leads-lead-emails",
+  "title": "Leads » Lead Emails",
+  "text": "\n## Leads » Lead Emails\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000067747\nThe Lead Module connects website visitors with website members. When a visitor submits a request to contact a member, the following email notifications and actions take place.\n\n## Emails Sent Out\nWebsite Member Receives an email notification when a visitor submits a lead inquiry.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089590097/original/kiVgja1xz-CFt0ufDD1x6ONDPZCPsEtvJA.png?1614884091 | alt: ]\nWebsite Visitor Receives a confirmation email indicating that their request has been received and that they can expect a response from the business or professional shortly.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089590070/original/zSiQMiKI87x_yw-unPTlQt1xsdq6B8SlXg.png?1614884076 | alt: ]\nThe Directory admin Receives a notification email whenever a new lead is submitted through the website.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089590142/original/3uVvdJgnmMpbgYeNB7z4mXaMBKnZGLffYQ.png?1614884148 | alt: ]\nThese emails include the information submitted through the lead form, along with the originating page where the request was submitted.\nIf custom form fields have been added, they can also be displayed in the email when enabled within the form settings.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284309/original/w89886THkRLTjOOosju8xHs1gbkKpzEfzw.jpeg?1687410318 | alt: ]\nFor more information about this please refer to this article: In-Depth Look Into Form Fields And Their Settings\nThere are 2 options when sending the members their new lead information:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284316/original/54ezBstmYG55NEzLxBwBLrP5Z63JvSkZqA.jpeg?1687410331 | alt: ]\nmember-lead-preview: Sends members a preview of the lead message rather than the full contact details. The email includes a secure login link that instantly signs the member into their account, where they can choose to accept or decline the lead.\nmember-lead-complete: Sends members the visitor’s complete message and contact details directly in the email. Because the full lead information is delivered immediately, members are not required to log in or formally accept the lead. As a result, lead acceptance tracking is not available when using this option.\nThese email templates are responsive and automatically adapt to mobile devices.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089590304/original/8IealWfMfs9v2x4J5NqUFIIvsaSzRzZK0g.png?1614884359 | alt: ]\nEmail templates can be customized by navigating to: Emails » Email Templates\nTo learn more about editing email templates, refer to the following articles:\n» How To Edit Email Templates\n» Fluid Images for Email Templates",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089590097/original/kiVgja1xz-CFt0ufDD1x6ONDPZCPsEtvJA.png?1614884091",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089590070/original/zSiQMiKI87x_yw-unPTlQt1xsdq6B8SlXg.png?1614884076",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089590142/original/3uVvdJgnmMpbgYeNB7z4mXaMBKnZGLffYQ.png?1614884148",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284309/original/w89886THkRLTjOOosju8xHs1gbkKpzEfzw.jpeg?1687410318",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284316/original/54ezBstmYG55NEzLxBwBLrP5Z63JvSkZqA.jpeg?1687410331",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089590304/original/8IealWfMfs9v2x4J5NqUFIIvsaSzRzZK0g.png?1614884359",
+      "alt": ""
+    }
+  ],
+  "content_hash": "e979a5fc99360c28be20523e1ed6165f79848507d5425f6d0ec655fc844c48aa",
+  "ingested_at": "2026-10-17T14:45:12.160262+00:00"
+}

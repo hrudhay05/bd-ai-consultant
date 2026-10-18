@@ -1,0 +1,97 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000019667-froala-text-editor-versions-and-their-upload-functionalities",
+  "title": "FROALA Text Editor: Versions and their Upload Functionalities",
+  "text": "\n## FROALA Text Editor: Versions and their Upload Functionalities\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000019667\nWhen creating a post, such as a blog article, there is a Froala Text Editor which allows modifying styles such as the font size, font colors, boldness, and more.\nThere are different text editor versions available that either restrict or allow for image upload and video embed.\nThese can be used and applied individually via the FORM MANAGER to the respective forms for the members' \"ABOUT ME\" section and all post types such as coupons, properties, classifieds, member articles, website blog articles, etc. This form field type is only supported for forms used within the Member Dashboard.\nThis provides the ability to control if members can add images and video embeds into the text editor input fields of posts and their \"ABOUT ME\" section.\nThe Froala Editor currently supports 38 languages , check which languages are supported: https://www.froala.com/wysiwyg-editor/languages.\nThe Froala Editor is going to use the language that is set in the Settings >> General Settings >> Localization tab >> Default Website Language.\n\n## How To Enable Froala Editors\nThere are three built-in versions of the Froala Text Editor. You can add any of them to a form, and each one controls things like whether users can upload images or embed YouTube videos.\nFor details on where each editor is used throughout the site and what features they include, click the link below:\nEverything About WYSIWYG Editors\n\n## Available Text Editors\nThere are\n\n## Froala Text Editor - Basic\nNo image upload, video embed, or source code editor\nBasic text editor with limited options to edit font size, colors, styles, and create bullet checklists.\nBold\nItalic\nUnderline\nFont Size\nParagraph Format\nLine Height\nText Color\nBackground Color\nClear Formatting\nOrdered List\nUnordered List\nInsert Horizontal Line\nInsert a Link\nUpload images\nEmbed videos\nEdit source code\nInsert a table\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107845062/original/YITDhoVEJfg88n0oJoWzteOZ1imXMdoXHQ.png?1650387159 | alt: ]\n\n## Froala Text Editor - Image Upload\nAllows image upload, video embed, and source code editor\nAllowed image formats: gif, jpeg, jpg, png, JPEG, JPG, SVG, PNG, webp, and pdf.\nIt includes the same styling options as the Basic Froala Editor AND it includes the ability to:\nUpload images and GIFs\nEmbed YouTube videos\nInsert a Table\nEdit source code\nDecrease or Increase Indent\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107845717/original/eEgp_DjiYVU-GEJbtBRnA4J1wTDIgc2ARw.png?1650387861 | alt: ]\n\n## Froala Text Editor - Image Upload + Pre-Made Elements\nAllows image upload, video embed, source code editor, and Pre-Made Elements\nAllowed image formats: gif, jpeg, jpg, png, JPEG, SVG, JPG, PNG, webp, and pdf.\nIt enables the Pre-Made Elements module.\nIt includes the same styling options as the Basic Froala Editor AND it includes the ability to:\nUpload images and GIFs\nEmbed YouTube videos\nEdit source code\nInsert and style web links\nChoose the font type.\nAdd Pre-Made Elements\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107845547/original/Ax1ozk3T0r56iTIwaopmWvNxyj1lxRZELg.png?1650387681 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171083676/original/aOv_jB6wlhUgvt70s-gTy41OcVkXq67fVA.png?1764115196 | alt: ]\nFroala Text Editor - Access Media Manager\n\n## FROALA EDITOR - ACCESS MEDIA MANAGER\nAccess Media Manager Froala Editor Screenshot\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107845427/original/lcNf30lpiFK5YzP6jkdYP7Pagy6dd6rKuQ.png?1650387539 | alt: ]\n*  If members have access to the admin text editor, we strongly recommend setting up the Public Froala Editor rather than the Admin Froala Editor for security reasons (members would be able to see all images ever uploaded to the media manager).\nIt will also enable the Pre-Made Elements module:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105087226/original/A5oVXeDn3ZbC8Q9gM4lBIECZld1jiagD-A.png?1644944119 | alt: ]\n\n## Froala Editor Usage\nTo add any of the Froala Text Editor to a form, please follow these instructions:\n1. Go to TOOLBOX >> FORM MANAGER >> SELECT A FORM TO EDIT If the form is not already active/customized, search the form by name and customize it:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103139907/original/UmPeMGgbsH2ETGBcZQkezMpsxZeHu6RWxQ.png?1641305836 | alt: ]\n2. Select the Froala Editor from the drop-down:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107844169/original/acChYhfUFy29iVfc8I_nLK1uASsSnsIdvQ.png?1650386196 | alt: ]\n3. Click on \"Save Changes\"\n* To confirm that the \"Access Media Manager - Froala Text Editor\" is working as expected, log in as the admin member and click on the \"add image\" icon. The FOLDER icon should be displayed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084184998/original/KjTpWCT__21BpidPG4xlKmIu6T-gIXqczg.png?1603816794 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662682/original/wtgdDvX1rxVCW2EPVMrjQ8ap9_XfnMWB-g.png?1615055317 | alt: ]\n\n## Include Images in Admin Blog Articles\nTo add an image inside the body of a blog article please follow these instructions:\n1. Log in as a member that has the ability to write admin blog articles.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662693/original/_Zze8x6mo4_3DLs2CBiPk6n4-FkJIwZMBA.png?1615055434 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103138132/original/JM41j1WJH3CL6wMM7SzAAXG5fxTJYLf4Iw.png?1641304125 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084185182/original/rK6rzZp8QOfN-0XzF2VLVCXKXFpkjxBsKg.png?1603816949 | alt: ]\nSelect the image and click on \"Open\".\nThe image will be uploaded in the article and it will display as follows:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084185394/original/KYRlc7LM3c-B0uG6c_4o_WfVB2k_b43rEg.png?1603817118 | alt: ]\n\n## Additional Image Options\nAlign Image \"left\", \"Center\" or \"right\"\nAdd a link and style to it.\nAnd much more!\n\n## Embedding Youtube and Vimeo Videos\n1. Log in as a member that has the ability to write admin blog articles.\n2. Click on \"Add New Blog\"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084185632/original/h6O5OdLq-04YAX6ueNXTptqTyA1bx1wAEA.png?1603817351 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084185748/original/Tprnm85eRKNcH9ySztN1S_AQr7wl9qc7MQ.png?1603817471 | alt: ]\n5. Click on \"Insert\"\n6. The video will now display in the blog article:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084185826/original/WaY8dea2wIKyGm_6wF8axvZu07SaCCjN2Q.png?1603817549 | alt: ]\n\n## Adding Embedly to a Froala Editor\nThere is an option to enable an Embedly button on any of the Froala Editors.\nList of the Embedly providers: https://embed.ly/providers\nIn order to enable this option, please go to Settings >> Advanced Settings >> Enable Embedly in Frontend Froala Editors.\nIt will include Embedly embeddable content in all of the Froala Editors of each type used throughout the website.\nThey can be selected here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115146807/original/06YxpSaHj0bDmfHV6RQWKPu7IQ9y_VSp8w.png?1664296990 | alt: ]\nThe Embedly button will show up on the Froala Editor selected above:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115146933/original/0mWmn7Il-M7CTG554TF3t-lw3lLdd-jviA.png?1664297105 | alt: ]\n\n## Remove HTML Attributes\nThere is an advanced setting that allows removing the HTML attributes when pasting text from another source into the Froala:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126978550/original/JbhNuv_GRoOo4cfgTN1RJ0_gerPcYxQr7Q.png?1686846623 | alt: ]\nNote: This will apply to all Froalas including the ones on the admin.\n\n## Froala Markdown\nMarkdown is an easy-to-use markup language that is used with plain text to add formatting elements (headings, bulleted lists, URLs) to plain text without the use of a formal text editor or the use of HTML tags.\nhttps://www.markdownguide.org/\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168284293/original/Z0CCB-KakYn32wxbhBWKE4bvx-H9vB8o-Q.jpeg?1759248639 | alt: ]\nThis can be enabled for the following individual Froala classes:\nFroala Text Editor - Admin\nFroala Text Editor - Basic\nFroala Text Editor - Image Upload\nFroala Text Editor - Image Upload + Pre-Made Elements\nFroala Text Editor - Access Media Manager\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168002279/original/mD1XV3xr6nwLn5wm1kx7DN2MM1Zz8Er4wA.png?1758739890 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107845062/original/YITDhoVEJfg88n0oJoWzteOZ1imXMdoXHQ.png?1650387159",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107845717/original/eEgp_DjiYVU-GEJbtBRnA4J1wTDIgc2ARw.png?1650387861",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107845547/original/Ax1ozk3T0r56iTIwaopmWvNxyj1lxRZELg.png?1650387681",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171083676/original/aOv_jB6wlhUgvt70s-gTy41OcVkXq67fVA.png?1764115196",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107845427/original/lcNf30lpiFK5YzP6jkdYP7Pagy6dd6rKuQ.png?1650387539",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105087226/original/A5oVXeDn3ZbC8Q9gM4lBIECZld1jiagD-A.png?1644944119",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103139907/original/UmPeMGgbsH2ETGBcZQkezMpsxZeHu6RWxQ.png?1641305836",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107844169/original/acChYhfUFy29iVfc8I_nLK1uASsSnsIdvQ.png?1650386196",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084184998/original/KjTpWCT__21BpidPG4xlKmIu6T-gIXqczg.png?1603816794",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662682/original/wtgdDvX1rxVCW2EPVMrjQ8ap9_XfnMWB-g.png?1615055317",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662693/original/_Zze8x6mo4_3DLs2CBiPk6n4-FkJIwZMBA.png?1615055434",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103138132/original/JM41j1WJH3CL6wMM7SzAAXG5fxTJYLf4Iw.png?1641304125",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084185182/original/rK6rzZp8QOfN-0XzF2VLVCXKXFpkjxBsKg.png?1603816949",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084185394/original/KYRlc7LM3c-B0uG6c_4o_WfVB2k_b43rEg.png?1603817118",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084185632/original/h6O5OdLq-04YAX6ueNXTptqTyA1bx1wAEA.png?1603817351",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084185748/original/Tprnm85eRKNcH9ySztN1S_AQr7wl9qc7MQ.png?1603817471",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084185826/original/WaY8dea2wIKyGm_6wF8axvZu07SaCCjN2Q.png?1603817549",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115146807/original/06YxpSaHj0bDmfHV6RQWKPu7IQ9y_VSp8w.png?1664296990",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115146933/original/0mWmn7Il-M7CTG554TF3t-lw3lLdd-jviA.png?1664297105",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126978550/original/JbhNuv_GRoOo4cfgTN1RJ0_gerPcYxQr7Q.png?1686846623",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168284293/original/Z0CCB-KakYn32wxbhBWKE4bvx-H9vB8o-Q.jpeg?1759248639",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168002279/original/mD1XV3xr6nwLn5wm1kx7DN2MM1Zz8Er4wA.png?1758739890",
+      "alt": ""
+    }
+  ],
+  "content_hash": "ea5126b5a245552249593793640cf1a7b022f7f852bd809883373a65b1028bc5",
+  "ingested_at": "2026-10-17T14:33:59.752027+00:00"
+}

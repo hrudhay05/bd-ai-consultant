@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000107429-01-16-2026-software-updates",
+  "title": "01/16/2026 - Software Updates",
+  "text": "\n## 01/16/2026 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000107429\nWe made updates to several default widgets this week. If you customized any of these widgets and want to update them, you can find the latest code in the corresponding default widget. Please remember that if you have a custom version of any of these widgets, the latest updates will not be pushed to your website.\nUpdated the “Transfer to Payment Gateway” modal text when using the Pay Per Post Add-On on sites that use PayPal as the payment gateway.\nImplemented an update to automatically unsuspend a website (due to bandwidth limits) after increasing its website bandwidth limit.\nMigrated all Meta Graph API calls to the latest version available. Widgets Involved: Bootstrap Theme - Module - Member Facebook Feed Bootstrap Theme Framework\nUpdated the Brilliant Directories /user/transactions API endpoint to return a snippet of data about the credit card the member has on file when the return_schema parameter is included.\nFixed an issue that prevented the Admin Signature from rendering properly when composing emails in the Admin in some cases.",
+  "images": [],
+  "content_hash": "e4eb701e3baabaf01f25d81b8922d61d6ddb62de095236ce1e4b185376b3a6f8",
+  "ingested_at": "2026-10-17T15:38:39.516291+00:00"
+}

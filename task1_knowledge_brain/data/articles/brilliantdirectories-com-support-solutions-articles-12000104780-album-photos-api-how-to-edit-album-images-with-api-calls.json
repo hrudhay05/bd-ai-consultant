@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000104780-album-photos-api-how-to-edit-album-images-with-api-calls",
+  "title": "Album Photos API - How To Edit Album Images With API Calls",
+  "text": "\n## Album Photos API - How To Edit Album Images With API Calls\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000104780\nThe API allows reading, creating, updating, matching, and album images on the website.\n\n## Available API Endpoints\nBelow is a list of the available endpoints for Album Photos:\nhttps://example.com/api/v2/users_portfolio/get/{photo_id}\nhttps://example.com/api/v2/users_portfolio/create\nhttps://example.com/api/v2/users_portfolio/update\nhttps://example.com/api/v2/users_portfolio/delete\nUsing the API, the following actions can be performed:\n\n## Get an Album Photo\nRead the data of a single album image based on the photo_id\nEndpoint:\nExample Request:\nExample Response:\n\n## Create an Album Photo\nAdd a new album image to the database\nEndpoint:\nExample Request:\nQuery Parameters:\ngroup_id ID# of the post original_image_URL Image URL of the album photo user_id User ID# data_type Data Type ID# data_id Data ID#\nExample Response:\n\n## Update an Album Photo\nUpdate the album photo record and its related data from the database, by specifying the photo_id\nEndpoint:\nExample Request:\nExample Response:\n\n## Delete an Album Photo\nDelete an album photo and their related data from the database, by specifying the photo_id\nEndpoint:\nExample Request:\nExample Response:",
+  "images": [],
+  "content_hash": "cd5acd30c4febba29509210d4b47e22788c0a22164572c5bd1584c27f26753b3",
+  "ingested_at": "2026-10-17T15:34:42.869468+00:00"
+}

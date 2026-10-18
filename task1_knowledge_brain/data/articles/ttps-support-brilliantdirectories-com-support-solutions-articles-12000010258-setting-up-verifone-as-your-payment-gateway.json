@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000010258-setting-up-verifone-as-your-payment-gateway",
+  "title": "Setting Up Verifone As Your Payment Gateway",
+  "text": "\n## Setting Up Verifone As Your Payment Gateway\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000010258\nFor the best results Stripe is the recommended payment gateway .\nHowever, for those who would like to setup 2checkout as their payment gateway, follow the steps below after entering payment gateway credentials .\n\n## Setup The Instant Notification Settings\nAfter logging in to the account, click on the 'Instant Notification' Setting icon on the top navigation:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009083297/original/blob1472668766587.png?1472668766 | alt: ]\nIn the Global Settings field, enter the following URL, replacing \" www.domain.com \" with the domain of the website:\nhttp:// www.domain.com /checkout/notifications/2checkout\nFor example, if the domain of the website is www.marys-website.com then the following URL must be entered into this field:\nhttp:// www.marys-website.com /checkout/notifications/2checkout\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005754973/original/blob1464723533146.png?1464723529 | alt: ]\nClick on  \"Apply\"  and  \"Save Settings\" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005754941/original/blob1464723501964.png?1464723498 | alt: ]\n\n## Setup The Checkout Options\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009083334/original/blob1472668839706.png?1472668840 | alt: ]\nFill out all of the options on this page with the information relevant to the website.\nIn the \"Direct Return\" section of the options, select \"Header Redirect\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005761090/original/blob1464736750676.png?1464736747 | alt: ]\nClick on the \"Save Changes\" button in the bottom-right portion of the screen to save these settings.\nAfter completing this, the 2Checkout account should be all setup to accept payments through Brilliant Directories websites.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009083297/original/blob1472668766587.png?1472668766",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005754973/original/blob1464723533146.png?1464723529",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005754941/original/blob1464723501964.png?1464723498",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009083334/original/blob1472668839706.png?1472668840",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005761090/original/blob1464736750676.png?1464736747",
+      "alt": ""
+    }
+  ],
+  "content_hash": "a90b04cfcd9e2e1f2ba484a4f5ab2babb5cdcf59613c179ae2d4cf1a612e52c5",
+  "ingested_at": "2026-10-17T14:33:24.502327+00:00"
+}

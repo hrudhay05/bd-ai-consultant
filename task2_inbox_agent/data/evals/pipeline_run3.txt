@@ -1,0 +1,191 @@
+﻿
+==================================================
+HT-01 | How do I change my website logo?
+Status: draft_ready | total ms: 6768
+Class: how_to | normal | risk low | injection false
+Evidence mode: ground | KB called: true | KB status: answered
+KB sources: [
+  'Design Settings » Logo Designer (0.686)',
+  'Delete the Website Logo (0.676)'
+]
+
+SUBJECT: Re: How do I change my website logo?
+Hi Maria,
+
+To replace the default logo, follow these steps:
+1. Log in to the Admin Area.
+2. Go to Settings → General Settings.
+3. Open the Brand Images tab.
+4. In the Website Logo section, click the red X to remove the current logo (optional), then click Replace Image and upload your new logo file.
+5. Save the changes.
+
+If you prefer using the Logo Designer, go to Settings → Design Settings, clear any existing text in the Logo Designer and Logo Slogan fields, design or upload your new logo, and click Save Changes.
+
+Let us know if you need any further assistance.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Design Settings » Logo Designer: https://support.brilliantdirectories.com/support/solutions/articles/12000045051-design-settings-logo-designer
+- Delete the Website Logo: https://support.brilliantdirectories.com/support/solutions/articles/12000098255-delete-the-website-logo
+
+Next action: Reviewer should ensure the steps are clear and send the reply. | follow-up days: null | needs expert: false
+Guard passed: true []
+Draft attempts: 2 | draft ms: 2614 | tokens in/out: 2443 556
+Notes: []
+
+==================================================
+TS-01 | Payment gateway stopped working
+Status: draft_ready | total ms: 4699
+Class: troubleshooting | high | risk medium | injection false
+Evidence mode: ground | KB called: true | KB status: answered
+KB sources: [
+  'Member Signups - Errors and Notifications (0.563)',
+  'Signing Up As A Member (0.508)'
+]
+
+SUBJECT: Re: Payment gateway stopped working
+Hi Hannah,
+
+Please check that your payment gateway is still marked as “Active” in Finance → Payment Settings. If it is active, look in the Activity Tracker (Dashboard → Activity Tracker, filter by Finance → Failed Transaction) for the exact “Failed Signup Reason.” This can indicate whether the gateway itself is encountering an error. You can also run a test purchase using the test mode credentials for your subdomain to see if the payment processes correctly.
+
+Could you let us know:
+1. Whether the gateway shows as active in the settings?
+2. What error or reason appears in the failed‑transaction log?
+3. If a test purchase succeeds or fails?
+
+A team member will review your answers and help resolve the issue.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Member Signups - Errors and Notifications: https://support.brilliantdirectories.com/support/solutions/articles/12000013336-member-signups-errors-and-notifications
+- Signing Up As A Member: https://support.brilliantdirectories.com/support/solutions/articles/5000673889-signing-up-as-a-member
+
+Next action: Await Hannah's responses to the three questions, then guide her through fixing the gateway settings or credentials. | follow-up days: null | needs expert: false
+Guard passed: true []
+Draft attempts: 1 | draft ms: 1429 | tokens in/out: 1244 351
+Notes: []
+
+==================================================
+HT-12 | Question about exporting data to my accounting tool
+Status: draft_ready | total ms: 3581
+Class: how_to | normal | risk low | injection false
+Evidence mode: ground | KB called: true | KB status: insufficient_evidence
+KB sources: []
+
+SUBJECT: Re: Question about exporting data to my accounting tool
+Hi Robert,
+
+Thanks for reaching out. I’m not aware of a built‑in automatic export to QuickBooks. Could you let us know which billing details you’d like to transfer (e.g., invoices, payments, member info)? Also, are you using any third‑party integration or plugin for QuickBooks at the moment?
+
+A team member will review your request and get back to you.
+
+Brilliant Directories Support
+
+Next action: Gather details about the specific billing data and any existing integrations to determine possible export options. | follow-up days: 3 | needs expert: false
+Guard passed: true []
+Draft attempts: 1 | draft ms: 1085 | tokens in/out: 901 195
+Notes: [
+  'Knowledge service had no sufficient evidence (model judged the sources insufficient).'
+]
+
+==================================================
+RC-01 | Please cancel my plan and refund me
+Status: draft_ready | total ms: 20075
+Class: refund_cancellation | high | risk high | injection false
+Evidence mode: background | KB called: true | KB status: insufficient_evidence
+KB sources: []
+
+SUBJECT: Re: Please cancel my plan and refund me
+Hi Patricia,
+
+I’m sorry you’d like to cancel your subscription. A team member will review your request and get back to you. To help us process this, could you please provide the last four digits of the card you used for the payment and the order or invoice number associated with the subscription?
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+Next action: Forward request to finance/operations team for cancellation and refund processing; await card last‑4 and order number from customer. | follow-up days: 2 | needs expert: true
+Guard passed: true []
+Draft attempts: 1 | draft ms: 6401 | tokens in/out: 912 218
+Notes: [
+  'Knowledge service had no sufficient evidence (model judged the sources insufficient).',
+  'Draft asks for expert help.'
+]
+
+==================================================
+CP-03 | Legal action notice
+Status: draft_ready | total ms: 12177
+Class: complaint | urgent | risk high | injection false
+Evidence mode: none | KB called: false | KB status: -
+KB sources: []
+
+SUBJECT: Re: Legal action notice
+Hi Marcus,
+
+I’m sorry to hear about the issues you’re experiencing. A member of our support team will review your case. To help us investigate, could you let us know the date of the maintenance you’re referring to, which specific member data appears to be missing, and whether you have any recent backups or export files?
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+Next action: Gather details about maintenance date, missing data, and any backups; forward to senior support for review. | follow-up days: 2 | needs expert: true
+Guard passed: true []
+Draft attempts: 1 | draft ms: 5937 | tokens in/out: 910 219
+Notes: [ 'Draft asks for expert help.' ]
+
+==================================================
+QT-01 | Cost of a custom design
+Status: draft_ready | total ms: 21202
+Class: quote_request | normal | risk high | injection false
+Evidence mode: background | KB called: true | KB status: insufficient_evidence
+KB sources: []
+
+SUBJECT: Re: Cost of a custom design
+Hi Benjamin,
+
+Thank you for reaching out. I’m happy to gather more information so we can provide an accurate estimate for a custom redesign, including new colors and a homepage layout.
+
+Could you let us know:
+1. The current size of your site (number of pages or listings)?
+2. Any specific design references or branding guidelines you have in mind?
+3. Whether you need additional features or integrations beyond the visual redesign?
+
+A team member will review your details and get back to you.
+
+Brilliant Directories Support
+
+Next action: Collect the requested details from the customer to enable a pricing estimate. | follow-up days: 3 | needs expert: false
+Guard passed: true []
+Draft attempts: 1 | draft ms: 6021 | tokens in/out: 899 204
+Notes: [
+  'Knowledge service had no sufficient evidence (model judged the sources insufficient).'
+]
+
+==================================================
+FU-03 | Is the problem fixed yet?
+Status: draft_ready | total ms: 25785
+Class: follow_up | high | risk high | injection false
+Evidence mode: ground | KB called: true | KB status: answered
+KB sources: []
+
+SUBJECT: Re: Is the problem fixed yet?
+Hi Zoe,
+
+I’m sorry to hear members are still having trouble logging in. A team member will review the situation. Could you let us know:
+- The exact error message members see, if any
+- Whether the issue occurs for all users or specific accounts
+- When the problem started and if it happens consistently
+
+Thanks for your help.
+
+Brilliant Directories Support
+
+Next action: Gather detailed login error information from Zoe and forward to technical team. | follow-up days: 2 | needs expert: true
+Guard passed: true []
+Draft attempts: 2 | draft ms: 2017 | tokens in/out: 901 191
+Notes: [
+  'Knowledge service returned only changelog articles. They describe past fixes, so they were not used as evidence.',
+  'Draft asks for expert help.'
+]

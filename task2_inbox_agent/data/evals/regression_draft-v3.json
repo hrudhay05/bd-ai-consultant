@@ -1,0 +1,17 @@
+{
+  "version": "draft-v3",
+  "model": "openai/gpt-oss-120b",
+  "passed": 0,
+  "total": 10,
+  "incomplete": 1,
+  "details": [
+    {
+      "id": "HT-01",
+      "result": "incomplete",
+      "status": "classify_failed",
+      "notes": [
+        "Classifier failed after 2 attempts: Groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kp6dsa6te1tbgv8s0d9a963v` service tier `on_demand` on tokens per day (TPD): Limit 200000, "
+      ]
+    }
+  ]
+}

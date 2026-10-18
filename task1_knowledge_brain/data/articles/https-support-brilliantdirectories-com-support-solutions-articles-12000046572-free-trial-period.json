@@ -1,0 +1,65 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000046572-free-trial-period",
+  "title": "Free Trial Period",
+  "text": "\n## Free Trial Period\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000046572\n\n## Overview\nThe Free Trial Period add-on allows administrators to offer a specified number of free days on individual paid membership plans. Depending on the website’s payment gateway and selected authorization option, members may be required to enter payment information during signup.\nIf a member does not cancel before the trial ends, the regular membership payment becomes due.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Free Trial Period Add-On\nFeatures and Benefits :\nIncrease paid membership signups\nAdd a free trial period to individual membership packages.\nChoose how many days the trial period lasts\nTrial info is automatically displayed on checkout pages\nPayment information can be optional or required, depending on the selected authorization option and payment gateway.\nMembers are automatically charged once their trial ends\nMembers are not charged if they cancel before their trial ends\n\n## How to Enable a Free Trial for a Membership Plan\n\n## 1. Open the Membership Plan\nGo to Finance » Membership Plans .\nClick Edit for the membership plan that will offer the trial.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888073/original/kBC6zHk29feJz_cx0VPDoG2GPFxbucTwFg.png?1787185908 | alt: ]\n\n## 2. Open the Sign Ups & Upgrades Tab\nSelect the Sign Ups & Upgrades tab.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888077/original/EJSGZeHrjqGdnRfkaVHDFqEGdwNVMlshcg.png?1787185938 | alt: ]\n\n## 3. Enable the Free Trial Period\nTwo sets of options are available and can be configured independently:\nNew Signups: For members subscribing to this plan for the first time.\nPlan Changes: For existing members switching from another plan to this one.\nFor either option, set Enable Free Trial Period to Yes .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184819365/original/csYOZEFLEpim0IlwmDDHo_dtNpQ0PNcfQg.png?1788814606 | alt: ]\n\n## 4. Specify Number of Trial Days\nIn Number of Free Trial Days , enter the duration of the trial. For example, enter 7 to offer a seven-day free trial. Click Save Changes when the configuration is complete.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888110/original/Vje1kLItj_4XypV9CNcGFlt5CzERVMV9Nw.png?1787186029 | alt: ]\n\n## Credit Card Requirements and Authorization Options\nUnder Free Trial Additional Options , select how payment information will be handled during the free trial. The available options depend on whether the website uses an on-site or off-site payment gateway.\nRelated Article: Supported Payment Gateways: On-Site and Off-Site Payment Gateways\n\n## Off-Site Payment Gateways\nNo credit card required for free trial: Members can begin the free trial without providing payment information. They must add a valid payment method before paid billing can begin.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159746037/original/8VlhDIRGxlDZWO0nM10P_hMTuFyetPG1bw.png?1744310179 | alt: ]\n\n## On-Site Payment Gateways\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888590/original/B2cV_7IvAYt1YwUfNWYRz8E3a_iUKXlNcg.png?1787187255 | alt: ]\nNo credit card required for free trial: Members can begin the free trial without providing payment information. They must add a valid payment method before paid billing can begin.\nAdd credit card on file without authorization: Members must provide a credit card during signup. The card is saved but is not charged or authorized until the free trial ends.\nAuthorize a $1.00 charge when card is required: Members must provide a credit card. A $1 authorization is processed to verify that the card is valid and active.\nAuthorize full subscription amount when card is required: Members must provide a credit card. The full subscription amount is authorized to confirm that sufficient funds are available. The regular payment is processed when the free trial ends.\n\n## What Members See at Checkout\n\n## When No Credit Card Is Required\nCredit-card fields are hidden during checkout. The member must add a valid payment method before paid billing begins. If payment cannot be collected when the trial ends, the member is marked as Past Due .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159746053/original/Z4akLTlBgROGz9aAdctiZTdYGif8OyYghQ.png?1744310228 | alt: ]\n\n## When Authorization Is Required\nWhen a credit-card authorization option is selected, the checkout form displays an authorization notice explaining how the member’s card will be handled.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159746079/original/P7ZBh2HRJWcsKM1QUX8Sh_B5lVk0Lo4kRQ.png?1744310250 | alt: ]\n\n## Customize the Authorization Message\nTo customize the authorization title and message:\nGo to Settings » Text Labels .\nSearch for Credit Card Authorization .\nEdit the following labels: Credit Card Authorization Title Credit Card Authorization Message\nCredit Card Authorization Title\nCredit Card Authorization Message\nSave the changes.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182875264/original/KmnK07XPDz0iSMRYUvMhDcInjAszjX5lYw.png?1785426100 | alt: ]\n\n## Verify the Free Trial for New Signups\nAfter saving the membership plan, open its signup page to confirm that the free-trial information appears correctly.\nGo to Finance » Membership Plans .\nFind the configured membership plan and click Edit .\nClick Sign Up Page at the top of the page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182875396/original/HZNMn5Cr_i-acBHj0PbK-r7UV8nwSg1jlQ.png?1785426152 | alt: ]\nIn the Select a Payment Option section, confirm that the trial duration and payment start date are displayed correctly.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182875973/original/f6-mFnHXz8pv1xwoxgI0wWaL7rDis5NeHQ.png?1785426588 | alt: ]\n\n## Verify the Free Trial During a Plan Upgrade\nFree trials can also apply when an existing member upgrades to an eligible membership plan. The destination plan must have the free trial enabled and must be configured as an available upgrade option.\nWhen the member selects the plan from the Upgrade/Downgrade page, the trial duration and payment start date appear with the plan’s payment information:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888750/original/DnIHntPJGRcw3ZeBf14gLpua9QTUzRApXw.png?1787187967 | alt: ]\nFor instructions on making the plan available during an upgrade, see How to Setup Upgrade/Downgrade Options for Membership Plans .\n\n## Customize the Free Trial Display Text\nWhen a free trial is enabled, the trial duration and payment start date appear during checkout:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182875995/original/MiYp7poPw6il05rMMMWlrzWtUHH2M82Lww.png?1785426639 | alt: ]\nTo customize this text:\nGo to Settings » Text Labels .\nSearch for Free Trial .\nEdit the applicable labels.\nSave the changes.\nThe following five labels are available for editing:\nLabel Description Variable Name Default Text Line 1 Before Days free_trial_period_line1_before This plan includes a. Line 1 After Days free_trial_period_line1_after DAY FREE TRIAL. Line 2 Before Start Date free_trial_period_line2_before Your payment will start on. Line 2 After Start Date free_trial_period_line2_after Type additional text if needed. Line 3 (Additional Info) free_trial_period_line3 Additional text displayed under date.\nThe “before” and “after” labels are combined with a dynamically generated value, such as the number of trial days or the payment start date.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182875476/original/QB4i9bDp8sl1louiJ7gOSqr_Im4H01Y6tQ.png?1785426192 | alt: ]\n\n## Additional Notes\nThe following conditions apply when using the Free Trial Period Add-On:\nMembers must cancel before the trial ends to avoid the first regular membership charge.\nFree trials can apply to both new signups and eligible membership-plan upgrades.\nWhen no card is collected during signup, the member must add a valid payment method before paid billing begins.\nIf payment cannot be collected when the trial ends, the member is marked Past Due .\nPast-due transactions can be reviewed under Finance » Transaction History » Past Due .\n\n## Additional Resources\nFree Trial Payment Intents - Stripe\nFinance » Transaction History",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888073/original/kBC6zHk29feJz_cx0VPDoG2GPFxbucTwFg.png?1787185908",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888077/original/EJSGZeHrjqGdnRfkaVHDFqEGdwNVMlshcg.png?1787185938",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184819365/original/csYOZEFLEpim0IlwmDDHo_dtNpQ0PNcfQg.png?1788814606",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888110/original/Vje1kLItj_4XypV9CNcGFlt5CzERVMV9Nw.png?1787186029",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159746037/original/8VlhDIRGxlDZWO0nM10P_hMTuFyetPG1bw.png?1744310179",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888590/original/B2cV_7IvAYt1YwUfNWYRz8E3a_iUKXlNcg.png?1787187255",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159746053/original/Z4akLTlBgROGz9aAdctiZTdYGif8OyYghQ.png?1744310228",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159746079/original/P7ZBh2HRJWcsKM1QUX8Sh_B5lVk0Lo4kRQ.png?1744310250",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182875264/original/KmnK07XPDz0iSMRYUvMhDcInjAszjX5lYw.png?1785426100",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182875396/original/HZNMn5Cr_i-acBHj0PbK-r7UV8nwSg1jlQ.png?1785426152",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182875973/original/f6-mFnHXz8pv1xwoxgI0wWaL7rDis5NeHQ.png?1785426588",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183888750/original/DnIHntPJGRcw3ZeBf14gLpua9QTUzRApXw.png?1787187967",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182875995/original/MiYp7poPw6il05rMMMWlrzWtUHH2M82Lww.png?1785426639",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182875476/original/QB4i9bDp8sl1louiJ7gOSqr_Im4H01Y6tQ.png?1785426192",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1d6964b944d06be12e56ada23a4131d1406920c7fdc7ed9e96fbe52602c5f3ad",
+  "ingested_at": "2026-10-17T14:39:00.057678+00:00"
+}

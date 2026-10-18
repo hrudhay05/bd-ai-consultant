@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000036189-how-to-login-as-member",
+  "title": "How to Login As Member",
+  "text": "\n## How to Login As Member\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000036189\nThe admin dashboard provides multiple entry points from which an administrator can log in as a specific member. This is used for troubleshooting member-facing issues, verifying member dashboard visibility, or completing actions on behalf of a member.\n\n## Method 1 — /login Page\nEvery Brilliant Directories website includes a default /login page accessible by appending /login to the site's root domain (e.g., yourdomain.com/login ). This page presents the standard front-end login form used by all site members.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172843866/original/bpwi5qIyV2-oe6BPJiulLMK0ryUbQkRTAA.png?1767717133 | alt: ]\nTo log in as a member using this method:\nNavigate to the site's /login page.\nEnter the member's Email Address in the email field.\nEnter the member's Password in the password field.\nComplete the Google reCaptcha verification.\nClick the login button to access the member's account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172844172/original/VwVA20cOOvlpZVgNl50ULUGYdERBaHxhiw.png?1767717329 | alt: ]\n⚠ NOTE — Google reCaptcha Must Be Configured: The /login page requires Google reCaptcha verification to be completed before login can proceed. If reCaptcha has not been configured on the site, the login form on this page will not function correctly. Reference: Google reCaptcha Setup\n⚠ NOTE — Credential Requirement: This method requires the administrator to know the member's email address and password. This method is most appropriate when the member has shared their credentials or when the administrator has recently set the member's password via the Change Password action in the Actions dropdown.\n\n## Method 2 — My Members » Search Members » Actions Dropdown\nThe most direct admin-side method for logging in as a member is through the Search Members results table.\nTo log in as a member using this method:\nNavigate to My Members » Search Members in the admin dashboard.\nLocate the target member in the results table.\nClick the Actions dropdown for that member's record.\nSelect Login As Member from the dropdown options.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181026728/original/IgR5PgQ8taCFApQLfgKrGfGI8jqxAqnSFg.png?1782399362 | alt: ]\n\n## Method 3 — My Members » Search Members » Account Details\nFrom within the Account Details section of a specific member record, a dedicated login button is available that provides direct access to that member's account.\nTo log in as a member using this method:\nNavigate to My Members » Search Members in the admin dashboard.\nLocate the target member in the results table.\nClick Actions » Account Details for that member's record.\nWithin the Account Details section, click the Login As Member button displayed in the member's account header area.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126474987/original/aS4tta0ZIiUICeb3O0buu2PCzdZt8p9Cug.png?1686016916 | alt: ]\n\n## Method 4 — My Content » Manage Posts » Actions Dropdown\nAdministrators can log in as the member who created a specific post directly from the Manage Posts section. This method is most useful when troubleshooting a post-related issue while viewing that post's record.\nTo log in as a member using this method:\nNavigate to My Content » Manage Posts in the admin dashboard.\nLocate the target post in the results table.\nClick the Actions dropdown for that post's record.\nSelect Member Login from the dropdown options.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475014/original/stYwvC5vIz2-31qxWcUykMJ6X2LbcuL-jA.png?1686016953 | alt: ]\n\n## Method 5 — Interactions » Post Comments » Actions Dropdown\nAdministrators can log in as the member who submitted a specific comment directly from the Post Comments section.\nTo log in as a member using this method:\nNavigate to Interactions » Post Comments in the admin dashboard.\nLocate the target comment in the results table.\nClick the Actions dropdown for that comment's record.\nSelect Login As Member from the dropdown options.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475021/original/4qRXvZaW08cOMA_cfL-0ZlNNuyfO-siXpQ.png?1686016973 | alt: ]\n\n## Method 6 — Interactions » Member Reviews » Actions Dropdown\nAdministrators can log in as the member who received a specific review directly from the Member Reviews section.\nTo log in as a member using this method:\nNavigate to Interactions » Member Reviews in the admin dashboard.\nLocate the target review in the results table.\nClick the Actions dropdown for that review's record.\nSelect Member Login from the dropdown options.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126474990/original/cNKLh6KwlwQ6-CA8-lHP2evZGx8FgW57EA.png?1686016935 | alt: ]\n\n## Method 7 — Interactions » Member Leads » Match Lead\nAdministrators can log in as the member matched to a specific lead directly from the Match Lead screen within the Member Leads section.\nTo log in as a member using this method:\nNavigate to Interactions » Member Leads in the admin dashboard.\nLocate the target lead record.\nOpen the Match Lead screen for that lead.\nClick the Login As Member button displayed within the Match Lead interface.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475044/original/ux3aCgEyUgq6UJx4w04c6Rj73Xv_S5xdXg.png?1686017004 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091357406/original/nmvO-fcac6mNMt3d5AF6Jn5TKAQXgrIxRw.png?1618444497 | alt: ]\n\n## Method 8 — Finance » Transaction History » Actions Dropdown\nAdministrators can log in as the member associated with a specific transaction directly from the Transaction History section.\nTo log in as a member using this method:\nNavigate to Finance » Transaction History in the admin dashboard.\nLocate the target transaction record in the results table.\nClick the Actions dropdown for that transaction's record.\nSelect Login As Member from the dropdown options.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475046/original/gOkDYDH42Zyj5hEd4xRvbKL875pGVAiTPg.png?1686017017 | alt: ]\n\n## Additional Notes\nSingle Sign-On (SSO)\nSSO integration allows members of an external platform to log in to the Brilliant Directories site without maintaining a separate set of credentials. This requires a custom development engagement to connect the external platform's authentication system with the Brilliant Directories login system.\n⚠ NOTE — SSO Requires Custom Development: SSO is not a built-in out-of-the-box feature. It cannot be configured through the admin dashboard. Implementation requires a custom developer engagement to establish the authentication bridge between the external platform and the Brilliant Directories site. For custom development assistance, visit the Brilliant Directories Marketplace .",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172843866/original/bpwi5qIyV2-oe6BPJiulLMK0ryUbQkRTAA.png?1767717133",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172844172/original/VwVA20cOOvlpZVgNl50ULUGYdERBaHxhiw.png?1767717329",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181026728/original/IgR5PgQ8taCFApQLfgKrGfGI8jqxAqnSFg.png?1782399362",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126474987/original/aS4tta0ZIiUICeb3O0buu2PCzdZt8p9Cug.png?1686016916",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475014/original/stYwvC5vIz2-31qxWcUykMJ6X2LbcuL-jA.png?1686016953",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475021/original/4qRXvZaW08cOMA_cfL-0ZlNNuyfO-siXpQ.png?1686016973",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126474990/original/cNKLh6KwlwQ6-CA8-lHP2evZGx8FgW57EA.png?1686016935",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475044/original/ux3aCgEyUgq6UJx4w04c6Rj73Xv_S5xdXg.png?1686017004",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091357406/original/nmvO-fcac6mNMt3d5AF6Jn5TKAQXgrIxRw.png?1618444497",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475046/original/gOkDYDH42Zyj5hEd4xRvbKL875pGVAiTPg.png?1686017017",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f39d4460737a0427dea637f43a8da83084fa327dbb978d6368f6c341b17a25e6",
+  "ingested_at": "2026-10-17T14:36:39.197379+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095724-php-code-snippet-to-check-if-a-member-user-is-logged-in",
+  "title": "PHP Code Snippet to Check If a Member/User is Logged In",
+  "text": "\n## PHP Code Snippet to Check If a Member/User is Logged In\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000095724\nThe code snippet below will determine if members are currently logged into their accounts on the website.\nReplace \" TEXT TO DISPLAY WHEN MEMBER LOGGED IN \" with your desired content. This content will be displayed only when a user is logged in.",
+  "images": [],
+  "content_hash": "b4262b4831bef8e87821debfbc81c675df5ef375466df6bc1137d8c5f76ebaab",
+  "ingested_at": "2026-10-17T15:23:50.260834+00:00"
+}

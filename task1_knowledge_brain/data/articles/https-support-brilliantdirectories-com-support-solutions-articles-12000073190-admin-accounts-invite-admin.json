@@ -1,0 +1,57 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000073190-admin-accounts-invite-admin-",
+  "title": "Admin Accounts » Invite Admin +",
+  "text": "\n## Admin Accounts » Invite Admin +\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000073190\nThis article explains how to invite new admins or team members to access the website admin area.\nAdmin invitations allow the website owner or authorized admin to send an email invite to a new admin user. The invited admin can then accept the invitation, create their login details, and access the admin area based on the role assigned to them.\n\n## Overview\nThe Invite Admin tool is used to add new admin users without manually creating their login credentials.\nWhen an invite is sent, the new admin receives an email with an invitation link. After clicking the link, they can enter their full name, create a password, and complete the admin account setup.\nAdmin roles can be assigned during the invite process to control which areas of the admin the new user can access.\n\n## How to Invite a New Admin\nGo to Settings >> Admin Accounts .\nClick Invite Admin via Email .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183234960/original/ytLcttbRKWO6igAt3NbXcs-eGUWTYsTu0A.png?1786031793 | alt: ]\nA popup will open where the admin email address and role can be selected.\n\n## Enter the Admin Email Address\nIn the invite popup, enter the email address of the person who should receive admin access.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235066/original/lC6dXD_NNa6mU2cyVhfNEZmTbH4ke6usrg.png?1786031901 | alt: ]\nThis is the email address where the admin invitation will be sent.\n\n## Select an Admin Role\nUse the Role dropdown to select the admin role for the invited user. The assigned role controls which admin areas and tools the invited user can access after accepting the invitation.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235064/original/HOIGWPFxKm7LQXcwYO7QimXSyuFiGPneTA.png?1786031897 | alt: ]\nAvailable roles may include default admin roles and any custom admin roles created for the website.\nFor more information about admin roles and permissions, see the following article:\nAdmin Role Permissions\n\n## Invite Multiple Admins\nTo invite more than one admin at the same time, click Invite Another . This adds additional invitation fields to the popup.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235330/original/9TwK1mjIedmr53nvV--dbhChVSVWdp14gg.gif?1786031993 | alt: ]\nEach invitation row should include:\nThe admin email address\nThe admin role\nImportant: If additional invitation rows are added, they must either be completed or removed before the invites can be sent. If an added row is left blank, it will display in red and must be removed using the TRASH icon.\n\n## Send the Admin Invitation\nAfter adding the email address and selecting the role:\nReview the admin email address.\nConfirm the correct role is selected.\nClick Send Invite .\nAfter the invitation is sent, a success message will display.\n\n## Pending Admin Invites\nAfter an admin invitation is sent, a Pending Admin Invites section will display in the Admin Accounts area. This section shows active admin invitations that have not yet been accepted.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235481/original/3feZROj2iWGPBdESAsYEun4zsiGyggOd2A.png?1786032204 | alt: ]\nThe pending invite details may include:\nInvite status\nInvited email address\nAssigned admin role\nName of the admin who sent the invite\nInvite date or related invite details\nThis section helps admins track which invitations are still waiting for the invited user to accept.\n\n## Expired Admin Invites\nAdmin invitations expire if they are not accepted within 24 hours. After an invite expires, it will be marked as Expired . Expired invitations can be managed from the admin invite section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183239441/original/3ds22SXUG1wbu9q5a3JWjUAy-aPow5ikTQ.png?1786035500 | alt: ]\n\n## Resend or Revoke an Admin Invite\nPending or expired invitations can be managed directly from the invitation list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235564/original/f7JToT3emQfVxKMPysaHBnTO8YVaFngxAA.png?1786032324 | alt: ]\nAvailable actions include:\nResend Invite: Sends the admin invitation email again.\nRevoke Invite: Cancels the invitation so the invite link can no longer be used.\n\n## Remove an Admin\nAdmins can be removed from the website from the Admin Accounts section. This removes the selected admin’s access to the website admin area.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183602984/original/dtPi5jHbz8022Nm-mb3OtOTVdqRhMn-mRA.png?1786663592 | alt: ]\nGo to Settings >> Admin Accounts .\nFind the admin account that should be removed.\nClick the Actions dropdown for that admin.\nSelect Remove From Site .\nConfirm the action when prompted.\nAfter the admin is removed, they will no longer have access to the website admin area.\nImportant: Only remove admins who should no longer have permission to manage the website. If the admin should keep access but needs different permissions, use Edit Admin Role instead.\n\n## Automatic Email Address Unblocking\nIf the invited admin’s email address was previously blocked or had bounced, the system will automatically attempt to unblock the email address during the invitation process. This helps the invited admin receive the invitation email and future website emails.\n\n## Accepting an Admin Invitation\nThe invited admin will receive an email invitation.\nInvitation Email Create Admin Account (Invitee)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183236814/original/S15ruO4kXaHx8cq-hPjpiz3N5EKeSRwyPQ.png?1786033438 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183236854/original/_X7dt_2A9ieh6J8OCejf22Wve62H0pxguw.png?1786033483 | alt: ]\nTo accept the invitation, the invited admin should:\nOpen the invitation email.\nClick Click to Accept Invitation .\nEnter their full name.\nCreate a password.\nSubmit the form to complete the admin account setup.\nAfter the invitation is accepted, the new admin will be logged in to their admin account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183236787/original/xNEEpjnaXzxCOQk7e56dBJkfs-difujhRg.png?1786033413 | alt: ]\n\n## Admin Invite Email Template\nThe admin invitation email uses the following email template:\nThis email template controls the content of the admin invite email sent to new admin users. To edit the admin invite email, go to Emails >> Email Templates and search for admin-invite-link .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235728/original/o3yqTSiGZCnhu6xXOcWnTxcx8uzrhSsYag.png?1786032428 | alt: ]\nFor more information about editing email templates, see the following article:\nEmails >> Email Templates >> New Email Template\n\n## Important Notes\nAdmin invitations expire after 24 hours if they are not accepted.\nExpired invitations can be resent or revoked.\nThe assigned role controls which areas of the admin the invited user can access.\nIf multiple invite rows are added, each row must be completed or removed before sending.\nThe invite email is controlled by the admin-invite-link email template.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183234960/original/ytLcttbRKWO6igAt3NbXcs-eGUWTYsTu0A.png?1786031793",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235066/original/lC6dXD_NNa6mU2cyVhfNEZmTbH4ke6usrg.png?1786031901",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235064/original/HOIGWPFxKm7LQXcwYO7QimXSyuFiGPneTA.png?1786031897",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235330/original/9TwK1mjIedmr53nvV--dbhChVSVWdp14gg.gif?1786031993",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235481/original/3feZROj2iWGPBdESAsYEun4zsiGyggOd2A.png?1786032204",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183239441/original/3ds22SXUG1wbu9q5a3JWjUAy-aPow5ikTQ.png?1786035500",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235564/original/f7JToT3emQfVxKMPysaHBnTO8YVaFngxAA.png?1786032324",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183602984/original/dtPi5jHbz8022Nm-mb3OtOTVdqRhMn-mRA.png?1786663592",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183236814/original/S15ruO4kXaHx8cq-hPjpiz3N5EKeSRwyPQ.png?1786033438",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183236854/original/_X7dt_2A9ieh6J8OCejf22Wve62H0pxguw.png?1786033483",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183236787/original/xNEEpjnaXzxCOQk7e56dBJkfs-difujhRg.png?1786033413",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183235728/original/o3yqTSiGZCnhu6xXOcWnTxcx8uzrhSsYag.png?1786032428",
+      "alt": ""
+    }
+  ],
+  "content_hash": "0c4a0970a5ded47a0e5fc84e8a6f97ca5aaf34d30e6e2f1e151e896097831606",
+  "ingested_at": "2026-10-17T14:46:59.094943+00:00"
+}

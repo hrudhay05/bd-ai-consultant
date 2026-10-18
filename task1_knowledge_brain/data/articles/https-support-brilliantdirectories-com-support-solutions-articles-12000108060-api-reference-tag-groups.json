@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108060-api-reference-tag-groups",
+  "title": "API Reference - Tag Groups",
+  "text": "\n## API Reference - Tag Groups\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108060\n← Back to API Reference | Getting Started\n\n## Tag Groups\nTag Groups are containers that organize tags into named sets. Each tag belongs to a tag group, allowing administrators to create structured taxonomies for classifying members and other content.\n\n## The Tag Group Object\nField Type Description id integer Unique tag group ID (primary key, read-only) group_tag_name string The name of the tag group added_by integer User ID of the user who created this tag group updated_by integer User ID of the user who last updated this tag group created_at datetime Timestamp when this tag group was created updated_at datetime Timestamp when this tag group was last updated\n\n## List Tag Group Records\nReturns a paginated list of tag group records.\n\n## Example Request\n\n## Example Response\n\n## Retrieve a Tag Group Record\n\n## Example Request\n\n## Example Response\n\n## Create a Tag Group Record\n\n## Example Request\n\n## Example Response\n\n## Update a Tag Group Record\n\n## Example Request\n\n## Example Response\n\n## Delete a Tag Group Record\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "53abd4cdb786d1b1c15d16eca2b83d67c1f682b1a592a2027bbd9ed961ed4146",
+  "ingested_at": "2026-10-17T15:39:33.743953+00:00"
+}

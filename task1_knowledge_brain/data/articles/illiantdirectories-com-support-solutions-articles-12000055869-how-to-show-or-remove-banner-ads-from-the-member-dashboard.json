@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000055869-how-to-show-or-remove-banner-ads-from-the-member-dashboard",
+  "title": "How To Show or Remove Banner Ads From The Member Dashboard",
+  "text": "\n## How To Show or Remove Banner Ads From The Member Dashboard\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000055869\nIf the Banner Ads are enabled on the site, the admin can control whether they are displayed or not inside the Member Dashboard for each membership plan by going to:\nFinance » Membership Plans » Edit\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830938/original/bnXXMprXkAYtKmieFtv3eo70HNQCjLTesw.png?1767707267 | alt: ]\nGo to the Member's Dashboard tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830965/original/qO2zWT0qmBidnXswubNbU3PDt1jr9vhkDw.png?1767707319 | alt: ]\nThen scroll down to the \"Additional Settings\" section » Show Banner Ads in Dashboard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172831133/original/rV0yitdaT5HIW0gzvfPPWvEAkuMEGFDVIA.png?1767707441 | alt: ]\nIf the Banner Ads are set to \"Yes\" , they will appear on the dashboard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393403/original/G86Q_KjGP3S6X6IGsFKrAe2jbCRdUT2oUg.png?1620609860 | alt: ]\nIf it is set to \"No\", they will be hidden from the dashboard but continue to display everywhere else on the site:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172831057/original/jIHxK4mbiGpwjZACuD6XNdN35FIURBPnpg.png?1767707406 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393413/original/bkICASpUVxcE8jfaCtEW3W6CNyLbh-H2zw.png?1620609924 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830938/original/bnXXMprXkAYtKmieFtv3eo70HNQCjLTesw.png?1767707267",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830965/original/qO2zWT0qmBidnXswubNbU3PDt1jr9vhkDw.png?1767707319",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172831133/original/rV0yitdaT5HIW0gzvfPPWvEAkuMEGFDVIA.png?1767707441",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393403/original/G86Q_KjGP3S6X6IGsFKrAe2jbCRdUT2oUg.png?1620609860",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172831057/original/jIHxK4mbiGpwjZACuD6XNdN35FIURBPnpg.png?1767707406",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393413/original/bkICASpUVxcE8jfaCtEW3W6CNyLbh-H2zw.png?1620609924",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1531a7b1d14e4455fb72f2076ffbbc83b13c2704ed533a2f62fe6ce4009dee01",
+  "ingested_at": "2026-10-17T14:42:25.175633+00:00"
+}

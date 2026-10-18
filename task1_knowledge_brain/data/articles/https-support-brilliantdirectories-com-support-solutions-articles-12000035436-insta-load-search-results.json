@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000035436-insta-load-search-results",
+  "title": "Insta-Load Search Results",
+  "text": "\n## Insta-Load Search Results\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000035436\n\n## Overview\nWith the Insta-Load Search Results add-on, users can instantly see more search results without loading a new web page. A faster site means more visitors and more profit for the business.\nThis popular type of lazy load functionality gives the visitors an uninterrupted browsing experience by allowing users to explore more content without waiting for new pages to load.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Insta-Load Search Results Add-On\n\n## Enabling the Add-On\n1. Go to My Content - Edit Post Settings and click on the post type the admin wishes to provide the Insta-Load to:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057290/original/5YD134HipJ7qWnabhdcM7AwcCgwFaM7i3Q.png?1619838541 | alt: ]\n2. Go to Search Results Design Tab and scroll down to the Additional Settings to enable the feature:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132203774/original/Hp1XpjtVbj6Z8PUrtBBvRGirtvPWPqeYDA.png?1696342160 | alt: ]\nThree pagination options will become available:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132203955/original/C6WEV9zkTSReQvrhzfjet-d4fNWDtVYB8A.png?1696342274 | alt: ]\nInsta-Load Search Results : After loading the first page of results, users can click on the \"Click To Load More Results\" button to display more results.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132204359/original/FyzEntOQ_UVUen-sl49ncZENvs5Grpq9Hw.png?1696342609 | alt: ]\nStandard Pagination: Visitors can click on any of the numbers to move to a different page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132204549/original/-3KlVe7dcisyV90gpT3f7CoQai31RBUgPQ.png?1696342739 | alt: ]\nHide Pagination: This option will hide the insta-load and pagination options from the search results page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214267/original/yvkQAlHn6cNrLq6km9n-mFz28Uq8CheboA.png?1696350902 | alt: ]\n\n## Insta-Load Search Results Behavior\nThe admin can select how search results are fetched with the \"Load More Results\" button when the insta-load option is enabled.\nTo find the Insta-Load Results Behavior options go to:\nSettings >> Advanced Settings >> Insta-Load Search Results Button Behavior\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214601/original/WiIkBJ4JfYS-wjRx2VwCbIq1wRqof-r6ag.png?1696351265 | alt: ]\nThere are three available options to choose from:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214687/original/5682-HmIxXt4Vzt5HouBAeUsMa39Y-6-MQ.png?1696351335 | alt: ]\nLoad More Results Only When Button is Clicked: Visitor will need to click on the \"Load More Results\" button to see the new batch of results.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132626236/original/ACvbSH0lLImtqqAaLVGAawnBmHet7kJJ5Q.gif?1697067413 | alt: ]\nAuto-Load More Results When Button is Visible on Screen After Scrolling: This option will automatically load more results when the \"Load More Results\" button becomes visible\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214950/original/RCAsKWzuul-UyZTfhTCH-cay-ZEborXd8w.gif?1696351650 | alt: ]\nAuto-Load More Results When Button is Visible on Screen Just on Mobile: This option will only apply to mobile devices.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057290/original/5YD134HipJ7qWnabhdcM7AwcCgwFaM7i3Q.png?1619838541",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132203774/original/Hp1XpjtVbj6Z8PUrtBBvRGirtvPWPqeYDA.png?1696342160",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132203955/original/C6WEV9zkTSReQvrhzfjet-d4fNWDtVYB8A.png?1696342274",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132204359/original/FyzEntOQ_UVUen-sl49ncZENvs5Grpq9Hw.png?1696342609",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132204549/original/-3KlVe7dcisyV90gpT3f7CoQai31RBUgPQ.png?1696342739",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214267/original/yvkQAlHn6cNrLq6km9n-mFz28Uq8CheboA.png?1696350902",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214601/original/WiIkBJ4JfYS-wjRx2VwCbIq1wRqof-r6ag.png?1696351265",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214687/original/5682-HmIxXt4Vzt5HouBAeUsMa39Y-6-MQ.png?1696351335",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132626236/original/ACvbSH0lLImtqqAaLVGAawnBmHet7kJJ5Q.gif?1697067413",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214950/original/RCAsKWzuul-UyZTfhTCH-cay-ZEborXd8w.gif?1696351650",
+      "alt": ""
+    }
+  ],
+  "content_hash": "309b2d66301a48cc4ed95d2485f78a991aa6022bec5551bfa9d5099d5b03676e",
+  "ingested_at": "2026-10-17T14:36:28.805305+00:00"
+}

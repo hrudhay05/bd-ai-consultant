@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000067343-my-account",
+  "title": "My Account",
+  "text": "\n## My Account\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000067343\nAt the top right corner of the admin the \"My Account\" button can be found:\n﻿\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180811668/original/rFJF9E5gUoZzhwCnT8aHn6e_cA80j80IqA.png?1782136392 | alt: ]\nClicking on this button will display a dropdown that shows the admin account that is currently logged in.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172107062/original/beKIr_mdC6uer4ugTozCHIGdV5muegQjDA.png?1765990300 | alt: ]\nAlso, here are several useful shortcuts to:\nView My Websites – Opens the Account Dashboard.\nView My Tickets – Lists the account's support tickets.\nCreate New Ticket – Opens a new support ticket.\nAt the bottom, there's the option to Sign Out of the current account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172107119/original/j_87NEyq06Bv-ywE2o60qzxDLF7tODM-Og.png?1765990367 | alt: ]\n\n## Refer A Friend Program\nRefer someone to Brilliant Directories and earn 50% commission when they sign up and make a purchase. You'll get paid every time your referral completes a transaction.\n»» Refer a Friend\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172107209/original/7mbd6JzESZwomH7p5bJcmhe1VGO1Q8CVtQ.png?1765990413 | alt: ]\n\n## Account Settings\nThe admin account's own profile, sign-in and notification settings are managed from the Account Dashboard rather than from this menu. In the Account Dashboard, click the admin name at the top right to reach them, or see:\nAccount Dashboard » Update Profile\nAccount Dashboard » Login Settings\nAccount Dashboard » Verified Users\nAccount Dashboard » Change Password\nAccount Dashboard » Notification Settings",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180811668/original/rFJF9E5gUoZzhwCnT8aHn6e_cA80j80IqA.png?1782136392",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172107062/original/beKIr_mdC6uer4ugTozCHIGdV5muegQjDA.png?1765990300",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172107119/original/j_87NEyq06Bv-ywE2o60qzxDLF7tODM-Og.png?1765990367",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172107209/original/7mbd6JzESZwomH7p5bJcmhe1VGO1Q8CVtQ.png?1765990413",
+      "alt": ""
+    }
+  ],
+  "content_hash": "8a20027e81ed1e268a6ff16c4df2441bf82134d8b7f4afa39b8f2f2c419ea0bc",
+  "ingested_at": "2026-10-17T14:45:04.010263+00:00"
+}

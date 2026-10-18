@@ -1,0 +1,57 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000657865-predictive-keyword-search",
+  "title": "Predictive Keyword Search",
+  "text": "\n## Predictive Keyword Search\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000657865\nSearch functionality is a key element of any directory website… It’s how the users are able to find the information they need.\nThe Predictive Keyword Search add-on can help users find information on the website even faster. With this add-on, as a user begins typing their search term into the website’s search field they will instantly be presented with potential search results.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Predictive Keyword Search Add-On\n\n## Enabling the Add-On\nTo customize the auto-suggest on the website please follow these steps:\nGo to Developers Tools:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447705/original/MO8UE9DMqNGpwPTxPv8dkNZFpJk0G2PQLA.png?1630107474 | alt: ]\nClick on Autosuggest Settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447698/original/XMwffWbkT0Xvo432CfqzoKzjXazkabyUOQ.png?1630107427 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/5033775196/original/blob1440439599892.gif?1440439611 | alt: ]\nThese are the default options that we provide:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447732/original/bF9iJ6eZ4D05RwuPrj6_edS7Yfjs3W2-zg.png?1630107528 | alt: ]\nWhen any of the default options is being edited or created, they all have the same setting options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12118956367/original/CUjAROnYyA7KyAp4ZQuTGUGcgo3K3IiMCA.png?1671733677 | alt: ]\nUse a Class or ID: It is always recommend to select \"Class\".\nEnable Auto-Suggest After How Many Characters: This is the number of characters a website visitor needs to enter before the auto-suggest starts to show options.\nMaximum Auto-Suggest Limit: The total number allowed to be shown. If there area total of 25 possible results, but the limit is 10, only ten lines will show(1 header and 9 results), respected the order that it was set in the \"Select the features the admin would like to be searched in the autosuggest rule\" section. Keep in mind that the number set here includes the heading of each section.\nExample: If the maximum Autosuggest limit is set to 2\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119086796/original/5vl4aYAaUQPLKu8LNaGZHXl0W_WOenZBsg.png?1672168400 | alt: ]\nIt will show the Header and just one listing.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119087135/original/x7M723z0wlml-JNdQmoPDxLeUCpHRMIeyA.png?1672168781 | alt: ]\nAuto-Suggest Rule Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086685851/original/xoFeXeZl7NF5oAFIn53s-JHs5P6GYN_3VA.png?1608734906 | alt: ]\nEnable Listings: This decides whether or not listings will appear in the auto-suggest. The same setting is available for all features and categories as well.\nLimit: The amount of listings that will display so long as the max limit has not already been reached.\nPhoto: This allows the admin to decide whether or not a photo will display in the auto-suggest. We suggest turning this on for Listings and all features.\nLink: Turning this on will automatically take the visitor to the next page. Turning this off will auto-fill the box with that entry, but still allow the visitor to add a location. We suggest setting categories to \"no\" and the rest \"yes\".\nShow Header: The \"Header\" is the main title for that section. The following image shows three features that have \"Show Header\" as \"Yes\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447784/original/--FhxQfia9JAahVz2ug664v1yzZdGLv_-A.png?1630107934 | alt: ]\nLocation: If \"Yes\" is selected, the location for that member or data post will show in the auto-suggest. In the image above, \"Listings\" have this set to \"yes\".\nDetails : This will add a second line of information in the auto-suggest. The details vary on the item selected:\nListing Details = The top-level category\nSub-Categories Details = The top-level category. If it is a sub-sub, it will show the parent category (sub-level)\nAll Feature Details = They will show the name of the Feature. Some customers prefer to use this instead of the \"Show Header\" option.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075252347/original/ylWjmcI79liIL7FiexS-0UPUdchDT4_S2A.gif?1584457149 | alt: ]\nThe highlighted modules are the ones active on the rule that's being edited:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075252142/original/Sv_4CP7qAeFT8Kv1yy94Jt8fdXOYp-dC-w.png?1584456928 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447789/original/3H4ZnzpcTByfTgvm-ZLImGevpBGK41Qg3g.png?1630107990 | alt: ]\nThis tool will reset all the settings to their default version and delete any updates the admin have completed so far.\nTo learn more about this add-on, please read this article: How To Edit Keyword Search Autosuggest Settings For Member Searches",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447705/original/MO8UE9DMqNGpwPTxPv8dkNZFpJk0G2PQLA.png?1630107474",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447698/original/XMwffWbkT0Xvo432CfqzoKzjXazkabyUOQ.png?1630107427",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/5033775196/original/blob1440439599892.gif?1440439611",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447732/original/bF9iJ6eZ4D05RwuPrj6_edS7Yfjs3W2-zg.png?1630107528",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12118956367/original/CUjAROnYyA7KyAp4ZQuTGUGcgo3K3IiMCA.png?1671733677",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119086796/original/5vl4aYAaUQPLKu8LNaGZHXl0W_WOenZBsg.png?1672168400",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119087135/original/x7M723z0wlml-JNdQmoPDxLeUCpHRMIeyA.png?1672168781",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086685851/original/xoFeXeZl7NF5oAFIn53s-JHs5P6GYN_3VA.png?1608734906",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447784/original/--FhxQfia9JAahVz2ug664v1yzZdGLv_-A.png?1630107934",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075252347/original/ylWjmcI79liIL7FiexS-0UPUdchDT4_S2A.gif?1584457149",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075252142/original/Sv_4CP7qAeFT8Kv1yy94Jt8fdXOYp-dC-w.png?1584456928",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447789/original/3H4ZnzpcTByfTgvm-ZLImGevpBGK41Qg3g.png?1630107990",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7bab46dd84d76b826498e9580dfe2570cef7cffe966d1c717222f78869d3f14f",
+  "ingested_at": "2026-10-17T10:27:02.631181+00:00"
+}

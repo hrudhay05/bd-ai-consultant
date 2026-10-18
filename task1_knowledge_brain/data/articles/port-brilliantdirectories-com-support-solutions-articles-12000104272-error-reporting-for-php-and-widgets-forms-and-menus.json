@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000104272-error-reporting-for-php-and-widgets-forms-and-menus",
+  "title": "Error Reporting for PHP and Widgets, Forms, and Menus",
+  "text": "\n## Error Reporting for PHP and Widgets, Forms, and Menus\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000104272\nError handling has been improved across all BD websites, including widgets, forms, and menus.\nInstead of pages or features failing to load silently, regular users will now see clear and friendly messages when something doesn’t work as expected. Admins get more detailed information to help identify and resolve issues quickly. For more complex situations, our support team continues to receive full technical details to provide additional help.\nThe PHP errors will show up on these sections:\nWidgets\nForms\nMenus\n\n## Minor Errors\nThese are the kinds of errors that will break certain functionality, like a search bar, but not the entire page.\n\n## Website Member/User for Widgets\nIn this example, the header search module is missing. Users won't see the error, the section will simply not appear.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160884055/original/98vrPFTr8OzSG7TclmHUlqrXTFc2JV6jJQ.png?1746497857 | alt: ]\n\n## Website Admins for Widgets\nThere will be more information available when a website admin is logged in. The widget name and/or PHP error will be displayed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160882608/original/t0de5HB_WIMvfRtxY8C4vpZglUHdBdXCUw.png?1746493786 | alt: ]\n\n## Website Member/User for Forms\nIn this example, the Website - Contact Us form is missing. Users won't see the error, the page will simply show blank.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496255/original/RZu_hX3ZhbnKZAlhg_xo-shedx2QSPc7Dg.png?1747603631 | alt: ]\n\n## Website Admins for Forms\nThere will be more information available when a website admin is logged in. The form name and/or PHP error will be displayed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496245/original/zodG-1RxrZFUG7qAdt3oUR-Ntp502sZOiQ.png?1747603591 | alt: ]\n\n## Website Member/User for Menus\nIn this example, the footer menu is missing. Users won't see the error, the section will simply not appear.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496362/original/d2kJ5pLAW_yq7Y8PgIIkrmyvm9HJfFl29Q.png?1747604244 | alt: ]\n\n## Website Admins for Menus\nThere will be more information available when a website admin is logged in. The menu name and/or PHP error will be displayed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496381/original/Ia6VPFdeuxOBnIMda92M8d3X1DHVxPUtWA.png?1747604324 | alt: ]\nThis also appears when the website is in \"edit mode\" accessible through the admin bar.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160882611/original/irclxZUH27fbkGOzGkrYXmbTZRBjP5ipUg.png?1746493795 | alt: ]\n» How to Locate Widgets, Sidebars, Menus, and Forms Via Admin Bar\n\n## Critical Errors\nThese kinds of errors will shut down an entire site or page.\nThese errors will automatically notify our technical team so they can investigate the issue.\n\n## Website Member/User\nThere will be a message indicating that the site cannot load the page with an option to return to the homepage.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160883588/original/tjZX0R4Ci41244tGL9qXJa5Nkano1TUelA.jpeg?1746496769 | alt: ]\n\n## Website Admins\nThere will be more information available when a website admin is logged in. The widget name and/or PHP error will be displayed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160884103/original/JiiY-OzNUxF13lE2we94a3YV7xXNpcoODQ.jpeg?1746498012 | alt: ]\n\n## Brilliant Directories Support\nOur technical and support teams will be able to see in-depth information about the error so we can quickly resolve the fatal error presented by the website.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160882321/original/Fsdlxa1CVsHg5Z6Bc2kVInS4tHolMkdBxw.png?1746493216 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160884055/original/98vrPFTr8OzSG7TclmHUlqrXTFc2JV6jJQ.png?1746497857",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160882608/original/t0de5HB_WIMvfRtxY8C4vpZglUHdBdXCUw.png?1746493786",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496255/original/RZu_hX3ZhbnKZAlhg_xo-shedx2QSPc7Dg.png?1747603631",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496245/original/zodG-1RxrZFUG7qAdt3oUR-Ntp502sZOiQ.png?1747603591",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496362/original/d2kJ5pLAW_yq7Y8PgIIkrmyvm9HJfFl29Q.png?1747604244",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496381/original/Ia6VPFdeuxOBnIMda92M8d3X1DHVxPUtWA.png?1747604324",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160882611/original/irclxZUH27fbkGOzGkrYXmbTZRBjP5ipUg.png?1746493795",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160883588/original/tjZX0R4Ci41244tGL9qXJa5Nkano1TUelA.jpeg?1746496769",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160884103/original/JiiY-OzNUxF13lE2we94a3YV7xXNpcoODQ.jpeg?1746498012",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160882321/original/Fsdlxa1CVsHg5Z6Bc2kVInS4tHolMkdBxw.png?1746493216",
+      "alt": ""
+    }
+  ],
+  "content_hash": "da141ee047171e12ca620cbb699ecd3867eabd30d4fe897beb40fd5da1082d09",
+  "ingested_at": "2026-10-17T15:34:23.076072+00:00"
+}

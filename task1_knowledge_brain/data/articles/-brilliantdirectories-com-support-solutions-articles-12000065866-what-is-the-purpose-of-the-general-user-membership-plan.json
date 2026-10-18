@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000065866-what-is-the-purpose-of-the-general-user-membership-plan",
+  "title": "What is the Purpose of the “General User” Membership Plan",
+  "text": "\n## What is the Purpose of the “General User” Membership Plan\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000065866\nWebsite admins are encouraged to create their own membership plans to match their website goals.\nNewly launched websites include several default membership plans, including the “General User” membership plan.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172829989/original/O2dA70ymdYQYY3yLaZCbiZOSiAo_w6V3qw.png?1767706175 | alt: ]\nThe General User membership plan is intended for visitors and individuals who want to be part of the directory to:\nSearch for members because the site may offer members-only access.\nIndividuals who want access to benefits available only to directory members.\nUse the Favorites Add-on functionality to save posts and member profiles that are searchable on the website.\nBy default, this profile type is non-searchable and cannot create posts. However, the admin can update the settings to make these profiles searchable and allow them to publish content.\nIf the settings need to be updated, go to Finance » Membership Plans » General User » Edit:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830209/original/EDS5OQDg9zVRlMO8x-z4FTvAVWb3XWjosg.png?1767706442 | alt: ]\nThe following articles explain how to make these profiles searchable and allow content posting:\nFinance » Membership Plans - Search Visibility\nFinance » Membership Plans - Post Publishing\nAnother important difference is that this plan collects less information during registration.\nThis plan uses the ‘Listing - Contact Details - General User’ contact details form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830287/original/IRcxiUuR9gp99HCyXSiwjWGIy95liI36VQ.png?1767706507 | alt: ]\nThis form contains fewer fields than the Listing - Contact Details - Member form. The Additional Details section is also disabled by default:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830326/original/dzXhW8fF7kbPR0PXS-E9SxFPkTHHflQKVQ.png?1767706572 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172829989/original/O2dA70ymdYQYY3yLaZCbiZOSiAo_w6V3qw.png?1767706175",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830209/original/EDS5OQDg9zVRlMO8x-z4FTvAVWb3XWjosg.png?1767706442",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830287/original/IRcxiUuR9gp99HCyXSiwjWGIy95liI36VQ.png?1767706507",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830326/original/dzXhW8fF7kbPR0PXS-E9SxFPkTHHflQKVQ.png?1767706572",
+      "alt": ""
+    }
+  ],
+  "content_hash": "675045bf53195386a139001d2f7eb3cd1607608375f270a7ffe8768fd46ec166",
+  "ingested_at": "2026-10-17T14:44:41.946618+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000000583-database-administration",
+  "title": "Database Administration",
+  "text": "\n## Database Administration\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000000583\nThe MySQL Database Manager allows direct access to the website database for querying, updating, and deleting records.\nImportant\nChanges made directly to the database are permanent in most cases. Before executing any SQL statement, create a complete database backup and verify that the query targets the intended records.\n\n## Access the Database Manager\nNavigate to Developer Hub .\nSelect MySQL Database .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181046489/original/qBTpryn029mpwwYvjnK7FBmmi-n7ITy-nQ.png?1782417030 | alt: ]\nSelect the desired database from the left navigation panel.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181046578/original/H6aIm-_abIKW7Qd7-bkVr0TefGlDEd4EPA.png?1782417140 | alt: ]\nSelect the table to query.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181046645/original/OBd0ngQj-FV-BU6c0zusrGOArsIc6hfWHA.png?1782417213 | alt: ]\nSelect the SQL tab.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181046698/original/ZIkV1kuN18Jd7cUEspg4uLyPIwez9LPKUw.png?1782417281 | alt: ]\nThe SQL editor is now ready to execute queries.\n\n## Retrieve Data\nThe SELECT statement retrieves information without modifying the database.\n\n## Retrieve all members\nThe asterisk ( * ) returns every column in the selected table.\n\n## Retrieve specific columns\nOnly the selected columns are returned.\n\n## Filter results with WHERE\nRetrieve members assigned to membership level 1.\n\n## Filter multiple conditions with AND\nRetrieve active members assigned to membership level 1.\n\n## Exclude values with NOT\nThe same result can be achieved using:\n\n## Match one of multiple values with OR\n\n## Retrieve a range with BETWEEN\nThis query returns members assigned to membership levels 1 through 4.\n\n## Match specific values with IN\nThe IN operator is useful when matching several specific values.\n\n## Update Data\nThe UPDATE statement modifies existing records.\n\n## Update membership levels\nThe following example changes every member assigned to membership level 1 to membership level 2 .\n\n## Update records matching multiple conditions\nThe following example updates only active members.\nThe same filtering operators used with SELECT ( WHERE , AND , OR , IN , and BETWEEN ) can also be used with UPDATE .\n\n## Delete Data\nThe DELETE statement permanently removes records.\n\n## Delete members from a membership level\n\n## Delete records matching multiple conditions\nOnly records matching every condition are removed.\n\n## Summary\nThe SQL statements most commonly used for database administration are:\nStatement Purpose SELECT Retrieve data UPDATE Modify existing records DELETE Permanently remove records\nAlways verify the affected records with a SELECT query before executing an UPDATE or DELETE statement.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181046489/original/qBTpryn029mpwwYvjnK7FBmmi-n7ITy-nQ.png?1782417030",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181046578/original/H6aIm-_abIKW7Qd7-bkVr0TefGlDEd4EPA.png?1782417140",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181046645/original/OBd0ngQj-FV-BU6c0zusrGOArsIc6hfWHA.png?1782417213",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181046698/original/ZIkV1kuN18Jd7cUEspg4uLyPIwez9LPKUw.png?1782417281",
+      "alt": ""
+    }
+  ],
+  "content_hash": "bb563088bd6cd525e54c9ddfa7963f8bbe946c4356e3f26021c7536da660dfed",
+  "ingested_at": "2026-10-17T14:08:16.593229+00:00"
+}

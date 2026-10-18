@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000059945-type-of-links-that-are-supported-on-menu-builder",
+  "title": "Type Of Links That Are Supported on Menu Builder",
+  "text": "\n## Type Of Links That Are Supported on Menu Builder\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000059945\nThis article outlines all supported link types accepted by the Menu Builder. Links are entered in the URL field when editing a menu item under Toolbox >> Menu Manager :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180239128/original/5JqZpgmGV0rITYvuytUZZ6wpIzLSYiYo_w.png?1781151096 | alt: ]\nRelative links (e.g., /join ) — Recommended for pages on the same website. Because they don't include the domain, they keep working even if the site's domain changes.\nExternal links to secure pages (e.g., https://example.com ) — Full URLs pointing to other websites over HTTPS.\nExternal links to non-secure pages (e.g., http://example.com ) — Supported, but not recommended; modern browsers flag HTTP destinations as \"not secure.\"\nAnchor links (e.g., #section2 ) — Jump to a specific section of a page. The target page must contain an element with a matching ID for the link to work.\nEmail links (e.g., mailto:someone@example.com ) — Open the visitor's default email application with the address pre-filled.\nMobile call links (e.g., tel:+4733378901 ) — Open the phone dialer on mobile devices.\nFor more information about different link types, refer to the following article: https://www.w3schools.com/tags/tag_a.asp",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180239128/original/5JqZpgmGV0rITYvuytUZZ6wpIzLSYiYo_w.png?1781151096",
+      "alt": ""
+    }
+  ],
+  "content_hash": "92bc3ca15ac6973e82c8addf8268432d2ac26c67e467779c2604e17c7d6f54be",
+  "ingested_at": "2026-10-17T14:43:36.785960+00:00"
+}

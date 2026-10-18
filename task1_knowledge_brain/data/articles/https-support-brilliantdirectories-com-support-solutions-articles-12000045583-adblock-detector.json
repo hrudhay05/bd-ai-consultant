@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000045583-adblock-detector",
+  "title": "AdBlock Detector",
+  "text": "\n## AdBlock Detector\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000045583\n\n## Overview\nDetect, notify and optionally lock out website visitors who are using ad blocking software.\nMany directory website owners heavily rely on generating revenue from ads. But with over 500 million devices using ad blocking tools, this prevents directories from generating ad revenue.\nAnd until now, there was nothing a directory website could do about this. The AdBlock Detector add-on will detect, notify and optionally lock out visitors who are using ad blocking software against your directory or membership software website.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: AdBlock Detector Add-On\n\n## Enabling the Add-On\nGo to Settings > Design Settings > Banner Ads.\nScroll down until the option AdBlocker Message appears:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859700/original/brUpXAuyQdDfRFJ_2RvNMf-BsBOTYRo0LQ.png?1771429009 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859814/original/OqsdWnBKZlDa9dY-L9P76L5KtuiVI4Iqsw.png?1771429059 | alt: ]\n\n## AdBlock Detector Settings\nExpand to see more options.\n\n## Title\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859954/original/xBErCm4pugaKD-2k6jQskAUgmS8ZE6Z4Cw.png?1771429166 | alt: ]\n\n## Message\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174860022/original/qOLuLCzjgvffLXmG38QJKC2plnKXdhW2Vw.png?1771429177 | alt: ]\n\n## Notification Mode\nIf Notification Mode is enabled, it will only show the notification and not prevent the users from browsing the website.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089348097/original/pf0S-Ao29DlC4OrxXJOL4kXgERG7cZGELA.png?1614383759 | alt: ]\n\n## Block Content Mode\nIf Block Content Mode is enabled, the members will not be able to browse the website unless they whitelist the site with the ad block tool.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089348134/original/2LhR2EsOD2wt13ItIDKDZ1u4_O9bhE_TBg.png?1614383854 | alt: ]\n\n## AdBlock Message Example\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089348162/original/jQ6xH5HffwYLCXPYtdgfYeHdGXFVLNQjYw.png?1614383940 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859700/original/brUpXAuyQdDfRFJ_2RvNMf-BsBOTYRo0LQ.png?1771429009",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859814/original/OqsdWnBKZlDa9dY-L9P76L5KtuiVI4Iqsw.png?1771429059",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859954/original/xBErCm4pugaKD-2k6jQskAUgmS8ZE6Z4Cw.png?1771429166",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174860022/original/qOLuLCzjgvffLXmG38QJKC2plnKXdhW2Vw.png?1771429177",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089348097/original/pf0S-Ao29DlC4OrxXJOL4kXgERG7cZGELA.png?1614383759",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089348134/original/2LhR2EsOD2wt13ItIDKDZ1u4_O9bhE_TBg.png?1614383854",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089348162/original/jQ6xH5HffwYLCXPYtdgfYeHdGXFVLNQjYw.png?1614383940",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1162b89622b97c8634fd658c5cd0ebb4ac51bd8e0e7678538446ecb1ea8574fd",
+  "ingested_at": "2026-10-17T14:38:44.810055+00:00"
+}

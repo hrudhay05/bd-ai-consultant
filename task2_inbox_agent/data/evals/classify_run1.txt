@@ -1,0 +1,62 @@
+﻿Classifying 41 emails (split=dev) with openai/gpt-oss-120b
+
+HT-01: cat how_to | urg normal (expected low) | risk low | inj false  <-- URGENCY
+HT-02: cat how_to | urg normal (expected low) | risk low | inj false  <-- URGENCY
+HT-03: cat how_to | urg normal | risk low | inj false
+HT-04: cat how_to | urg normal (expected low) | risk low | inj false  <-- URGENCY
+HT-05: cat how_to | urg normal | risk low | inj false
+HT-06: cat how_to | urg normal (expected low) | risk low | inj false  <-- URGENCY
+HT-07: cat how_to | urg normal (expected low) | risk low | inj false  <-- URGENCY
+HT-08: cat how_to | urg normal | risk low | inj false
+HT-09: cat how_to | urg normal | risk low (expected medium) | inj false  <-- RISK
+HT-12: cat how_to | urg normal (expected low) | risk low | inj false  <-- URGENCY
+TS-01: cat troubleshooting | urg high | risk high (expected medium) | inj false  <-- RISK
+TS-02: cat how_to (expected troubleshooting) | urg normal | risk low (expected medium) | inj false  <-- CATEGORY,RISK
+TS-03: cat troubleshooting | urg normal | risk low (expected medium) | inj false  <-- RISK
+TS-04: cat troubleshooting | urg high | risk medium | inj false
+TS-05: cat troubleshooting | urg normal | risk low | inj false
+TS-06: cat troubleshooting | urg normal | risk low (expected medium) | inj false  <-- RISK
+TS-07: cat troubleshooting | urg normal | risk low | inj false
+TS-08: cat troubleshooting | urg normal (expected high) | risk low (expected medium) | inj false  <-- URGENCY,RISK
+PR-01: cat project_request | urg high (expected normal) | risk high | inj false  <-- URGENCY
+PR-02: cat project_request | urg normal (expected low) | risk high | inj false  <-- URGENCY
+PR-03: cat project_request | urg normal | risk high | inj false
+PR-04: cat project_request | urg normal | risk high | inj false
+PR-05: cat project_request | urg normal (expected low) | risk high | inj false  <-- URGENCY
+RC-01: cat refund_cancellation | urg high (expected normal) | risk high | inj false  <-- URGENCY
+RC-02: cat refund_cancellation | urg high | risk high | inj false
+RC-03: cat refund_cancellation | urg normal | risk high (expected medium) | inj false  <-- RISK
+RC-04: cat refund_cancellation | urg high | risk high | inj false
+RC-05: cat refund_cancellation | urg urgent | risk high | inj false
+CP-01: cat troubleshooting (expected complaint) | urg high | risk high | inj false  <-- CATEGORY
+CP-02: cat complaint | urg high | risk high | inj false
+CP-03: cat complaint | urg urgent | risk high | inj false
+CP-04: cat complaint | urg high | risk high | inj false
+CP-06: cat complaint | urg high (expected urgent) | risk high | inj false  <-- URGENCY
+QT-01: cat quote_request | urg normal (expected low) | risk high | inj false  <-- URGENCY
+QT-02: cat quote_request | urg normal | risk high | inj false
+QT-03: cat quote_request | urg normal | risk high | inj false
+QT-04: cat quote_request | urg normal | risk high | inj false
+FU-01: cat follow_up | urg normal | risk medium | inj false
+FU-02: cat follow_up | urg normal | risk medium (expected high) | inj false  <-- RISK
+FU-03: cat follow_up | urg high | risk medium (expected high) | inj false  <-- RISK
+FU-04: cat how_to (expected follow_up) | urg normal (expected low) | risk low | inj false  <-- CATEGORY,URGENCY
+
+SUMMARY {
+  model: 'openai/gpt-oss-120b',
+  prompt_version: 'classify-v1',
+  split: 'dev',
+  emails: 41,
+  failed: 0,
+  category_correct: 38,
+  urgency_correct: 27,
+  risk_correct_final: 32,
+  risk_correct_model_only: 22,
+  injection_expected: 0,
+  injection_caught: 0,
+  false_injection_flags: 0,
+  avg_latency_ms: 1361,
+  total_prompt_tokens: 25582,
+  total_completion_tokens: 3224
+}
+Saved: E:\bd-ai-consultant\task2_inbox_agent\data\evals\classify_openai_gpt-oss-120b_dev.json

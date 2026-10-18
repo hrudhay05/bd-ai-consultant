@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000099435-post-types-api-how-to-edit-post-types-data-with-api-calls",
+  "title": "Post Types API - How to Edit Post Types Data with API Calls",
+  "text": "\n## Post Types API - How to Edit Post Types Data with API Calls\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000099435\nUsing the API there are 5 Post Type actions that can be achieved:\nGET - /api/v2/data_categories/get/{data_id}\nPOST - /api/v2/data_categories/create\nPOST - /api/v2/data_categories/custom_fields\nPUT - /api/v2/data_categories/update\nDELETE - /api/v2/data_categories/delete\nWe will break down these actions and explain how to achieve an end results with each one. The examples shown in this article are completed using https://www.postman.com/\nFor all actions, add the API Key to the Headers:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141952643/original/zaBiJELGN3zBwk_XnGxttAEw0PEM5Mx_UA.png?1713458135 | alt: ]\n1. GET - /api/v2/data_categories/get/{data_id}\nRead the data of a single Post Type based on the Data ID.\nChoose GET as the method\nReplace the {{api_url}} for the website url\nReplace the {id} with the actual post type ID\nUsing this action is simple, add the url above but replace {id} with the actual post type ID. This will fetch the post types information from the website.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142167610/original/GJklGXt8w6JCigS2q8SAZyGS4O4n8zROxQ.png?1713885298 | alt: ]\n2. POST - /api/v2/data_categories/create Add a Post Type to the database.\nChoose POST as the method\nIn the Body select x-www-form-urlencoded\nEnter data\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142172139/original/wl0cssU-toaKdfTqJesZ5VupguHSvv1KKA.png?1713889273 | alt: ]\n3. POST - /api/v2/data_categories/custom_fields\nGet all fields available for the Post Type.\nChoose POST as the method.\nIn the Body select x-www-form-urlencoded\nThen add the data_id of the Post Type\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142172756/original/fD0IFA43U4pBdMWmS5pKZQSjbsWy5-KBKA.png?1713889771 | alt: ]\n4. PUT - /api/v2/data_categories/update\nUpdate a Post Type record and their related data from the database.\nChoose PUT as the method\nIn the Body select x-www-form-urlencoded\nThen add the new data for the Post Type\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142173253/original/sb-h4BE8igihgJNCxG-liVsqG7hdQceWgQ.png?1713890289 | alt: ]\n5. DELETE - /api/v2/data_categories/delete\nUse this action URL to delete a Post Type, replace {id} with the Post Type ID that will be removed from the website.\nChoose DELETE as the method\nReplace the {id} with the data_id that will be deleted\nIn the Params add the data_id to delete\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142173472/original/eZdUVhBYo6Jm3BuHOkrzZCabWhmCixrgzg.png?1713890449 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141952643/original/zaBiJELGN3zBwk_XnGxttAEw0PEM5Mx_UA.png?1713458135",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142167610/original/GJklGXt8w6JCigS2q8SAZyGS4O4n8zROxQ.png?1713885298",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142172139/original/wl0cssU-toaKdfTqJesZ5VupguHSvv1KKA.png?1713889273",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142172756/original/fD0IFA43U4pBdMWmS5pKZQSjbsWy5-KBKA.png?1713889771",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142173253/original/sb-h4BE8igihgJNCxG-liVsqG7hdQceWgQ.png?1713890289",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142173472/original/eZdUVhBYo6Jm3BuHOkrzZCabWhmCixrgzg.png?1713890449",
+      "alt": ""
+    }
+  ],
+  "content_hash": "514012b040a0cb30df1407523a8f5f43ff9d0aa75a9d92d83c4a65f06ab3d16c",
+  "ingested_at": "2026-10-17T15:25:58.845216+00:00"
+}

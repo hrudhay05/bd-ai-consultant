@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000061470-how-to-identify-forms-in-the-frontend-via-the-admin-bar",
+  "title": "How to Identify Forms in the Frontend via the Admin Bar",
+  "text": "\n## How to Identify Forms in the Frontend via the Admin Bar\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000061470\nThe Admin Bar is a tool that helps directory owners make live design edits on the front end. It also serves to locate SEO Templates, Static Web Pages, Widgets, Forms, Menus, and more. This article focuses on locating forms with this tool.\n1. After logging into the admin, click the Visit Website button to open the homepage:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302772/original/YSDf1VLxZfBzy9Z0_wAWieypflY5LyKYww.png?1781236268 | alt: ]\n2. While logged in as an admin, the Admin Bar appears across the top of the website. Click the Show Widgets option in the Admin Bar to display all the Widgets, Forms, and Menus being used on the page currently being viewed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302793/original/VxoIR_V-YY6uOjh_hZ7SIztgq_KJA_r1fw.png?1781236455 | alt: ]\n3. In this view, every widget, form, and menu on the page is labeled and color-coded: items with a blue background are customized versions, and items with a red background are unmodified defaults.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302849/original/eLD07PyCSWuFlvVv2n9XqZe2pHvGeJXXSw.png?1781236707 | alt: ]\nThe label shows the exact name of each form, which can then be searched for in Toolbox >> Form Manager to edit it.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302880/original/_E6-5ctKaMGfbaZ13Qj6FDqbHxk8ZaqOLw.png?1781236805 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302772/original/YSDf1VLxZfBzy9Z0_wAWieypflY5LyKYww.png?1781236268",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302793/original/VxoIR_V-YY6uOjh_hZ7SIztgq_KJA_r1fw.png?1781236455",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302849/original/eLD07PyCSWuFlvVv2n9XqZe2pHvGeJXXSw.png?1781236707",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302880/original/_E6-5ctKaMGfbaZ13Qj6FDqbHxk8ZaqOLw.png?1781236805",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1ac2fc875869ad9f20086d5c56bb3db0c6e13dce138cf2fa72e19e2bc0f6025b",
+  "ingested_at": "2026-10-17T14:43:53.393176+00:00"
+}

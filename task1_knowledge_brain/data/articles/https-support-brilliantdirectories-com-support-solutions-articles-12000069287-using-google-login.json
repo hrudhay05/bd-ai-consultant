@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069287-using-google-login",
+  "title": "Using Google Login",
+  "text": "\n## Using Google Login\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000069287\nGoogle Login allows members to create a membership or sign in with a linked Google account. The add-on must be activated and enabled for the applicable membership plan before use.\nIf Google login credentials haven't been set up yet, please follow this article:\nActivating Google Login Add-On\n1. Once the set up has been completed, the admin will need to go to Finance - Membership Plans and edit the levels they  wish to grant this to.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027554/original/cbuW_2xfayEA7r-XknqpJD0Dks-45oTbjw.png?1586274503 | alt: ]\n2. Go to the Member's Dashboard tab, and make sure this is set to YES.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027636/original/6HmT4M7MEl8ILN5iNqElY_6s7VPEq-WFqg.png?1586274619 | alt: ]\n3. Make sure to Save Product Details, even if it's already set to Yes.\nAfter setup, the Google login option appears throughout the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027708/original/9_I7VoqkM1GTxM9I_lNh74xPUTzOcr8zWw.png?1586274693 | alt: ]\nMembers can use the signup option to create a membership with a Google account:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027738/original/1KwzHquukL3M6AapS7QCusz8X7PLt_d3Mw.png?1586274730 | alt: ]\nExisting members can sign in using a linked Google account:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027750/original/Q6EHE4N7R1Tb8HGaiWTFbkoiqVHBt-jgfQ.png?1586274752 | alt: ]\nGoogle login works when the member signed up with that Google account or synced it from an existing member dashboard. A matching email address alone does not establish this link:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027993/original/xX-w2VwsH0r-thRqYtoc8CloLUJY-LttWg.png?1586275077 | alt: ]\nMembers with a password can remove the Google connection by selecting Unsync. Accounts without a password must set one first, as explained below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076028044/original/LDyCwd6Kdt6iRVqGL7TxEsqh2IMIIlWhpQ.png?1586275168 | alt: ]\n\n## Recovering Access When the Account Is Not Linked\nIf the selected Google account is not linked to a member profile, a message titled Google Account No Longer Linked provides a password recovery link. Using the same email address for both accounts does not automatically link them. This message alone does not confirm whether a membership exists for that email address.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185238317/original/RNTyalRlHv-BUVVrs4v9ArSPAzs1f2N68Q.png?1789496482 | alt: Google account not linked message with password recovery link]\nOpen the password recovery link in the message.\nEnter or confirm the email address associated with the existing membership.\nSubmit the password reset request.\nFor an existing account, follow the instructions in the password reset email to set a password.\nSign in with the membership email address and password.\nSync the Google account again from the member dashboard.\nOnce the account is synced, Google login can access that member profile again. The signup option is for creating a new membership, not for recovering an existing one.\n\n## Setting a Password Before Unsyncing\nA member account must have a password before its Google connection can be removed. If no password has been set, clicking Unsync displays Set a Password First and leaves the social account linked.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185238332/original/oDIsGA5A0ft6r78qX3WvigncBkW3EjhHTA.png?1789496509 | alt: Google message requiring a password before unsyncing]\nOpen the password link in the message. This logs the member out and opens password recovery with the member email address filled in.\nSubmit the password reset request.\nUse the emailed link to set a password.\nSign in with the membership email address and the new password.\nReturn to the member dashboard and click Unsync for Google.\nAfter unsyncing, the member can continue to sign in with the membership email address and password.\nFor additional login scenarios, see Common Mistakes with Google and Facebook Login .",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027554/original/cbuW_2xfayEA7r-XknqpJD0Dks-45oTbjw.png?1586274503",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027636/original/6HmT4M7MEl8ILN5iNqElY_6s7VPEq-WFqg.png?1586274619",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027708/original/9_I7VoqkM1GTxM9I_lNh74xPUTzOcr8zWw.png?1586274693",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027738/original/1KwzHquukL3M6AapS7QCusz8X7PLt_d3Mw.png?1586274730",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027750/original/Q6EHE4N7R1Tb8HGaiWTFbkoiqVHBt-jgfQ.png?1586274752",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027993/original/xX-w2VwsH0r-thRqYtoc8CloLUJY-LttWg.png?1586275077",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076028044/original/LDyCwd6Kdt6iRVqGL7TxEsqh2IMIIlWhpQ.png?1586275168",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185238317/original/RNTyalRlHv-BUVVrs4v9ArSPAzs1f2N68Q.png?1789496482",
+      "alt": "Google account not linked message with password recovery link"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185238332/original/oDIsGA5A0ft6r78qX3WvigncBkW3EjhHTA.png?1789496509",
+      "alt": "Google message requiring a password before unsyncing"
+    }
+  ],
+  "content_hash": "7a7c2af53402fe21748fb0c970884e900a2b3d189d55d7b9f98f029412a5bdf9",
+  "ingested_at": "2026-10-17T14:45:41.162035+00:00"
+}

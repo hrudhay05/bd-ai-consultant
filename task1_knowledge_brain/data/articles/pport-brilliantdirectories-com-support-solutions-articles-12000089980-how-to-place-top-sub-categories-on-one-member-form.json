@@ -1,0 +1,65 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000089980-how-to-place-top-sub-categories-on-one-member-form",
+  "title": "How To Place Top & Sub Categories on One Member Form",
+  "text": "\n## How To Place Top & Sub Categories on One Member Form\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000089980\nThe default workflow members use to select their Top and Sub Categories is described here:\nHow To Select Categories As A Member\nThe default workflow has members first select a Top Category in the Contact Details form and then select Sub Categories in the Listing Details form. However, some website owners may prefer that members select both the Top and Sub Categories in the same form.  This article shows how to customize either the Contact Details form or the Listing Details form to make this possible.\n\n## Categories Selection / Listing - Additional Details - Member Form\nFor this first example, we'll add both the Top and Sub Categories selection fields to the \"Listing - Additional Details - Member\" form.\nCustomize the Listing - Additional Details - Member form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114939310/original/7Sm8ExeYXlpb61BSANUEV7Wr1lAqjrdGTQ.png?1663857311 | alt: ]\nAdd a new field above the \"services\" field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114940220/original/OCZ-haEB0vv_TK_Pv3t6rC50WULR9_1beA.png?1663858018 | alt: ]\nSet up the new field with the following settings:\n1. Type of Field: Top Category List\n2. Field Label: %%%listing_top_category%%%\n3. Database Variable: profession_id\n4. Field Help Text: %%%listing_top_category_tooltip%%%\n5. Input View: Turn ON Input View , Turn OFF the other Display Settings .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114939933/original/a3WhRucDGV9Lr6ZkwoEoLw7GEq-7DAScdQ.png?1663857812 | alt: ]\nClick on Save Changes .\nLogin as a member and see the new method of selecting categories as a member:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114940338/original/nZ6x_coubs6UG_LNk1ejALEbwTMAZT6C6Q.png?1663858105 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114940330/original/vxuH0nZvI2LK-ss1lXH7sfDD1vyUD5FH-A.png?1663858098 | alt: ]\nPlease see how it looks on the Member Dashboard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114940473/original/qp6RXJ5ALQmv2T6Pd02aG3YhbfN8N5Mj0Q.gif?1663858232 | alt: ]\nNOTE: If the subcategories are not visible in the form, verify that the Member Specialties are enabled in the Post Publishing Tab for that Membership Plan.\nTo have the selection in just one form, the default field to select top-level categories must be deleted on the \"Listing - Contact Details - Form\". To complete this step, access the form and remove the default field called profession_id , go to Actions >> Delete Field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144898/original/KKgWbX0Kcxp4ZDu-5OU0_e7-Hobhq3J71A.png?1664295117 | alt: ]\n\n## Categories Selection / Listing - Contact Details - Member Form\nFor this first example, we'll add both the Top and Sub Categories selection fields to the \"Listing - Contact Details - Member\" form.\nCustomize the Listing - Contact Details - Member form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115143637/original/D451HJHYTgh3Q4Mw_Cxe86dunHuiPwMyZA.png?1664293914 | alt: ]\nAdd a new field below the \"profession_id\" field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144479/original/gqETK3qJc_b3wvUgTZsyOpkZOIER-S3_mg.png?1664294678 | alt: ]\nSet up the new field with the following settings:\n1. Type of Field: Custom HTML\n2. Field Label: [widget=Bootstrap Theme - Account - Select Categories]\n3. Database Variable: services\n4. Input View: Turn ON Input View , Turn OFF the other Display Settings .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115143952/original/Q5u10A9kdkn8NtigDjmHfrPVZ4scMtssmw.png?1664294160 | alt: ]\nClick on Save Changes .\nLogin as a member and see the new method of selecting categories as a member:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144092/original/YITkVZIYFaxox_bdOaxVi28F13oQ-vBUQQ.png?1664294309 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144164/original/coGzI0tgt4FHyXto8FE7ML7HdNLjQxGq0A.png?1664294377 | alt: ]\nPlease see how it looks on the Member Dashboard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144515/original/Xa9tswU00gkaQd5b0tsBuFr0OeBQMKSrDg.gif?1664294710 | alt: ]\nNOTE: If the subcategories are not visible in the form, verify that the Member Specialties are enabled in the Post Publishing Tab for that Membership Plan.\nTo have the selection in just one form, the default field to select subcategories must be deleted on the \"Listing - Additional Details - Form\". To complete this step, access the form and remove the default field called services , go to Actions >> Delete Field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144831/original/JZ-HpNcuxL1mbN5-E2SMMllZtFd1JuSjHg.png?1664295061 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114939310/original/7Sm8ExeYXlpb61BSANUEV7Wr1lAqjrdGTQ.png?1663857311",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114940220/original/OCZ-haEB0vv_TK_Pv3t6rC50WULR9_1beA.png?1663858018",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114939933/original/a3WhRucDGV9Lr6ZkwoEoLw7GEq-7DAScdQ.png?1663857812",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114940338/original/nZ6x_coubs6UG_LNk1ejALEbwTMAZT6C6Q.png?1663858105",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114940330/original/vxuH0nZvI2LK-ss1lXH7sfDD1vyUD5FH-A.png?1663858098",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114940473/original/qp6RXJ5ALQmv2T6Pd02aG3YhbfN8N5Mj0Q.gif?1663858232",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144898/original/KKgWbX0Kcxp4ZDu-5OU0_e7-Hobhq3J71A.png?1664295117",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115143637/original/D451HJHYTgh3Q4Mw_Cxe86dunHuiPwMyZA.png?1664293914",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144479/original/gqETK3qJc_b3wvUgTZsyOpkZOIER-S3_mg.png?1664294678",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115143952/original/Q5u10A9kdkn8NtigDjmHfrPVZ4scMtssmw.png?1664294160",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144092/original/YITkVZIYFaxox_bdOaxVi28F13oQ-vBUQQ.png?1664294309",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144164/original/coGzI0tgt4FHyXto8FE7ML7HdNLjQxGq0A.png?1664294377",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144515/original/Xa9tswU00gkaQd5b0tsBuFr0OeBQMKSrDg.gif?1664294710",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115144831/original/JZ-HpNcuxL1mbN5-E2SMMllZtFd1JuSjHg.png?1664295061",
+      "alt": ""
+    }
+  ],
+  "content_hash": "e2c325b6ae547cd40e947f84aed07bbcb2c1ed5070f92b836ce70ef7da0ed07d",
+  "ingested_at": "2026-10-17T15:01:01.406629+00:00"
+}

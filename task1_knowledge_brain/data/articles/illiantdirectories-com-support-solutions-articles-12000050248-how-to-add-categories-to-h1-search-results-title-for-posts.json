@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000050248-how-to-add-categories-to-h1-search-results-title-for-posts",
+  "title": "How to Add Categories to H1 Search Results Title for Posts",
+  "text": "\n## How to Add Categories to H1 Search Results Title for Posts\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000050248\nIf you wish to have your category show up in the H1 of your post search result, please follow along the steps below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12041931751/original/boY16xhJcD0dZ3axPVHrTtxlIXXBlAaGeA?1539293510 | alt: ]\n1. Go to Content - Edit Post Settings and select the feature you wish to add this to.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127318806/original/Z5UzKxw0EZNajz_gpe308QQMmVx7zbVUHg.png?1687449682 | alt: ]\n2. Click on the Search Results Tab.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12071661036/original/CrabocMEVco7fim7POcFVUeXONKuKk0cNg.png?1577805932 | alt: ]\n3. Copy and paste the code below into the Default H1 field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12041932975/original/042sKp_8FqhwBm8D7iqYoEdHCHOBwtLIbw?1539296267 | alt: ]\nThis will also work when you search multiple categories at the same time:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12041931941/original/0AsUEHj6GIbrDiK7vw7KXB_XkKZtGLp4UQ?1539294002 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12041931751/original/boY16xhJcD0dZ3axPVHrTtxlIXXBlAaGeA?1539293510",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127318806/original/Z5UzKxw0EZNajz_gpe308QQMmVx7zbVUHg.png?1687449682",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12071661036/original/CrabocMEVco7fim7POcFVUeXONKuKk0cNg.png?1577805932",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12041932975/original/042sKp_8FqhwBm8D7iqYoEdHCHOBwtLIbw?1539296267",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12041931941/original/0AsUEHj6GIbrDiK7vw7KXB_XkKZtGLp4UQ?1539294002",
+      "alt": ""
+    }
+  ],
+  "content_hash": "efd9789e234ab39593a43d917a92be4545a89505641347cfd557031e60947ae8",
+  "ingested_at": "2026-10-17T14:40:51.377319+00:00"
+}

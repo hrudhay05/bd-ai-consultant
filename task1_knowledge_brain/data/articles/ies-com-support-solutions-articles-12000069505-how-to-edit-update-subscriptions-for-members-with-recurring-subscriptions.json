@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069505-how-to-edit-update-subscriptions-for-members-with-recurring-subscriptions",
+  "title": "How to Edit / Update Subscriptions for Members with Recurring Subscriptions",
+  "text": "\n## How to Edit / Update Subscriptions for Members with Recurring Subscriptions\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000069505\nCurrently, subscriptions must be edited individually — including changes to the next billing date, amount, or billing cycle. Bulk updates for subscriptions are not currently available.\nTo modify an existing subscription, follow the steps below:\n1. Go to Members » Search Members\n2. Find the member\n3. Click on Actions » Payment History\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393739/original/VkT-RUCbWtKnjK2UvArFUZsQj5WKdX8Rhg.png?1620611270 | alt: ]\n4. Click the \"Subscriptions\" tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393743/original/J2230ExBnuuYLTnYzrLyAgNAxLX42A6KSA.png?1620611304 | alt: ]\n5. Then find the subscription that needs to be modified and click Actions »\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393747/original/v7MN4d2hD0c5kWYuEI-gR1J5mEV_7KNFBA.png?1620611341 | alt: ]\n6. In this section, 4 fields can be modified:\nPayment Amount\nBilling Cycle\nNext Payment Due Date\nDeletion of past-due/upcoming invoices\nInternal Subscription Notes can also be added at the bottom of the page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136719323/original/8x68AVRF__UTV8H0rlA_UUNOEsbZNGQkQQ.png?1704381385 | alt: ]\n7. After making the changes, click \"Continue & Save Changes\"\n8. The changes will be reflected here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393776/original/x4iDUBm1JRBL5v0GdIScnAI17zf8l1N3Jg.png?1620611455 | alt: ]\n\n## Additional Subscription Information\nCreate a new order (subscription): How To Manually Bill A Member / Create A Subscription For A Member\nCancel orders: How Do I Cancel Payment Subscriptions - Orders\nRefund a member: How Refunds Work\n\n## Subscription Expiration Date\nRecurring subscriptions do not have an expiration date. A recurring subscription ends when the paid membership plan is cancelled by the member or the admin.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393739/original/VkT-RUCbWtKnjK2UvArFUZsQj5WKdX8Rhg.png?1620611270",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393743/original/J2230ExBnuuYLTnYzrLyAgNAxLX42A6KSA.png?1620611304",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393747/original/v7MN4d2hD0c5kWYuEI-gR1J5mEV_7KNFBA.png?1620611341",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136719323/original/8x68AVRF__UTV8H0rlA_UUNOEsbZNGQkQQ.png?1704381385",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393776/original/x4iDUBm1JRBL5v0GdIScnAI17zf8l1N3Jg.png?1620611455",
+      "alt": ""
+    }
+  ],
+  "content_hash": "ee3b79b650efd5413c25bcdfc21164206352e1c5a2552bb4459924a87cfe9d2e",
+  "ingested_at": "2026-10-17T14:45:51.036643+00:00"
+}

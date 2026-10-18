@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000043444-creating-a-landing-page-with-froala-tables-and-pre-made-elements",
+  "title": "Creating a Landing Page with Froala Tables and Pre-Made Elements",
+  "text": "\n## Creating a Landing Page with Froala Tables and Pre-Made Elements\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000043444\nFollow the instructions below to learn how to create a landing page that looks like this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819944/original/g92CQJfvPv_l3yX115Sc0L1FYOuJM8CL_g.png?1782143109 | alt: ]\n1. Create a new static page. Click on this article for more information >> How to Create a New Static Page\n2. Add a single row using the table option in the Froala Editor . Add background color and text as desired. In this example, we have used different font sizes of 22 and 16, respectively; also some words are bold:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819258/original/Le7mdX6RGftY8NPfsqQEcZDp9OrptPkM2A.png?1782142500 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819500/original/uNAJPVLXvbUdzSly2jVHfjinb6D5v2bEZw.png?1782142715 | alt: ]\n3. Drag and drop the pre-made element \"Text with Image Left\" into the static page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819552/original/wWL9RV0gZS31XV8wuJnUeNXCDSUlHdeZ_w.png?1782142751 | alt: ]\n4. Add the image and text as needed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819729/original/asEuHFw2YEnSCGm4sJK3EryJtOZM6Fmg7w.png?1782142976 | alt: ]\n5. Edit the button text and link:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819767/original/jFsiWctrjxSEAGgUrnGCMlkVwupvJrtnMA.png?1782143019 | alt: ]\n6. Save the changes:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819843/original/T8cl0pBSqWjvM2izHgx3zVWJoBDzB-OOeg.png?1782143058 | alt: ]\nYou can also create this page using our integrated AI solutions. See: 1. BD Butler 2. Quick Create Wizard - Create Web Page",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819944/original/g92CQJfvPv_l3yX115Sc0L1FYOuJM8CL_g.png?1782143109",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819258/original/Le7mdX6RGftY8NPfsqQEcZDp9OrptPkM2A.png?1782142500",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819500/original/uNAJPVLXvbUdzSly2jVHfjinb6D5v2bEZw.png?1782142715",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819552/original/wWL9RV0gZS31XV8wuJnUeNXCDSUlHdeZ_w.png?1782142751",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819729/original/asEuHFw2YEnSCGm4sJK3EryJtOZM6Fmg7w.png?1782142976",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819767/original/jFsiWctrjxSEAGgUrnGCMlkVwupvJrtnMA.png?1782143019",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819843/original/T8cl0pBSqWjvM2izHgx3zVWJoBDzB-OOeg.png?1782143058",
+      "alt": ""
+    }
+  ],
+  "content_hash": "5f76a8ac379a68b4e1ccdcdf8f30c900bd0c35bcd473780d6eb9cb7a911e663d",
+  "ingested_at": "2026-10-17T14:37:58.979083+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000058553-highlight-member-results",
+  "title": "Highlight Member Results",
+  "text": "\n## Highlight Member Results\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000058553\n\n## Overview\nProvide certain members with an additional benefit – standing out amongst the crowd within the website’s search results. Highlight members of specific membership levels within the member search result pages of the website. Further differentiate members from different membership tiers by changing the highlight colors and design for each of them.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Highlight Member Results Add-On\n\n## Enabling the Add-On\n1. Go to Finance - Membership Plans:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092011000/original/oXosRGuUtKto7Jcla4Eu3uMM_Qy6p7wpnw.png?1619749417 | alt: ]\n2. Click Edit on the membership level the admin wish to add this to:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092011056/original/FtambharZMWUa8Mefa4L5rdXUupm3Wu8ew.png?1619749717 | alt: ]\n3. In the Search Visibility tab scroll all the way down until the option Highlight Member Profiles shows:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092011113/original/yOSfmGhy4Psdi44Dt4YMn2M3y1z5tG9TcQ.png?1619749868 | alt: ]\nThen choose Yes to enable it:\nThe admin will be able to make changes and see the preview on the right side:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057183793/original/YaFp_f_LSW_v74NneEyzY0xGauXRw4tczA.png?1569337520 | alt: ]\nThis will display depending on what the admin has selected to show across photo or above photo:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058825620/original/l6JzvS9YOusisBovjqkxQGku__eo5qewxg.png?1572274871 | alt: ]\nIf there are more questions about this, feel free to create a ticket HERE.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092011000/original/oXosRGuUtKto7Jcla4Eu3uMM_Qy6p7wpnw.png?1619749417",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092011056/original/FtambharZMWUa8Mefa4L5rdXUupm3Wu8ew.png?1619749717",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092011113/original/yOSfmGhy4Psdi44Dt4YMn2M3y1z5tG9TcQ.png?1619749868",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057183793/original/YaFp_f_LSW_v74NneEyzY0xGauXRw4tczA.png?1569337520",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058825620/original/l6JzvS9YOusisBovjqkxQGku__eo5qewxg.png?1572274871",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7d2d845cca09aa0d4b2ea9761ddfdd23fb60c31c7c91cb6c7187cc7c28aa2a49",
+  "ingested_at": "2026-10-17T14:43:10.228211+00:00"
+}

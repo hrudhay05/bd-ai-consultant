@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682651-how-to-edit-the-seo-social-media-elements-of-a-static-web-page",
+  "title": "How To Edit The SEO & Social Media Elements Of A Static Web Page",
+  "text": "\n## How To Edit The SEO & Social Media Elements Of A Static Web Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000682651\nTo edit the SEO and Social Media elements of a static Page, follow these steps.\nNavigate to My Content - Web Page Builder. Find the static page and click the Edit button to make changes.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172239939/original/oq2ucTyGlHRVix7_zDeP0aX4sXj90l0E3g.png?1766198634 | alt: ]\n\n## SEO Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172239977/original/lsSU3zSSDGq96hA073JMujP2ddE-0R_zLg.png?1766198902 | alt: ]\n\n## SEO Meta Tags\nAdd the Page Meta Title, Meta Description, and Meta Keywords for a custom page. Keep in mind that default pages will already have optimized SEO, including Default SEO Variables .\n\n## S earch Snippet Preview\nProvides a preview of how the page will appear in search engine results, such as on Google. This helps illustrate how the page is displayed to others when it shows up in search results\n\n## Social Media Sharing\nIn this section, it is possible to define the Social Media Title , Description, and Shared Image to display when the page is shared on social media. These details are already optimized on default pages, except for the image.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172239939/original/oq2ucTyGlHRVix7_zDeP0aX4sXj90l0E3g.png?1766198634",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172239977/original/lsSU3zSSDGq96hA073JMujP2ddE-0R_zLg.png?1766198902",
+      "alt": ""
+    }
+  ],
+  "content_hash": "ae136893ade1d265d231de1407f37ab62dc7a9c6b9e13236a4f922198a5097bc",
+  "ingested_at": "2026-10-17T14:07:31.112793+00:00"
+}

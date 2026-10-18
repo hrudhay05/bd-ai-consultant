@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000002791-how-to-add-a-sidebar-to-a-static-page",
+  "title": "How to Add a Sidebar to a Static Page",
+  "text": "\n## How to Add a Sidebar to a Static Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000002791\nTo add a sidebar to a static page, navigate to My Content » Web Page Builder and click \" Edit \" for an existing page, or click the New Web Page button to create a new one.\nHow to Create a New Static Page\nThe sidebar options are under the Display Options tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357262/original/sC8myGrVHsl9XyjF7LSF0ZaYGX8IHtg7lQ.png?1781309312 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357302/original/I4j7yPnG7ANQUNtQ02VZ_1dqn-mGkHgJ4w.png?1781309368 | alt: ]\nTwo settings on this tab control the sidebar:\n1. Show Sidebar - Select which sidebar this page will use:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357330/original/e8SIP58uAP8-iRIJsf9zeQB1tgtSRXkHSg.png?1781309438 | alt: ]\n2. Sidebar Position - Determines which side of the page the sidebar appears on:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357334/original/pzWEVgyGa7F53Ff5m3rUhzL2Lh4YFOCPLA.png?1781309496 | alt: ]\nThe Display Options tab also contains settings unrelated to sidebars, such as the breadcrumb trail and options to hide the header, footer, or banner ads.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357362/original/bTHljMCth8DEFRWwdHj--6elGjkciIXT_A.png?1781309600 | alt: ]\nThis is how the page looks after saving the new sidebar display settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357372/original/MxyO2I8MeBM1V7kscbQbUdW5cDb60CofBg.png?1781309707 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357262/original/sC8myGrVHsl9XyjF7LSF0ZaYGX8IHtg7lQ.png?1781309312",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357302/original/I4j7yPnG7ANQUNtQ02VZ_1dqn-mGkHgJ4w.png?1781309368",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357330/original/e8SIP58uAP8-iRIJsf9zeQB1tgtSRXkHSg.png?1781309438",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357334/original/pzWEVgyGa7F53Ff5m3rUhzL2Lh4YFOCPLA.png?1781309496",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357362/original/bTHljMCth8DEFRWwdHj--6elGjkciIXT_A.png?1781309600",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180357372/original/MxyO2I8MeBM1V7kscbQbUdW5cDb60CofBg.png?1781309707",
+      "alt": ""
+    }
+  ],
+  "content_hash": "4ef04590b16565d17db180705143dcc5c27b3a6dbb8249cdb897893576f087c6",
+  "ingested_at": "2026-10-17T16:52:40.462612+00:00"
+}

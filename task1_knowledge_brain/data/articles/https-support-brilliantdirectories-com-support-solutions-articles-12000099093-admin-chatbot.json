@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000099093-admin-chatbot",
+  "title": "Admin ChatBot",
+  "text": "\n## Admin ChatBot\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000099093\nThe Chatbot is a feature that is available for all Brilliant Directories websites. The chatbot is ⭐infused⭐ with ChatGPT powers + able to assist with general questions, troubleshooting and ideas.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647701/original/UUketdmNt_IuD0aY70dQ074IundsVbJ7vw.png?1753162306 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647724/original/Dg4T3Vxey1-k8uGrqb9Qo97FOkG8FJ2xqQ.png?1753162350 | alt: ]\nWith a few guardrails in place and queued to assume help with your BD website…\nPrimed to help with copywriting\nSocial media post ideas\nChatGPT 4 Capabilities\nCoding Suggestions and More!\nOur hope is to provide yet another support channel where BDers can get real-time answers + assistance using AI trained on BD documentation and with the power of ChatGPT 4.\nThe display for this feature has 3 options:\nShow Chatbot In The Admin\nshow_chatbot_admin\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647748/original/s6cjaCVk9U7pIeEDZdJYq9ddjLpzx-_3zQ.png?1753162421 | alt: ]\nHide\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647768/original/TxCGu5HbBvmIf4IlXTWffj_xs42H-X0bsw.png?1753162460 | alt: ]\nShow Icon Only\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647782/original/LwqY-0mcLnx_sVy7-45aoeh8VrAq5WNZ_w.png?1753162495 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647701/original/UUketdmNt_IuD0aY70dQ074IundsVbJ7vw.png?1753162306",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647724/original/Dg4T3Vxey1-k8uGrqb9Qo97FOkG8FJ2xqQ.png?1753162350",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647748/original/s6cjaCVk9U7pIeEDZdJYq9ddjLpzx-_3zQ.png?1753162421",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647768/original/TxCGu5HbBvmIf4IlXTWffj_xs42H-X0bsw.png?1753162460",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647782/original/LwqY-0mcLnx_sVy7-45aoeh8VrAq5WNZ_w.png?1753162495",
+      "alt": ""
+    }
+  ],
+  "content_hash": "dfeb751f05914be1bc6538d09c5f09c3f9c7bf6463fd978227ac53790c2d5a18",
+  "ingested_at": "2026-10-17T15:25:51.048907+00:00"
+}

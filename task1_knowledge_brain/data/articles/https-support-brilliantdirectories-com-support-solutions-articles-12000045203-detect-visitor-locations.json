@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000045203-detect-visitor-locations",
+  "title": "Detect Visitor Locations",
+  "text": "\n## Detect Visitor Locations\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000045203\n\n## Overview\nEnable the website to detect and grab a visitor’s geo-location. Once detected, the visitor’s location will automatically be inserted into the location search fields on the website.\nThe Detect Visitor Locations add-on saves visitors an extra step by automatically using their current location when conducting local searches on the website.\n\n## Very Important\nFor this add-on to work, the site needs to have an SSL Certificate installed and Google Maps API Integration needs to be completed.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Detect Visitor Locations\n\n## Enabling the Add-On\n1. Go to Settings » Design Settings » Search Results Pages:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129185376/original/sz_4FgOCsUqjpiF-cyOT_YkZUZ-iUo_AoQ.png?1690867620 | alt: ]\n2. Now Enable or Disable this functionality:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128888571/original/D9v9c5Fv5NadhAdkF5tbA8Fpr3Tr3M5vLA.png?1690302631 | alt: ]\n3. Select the icon that will appear in the Location Search when the addon is enabled:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128888578/original/xM6vzvJPoZcpjgb7E-2yF5_lDfbJqRHpMg.png?1690302637 | alt: ]\n\n## Detect Location Permission\nWhen this add-on is enabled, an icon will display throughout any of the location-related search modules:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096320162/original/Go5N0XRNVNmTb1y1igEJXE21if5wbke83w.png?1627942497 | alt: ]\nClicking on it will prompt the browser with this message:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096320180/original/q8otuNybamM8zMN1AVmUXd9WbG-P6U2BjQ.png?1627942536 | alt: ]\nOnce permission is given, the location will auto-populate within the location fields.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096320196/original/ljQGD8fQPyfdkWtY1KOmgjXBW4h6P5Rfog.png?1627942577 | alt: ]\n\n## Prompt Automatic Location Module\nBy default the system will wait until the user clicks on the detect location icon to autofill the users location:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128972504/original/PFxa7QWVlPLzRROanZx51CroAZTQ39gHZg.png?1690420578 | alt: ]\nHowever the popup can be set to automatically appear on the page when a user visits the page with the advanced setting:\nPrompt Visitors To Share Their Location Automatically On Page Load?\nSystem Variable: location_auto_fill_at_once\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128972254/original/h3vBcM18-4rh_wCem927a8qdQE6oSMcMhA.png?1690419860 | alt: ]\nAutomatically prompting the user to allow the website to \" Know your location \" prior to clicking or completing a search:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129185283/original/bhvHQZ1EgaY4GEVXJLsDQZUYOA2ZTuDSeQ.png?1690867433 | alt: ]\n\n## How the Add-On Works\nGets the location of the user's device using the very accurate HTML5 Geolocation API (not the user's IP)\nSearches that location using the Google Maps Geocoding API to get the user's city as recognized by Google Maps\nInputs that city into the location search fields of the site automatically\nWhen doing a search, the search is based on the center of the city that was processed using the steps above. It is not calculating distance between the user's device and the members in search results.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129185376/original/sz_4FgOCsUqjpiF-cyOT_YkZUZ-iUo_AoQ.png?1690867620",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128888571/original/D9v9c5Fv5NadhAdkF5tbA8Fpr3Tr3M5vLA.png?1690302631",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128888578/original/xM6vzvJPoZcpjgb7E-2yF5_lDfbJqRHpMg.png?1690302637",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096320162/original/Go5N0XRNVNmTb1y1igEJXE21if5wbke83w.png?1627942497",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096320180/original/q8otuNybamM8zMN1AVmUXd9WbG-P6U2BjQ.png?1627942536",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096320196/original/ljQGD8fQPyfdkWtY1KOmgjXBW4h6P5Rfog.png?1627942577",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128972504/original/PFxa7QWVlPLzRROanZx51CroAZTQ39gHZg.png?1690420578",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128972254/original/h3vBcM18-4rh_wCem927a8qdQE6oSMcMhA.png?1690419860",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129185283/original/bhvHQZ1EgaY4GEVXJLsDQZUYOA2ZTuDSeQ.png?1690867433",
+      "alt": ""
+    }
+  ],
+  "content_hash": "d09670400d166ad4edddfe6c43806bfccdc9b28e4101d5e91a04a85142f80e51",
+  "ingested_at": "2026-10-17T14:38:40.130613+00:00"
+}

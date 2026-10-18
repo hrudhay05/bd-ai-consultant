@@ -1,0 +1,65 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000030829-multi-location-listing",
+  "title": "Multi-Location Listing",
+  "text": "\n## Multi-Location Listing\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000030829\nGive members more exposure in the directory! The Multi-Location Listing add-on allows members to list themselves in additional geographical locations.\nWhen members select these additional locations, website visitors will see more results when they conduct searches in the directory – providing members with increased visibility.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Multi-Location Listings Add-On\n\n## Enabling the Add-On\nTo add this as a feature for a membership level, simply navigate to Finance >> Membership Plans:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103144927/original/k6fQLgR-A2YDcFAiYUjKw1ZlGmmlXGFIZg.png?1641310012 | alt: ]\nClick on Edit Settings for the membership level that will have this feature activated:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103144763/original/2KN-XUQIREI2G8Z-Ngp9nZbDfNy6BraGFA.png?1641309871 | alt: ]\nClick on Search Visibility tab :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125005659/original/kQEkCI0EaD_plwbdIv_bD6nQXsaRQKWn2g.png?1683237386 | alt: ]\nScroll down to the Multi-Location / Service Area Settings area, set the \"Location Types Member Can Select\" and the \" Maximum Number of Locations \" option to anything above 0. This will determine the number of service areas each member can add.  Make sure to also choose the types of locations members can choose as service areas in the \" Location Types \" setting:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132209400/original/nCnLS2J0wJodHckfym5aQQNYvrIk8lGj2w.png?1696346458 | alt: ]\nWhen this feature has been activated in the membership level, the member's back-end will have this extra option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091277389/original/wxmeY3JwCGdEky_LBw_ziXfNFFyQWXramQ.png?1618323489 | alt: ]\nFrom here, members will have the option to add additional locations to their profiles by entering the locations here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091277704/original/7Ju1GKJKtYAiyiKLEnjFBg-fQoUx7nHl4g.png?1618323771 | alt: ]\nservice_label_city\nservice_label_country\nservice_label_county\nservice_label_state\nservice_label_zip\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103146154/original/4-mK_fCXNZDf9qVhbKphMr3c_RCmYDkAfg.png?1641311086 | alt: ]\nFully deleting the wording in the text label will hide the option for the members, in the example below we removed \" County \" from the service_label_county text label and it no longer appears:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091278089/original/JWXjNY_3VND47krwrFhl8pk-Ql3QMQqChw.png?1618324108 | alt: ]\nAdmins will be able to search for member's service area in the Search Members section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103146028/original/potruFiKiOTze9phQd2IuFAjLoZ1vhx53w.png?1641310994 | alt: ]\nImportant : The check box to include service areas in the admin search will not show until a location is added to the search criteria.\n\n## List in All Locations\nThe admin as well has the option to include any of the members in ALL the locations around the world. This means any time someone searches for any location around the world they should appear as long that they fit the category criteria as well.\nGo to My Members > Search Members and click on Quick Edit for the member will appear in all locations:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847619/original/PRoclVY80Vb8dogfy4k-SWncL0x8tFSfdQ.png?1619483666 | alt: ]\nClick on the Listing Settings and enable this option here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847630/original/l6j98WqtCGnPTgU0vt2poDqN4PVP8p78PA.png?1619483705 | alt: ]\n\n## Display Service Areas in the Member Profile:\nTo display the service areas in the member profile pages, go to Finance >> Membership Plans:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103144938/original/MheGer504TW2s-7FNVMQgbL6Jd8Dkdng8g.png?1641310023 | alt: ]\nClick on Edit Settings for the membership level that will display this on their profiles:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103144758/original/pTvp4eJ9yjT2qWf2z8knhlsFczokRZoi4Q.png?1641309863 | alt: ]\nClick on the Profile Page tab, then select the position in which the service areas will display in the overview tab. Click on the dropdown and select List Service Areas :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103145215/original/b_ua_59PUXQhtBuEoeTAw2J7WCcN3I8v7g.png?1641310240 | alt: ]\nThe list of service areas will display on the position selected:",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103144927/original/k6fQLgR-A2YDcFAiYUjKw1ZlGmmlXGFIZg.png?1641310012",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103144763/original/2KN-XUQIREI2G8Z-Ngp9nZbDfNy6BraGFA.png?1641309871",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125005659/original/kQEkCI0EaD_plwbdIv_bD6nQXsaRQKWn2g.png?1683237386",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132209400/original/nCnLS2J0wJodHckfym5aQQNYvrIk8lGj2w.png?1696346458",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091277389/original/wxmeY3JwCGdEky_LBw_ziXfNFFyQWXramQ.png?1618323489",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091277704/original/7Ju1GKJKtYAiyiKLEnjFBg-fQoUx7nHl4g.png?1618323771",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103146154/original/4-mK_fCXNZDf9qVhbKphMr3c_RCmYDkAfg.png?1641311086",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091278089/original/JWXjNY_3VND47krwrFhl8pk-Ql3QMQqChw.png?1618324108",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103146028/original/potruFiKiOTze9phQd2IuFAjLoZ1vhx53w.png?1641310994",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847619/original/PRoclVY80Vb8dogfy4k-SWncL0x8tFSfdQ.png?1619483666",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847630/original/l6j98WqtCGnPTgU0vt2poDqN4PVP8p78PA.png?1619483705",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103144938/original/MheGer504TW2s-7FNVMQgbL6Jd8Dkdng8g.png?1641310023",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103144758/original/pTvp4eJ9yjT2qWf2z8knhlsFczokRZoi4Q.png?1641309863",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103145215/original/b_ua_59PUXQhtBuEoeTAw2J7WCcN3I8v7g.png?1641310240",
+      "alt": ""
+    }
+  ],
+  "content_hash": "a59b1cffc8afc6e223c596fbe0bd6569b36f19562f7ab30b8d256ad7b70bfe41",
+  "ingested_at": "2026-10-17T14:35:27.220666+00:00"
+}

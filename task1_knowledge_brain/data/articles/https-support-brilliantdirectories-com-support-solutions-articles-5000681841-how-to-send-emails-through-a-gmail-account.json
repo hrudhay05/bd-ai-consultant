@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000681841-how-to-send-emails-through-a-gmail-account",
+  "title": "How To Send Emails Through A Gmail Account",
+  "text": "\n## How To Send Emails Through A Gmail Account\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000681841\nIn order to setup Gmail to send email from these accounts, please follow these instructions:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180160886/original/li3kowZJggsMAoaw-huBd76HzfDVqVezhw.png?1781042363 | alt: ]\nOn the Gmail account click the gear in the top right .\n[IMAGE: https://www.google.com/help/hc/images/mail/mail_gear.png | alt: ]\nSelect See All Settings .\nClick the Accounts and Import tab.\nUnder Send mail as, click Add another email address .\nIn the 'Email address' field, enter the name and alternate email addresses needed.\nEnter the SMTP server (e.g. smtp.domain.com), username on that domain, and the password for the account. The port setting or SSL setting might need to be updated (talk to the ISP if this information is needed).\nClick Add account >>\nOpen your other account and either click the link in the message Gmail sent or enter the confirmation code in the Accounts and Import section of your Gmail settings.\nIf unable to view Gmail's verification email, try checking the Spam or Bulk Mail folders for a message from account-verification-noreply@google.com",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180160886/original/li3kowZJggsMAoaw-huBd76HzfDVqVezhw.png?1781042363",
+      "alt": ""
+    },
+    {
+      "src": "https://www.google.com/help/hc/images/mail/mail_gear.png",
+      "alt": ""
+    }
+  ],
+  "content_hash": "da681037d1166e917c292df4ae382a68f19e0bc44dd9dc1b8f21e15d78c97ffe",
+  "ingested_at": "2026-10-17T14:07:19.152598+00:00"
+}

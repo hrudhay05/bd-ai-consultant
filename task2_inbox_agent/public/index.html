@@ -1,0 +1,179 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Inbox Agent - Review</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 16px; background: #f5f6f8; color: #222; }
+  h1 { margin: 0 0 12px; font-size: 20px; }
+  h2 { font-size: 15px; margin: 14px 0 6px; }
+  .cols { display: flex; gap: 16px; align-items: flex-start; }
+  .col { width: 320px; flex: none; }
+  .wide { flex: 1; background: #fff; padding: 14px; border-radius: 8px; border: 1px solid #ddd; min-height: 300px; }
+  pre { white-space: pre-wrap; background: #fafafa; border: 1px solid #e3e3e3; padding: 8px; border-radius: 6px; }
+  textarea { width: 100%; height: 220px; box-sizing: border-box; font-family: inherit; }
+  input[type=text] { width: 100%; box-sizing: border-box; padding: 6px; margin: 6px 0; }
+  button { padding: 6px 10px; margin: 4px 4px 0 0; cursor: pointer; }
+  .item { padding: 6px; border: 1px solid #ddd; background: #fff; border-radius: 6px; margin-bottom: 4px; cursor: pointer; font-size: 13px; }
+  .badge { display: inline-block; padding: 1px 6px; border-radius: 10px; font-size: 12px; background: #ddd; }
+  .draft_ready { background: #cdeccd; } .guard_failed { background: #f6c6c6; } .blocked_kb_unavailable { background: #ffe0a3; }
+  .warn { color: #b00020; font-weight: bold; }
+  .ok { color: #1b6e1b; }
+  .muted { color: #666; font-size: 12px; }
+</style>
+</head>
+<body>
+<h1>Inbox Agent - Human Review (dev emails, simulated sending)</h1>
+<div>
+  <select id="emailSel"></select>
+  <button id="procBtn">Generate draft</button>
+  <span id="msg" class="muted"></span>
+</div>
+<div class="cols">
+  <div class="col">
+    <h2>Drafts</h2><div id="list"></div>
+    <h2>Autonomy per category</h2><div id="stats"></div>
+  </div>
+  <div class="wide" id="detail">Select a draft or generate one.</div>
+</div>
+<script>
+function el(tag, text, cls) {
+  const n = document.createElement(tag);
+  if (text !== undefined && text !== null) n.textContent = String(text);
+  if (cls) n.className = cls;
+  return n;
+}
+async function api(url, method, body) {
+  const r = await fetch(url, {
+    method: method || "GET",
+    headers: { "Content-Type": "application/json" },
+    body: body ? JSON.stringify(body) : undefined,
+  });
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok) throw new Error(data.error || ("HTTP " + r.status));
+  return data;
+}
+const msg = (t) => { document.getElementById("msg").textContent = t; };
+
+async function loadEmails() {
+  const list = await api("/api/emails");
+  const sel = document.getElementById("emailSel");
+  list.forEach((e) => { const o = el("option", e.id + " - " + e.subject); o.value = e.id; sel.appendChild(o); });
+}
+
+async function loadList() {
+  const rows = await api("/api/drafts");
+  const box = document.getElementById("list");
+  box.textContent = "";
+  rows.forEach((d) => {
+    const it = el("div", null, "item");
+    it.appendChild(el("b", "#" + d.id + " " + d.email_id + " "));
+    it.appendChild(el("span", d.status, "badge " + d.status));
+    it.appendChild(el("div", (d.category || "-") + " | risk " + (d.risk || "-") + " | " + (d.review_action ? "reviewed: " + d.review_action : "waiting"), "muted"));
+    it.onclick = () => showDraft(d.id);
+    box.appendChild(it);
+  });
+}
+
+async function loadStats() {
+  const s = await api("/api/stats");
+  const box = document.getElementById("stats");
+  box.textContent = "";
+  s.categories.forEach((c) => {
+    const row = el("div", null, "item");
+    row.appendChild(el("b", c.category));
+    row.appendChild(el("div", "streak " + c.streak + "/" + s.threshold + (c.locked ? " | LOCKED (always human)" : c.eligible ? " | eligible" : ""), "muted"));
+    const b = el("button", c.autonomy_enabled ? "Switch OFF" : "Switch ON");
+    b.disabled = !c.autonomy_enabled && !c.eligible;
+    b.onclick = async () => {
+      try { await api("/api/autonomy", "POST", { category: c.category, on: !c.autonomy_enabled }); loadStats(); }
+      catch (e) { msg(e.message); }
+    };
+    row.appendChild(b);
+    box.appendChild(row);
+  });
+}
+
+async function showDraft(id) {
+  const d = await api("/api/drafts/" + id);
+  const box = document.getElementById("detail");
+  box.textContent = "";
+  box.appendChild(el("h2", "Draft #" + d.id + " (" + d.email_id + ")"));
+  box.appendChild(el("span", d.status, "badge " + d.status));
+  box.appendChild(el("div", "Model " + d.model + " | classifier " + d.classifier_version + " | drafter " + d.drafter_version + " | " + d.latency_ms + " ms | attempts " + d.attempts, "muted"));
+
+  box.appendChild(el("h2", "Original email (untrusted text)"));
+  box.appendChild(el("div", "From: " + (d.email ? d.email.from_name + " <" + d.email.from_email + ">" : "-") + " | Subject: " + (d.email ? d.email.subject : "-")));
+  box.appendChild(el("pre", d.email ? d.email.body : ""));
+
+  box.appendChild(el("h2", "Classification"));
+  box.appendChild(el("div", d.category + " | urgency " + d.urgency + " | risk " + d.risk + " | injection suspected: " + (d.injection ? "YES" : "no") + " | needs expert: " + (d.needs_expert ? "yes" : "no")));
+
+  box.appendChild(el("h2", "Evidence from Task 1 (mode: " + d.evidence_mode + ", status: " + d.kb_status + ")"));
+  if (!d.sources.length) box.appendChild(el("div", "No sources.", "muted"));
+  d.sources.forEach((s) => {
+    const line = el("div");
+    const okUrl = typeof s.url === "string" && s.url.startsWith("https://support.brilliantdirectories.com/");
+    if (okUrl) { const a = el("a", s.title); a.href = s.url; a.target = "_blank"; a.rel = "noopener noreferrer"; line.appendChild(a); }
+    else line.appendChild(el("span", s.title + " (link not shown)"));
+    line.appendChild(el("span", " relevance " + s.relevance, "muted"));
+    box.appendChild(line);
+  });
+
+  box.appendChild(el("h2", "Safety guard"));
+  if (d.guard_passed === null) box.appendChild(el("div", "No draft was produced.", "warn"));
+  else if (d.guard_passed) box.appendChild(el("div", "PASSED", "ok"));
+  else box.appendChild(el("div", "FAILED: " + d.guard_violations.join("; "), "warn"));
+
+  if (d.status === "blocked_kb_unavailable") {
+    box.appendChild(el("div", "Task 1 knowledge service was unavailable. No draft was written, nothing was invented. Reply manually or retry later.", "warn"));
+  }
+  if (d.review) {
+    box.appendChild(el("h2", "Review"));
+    box.appendChild(el("div", "Action: " + d.review.action + " | modified: " + (d.review.modified ? "yes" : "no") + (d.review.reason ? " | reason: " + d.review.reason : "")));
+    return;
+  }
+
+  box.appendChild(el("h2", "Draft reply: " + (d.reply_subject || "")));
+  const ta = el("textarea", d.reply_body || "");
+  box.appendChild(ta);
+  const reason = el("input"); reason.type = "text"; reason.placeholder = "Reason for the correction (required for Edit and Reject)";
+  box.appendChild(reason);
+
+  const act = (label, action, needsBody) => {
+    const b = el("button", label);
+    if (action === "approve" && d.status !== "draft_ready") b.disabled = true;
+    if (needsBody && !d.reply_body && action !== "reject") b.disabled = true;
+    b.onclick = async () => {
+      try {
+        const r = await api("/api/drafts/" + d.id + "/review", "POST", {
+          action, final_body: action === "edit" ? ta.value : null, reason: reason.value,
+        });
+        msg("Saved: " + action + (r.counts ? " (counts toward the 20 streak)" : " (streak reset or unchanged)"));
+        await refresh(); showDraft(d.id);
+      } catch (e) { msg(e.message); }
+    };
+    box.appendChild(b);
+  };
+  act("Approve & send (simulated)", "approve", true);
+  act("Edit & send (simulated)", "edit", true);
+  act("Reject", "reject", false);
+  act("Needs expert", "needs_expert", false);
+}
+
+async function refresh() { await loadList(); await loadStats(); }
+
+document.getElementById("procBtn").onclick = async () => {
+  const id = document.getElementById("emailSel").value;
+  msg("Working... (can take up to 30 s)");
+  try {
+    const r = await api("/api/process", "POST", { email_id: id });
+    msg("Done: " + r.status + (r.auto_sent ? " | AUTO-SENT" : " | waiting for human review (" + r.why + ")"));
+    await refresh(); showDraft(r.draft_id);
+  } catch (e) { msg("Error: " + e.message); }
+};
+
+loadEmails().then(refresh);
+</script>
+</body>
+</html>

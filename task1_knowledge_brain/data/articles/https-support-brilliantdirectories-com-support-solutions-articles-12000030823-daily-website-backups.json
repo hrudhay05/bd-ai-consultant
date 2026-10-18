@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000030823-daily-website-backups",
+  "title": "Daily Website Backups",
+  "text": "\n## Daily Website Backups\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000030823\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180976499/original/Pt_5LWqLSF4Sph3VaZhI_zoAziV9ddM2MA.png?1782328224 | alt: ]\n\n## Overview\nWe understand how important website backups are. That’s why every Brilliant Directories website comes with free 24-hour backups. But what if restoring the site to a previous version from more than 24 hours ago is needed?\nThis add-on provides peace of mind in knowing that there are 14 days worth of full, ready-to-use backups of the website.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: 14-Day Website Backups Add-On\n\n## Requesting a Backup\nWhen this add-on is added to the website, the daily backups is stored for up to 14 days back. If the admin wants for us to retrieve a site back up within the 14-day stored backups , all that is required is to submit a TICKET asking for this service. We will do this as soon as possible once we get the request.\nWhen submitting the request, the following information is required:\nWebsite ID of the site to be restored\nThe date to which the site would be restored. All backups are taken between 3am - 6am Eastern Time.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180976499/original/Pt_5LWqLSF4Sph3VaZhI_zoAziV9ddM2MA.png?1782328224",
+      "alt": ""
+    }
+  ],
+  "content_hash": "3a1763cb55c59ea3e5fca8b68e1af3feebdcd9a0dda156b314b0675f88c15f28",
+  "ingested_at": "2026-10-17T14:35:22.359289+00:00"
+}

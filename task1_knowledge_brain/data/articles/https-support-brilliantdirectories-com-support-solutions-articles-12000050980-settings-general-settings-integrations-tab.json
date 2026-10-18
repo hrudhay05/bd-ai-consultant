@@ -1,0 +1,89 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000050980-settings-general-settings-integrations-tab",
+  "title": "Settings » General Settings » Integrations Tab",
+  "text": "\n## Settings » General Settings » Integrations Tab\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000050980\nThis article explains the Integrations Tab in the General Settings Tab and all the settings within this tab. This section of the admin area is used to set up different API keys and add-ons.\nImportant: A live domain needs to be connected before editing this section of the admin.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177885635/original/nsltrMmbngG5sTfIBgmbbHcQrNa-w3n8LQ.png?1776884698 | alt: ]\nFor new sites launched using a directoryup.com subdomain, test mode credentials for the ReCaptcha and Google Maps API are already active. Once the site is switched to a real domain, these test credentials will stop working, and new credentials will need to be configured. To learn more about this, please follow this link: directoryup.com Subdomain Test Credentials\nThere is an option to VIEW these settings, but in order to edit the settings, a domain must be connected. To learn how to set the domain live, please follow this link: How To Move The Site To A Live Domain\n\n## Visual Guide of the Integrations Tab\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176417832/original/Vl0iCmImgAVwUj6RbvOBpwgRqLKflKIiGQ.png?1774329567 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176417908/original/8zD3BUjDytYIMUbTxqO84ndvUBtwvMdFmA.png?1774329731 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176417953/original/DhizxsV_VQfRpNn9bcQdZMijRskNsKh-Ng.png?1774329938 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176418000/original/0dNKu4ksMCzAFEHB06XlHu71T7ma431W2Q.png?1774330097 | alt: ]\n\n## Integrations\nOnce the site is connected to a live domain, the following can be edited:\n\n## 1. Block Spam Keywords\nThis is a comma separated list of keywords to block form submissions on sign up pages and public forms. To learn more about this click here: Spam Form Protector Add-On TIP : Add keywords in \"quotes\" to target exact matches rather than any partial match (more specific targeting)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140065610/original/_rgg2z8Xtfs3FuQPrzL0_SzKViHSo61CZg.png?1710259210 | alt: ]\n\n## 2. Google Analytics\nGoogle Analytics ID\nEnter Google Analytics 4 ID. Format G-XXXXXXX. To learn more about Google Analytics, click here: Installing Google Analytics Tracking Code (easy method)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086351027/original/55jpgOUpwl8pqUNM4KeWAcA23vUOfG2Tlw.png?1608052553 | alt: ]\n\n## 3. Google Maps JavaScript API Key\nThis is the field where the Google Maps API Key should be added. To learn more about this click here: How to Enable Maps with Google Maps API\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086351048/original/Ln9wo3L2sEExmFfdKQUXpSDbsV8UbkTyxQ.png?1608052583 | alt: ]\n\n## 4. Google ReCaptcha Site key\nThis is the field where the Google ReCaptcha Site Key should be added. To learn more about this, click here: How to Enable Form Security with Google reCaptcha\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168268/original/Uk-wFiEv7WOxwcIhit0w3JEqL7f--fXu7A.png?1696291083 | alt: ]\n\n## 5. Google ReCaptcha Secret Key\nThis is the field where the Google ReCaptcha Secret Key should be added.\n\n## 6. Google Developer Client ID (for social login add-on)\nThis is the field where the Google Developer Client ID (for social login) should be entered. To learn more this, click here: Google Login Add-On\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168518/original/SHv7ECZ9fym1pKeuOZKseiCPEhe5jW4qMw.png?1696291551 | alt: ]\n\n## 7. Enable Google Login?\nAllow members to login with their Google account. Allow members to sign up with their Google Account in the Product Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168529/original/BFKPeeibXt-gdOYZ5LGDJLlDMQ_4VTNUUw.png?1696291672 | alt: ]\n\n## 8. Facebook App ID (for social login add-on)\nThis field is where the Facebook App ID (for social login) should be entered . To learn more about this, click here: Facebook Login Add-On\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132170801/original/gabQS1fmWh4mgDC0o3JhRiuCFPVg3Scegw.png?1696294484 | alt: ]\n\n## 9. Enable Facebook Login?\nAllow members to login with their Facebook account. Allow members to sign up with their Facebook Account in the Product Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168643/original/c5sc-HIq0ftcaSowWWq3D4pKWEOqUh3zdw.png?1696291884 | alt: ]\n\n## 10. Facebook App Secret ID (for social login add-on callback delete)\nEnter Secret ID for Facebook App (for Social Login delete)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168651/original/jlpmBQZfKmul5Cb0qkMQF6O3sVTYFgPIKQ.png?1696291943 | alt: ]\n\n## 11. Enable Private Chat Messages for Members?\nIf YES, this will also need to be activated to each specific membership plans. To learn more about this, click here: Private Member Chat\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168925/original/b9t6HeTu1Rl64UXb6uUiq0qJIj8_E4oh1w.png?1696292232 | alt: ]\n\n## 12. Send Email Notifications to Members\nSend Email Notifications when Chat Messages are Sent\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132169296/original/8AJnAfl0CZ6JDDBzNc_naWqprcsIhPUolw.png?1696292315 | alt: ]\n\n## 13. Send Email Notification to Admin When Private Chat Reported?\nSend an email notification to the Admin of the site when a member flags / reports a private chat message.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132169896/original/H82Y59E1XLLGwn67gCxljaO9A5Ha4gZWZQ.png?1696292416 | alt: ]\n\n## 14. Select Transaction Types to Track\nThis setting will control when the affiliate tracking code will be triggered.\nThe options are:\nMember Sign Ups\nMember Upgrades\nMember Lead Purchases\nDigital Product Purchases\nPay-Per-Post Purchase\nTo learn more about this, click here: Affiliate Program Integrations\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176453817/original/p8kktwiG5jfDG77GZwAPL5ajFcYpl94Ztg.png?1774375345 | alt: ]\n\n## 15. PostAffiliatePro URL\nThis setting will include the PostAffiliatePro tracking code to successful signups. IMPORTANT: Do not include http or www.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132170211/original/ugDKtRsWd6WABOC8E-GwI5ekhaOoHG16LQ.png?1696292742 | alt: ]\n\n## 16. ChatGPT API Key\nEnter the ChatGPT API Key. Click here to learn more about ChatGPT\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132170223/original/WDB4ucefCNd69r_vvIlhwozlhuRe5dnoEg.png?1696292803 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177885635/original/nsltrMmbngG5sTfIBgmbbHcQrNa-w3n8LQ.png?1776884698",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176417832/original/Vl0iCmImgAVwUj6RbvOBpwgRqLKflKIiGQ.png?1774329567",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176417908/original/8zD3BUjDytYIMUbTxqO84ndvUBtwvMdFmA.png?1774329731",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176417953/original/DhizxsV_VQfRpNn9bcQdZMijRskNsKh-Ng.png?1774329938",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176418000/original/0dNKu4ksMCzAFEHB06XlHu71T7ma431W2Q.png?1774330097",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140065610/original/_rgg2z8Xtfs3FuQPrzL0_SzKViHSo61CZg.png?1710259210",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086351027/original/55jpgOUpwl8pqUNM4KeWAcA23vUOfG2Tlw.png?1608052553",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086351048/original/Ln9wo3L2sEExmFfdKQUXpSDbsV8UbkTyxQ.png?1608052583",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168268/original/Uk-wFiEv7WOxwcIhit0w3JEqL7f--fXu7A.png?1696291083",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168518/original/SHv7ECZ9fym1pKeuOZKseiCPEhe5jW4qMw.png?1696291551",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168529/original/BFKPeeibXt-gdOYZ5LGDJLlDMQ_4VTNUUw.png?1696291672",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132170801/original/gabQS1fmWh4mgDC0o3JhRiuCFPVg3Scegw.png?1696294484",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168643/original/c5sc-HIq0ftcaSowWWq3D4pKWEOqUh3zdw.png?1696291884",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168651/original/jlpmBQZfKmul5Cb0qkMQF6O3sVTYFgPIKQ.png?1696291943",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132168925/original/b9t6HeTu1Rl64UXb6uUiq0qJIj8_E4oh1w.png?1696292232",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132169296/original/8AJnAfl0CZ6JDDBzNc_naWqprcsIhPUolw.png?1696292315",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132169896/original/H82Y59E1XLLGwn67gCxljaO9A5Ha4gZWZQ.png?1696292416",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176453817/original/p8kktwiG5jfDG77GZwAPL5ajFcYpl94Ztg.png?1774375345",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132170211/original/ugDKtRsWd6WABOC8E-GwI5ekhaOoHG16LQ.png?1696292742",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132170223/original/WDB4ucefCNd69r_vvIlhwozlhuRe5dnoEg.png?1696292803",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c33d319ca3ff9e9ca65799f73ab568f0f08d53e97ebd57b6148c210bed66376c",
+  "ingested_at": "2026-10-17T14:41:04.554140+00:00"
+}

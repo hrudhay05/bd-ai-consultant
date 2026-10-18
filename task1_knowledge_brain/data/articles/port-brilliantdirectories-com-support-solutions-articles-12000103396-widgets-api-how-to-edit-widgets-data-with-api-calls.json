@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000103396-widgets-api-how-to-edit-widgets-data-with-api-calls",
+  "title": "Widgets API - How to edit widgets data with API Calls",
+  "text": "\n## Widgets API - How to edit widgets data with API Calls\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000103396\nThe API allows getting, creating, updating, deleting, rendering, and posting widgets on the website. However, only one widget can be updated at a time.\n\n## Available API Endpoints\nBelow is a list of the available endpoints for Widgets:\nhttps://example.com/api/v2/data_widgets/get/{id}\nhttps://example.com/api/v2/data_widgets/create\nhttps://example.com/api/v2/data_widgets/update\nhttps://example.com/api/v2/data_widgets/delete\nhttps://example.com/api/v2/data_widgets/render\nUsing the API, the following actions can be performed:\n\n## Get a Widget\nRead the data of a single widget based on the widget_id.\nThe Default widgets included in a /get list response are limited to those supported by the current version of the software. Default widgets that belong only to legacy versions are no longer included, so API responses may contain fewer widgets than in previous versions. This is expected and does not affect the Widget Manager or any existing website.\nWidgets that support the current version along with older versions are still returned. The filter checks whether the current version is included in the widget's supported versions, not whether it is the only supported version. Customized widgets are also returned regardless of the versions they list, and reading a single widget by its widget_id is not filtered.\nEndpoint :\nExample Request:\nQuery Parameters:\nproperty The property key (eg., widget_id). property_value The value associated with the property.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157134686/original/2BjFad03PhEuvLEebYNmG8iIBgmGSFSKzA.png?1739891846 | alt: ]\nExample Response:\n\n## Create a Widget\nAdd a new widget to the database. Parameter Notes : The widget_id will be assigned by the system.\nEndpoint :\nExample Request:\nQuery Parameters:\nwidget_name The name of the widget. widget_data HTML + PHP. widget_style CSS. widget_javascript JS.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157134648/original/B6h-5Ql1tcwcfehNzxxVOCodSNapyt6a9A.png?1739891831 | alt: ]\nExample Response:\n\n## Update a Widget\nUpdate a widget record and their related data from the database. Parameter Notes : Use widget_id or widget_name .\nEndpoint :\nExample Request:\nQuery Parameters:\nwidget_id The ID of the widget. widget_name The name of the widget. widget_data HTML + PHP. widget_style CSS. widget_javascript JS.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157134648/original/B6h-5Ql1tcwcfehNzxxVOCodSNapyt6a9A.png?1739891831 | alt: ]\nExample Response:\n\n## Delete a Widget\nDelete a widget and their related data from the database.\nParameter Notes : Use widget_id or widget_name .\nEndpoint :\nExample Request:\nQuery Parameters:\nwidget_id The ID of the widget. widget_name The name of the widget.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157135658/original/RVGaGOkgZFO3TEp2cBd5MxQsoW_OKUOyqQ.png?1739892494 | alt: ]\nExample Response:\n\n## Render a Widget\nRender widget content of specific widget. Parameter Notes : Use widget_id or widget_name . The widget needs to be customized to get the widget output.\nEndpoint :\nExample Request:\nQuery Parameters:\nwidget_id The ID of the widget. widget_name The name of the widget.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157142477/original/c78HXBsAWpMhonpJEhg_6Z7orkpOK75fXw.png?1739897484 | alt: ]\nExample Response:",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157134686/original/2BjFad03PhEuvLEebYNmG8iIBgmGSFSKzA.png?1739891846",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157134648/original/B6h-5Ql1tcwcfehNzxxVOCodSNapyt6a9A.png?1739891831",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157134648/original/B6h-5Ql1tcwcfehNzxxVOCodSNapyt6a9A.png?1739891831",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157135658/original/RVGaGOkgZFO3TEp2cBd5MxQsoW_OKUOyqQ.png?1739892494",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12157142477/original/c78HXBsAWpMhonpJEhg_6Z7orkpOK75fXw.png?1739897484",
+      "alt": ""
+    }
+  ],
+  "content_hash": "371eea38b334f36c4f333996a908e94e129ee5b8c8b8409006ad704998792276",
+  "ingested_at": "2026-10-17T15:33:49.383447+00:00"
+}

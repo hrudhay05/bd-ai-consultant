@@ -1,0 +1,128 @@
+=== HT-01 | How do I change my website logo?
+status: draft_ready | guard: true [] | attempts: 1 | ms: 3044
+
+REPLY:
+Hi Maria,
+
+Thank you for reaching out. I’m not able to confirm the exact steps for uploading a new logo from this message. A team member will review your request. Could you let me know:
+1. Which theme or template you’re using for your directory site?
+2. Whether you have the logo file ready in a common format (PNG, JPG, SVG)?
+3. If you’ve already tried any steps to change the logo, what happened?
+
+Your answers will help us guide you more precisely.
+
+Brilliant Directories Support
+
+MUST: ["give steps only if supported by retrieved articles","cite the source article"]
+MUST NOT: ["invent menu names that are not in the evidence"]
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-02 | Adding a new membership plan
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-03 | Member search results look wrong
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-04 | Show members in grid view instead of list
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-05 | Email accounts on my own domain
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-06 | Adding a custom page
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-07 | Categories for my directory
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-08 | Change the sender email for notifications
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-09 | How do I accept payments from members?
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== HT-12 | Question about exporting data to my accounting tool
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== TS-01 | Payment gateway stopped working
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __
+
+=== TS-02 | Emails from my site go to spam
+status: not_run | guard: undefined [] | attempts: undefined | ms: undefined
+
+REPLY:
+(no draft)
+
+MUST: undefined
+MUST NOT: undefined
+SCORE (you fill): must met __/__ | must_not violated __

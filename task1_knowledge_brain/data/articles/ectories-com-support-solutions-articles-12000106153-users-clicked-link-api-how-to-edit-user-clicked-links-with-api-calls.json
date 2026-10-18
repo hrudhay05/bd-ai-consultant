@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000106153-users-clicked-link-api-how-to-edit-user-clicked-links-with-api-calls",
+  "title": "Users Clicked Link API - How To Edit User Clicked Links With API Calls",
+  "text": "\n## Users Clicked Link API - How To Edit User Clicked Links With API Calls\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000106153\nThis API allows users to create, read, update, and delete users clicked links from the database.\n\n## Available API Endpoints\nBelow is a list of the available endpoints for Users Clicked Links:\nhttps://example.com/api/v2/users_clicks/get/{click_id}\nhttps://example.com/api/v2/users_clicks/create\nhttps://example.com/api/v2/users_clicks/update\nhttps://example.com/api/v2/users_clicks/delete\nUsing the API, the following actions can be performed:\n\n## Get a Users Clicked Link\nRead the data of a Users Clicked Links based on the click_id\nEndpoint:\nExample Request:\nExample Response:\n\n## Create a Users Clicked Link\nAdd a new Users Clicked Links to the database\nEndpoint:\nExample Request:\nExample Response:\n\n## Update a Users Clicked Link\nUpdate the Users Clicked Link record via the database, by specifying the click_id\nEndpoint:\nExample Request:\nExample Response:\n\n## Delete a Users Clicked Link\nDelete a Users Clicked Link record via the database, by specifying the click_id\nEndpoint:\nExample Request:\nExample Response:",
+  "images": [],
+  "content_hash": "a24e2ecb89798505e28fa2a2ec8f19fbe6f0cc63246a5f18ea6218ea5fbe6b1f",
+  "ingested_at": "2026-10-17T15:35:35.549123+00:00"
+}

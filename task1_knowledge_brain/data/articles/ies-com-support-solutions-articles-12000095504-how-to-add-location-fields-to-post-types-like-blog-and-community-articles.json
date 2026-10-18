@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095504-how-to-add-location-fields-to-post-types-like-blog-and-community-articles",
+  "title": "How to Add Location Fields to Post Types Like Blog and Community Articles",
+  "text": "\n## How to Add Location Fields to Post Types Like Blog and Community Articles\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000095504\nIn this article, we will be going over the steps on how to add location and map fields to post types like blog and community articles.\n\n## Editing the Form\nThe first step is to navigate to Toolbox >> Form Manager and click Customize or Edit on the preferred feature form. In the example below, we used the Blog Article:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180231408/original/0SQ0HMU0DjoB78mw6mdihfLvC7ay8o06QQ.png?1781132103 | alt: ]\nNext, add 4 new form fields in the preferred place:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233435/original/Jrr8wYqA_w5PS6sKwAhzS_c1BrOScvwQSw.png?1781135201 | alt: ]\nThese 4 new fields should look like the following:\n1) Location Map widget\nType of Field: Custom HTML\nField Label: [widget=Bootstrap Theme  - Form - Member Google Location] Database Variable: not important\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233465/original/E2LHujMLAKk9eURNKirX90oPSkGRloRF1Q.png?1781135292 | alt: ]\n2) Latitude Field\nType of Field: Hidden Field\nField Label: blank Database Variable: lat\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233475/original/20brCUauIGDmPATsi-YheqNJcQzLOcMbTQ.png?1781135338 | alt: ]\n3) Longitude Field\nType of Field: Hidden Field\nField Label: blank Database Variable: lon\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233510/original/_5zqvCBy2NwWKhpL7TcU3Jg8F16hzfAPlQ.png?1781135379 | alt: ]\n4) Address Field\nType of Field: Textarea - Paragraph\nField Label: %%%location_label%%% Database Variable: post_location\nAddtl. Field CSS Class: form-control\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233650/original/uXQfvbF1DH2q2zfSQ8bxsZXaWF3_7344-g.png?1781135431 | alt: ]\nSave changes and the location fields will start appearing when publishing/editing the post in the member dashboard area:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12130406657/original/buS6JgUl7G0QjrrvyYYUW21v8qSIZJTkTg.png?1692990007 | alt: ]\n\n## Front End Display\nOnce the information is saved and the Bootstrap Theme - Module - Post Location Map widget is added to the sidebar, the map will display in the details page of the post:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12130406685/original/1SslsAmg9x0PUXy0gGHaFzzmyKC1pN0CkA.png?1692990065 | alt: ]\n\n## Using the Members Location for Posts\nIf the post form does not include location fields (lat, lon, etc.), there is a system-level setting called override_post_location that can automatically use the member’s geocoded location for the post.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161691176/original/T4o8msAMERPiihWa5dsTpEbBtwmAD9LHfA.jpeg?1747866560 | alt: ]\n\n## Important Notes About This Setting:\nThis is a Super Admin-only setting and is not accessible from the regular admin panel.\nThis is a Super Admin-only setting and is not accessible from the regular admin panel.\nIf enabled , and the post form does not contain lat/lon fields , the system will automatically assign the member’s geocoded values (lat, lon, country, state) to the post.\nIf enabled , and the post form does not contain lat/lon fields , the system will automatically assign the member’s geocoded values (lat, lon, country, state) to the post.\nThis setting does not populate the post_location string used by the location map widget. Therefore, a map or location may not display on the post details page unless the proper fields are present in the form.\nThis setting does not populate the post_location string used by the location map widget. Therefore, a map or location may not display on the post details page unless the proper fields are present in the form.\nIf the form does include lat/lon fields, this setting is ignored .\nIf the form does include lat/lon fields, this setting is ignored .\nThis setting was originally created to ease the transition to location-based post search and is not currently being expanded.\nIf the admin of the website needs to test this setting or have it enabled or disabled, please contact the Brilliant Directories support team.\nSet to ON to save the lat and lon (geocode) of a member with their post if the post's form does not have lat and lon fields. Set to OFF to only save a lat and lon for a post if the fields exist in the post's form.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180231408/original/0SQ0HMU0DjoB78mw6mdihfLvC7ay8o06QQ.png?1781132103",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233435/original/Jrr8wYqA_w5PS6sKwAhzS_c1BrOScvwQSw.png?1781135201",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233465/original/E2LHujMLAKk9eURNKirX90oPSkGRloRF1Q.png?1781135292",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233475/original/20brCUauIGDmPATsi-YheqNJcQzLOcMbTQ.png?1781135338",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233510/original/_5zqvCBy2NwWKhpL7TcU3Jg8F16hzfAPlQ.png?1781135379",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233650/original/uXQfvbF1DH2q2zfSQ8bxsZXaWF3_7344-g.png?1781135431",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12130406657/original/buS6JgUl7G0QjrrvyYYUW21v8qSIZJTkTg.png?1692990007",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12130406685/original/1SslsAmg9x0PUXy0gGHaFzzmyKC1pN0CkA.png?1692990065",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161691176/original/T4o8msAMERPiihWa5dsTpEbBtwmAD9LHfA.jpeg?1747866560",
+      "alt": ""
+    }
+  ],
+  "content_hash": "a1105e5d511795600b5217ac5f723fde7161528470ed520a2cdf539d940d91a7",
+  "ingested_at": "2026-10-17T15:23:40.680317+00:00"
+}

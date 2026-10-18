@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101414-how-to-achieve-full-width-background-color-for-landing-page-sections",
+  "title": "How to Achieve Full-Width Background Color for Landing Page Sections",
+  "text": "\n## How to Achieve Full-Width Background Color for Landing Page Sections\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000101414\nThe key is to first add a 1x1 table, give it a background color, then drop the other tables or content blocks within that 1x1 table.\n\n## Create the Web Page Section\nGo to My Content\nClick on Web Page Builder\nCreate or Edit a web page\nClick in Page Options and set the page to be Full Screen Page Width:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181780170/original/mqBnRfKWZGYNuRlrWhsl6s7FUUehJVV-xg.png?1783619045 | alt: ]\nUse the Table option in the editor:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181780194/original/42EliCWNKwox3SIHrrr8ndeuCGFxZWT2jw.png?1783619095 | alt: ]\nSelect 1x1 and add a background color:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181780353/original/i3ow4l9t3kGjwQon8yW9BM1DB03s6yUSPQ.png?1783619280 | alt: ]\nNow add in the elements or content:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149184767/original/53eDRDkDfcleiyCvQzvqdXrvaDv3HnGLYQ.png?1725908263 | alt: ]\n\n## Final Result\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149184092/original/Q-1LRSjdyOsIipaFzgCHRlCmilZ71txT_Q.png?1725907720 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181780170/original/mqBnRfKWZGYNuRlrWhsl6s7FUUehJVV-xg.png?1783619045",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181780194/original/42EliCWNKwox3SIHrrr8ndeuCGFxZWT2jw.png?1783619095",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181780353/original/i3ow4l9t3kGjwQon8yW9BM1DB03s6yUSPQ.png?1783619280",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149184767/original/53eDRDkDfcleiyCvQzvqdXrvaDv3HnGLYQ.png?1725908263",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149184092/original/Q-1LRSjdyOsIipaFzgCHRlCmilZ71txT_Q.png?1725907720",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2aa685b6ae5228da63d4d4000564ff7a5eac02c2d44ee5a271a705a935d237c4",
+  "ingested_at": "2026-10-17T15:28:01.924931+00:00"
+}

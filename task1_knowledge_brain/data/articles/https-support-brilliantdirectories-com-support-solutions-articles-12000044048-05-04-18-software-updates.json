@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000044048-05-04-18-software-updates",
+  "title": "05/04/18 - Software Updates",
+  "text": "\n## 05/04/18 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000044048\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\n\n## Updates:\nWe made an update to the Coupons search results functionality to prevent expired coupon posts from displaying in some cases. Widget Involved: Search - Post - Search Query\nWe released a security update to the File Manger and Sitemap Generator functionality in the Admin area, implementing more restrictive permissions to the related directories and files when they are edited.\nWe made an update to the Google Sitemap Generator Add-On to resolve an issue related to URLs containing special characters returning 404 errors.\nThe new Payfast payment gateway functionality was updated to fix an issue with subscriptions that were manually generated through the Admin area.\nWe made an update to the Member Profile Analytics Add-On in order to properly track clicks when a visitor clicks on the Map View Option on the Member Search Results pages. Widgets Involved: Bootstrap Theme - Google Pins Locations Bootstrap Theme - Search Results Map",
+  "images": [],
+  "content_hash": "bf07d2c1592317f561907bf1fcb0df0dc8b22a20da688c475ee7f2064a689d86",
+  "ingested_at": "2026-10-17T14:38:08.796925+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000016280-how-to-reset-to-default-post-types-code",
+  "title": "How to Reset to Default Post Types Code",
+  "text": "\n## How to Reset to Default Post Types Code\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000016280\nSometimes a change is applied and it needs to be reverted, or simply  the admin/collaborator wants to apply the most recent default layout for a Member Post Type on the website.\nTo override the current code used in a Member Post Type with the most recent default version of that code, please follow the instructions below.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127318875/original/UezfDAL4I3yj2PL31ZztA7-vMNzqqxjj1Q.png?1687449739 | alt: ]\n2. Click on the tab that corresponds to the layout that needs to be edited (only one layout can be restored at a time - the entire post type can be restored to default by restoring each individual tab to default) :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094087041/original/4dXNJO_iRaaefeDMgmsrptqJv42dfZv_tg.png?1623755212 | alt: ]\n3. Move to the tab where the code needs to be edited: Profile Page Design, Search Results or Page Detail and click on the View/Edit Code button.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129521206/original/QrIlqrqAH5qI_mGv0Bm-PqzKPxQLowkymg.png?1691452598 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094087396/original/n6726e1O4k_-sk7mD2_7EhKKYJQ-7B6ccQ.png?1623755621 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127610288/original/xFgUgtz7nqaXW2pFEEdTyisnFTBBL8c9aA.png?1687985425 | alt: ]\n6. Click on I understand, Continue\" to proceed. Once confirmed, all code in the \"Page Header\", \"Page Loop\", and \"Page Footer\" fields (if editing the Profile Page Design or the Search Results Design tabs) or \"Page Layout\" field (if editing the Detail Page Design tab) will be replaced with the latest default code available for the feature.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127610175/original/1n8gUuhLEiDGm8PwWsy-B2O0V-DQ5aianw.jpg?1687985319 | alt: ]\nTo learn How to Customize the Default Post Types Code click on this article: How to Customize the Default Post Types Code",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127318875/original/UezfDAL4I3yj2PL31ZztA7-vMNzqqxjj1Q.png?1687449739",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094087041/original/4dXNJO_iRaaefeDMgmsrptqJv42dfZv_tg.png?1623755212",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129521206/original/QrIlqrqAH5qI_mGv0Bm-PqzKPxQLowkymg.png?1691452598",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094087396/original/n6726e1O4k_-sk7mD2_7EhKKYJQ-7B6ccQ.png?1623755621",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127610288/original/xFgUgtz7nqaXW2pFEEdTyisnFTBBL8c9aA.png?1687985425",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127610175/original/1n8gUuhLEiDGm8PwWsy-B2O0V-DQ5aianw.jpg?1687985319",
+      "alt": ""
+    }
+  ],
+  "content_hash": "654952cd05174d93292f709e2f14c86a17402fff980181b30f975c2a1e952328",
+  "ingested_at": "2026-10-17T14:33:44.655329+00:00"
+}

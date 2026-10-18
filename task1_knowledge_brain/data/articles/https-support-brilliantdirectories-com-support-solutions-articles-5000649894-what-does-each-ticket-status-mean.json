@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000649894-what-does-each-ticket-status-mean",
+  "title": "What Does Each Ticket Status Mean",
+  "text": "\n## What Does Each Ticket Status Mean\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000649894\nIn the My Support Tickets module, each ticket includes a Status label so it’s easy to see where the request stands at a glance.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887591/original/g-D4OjOqfUM6-Pl7JhZ9Cahy_XCQvrvD1g.png?1771466322 | alt: ]\nUse the All Statuses dropdown above the ticket list to filter by status and quickly focus on the tickets that matter right now.\nOpen\nIn Progress\nResponded\nResolved\nClosed\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174888087/original/ZJK74-rq-cZ0dU9-AHrveKQaQxTEAO3RDQ.png?1771467551 | alt: ]\n\n## Open\nYour ticket has been sent, and is currently being worked on.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887772/original/PAoe5u_dx5lLEcau91sL9Sf2gCVUZOo-5w.png?1771466862 | alt: ]\n\n## In Progress\nThis status is placed on a ticket when the development team is working on the resolution to what was reported in the ticket.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887823/original/zRofBGkZGA8MpiV6XLs7UJTn0Da-JTYqQQ.png?1771467010 | alt: ]\n\n## Responded\nOur support team has replied with a resolution or follow up questions.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887808/original/NdwOu56LesyePHwI7-hgvhpXafj7m2ArHw.png?1771466921 | alt: ]\n\n## Resolved\nOnce a ticket is marked Resolved , the issue is considered ready to close out. If anything is still pending, reply to the ticket and it will automatically reopen; after 48 hours in Resolved , the ticket will move to Closed .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887799/original/JdeDZASMAaRqQKJearnyR4aTCx8tll_eYQ.png?1771466906 | alt: ]\n\n## Closed\nThe original issues that was submitted has been resolved and the ticket closed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887801/original/X9fF02eC_UaLGDc-ijpCULSd3A2FdVK03Q.png?1771466911 | alt: ]\n\n## Pending\nPending means the ticket is currently on hold while additional information or next steps are needed before it can move forward.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887775/original/9vlMThQdrmg8n7DWICYCeyVpXJDAJlA29w.png?1771466873 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887591/original/g-D4OjOqfUM6-Pl7JhZ9Cahy_XCQvrvD1g.png?1771466322",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174888087/original/ZJK74-rq-cZ0dU9-AHrveKQaQxTEAO3RDQ.png?1771467551",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887772/original/PAoe5u_dx5lLEcau91sL9Sf2gCVUZOo-5w.png?1771466862",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887823/original/zRofBGkZGA8MpiV6XLs7UJTn0Da-JTYqQQ.png?1771467010",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887808/original/NdwOu56LesyePHwI7-hgvhpXafj7m2ArHw.png?1771466921",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887799/original/JdeDZASMAaRqQKJearnyR4aTCx8tll_eYQ.png?1771466906",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887801/original/X9fF02eC_UaLGDc-ijpCULSd3A2FdVK03Q.png?1771466911",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887775/original/9vlMThQdrmg8n7DWICYCeyVpXJDAJlA29w.png?1771466873",
+      "alt": ""
+    }
+  ],
+  "content_hash": "9f9cb635d39d9214fff23a971fcd69564d39a3914a35a0be7f5028226b68d805",
+  "ingested_at": "2026-10-17T10:27:00.243486+00:00"
+}

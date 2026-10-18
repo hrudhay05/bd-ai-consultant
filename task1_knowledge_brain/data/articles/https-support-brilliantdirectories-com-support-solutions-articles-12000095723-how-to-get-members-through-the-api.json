@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095723-how-to-get-members-through-the-api",
+  "title": "How to \"GET\" members through the API",
+  "text": "\n## How to \"GET\" members through the API\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000095723\nIn this article, we will be going over how to \"get\" members using the /get API  by email or any other column using these query parameters.\n\n## Important Note\nThis process can also be used for leads APIs and posts to search a lead or post by a column.\n\n## How to \"get\" Members\nIt is possible to \"get\" the member by email or any other column using the following query:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133362593/original/5_CWP0O2HDpq6X32GTjs3c6LD0jQuZAkYg.png?1698340362 | alt: ]\n\n## Pagination\nBy default, the system displays up to 100 results per page. If needed, the number of results can be adjusted by entering any value between 20 and 100 in the \" limit \" field.\nThe unique values of next_page and last_page can be used in the page field to load the corresponding next or last page of results.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12150785924/original/l7T5oIaf46oH6F3K1UAyICxw6pd5wM3AiQ.png?1728592358 | alt: ]\n\n## Multiple Properties\nIt is possible to include multiple properties when searching for data through the API.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155860481/original/HAmZOcctUM5qAkFmCl585LXtGioDy34WwQ.png?1737645898 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133362593/original/5_CWP0O2HDpq6X32GTjs3c6LD0jQuZAkYg.png?1698340362",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12150785924/original/l7T5oIaf46oH6F3K1UAyICxw6pd5wM3AiQ.png?1728592358",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155860481/original/HAmZOcctUM5qAkFmCl585LXtGioDy34WwQ.png?1737645898",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c96699640d767ef64033af10a23ae8feef34aed720cc5cc65d003594c077d1e5",
+  "ingested_at": "2026-10-17T15:23:48.680560+00:00"
+}

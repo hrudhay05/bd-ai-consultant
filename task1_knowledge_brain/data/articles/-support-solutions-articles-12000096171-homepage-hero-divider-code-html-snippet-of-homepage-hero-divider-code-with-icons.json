@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000096171-homepage-hero-divider-code-html-snippet-of-homepage-hero-divider-code-with-icons",
+  "title": "Homepage Hero Divider Code - HTML Snippet of Homepage Hero Divider Code with Icons",
+  "text": "\n## Homepage Hero Divider Code - HTML Snippet of Homepage Hero Divider Code with Icons\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000096171\nThis article provides a sample HTML structure for the Homepage Hero Divider section included in the standard Brilliant Directories website theme.\nThe example demonstrates the default layout, including the responsive column structure, Font Awesome icons, headings, descriptive text, and call-to-action buttons used in the Hero Divider.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132163564/original/t4vajv7AStW_CguGZC1bfGSXeqAP_mvVFg.png?1696283082 | alt: ]\nThe following HTML snippet represents the default markup for the Homepage Hero Divider.\nThis code can be used as a reference when creating custom homepage layouts, modifying the Hero Divider, or identifying the HTML elements and CSS classes used by the standard Brilliant Directories theme.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132163564/original/t4vajv7AStW_CguGZC1bfGSXeqAP_mvVFg.png?1696283082",
+      "alt": ""
+    }
+  ],
+  "content_hash": "d6ede18db31c5647aafd2c29c9f04056e255a4346b3d944aa70fe4802bce32d1",
+  "ingested_at": "2026-10-17T15:24:09.080194+00:00"
+}

@@ -1,0 +1,189 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000057707-sell-digital-products-services",
+  "title": "Sell Digital Products & Services",
+  "text": "\n## Sell Digital Products & Services\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000057707\nGenerate additional revenue from members by selling digital products and services directly through the website.\nSell ebook downloads, banner ad placements, marketing services and more. The website will automatically charge the member’s credit card. The user will receive a confirmation email and be redirected to a confirmation/download page.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Sell Digital Products & Services Add-On\nIMPORTANT: This post type should only be activated for the admin membership plan, not for directory members. This feature is directly linked to the website payment gateway so any purchases made will be paid to the admin.\nNOTE: In order to utilize this add-on, the website requires a secure HTTPS connection. Get an SSL Certificate HERE if the website does not currently have one.\nNOTE: Users must be logged in to an account to get a Digital Product. This is required for all types of digital products: free, paid and recurrent.\n\n## Enabling the Add-On\nGo to Finance - Membership Plans:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097588168/original/g72QhlMtYE4DXzDLJU8zNL516LtV6l2zAA.png?1630450216 | alt: ]\nSelect the Admin membership level:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105896637/original/-zbhDPlt4_beZcomdIH2wPPVzg6BuOUHUw.png?1646420374 | alt: ]\nGo to Post Publishing tab and scroll down to activate the Website - Digital Products Feature:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092056963/original/9UcOwnPdOSUZCh-hGhTTh4x3d1351OMveQ.png?1619835623 | alt: ]\n\n## Adding Digital Products\nLog into the Admin profile and using the left sidebar find the Website - Digital Products to a new Digital Product:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156572736/original/Orf13Cx4F9F80rWdOM6dIAq7ulZJvfWS4A.png?1738860707 | alt: ]\nFill out the Digital products form. Here's a list of the fields available in this form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143631826/original/kDFkt37_nUdDuOZw8jchyglVJce8RTKj7Q.png?1716338452 | alt: ]\nPublish content on the site or save it as a draft.\nAdd the Title of the Digital Product.\nPayment Type - Select if the product will be free, one time payment, recurrent or a custom donation.\nAdd the \"Buy Button Text\" - Call to action\nAdd a Price - Product can be set as $0 and it would be free and no CC would be required.\nSelect the Available Quantity.\nRedirect the members after a purchase to a \"thank you\" page or a custom page within the web pages.\nSelect the email template it will be sent. There is a default email template called: Digital Product Purchase Complete, it is the default email template. This one can be used it or create a new one. Website admins can make use of the variable %group_name% to incorporate the title of the digital product into the email template.\nSelect the email template that will be sent to the publisher(Admin) of the digital product. There is a default email template called: Digital Product Purchase Complete, it is the default email template. This one can be used it or create a new one.\nEnter related keywords.\nAdd a description\nNOTE: If the Credits System Add-on is enabled, there will be two additional fields appearing in the form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143737437/original/FHVG1rbVgsNQYzO5hsCEcp-rSPfF9HFXrw.png?1716482735 | alt: ]\nCredits to Add After Purchase: Buyers will receive this credit amount one time after initial purchase. Leave blank if no credits are granted.\nAllow Use of Existing Credits for Purchase?: Select 'Yes' to allow buyers to use existing credits towards this purchase, or 'No' to require the use of a payment method.\nOnce all of the details have been saved, add the images to the Digital Product feature.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125863144/original/_Ok0kFcTMQCSbDklMRkAPazesQjIeBrmyQ.png?1684855691 | alt: ]\nUpload as many images as needed.\nTitle\nDescription\nRotate Image\nDelete\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125867346/original/ye8ImQ15ZdXFIBoCIoCK2Si-WlYix4qZqQ.png?1684859450 | alt: ]\nArrange the Photo Display Order:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125867427/original/jWEg3Vnm-1apHNFiAnU9vVrUr1dXBJIgmg.png?1684859553 | alt: ]\nAll Digital Products (drafts or published) will be displayed in the member dashboard. To View, Edit, Clone or Delete the Digital Product click on the Actions drop-down to display the available options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125867628/original/ANnw4-brG95EHR7EEgPvbM7ndntoLt54lw.png?1684859754 | alt: ]\n\n## Digital Products URL\nFind the Digital Products using the URL:\nyoursite.com/ digital-products\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125868527/original/GLjnTxH3UGVDgnkSIZcMTufyBKNLob6yUg.png?1684860607 | alt: ]\n\n## Thank You Page\nIf a Thank You page was selected, make sure to also protect the page. This can also be done for any static page.\nIn the Web Page Builder go to the static page and in the Page Details select Protect Page and only Allow Digital Products Buyers, then choose the digital products that are associated to this page.\nThis allows to select multiple Digital products so this will Restrict this page to be only visible for the buyers of the selected Digital Products.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155863369/original/n51Ejm4rogpJtoqy2FjJVC-DNNpg9mkGGA.png?1737647816 | alt: ]\nIf a user tries to access the page without having purchased the product a message will appear letting indicating that they don't have access to this page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149452637/original/xku6KYe4AdXQYbstfv3batvlaIUCKGqAjA.png?1726266633 | alt: ]\n\n## Use Cases\nThis feature should be used by the website owner. It should not be available as a regular post type for the members because the money will go directly to the site owner, so members won't be able to accept funds.\nExamples of use :\neBooks, Whitepapers and Digital Downloads\nBanner Ad Spots, Email Blasts and Press Releases\nTicket Sales, Donations and Fundraising\nClass or course access.\nProfile Optimization, Monthly Boosts and Mentions\nConsulting, Paid Services and more\nThere are some options :\nCreate a Thank you Page where they can download content after they pay.\nCreate an Email Template where they receive the information (Download link, embedded YouTube Video, Embedded SoundCloud Audio, a form, etc.).\nThese options will depend on what the admin wants to sell to the members, whether that is to create only a static page, only an email template or both of them.\nIn this case, we are going to create a static page called: SEO-purchase\nThis is a simple example, but it's possible to add all the desired content.\nThe link which is seo-purchase\nAdd a Title at the top.\nSome text and the Download Button.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057047/original/aetmnEQhQXRMg9zJuBqXTjzt5LbkbqlAGA.png?1619836485 | alt: ]\nUpload a PDF file, as it's shown, the name is \"PDF_example .pdf \"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057071/original/9Dv3ckKyDI0oyZuIfT1wsmiNGQVKGEzAWQ.png?1619836745 | alt: ]\nThen go to the static page that was just created and add the link:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057078/original/vNflaLsRDpsxeKthXB7aRRHwWsZ6qy59gA.png?1619836801 | alt: ]\nFor the page to be limited to buyers of this Digital product, select this option in order to restrict this page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057082/original/MEB4cOjD7l6g_YFo1bPTxKWveMXYxY_RJA.png?1619836836 | alt: ]\nThe link should be the following:\nYoursite.com/images/name of the image.pdf\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057091/original/Szys-YQ2QNIaxqI8VdHVnq_DOjfDTzz9kg.png?1619836894 | alt: ]\nTo learn how to create a custom static page with a downloadable PDF, please see the link below:\nHow to link a PDF to a Static Page\n\n## Digital Products Checkout Process and Payment Types\nThe checkout process for a user will depend on the payment type selected for the Digital product. (See Digital Products Form field 3).\nBy default, the Payment Type will be set to One-Time Payment, but the admin can choose:\nFree product\nOne-Time Payment\nRecurring Subscription\nCustom Donation\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143631949/original/THwHO9Wor3TzZoyqL4_CYII_PgDcuDpkKg.png?1716338720 | alt: ]\nHere's an example of the checkout process for each payment type:\n\n## Free Product\nHere's an example of the checkout process to get a free product:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143697781/original/_U0bWYp5rxvSD5kea2q9wDqKdtwts_S36Q.png?1716425828 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143697720/original/2g_6yUP_sWUHDM1h2WDXRbUys5sTexN7Jw.png?1716425786 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143697719/original/mez5UvL1bF91ndXzwytfztD64TBRs4tprQ.png?1716425751 | alt: ]\n\n## One Time Payment\nThis is the type of payment selected by default on the form. This will allow the user to purchase the product by paying a one-time fee:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143700505/original/R21kC28dRlbD0OjRmqVi8vyGe6Thvl267A.png?1716434474 | alt: ]\nThe next screen will show the Review Order, where the customer will be able to enter a promo code if available, and check the Total amount due to be processed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143698026/original/SNXhGZhC_PV3KZBfZNqy0ocziBN-YtW43g.png?1716426391 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143698081/original/CmkD9sNyvSOMQ2XcKI5M1gvAo33A56sp-w.png?1716426522 | alt: ]\nImportant : in order for someone to be able to purchase a PAID digital product they must be logged in as a member. If the member as a credit card on file or have available credits those will be used automatically. If there's no card on file, the system will first ask for the card information, then process the payment.\nIf a member that didn't purchase the digital product tries to access the digital download page they will get this message with a link to purchase the Digital Product:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133569553/original/qO9yJAowyZ-qqs1ifcCLL3CDX7NvguWKog.png?1698770661 | alt: ]\n\n## Recurring Subscription\nThe payment type also allows the admin to choose a recurrent subscription, when this option is selected additional fields appear in the form to choose what will be the payment cycles and the amount that will be charged.\nThe options available are: monthly, quarterly, semi-annually, and annually. Multiple cycles can be enabled, at least one option must be selected.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143700647/original/zvbrdVwHLjqOQoxWdRX0YbufhikvYzAyLA.png?1716435237 | alt: ]\nThe checkout process for recurring subscriptions goes as follows:\nThe user will have the option to choose the cycle they want to subscribe for this product:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143736038/original/5ljNWY2Wz5y2PPIakbjxXQ6PPVUvrLfI2w.png?1716481159 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143736125/original/y5jzp3p38mh47tPCGv5do47VgEvx5FdhYQ.png?1716481276 | alt: ]\n*If credits or are available these will be automatically applied towards the total cost of the purchase, this is valid for the default Digital Products post type as well as its cloned versions.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143736320/original/42dxg6rKh43zUGYcrvridvrNkQyS_bqkjw.png?1716481502 | alt: ]\n\n## Custom Donation Amount\nThis option allows the user to name the amount they would like to pay, or donate. When this payment type is selected in the form, additional fields will appear that will allow the admin to choose the cycles that will be available:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143701740/original/B2G734jo7NQEXmKwecl0eQgF1qg1AZEGkA.png?1716438620 | alt: ]\nFor the Donation payment type, the user will name the amount that they wish to donate as well as the cycle depending on what was enabled by the admin:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143701862/original/dGS3NU_12QfJd8mkYm8iUYQ_7-7W4TKs_Q.png?1716439012 | alt: ]\nIn this Review Order the promo code option does not appear for donations, as this is meant to be a contribution:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143701890/original/xkXxRwtUprDItdhyOtzUFTWtR0O4NNDrgA.png?1716439134 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143701955/original/aQAb_0tmE02uLsT5VNlMDtUuFys6cU4PQw.png?1716439328 | alt: ]\n\n## Credits to Add After Purchase\nIf the Credits System Add-on is enabled, there will be two additional fields appearing in the form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143737437/original/FHVG1rbVgsNQYzO5hsCEcp-rSPfF9HFXrw.png?1716482735 | alt: ]\nCredits to Add After Purchase: Buyers will receive this credit amount one time after initial purchase. Leave blank if no credits are granted.\nIf the admin adds and amount to the Credits to Add After Purchase. The checkout process will remain the same, the member will only see the available credits in their dashboard after the purchase:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143737895/original/NWCD79dVHLfQM_pqITmVffOilagv5Dio0w.png?1716483131 | alt: ]\nNOTE: The member must belong to a plan that has the credits display on the dashboard enabled.\nSince there's no mention of this credits being added to the member profile during the checkout process, it is up to the admin to mention this in their Digital Product Title or description.\nAllow Use of Existing Credits for Purchase?: Select 'Yes' to allow buyers to use existing credits towards this purchase, or 'No' to require the use of a payment method.\nIf credits are available and this setting is set to 'yes'  these will be automatically applied towards the total cost of the purchase, this is valid for the default Digital Products post type as well as its cloned versions.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143700480/original/bJSwqXJG8H6awk5LV5iWnAK1wUTNA2o8DQ.png?1716434333 | alt: ]\n\n## Sales History\nWhen a Digital Product is purchased, these sales will be found inside the Digital Products >> Sales History tab in the admin profile:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143735882/original/smT44-XmDDVUdC334LY94I9RqV3vXgzTwQ.png?1716480917 | alt: ]\nIt can also be found in the billing section of the member who purchased the digital product:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143735542/original/hHLWZIofTKwj9sIijEL9-_-qEM1lVhlIug.png?1716480621 | alt: ]\nHover over the Actions button to view the available options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143735606/original/7u1aYAbAjS3rihP5C80cZ8RAQQe5pplZuw.png?1716480654 | alt: ]\nView Invoice: Click to view the invoice.\nDownload the Invoice: Select this option to quickly download the invoice.\nCopy Invoice Link : Click to copy the Invoice Link.\nView Product Page: Click here to be taken to the digital product details page\nCancel Subscription: * This option is only available for recurrent subscriptions Select this to stop the subscription.\nIf the digital product had a recurrent subscription it will also show in the Billing Information >> Subscriptions Tab. In this section, if the member has a membership plan subscription it will show under the \"Primary Membership Subscription\". And the digital products will appear under the \"Additonal Subscriptions\" which includes a search filter:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143938920/original/_P8EBecfjzvhwavBc8o7CyvLZmJnOH2ALw.png?1716918014 | alt: ]\nNOTE: If the memebrship plan subscription was created through the admin, it will appear at the bottom as an \"additional subscription\".  The Primary Memebership will only show plans that were chosen by the user through the signup page or the upgrade page.\nThe information regarding the purchase will also display in the member's payment history in the admin and the invoice.\nIt shows the title of the post followed by a hyphen and the post type name:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143735950/original/LA_aMlCKTcnifc04sgZiPfXSra95VTB0TQ.png?1716481020 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143735899/original/d0DJi0-9J9zVfpXsJKMoOvwHc_VM1ZhM9g.png?1716480944 | alt: ]\n\n## Digital Products Search Box On The Homepage\nIf the admin wants to sell digital products on the homepage we recommend to select in Homepage Search Settings the Digital Products Search module:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057181/original/geLCAYYGLpVsbN4e5_4rUSvqTjmZEOqXxQ.png?1619837598 | alt: ]\nIf the admin cloned the Digital Products Post type, they can select here which one they want to connect:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057184/original/mggPPPNkcT7rR2MoB_CONMP4zmOM02alig.png?1619837633 | alt: ]\n\n## Video",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097588168/original/g72QhlMtYE4DXzDLJU8zNL516LtV6l2zAA.png?1630450216",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105896637/original/-zbhDPlt4_beZcomdIH2wPPVzg6BuOUHUw.png?1646420374",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092056963/original/9UcOwnPdOSUZCh-hGhTTh4x3d1351OMveQ.png?1619835623",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156572736/original/Orf13Cx4F9F80rWdOM6dIAq7ulZJvfWS4A.png?1738860707",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143631826/original/kDFkt37_nUdDuOZw8jchyglVJce8RTKj7Q.png?1716338452",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143737437/original/FHVG1rbVgsNQYzO5hsCEcp-rSPfF9HFXrw.png?1716482735",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125863144/original/_Ok0kFcTMQCSbDklMRkAPazesQjIeBrmyQ.png?1684855691",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125867346/original/ye8ImQ15ZdXFIBoCIoCK2Si-WlYix4qZqQ.png?1684859450",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125867427/original/jWEg3Vnm-1apHNFiAnU9vVrUr1dXBJIgmg.png?1684859553",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125867628/original/ANnw4-brG95EHR7EEgPvbM7ndntoLt54lw.png?1684859754",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125868527/original/GLjnTxH3UGVDgnkSIZcMTufyBKNLob6yUg.png?1684860607",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155863369/original/n51Ejm4rogpJtoqy2FjJVC-DNNpg9mkGGA.png?1737647816",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149452637/original/xku6KYe4AdXQYbstfv3batvlaIUCKGqAjA.png?1726266633",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057047/original/aetmnEQhQXRMg9zJuBqXTjzt5LbkbqlAGA.png?1619836485",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057071/original/9Dv3ckKyDI0oyZuIfT1wsmiNGQVKGEzAWQ.png?1619836745",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057078/original/vNflaLsRDpsxeKthXB7aRRHwWsZ6qy59gA.png?1619836801",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057082/original/MEB4cOjD7l6g_YFo1bPTxKWveMXYxY_RJA.png?1619836836",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057091/original/Szys-YQ2QNIaxqI8VdHVnq_DOjfDTzz9kg.png?1619836894",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143631949/original/THwHO9Wor3TzZoyqL4_CYII_PgDcuDpkKg.png?1716338720",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143697781/original/_U0bWYp5rxvSD5kea2q9wDqKdtwts_S36Q.png?1716425828",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143697720/original/2g_6yUP_sWUHDM1h2WDXRbUys5sTexN7Jw.png?1716425786",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143697719/original/mez5UvL1bF91ndXzwytfztD64TBRs4tprQ.png?1716425751",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143700505/original/R21kC28dRlbD0OjRmqVi8vyGe6Thvl267A.png?1716434474",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143698026/original/SNXhGZhC_PV3KZBfZNqy0ocziBN-YtW43g.png?1716426391",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143698081/original/CmkD9sNyvSOMQ2XcKI5M1gvAo33A56sp-w.png?1716426522",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133569553/original/qO9yJAowyZ-qqs1ifcCLL3CDX7NvguWKog.png?1698770661",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143700647/original/zvbrdVwHLjqOQoxWdRX0YbufhikvYzAyLA.png?1716435237",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143736038/original/5ljNWY2Wz5y2PPIakbjxXQ6PPVUvrLfI2w.png?1716481159",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143736125/original/y5jzp3p38mh47tPCGv5do47VgEvx5FdhYQ.png?1716481276",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143736320/original/42dxg6rKh43zUGYcrvridvrNkQyS_bqkjw.png?1716481502",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143701740/original/B2G734jo7NQEXmKwecl0eQgF1qg1AZEGkA.png?1716438620",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143701862/original/dGS3NU_12QfJd8mkYm8iUYQ_7-7W4TKs_Q.png?1716439012",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143701890/original/xkXxRwtUprDItdhyOtzUFTWtR0O4NNDrgA.png?1716439134",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143701955/original/aQAb_0tmE02uLsT5VNlMDtUuFys6cU4PQw.png?1716439328",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143737437/original/FHVG1rbVgsNQYzO5hsCEcp-rSPfF9HFXrw.png?1716482735",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143737895/original/NWCD79dVHLfQM_pqITmVffOilagv5Dio0w.png?1716483131",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143700480/original/bJSwqXJG8H6awk5LV5iWnAK1wUTNA2o8DQ.png?1716434333",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143735882/original/smT44-XmDDVUdC334LY94I9RqV3vXgzTwQ.png?1716480917",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143735542/original/hHLWZIofTKwj9sIijEL9-_-qEM1lVhlIug.png?1716480621",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143735606/original/7u1aYAbAjS3rihP5C80cZ8RAQQe5pplZuw.png?1716480654",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143938920/original/_P8EBecfjzvhwavBc8o7CyvLZmJnOH2ALw.png?1716918014",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143735950/original/LA_aMlCKTcnifc04sgZiPfXSra95VTB0TQ.png?1716481020",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143735899/original/d0DJi0-9J9zVfpXsJKMoOvwHc_VM1ZhM9g.png?1716480944",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057181/original/geLCAYYGLpVsbN4e5_4rUSvqTjmZEOqXxQ.png?1619837598",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057184/original/mggPPPNkcT7rR2MoB_CONMP4zmOM02alig.png?1619837633",
+      "alt": ""
+    }
+  ],
+  "content_hash": "0823db329bdab1decdf7192a583b2f7d687e4530d4c35ebf32ce8762c6a23cb8",
+  "ingested_at": "2026-10-17T14:42:55.085595+00:00"
+}

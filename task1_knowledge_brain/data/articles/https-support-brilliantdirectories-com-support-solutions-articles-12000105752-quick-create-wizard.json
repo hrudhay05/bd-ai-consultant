@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000105752-quick-create-wizard",
+  "title": "Quick Create Wizard",
+  "text": "\n## Quick Create Wizard\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000105752\nThe Quick Create Wizard allows admins to create new members, newsletters, invoices, posts, web pages and coupon codes directly from the admin header, on any admin page.\nThe blue Quick Create button sits in the top right of the admin header, to the left of Visit Website .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415487/original/W0xobl-pd9D3R_DP8A3QBRjJwUd_ZvGZMQ.png?1791392529 | alt: The Quick Create button in the admin header]\nClicking Quick Create opens a menu of the available options. Each option opens its own step-by-step wizard. Only the options the admin's role has permission to use are shown.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415488/original/-UpoC1sMo68exIiUC5lLA3RyIqAINN4Hgw.png?1791392530 | alt: The Quick Create menu open, with its six options numbered 1 to 6]\nThe numbers in the screenshot match the list below. Each link has the full walkthrough for that option:\nAdd New Member : set up a new member account.\nCreate Newsletter : send bulk email to members.\nCreate Invoice : bill a member for payment.\nCreate Post : publish a new article or blog post.\nCreate Web Page : build a page with SEO content.\nCreate Coupon Code : set up a discount code.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415487/original/W0xobl-pd9D3R_DP8A3QBRjJwUd_ZvGZMQ.png?1791392529",
+      "alt": "The Quick Create button in the admin header"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415488/original/-UpoC1sMo68exIiUC5lLA3RyIqAINN4Hgw.png?1791392530",
+      "alt": "The Quick Create menu open, with its six options numbered 1 to 6"
+    }
+  ],
+  "content_hash": "2e671cade8c7847c2f75b470a9a2d059cdf27a0689a8d9e8886122ed812bef7a",
+  "ingested_at": "2026-10-17T15:35:09.619031+00:00"
+}

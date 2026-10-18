@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000049682-how-to-remove-the-leads-send-message-links-from-the-website",
+  "title": "How to Remove the Leads/Send Message Links from the Website",
+  "text": "\n## How to Remove the Leads/Send Message Links from the Website\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000049682\nThis guide explains how to disable member-to-member messaging and remove lead generation forms from your website.\n\n## Disable the \"Send Message\" Feature:\nThe first step is to prevent members from receiving messages and leads through their profile pages.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056221/original/WGyNQL36ZuohqG-72ZnSp36XtaIjOfzg0g.png?1780930646 | alt: ]\nNavigate to Membership Plans:\nGo to Finance → Membership Plans .\nLocate the membership plan you want to edit.\nClick Edit .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056338/original/ZgbbQzdoknKp6uwP1aIIp7Cl57r2QNsO0A.png?1780930689 | alt: ]\nDisable the Send Message Form:\nOpen the Profile tab.\nLocate the setting Show \"Send Message\" Buttons & Forms .\nSet this option to No .\nDo the same on all of the Membership Plans.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056482/original/QErxvULcrbSbHJBdLKUE-YNJn_ZudVC5hQ.png?1780930845 | alt: ]\nThen go to the Profile tab, find \"Make a Connection\" / \"Claim Listing\" Banner Position . Select \" Hide - Do Not Display \" to hide the send message link.\nDo the same on all of the Membership Plans.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056661/original/emtcJkLUzw8tuQVkW7Jpy2YV932nQbfM5g.png?1780930944 | alt: ]\nAfter updating these settings, the messaging forms and buttons will no longer appear on member profile pages.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056765/original/qbx_UFSqPNqEOQTIPWOOKnxG1h0wT5vlNg.png?1780931004 | alt: ]\nImportant: Repeat this step for every membership plan that should not allow messaging.\n\n## Remove the \"Get Matched\" Page\nLastly, it is also important to remove the Getmatched Page.\nGo to My Content >> Web Page Builder >> Locate the \" Get Matched \" page and click on Delete .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056942/original/aiLfolTOTya_a5Wc76fAA75DHAa8VX2GjQ.png?1780931121 | alt: ]\nOnce deleted, visitors will no longer be able to access the Get Matched page on the website.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056221/original/WGyNQL36ZuohqG-72ZnSp36XtaIjOfzg0g.png?1780930646",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056338/original/ZgbbQzdoknKp6uwP1aIIp7Cl57r2QNsO0A.png?1780930689",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056482/original/QErxvULcrbSbHJBdLKUE-YNJn_ZudVC5hQ.png?1780930845",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056661/original/emtcJkLUzw8tuQVkW7Jpy2YV932nQbfM5g.png?1780930944",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056765/original/qbx_UFSqPNqEOQTIPWOOKnxG1h0wT5vlNg.png?1780931004",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056942/original/aiLfolTOTya_a5Wc76fAA75DHAa8VX2GjQ.png?1780931121",
+      "alt": ""
+    }
+  ],
+  "content_hash": "31ca8dabcd575ab02030968a2067de07e37e661f25f5249abc3d14117bb9a1ae",
+  "ingested_at": "2026-10-17T14:40:40.175199+00:00"
+}

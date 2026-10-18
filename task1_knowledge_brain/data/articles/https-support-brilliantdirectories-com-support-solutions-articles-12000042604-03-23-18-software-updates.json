@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000042604-03-23-18-software-updates",
+  "title": "03/23/18 - Software Updates",
+  "text": "\n## 03/23/18 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000042604\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\n\n## Updates:\nWe moved the \"Keyword Search\" Menu Item from the Settings Tab to the Developers Tab in the Admin Menu and changed the name of the menu item to \"Autosuggest Settings\".\nWe fixed an issue which was affecting the normal behavior of the Recent Events Widgets when the Recurring Events Add-On is active. Widget Involved: Bootstrap Theme - Display - Recent Events\nWe fixed an issue that was affecting the Tags functionality on search results pages for posts when the Insta-Load Search Results Add-On was active.\nWe fixed an issue which was affecting saving the \"Quick Edit\" page accessed in the \"Actions\" menu in the Search Members page in the Admin.\nNow Admin Moderators can only update their own Admin credentials.\nWe fixed an issue which was affecting the logic of the Multi-Member Manager Add-On in the Admin Dashboard.\nWe made an improvement to how the system handles all search result pages when the Insta-Load Add-On is active.",
+  "images": [],
+  "content_hash": "aafb5171c8e1c8f12bedb0cda3b99bcc662b534cb6bec21ffd0138059b912e7e",
+  "ingested_at": "2026-10-17T14:37:47.526062+00:00"
+}

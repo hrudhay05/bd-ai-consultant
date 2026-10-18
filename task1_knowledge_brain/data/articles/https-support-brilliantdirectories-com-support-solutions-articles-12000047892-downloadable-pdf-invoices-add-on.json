@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047892-downloadable-pdf-invoices-add-on",
+  "title": "Downloadable PDF Invoices Add-On",
+  "text": "\n## Downloadable PDF Invoices Add-On\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000047892\n\n## Overview\nInvoicing can be time-consuming, but not anymore! The Downloadable PDF Invoices add-on automates the invoicing process by generating PDF invoices for the members. This add-on generates PDF invoices that the website admin and member can download. Admins and members can download invoices for offline bookkeeping, requests for payment, and more.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Downloadable PDF Invoices Add-On\n\n## Features and Benefits\nAutomatic PDF invoice generation\nBranded invoices with the website logo\nEasily download PDF invoices for offline use\nAutomatic sequential invoice numbering\nInvoice status dependent on transaction status (Paid, Unpaid, Refunded or Cancelled)\n\n## Using the Add-On\nOnce the add-on is active on the site, the admin will have the option to set an Invoice Logo in General Settings > Brand Images\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116331214/original/uxFtPt0_vCh3FSqG05TaPkCUkA7PCbiJjA.png?1666635328 | alt: ]\n\n## Downloading Invoices - Admin Perspective\nThere are 2 options to download invoices from the admin:\nTransaction History section\nThe third option in the Payment History section.\n\n## Transaction History\nIn the transaction history download the invoices in the Actions dropdown:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090403211/original/ajWE8abUr6ljqMNIFG4z20S4ekO1aa0E3Q.png?1616566265 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154936159/original/9HTIT04VeK1YsAoHH4QNmB3lxiDFX3VxoQ.png?1736201045 | alt: ]\nOn the right side, there is the Actions button, clicking on it, and then clicking on \"Download Invoice\", will open a new tab and the invoice will appear as well.\n\n## Member Payment History\nThis section can be found under Members, then find the member and click on Actions >> Payment History:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090403339/original/QvDRIM_YnTiN3kkc59_oMG3QAA4rGrLfIw.png?1616566495 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154936520/original/aqJgjpVob7W_5nwWu7Eaucet71hcGQsynw.png?1736201475 | alt: ]\n\n## Downloading Invoices - Members Perspective\nWhen they login in their account, they can go to the \"Billing Details\" Section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090965748/original/8coXeouh8t2XjdlT21cSzgHegCgGJbyrpw.png?1617733402 | alt: ]\nIn this section, they will find the Credit Card on file, the subscription History and the Payment History.\nIn this last section they can hover over the Actions button and click on \"Download Invoice\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079656613/original/0afOX5_Ry4SRYsGa0Hf_Dyvo2NanFedEjA.png?1594137123 | alt: ]\n\n## PDF Invoice Language\nIf the language of the PDF Invoice needs to be changed, please go to Settings - General Settings - Localization and set the Default Website Language.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091953285/original/Ac9SiOl1ComefNpmf5CBIHU1tkqQGjmVRw.png?1619649899 | alt: ]\n\n## Deactivated PDF Invoices\nIf this add-on is deactivated this option will look like this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058186626/original/MZHPygga8p6-_z4bryTCrFE8V_BSdhqJFw.png?1571115092 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116331214/original/uxFtPt0_vCh3FSqG05TaPkCUkA7PCbiJjA.png?1666635328",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090403211/original/ajWE8abUr6ljqMNIFG4z20S4ekO1aa0E3Q.png?1616566265",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154936159/original/9HTIT04VeK1YsAoHH4QNmB3lxiDFX3VxoQ.png?1736201045",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090403339/original/QvDRIM_YnTiN3kkc59_oMG3QAA4rGrLfIw.png?1616566495",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154936520/original/aqJgjpVob7W_5nwWu7Eaucet71hcGQsynw.png?1736201475",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090965748/original/8coXeouh8t2XjdlT21cSzgHegCgGJbyrpw.png?1617733402",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079656613/original/0afOX5_Ry4SRYsGa0Hf_Dyvo2NanFedEjA.png?1594137123",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091953285/original/Ac9SiOl1ComefNpmf5CBIHU1tkqQGjmVRw.png?1619649899",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058186626/original/MZHPygga8p6-_z4bryTCrFE8V_BSdhqJFw.png?1571115092",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b182bb760deff070d74bcdccdab51ce449c9f2e6ad97d05ecf0f044547e7944f",
+  "ingested_at": "2026-10-17T14:39:45.076798+00:00"
+}

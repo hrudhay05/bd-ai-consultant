@@ -1,0 +1,61 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000079027-default-form-types",
+  "title": "Default Form Types",
+  "text": "\n## Default Form Types\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000079027\nEvery Brilliant Directories site will come with a set of default forms that the site owner can utilize.\nThese forms can be organized into 4 main titles.\n\n## Feature Forms\nThese are the forms utilized by the members of the site when posting any feature type like Classifieds , Blog Articles , Events , etc.\nBelow an example of a Classifieds form in the front-end can be seen:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091525864/original/mw1ltiZlB7TEk5pVA4c30l3qoy2rMdOIyg.png?1618838728 | alt: ]\nAll the Feature Forms can be found by searching the wording \" Feature \" under Toolbox >> Form Manager , or by using the \"Post Type\" filter:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819520/original/fskunOakLWD1hix-cYGMKPHpoYwTRl2zGA.png?1761872530 | alt: ]\nTo learn how to customize these forms:\nHow To Customize a Form\nTo learn how to add and display a custom field on these forms:\nHow To Display Custom Post Fields In The Post Details Page\nTo identify which feature type is using which form, navigate to My Content >> Edit Post Settings >> Form To Use column:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129558664/original/IzzX2Nz6-Wa8i9thU9an3J_z__JznAxA5A.png?1691509877 | alt: ]\n\n## Listing Forms\nThese forms are utilized by members of the website when they are managing their profiles via the member dashboard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091527084/original/lQjrFbjENbh0gGT2WCj1gdRJLyjho2MRHg.png?1618839642 | alt: ]\nAll the Listing Forms can be found by searching the wording \" Listing \" under Toolbox >> Form Manager , or by filtering \"Member Listings\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819563/original/IINC8xSElrJO28ECnpiV3AmsfwERuOdjMA.png?1761872598 | alt: ]\nTo learn how to customize these forms:\nHow To Customize Member Dashboard Forms\nTo identify which membership level is using which form, please refer to the article down below:\nHow To Assign Different Listing Forms To Various Membership Plans\n\n## Member Forms\nThese are the forms utilized by the potential members during their sign-up process and by the existing members during their login, upgrade process.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091528577/original/d6lXQKSHWEce253G_0nkAUGzBqiHg-lvAA.png?1618840924 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091528618/original/lkObqqFS_ABxBrZK7_2iFIiAbSW6LqPIgw.png?1618840948 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091528828/original/-LYEqDDse9Gzh4d8hCp9_BEfV-rBbwWP0Q.png?1618841127 | alt: ]\nAll the Member Forms can be found by searching the wording \" Member \" under Toolbox >> Form Manager :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819602/original/MVyp0xpi4gdf5iUdzCkcvtXunzk4FggAnQ.png?1761872753 | alt: ]\nTo learn how to customize these forms:\nEdit Checkout Pages: Overview\nAs default, the member forms can be found in the following URLs:\nLogin Form --> /login\nSign Up Form --> /checkout/1\nUpgrade Form --> /account/upgrade\n\n## Website Forms\nThese forms are utilized by members of the website or website visitors when they are contacting the website via Contact Us form, when submitting leads, when reporting a post or when subscribing to a newsletter:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091533735/original/Ws6jQ8-BGEllFVd53p4uHhBPSC4KV6VS1g.png?1618845195 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091533771/original/0dRs29GxVzGXLEDSiyGo_wuFgLH-rFHv2w.png?1618845225 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091533800/original/urBlNNhLnm-xl6p2mV_CM1-8_fkuei-iug.png?1618845281 | alt: ]\nAll the Website Forms can be found by searching the wording \" Website \" under Toolbox >> Form Manager :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819609/original/S0tnwJR-6XkMl7oOU4wU1FSKRa3LF6vXuQ.png?1761872796 | alt: ]\nAs default, the website forms can be found in the following URLs:\nContact Us Form --> /about/contact\nGet Matched Form --> /getmatched\nNewsletter Form --> Will appear in the footer and on the sidebars if allowed",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091525864/original/mw1ltiZlB7TEk5pVA4c30l3qoy2rMdOIyg.png?1618838728",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819520/original/fskunOakLWD1hix-cYGMKPHpoYwTRl2zGA.png?1761872530",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129558664/original/IzzX2Nz6-Wa8i9thU9an3J_z__JznAxA5A.png?1691509877",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091527084/original/lQjrFbjENbh0gGT2WCj1gdRJLyjho2MRHg.png?1618839642",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819563/original/IINC8xSElrJO28ECnpiV3AmsfwERuOdjMA.png?1761872598",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091528577/original/d6lXQKSHWEce253G_0nkAUGzBqiHg-lvAA.png?1618840924",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091528618/original/lkObqqFS_ABxBrZK7_2iFIiAbSW6LqPIgw.png?1618840948",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091528828/original/-LYEqDDse9Gzh4d8hCp9_BEfV-rBbwWP0Q.png?1618841127",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819602/original/MVyp0xpi4gdf5iUdzCkcvtXunzk4FggAnQ.png?1761872753",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091533735/original/Ws6jQ8-BGEllFVd53p4uHhBPSC4KV6VS1g.png?1618845195",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091533771/original/0dRs29GxVzGXLEDSiyGo_wuFgLH-rFHv2w.png?1618845225",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091533800/original/urBlNNhLnm-xl6p2mV_CM1-8_fkuei-iug.png?1618845281",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819609/original/S0tnwJR-6XkMl7oOU4wU1FSKRa3LF6vXuQ.png?1761872796",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2beee4957229488832b5b79f0a0e5770a7118156857941b53b0853aa9b18e678",
+  "ingested_at": "2026-10-17T14:49:55.517310+00:00"
+}

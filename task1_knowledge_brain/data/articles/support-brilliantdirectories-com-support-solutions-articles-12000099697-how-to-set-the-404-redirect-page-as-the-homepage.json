@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000099697-how-to-set-the-404-redirect-page-as-the-homepage",
+  "title": "How to Set the 404 Redirect Page as the Homepage",
+  "text": "\n## How to Set the 404 Redirect Page as the Homepage\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000099697\nTo set up a 404 redirect to the homepage in Brilliant Directories, you'll need to use the Advanced Settings. Here's how:\nNavigate to the \" Settings \" section.\nClick on \" Advanced Settings \".\nTo set a new 301 redirect page, search for the \" Default 404 Error Page \" setting.\nUse the dropdown to select the existing Web Page that will be used as the redirect.\nSelect the \" /home \" option.\nClick on the \" Save \" button to apply the redirect page.\nThis will ensure that any visitors who try to access the non-existent page will be redirected to your homepage instead of seeing a 404 error.\nIf you need more information, this article may be helpful: Update 404 Error Pages",
+  "images": [],
+  "content_hash": "4d98b3e077facc77debb57d01165cb7812272a7ffe3576f622cf1beb5c3d3a41",
+  "ingested_at": "2026-10-17T15:26:08.159805+00:00"
+}

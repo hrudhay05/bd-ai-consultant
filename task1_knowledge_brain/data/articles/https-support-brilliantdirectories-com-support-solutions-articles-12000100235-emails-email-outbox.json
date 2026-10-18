@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100235-emails-email-outbox",
+  "title": "Emails » Email Outbox",
+  "text": "\n## Emails » Email Outbox\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000100235\nThis article will guide us on using the Email Outbox functionality in our software. Learn how to access and utilize this tool to engage with the audience effectively.\n\n## How to Access This Tool\nThis tool can be accessed under Emails » Email Outbox in the admin area:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181949960/original/y73U5IUyt0b3NNwc6zZ47wQSDIO5KL64iw.png?1783959844 | alt: ]\n\n## Overview of the Layout\nIn this section, the Email Outbox layout will be outlined and explained. This includes additional resources and details of the different statuses, activities, and information that is displayed.\nStatus\nTwo different banners can be displayed based on the status of the emails sent from the system:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181950002/original/sCBJY3T0u8tbNj5iYx5ozw5AEbdWAy7k7g.png?1783959913 | alt: ]\nSent: The email has been sent out.\nNot Sent: The email has not been sent out.\n\n## Date\nThe emails sent date and time will be displayed here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181950029/original/jxu33c_19hyjNM1l4YI9bpzWMD1dgBKrpA.png?1783959969 | alt: ]\n\n## Sent By\nThe email account of the sender will be displayed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181950056/original/-H4OVfvfw3FMPOmBTccz7knmTHAU10931A.png?1783960009 | alt: ]\nThe default Website \"FROM\" Email Address can be set up under General Settings » General Settings Tab » Website \"FROM\" Email Address.\n\n## Recipient\nThis section displays the recipient email address, along with any CC and BCC recipients:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183109456/original/PHIyYe2j1UWzYbgGFr742SBS3iRWKj1OzQ.png?1785858825 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180350872/original/IjYREXeEypPfGzyn6S4-Tct6BDUFpOAgkA.png?1781296596 | alt: ]\n\n## Email Content\nIn this section, the Email Template used will be displayed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181950200/original/SuIP23j0F-xIM1GOvlrE2UmKnVCormt8sA.png?1783960151 | alt: ]\nWithin this segment, both the Email Templates name and the option to click \" See Email \" for a preview of the email will be available:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181950301/original/2ciD3xNuf1Jg_TvxLQccfWAx7dmD-aN2Iw.png?1783960231 | alt: ]\n\n## Activity\nEmail activity will be displayed in this column, it includes activity for the main email recipient as well, as any other CC/BCC:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183922049/original/FX6WYM9JiJzUV45GVG9xOZ8d0wL3ixoXRA.png?1787240541 | alt: ]\nDifferent status will show:\nDelivered: Emails are successfully sent to the server.\nUnopened: The recipient might not have read the email or deleted the email without opening it.\nOpened: Number of times the recipients have opened the email.\nClicked : Interaction of the recipients clicking on a link in the emails.\nSpam Complaints: Reports made by email recipients against the emails sent from the site.\nFailed: The email address entered is not valid.\nHard Bounced: This occurs when the recipient's mail server permanently rejects an email due to reasons like invalid email addresses or domain issues.\nSoft Bounced: It happens when an email cannot be delivered temporarily, often due to reasons like a full mailbox or a temporary issue with the recipient's server.\nPreviously Bounced: This refers to email addresses that have experienced either a hard or soft bounce in previous delivery attempts, indicating a history of delivery issues that should be monitored or addressed.\nThe date and time of each Activity will also be displayed next to each status:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183923202/original/DmmlMh-4disp_Y10W2VHxz09-HqMysyf9A.png?1787241311 | alt: ]\nThis will display what triggered the email:\nAdmin Sent: The email was manually sent using the Emails » Compose Emails functionality.\nSignup :  Triggered by a Signup / Welcome email.\nAPI : Email sent by the API.\nNewsletter : Newsletter submissions.\nBilling Upgrade / Update: Complete an upgrade or update credit card.\nPassword Reset.\nEmail Verification.\nLead Message / Lead Complete and Lead Match.\nContact Form and Feedback\nRecommendation: Reviews\n(No Label) : Triggered by a custom widget or code.\n\n## Exploring Additional Functionality\nSome additional functionality is available within the Email Outbox. Here, users can filter options and convenient actions.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181952118/original/kYiteGQUkyR4SOgdD3KERPU1m_CH7QhMuw.png?1783961758 | alt: ]\n\n## Filter by Status\nThis option enables users to filter the Outbox by the email status, such as Sent, Not Sent, Delivered, Unopened, Opened, Clicked, Spam Complaints, and Failed.\n\n## Filter by Date\nUsers can arrange sent emails chronologically, aiding in tracking and managing sent emails over time.\n\n## Filter by Keyword\nThis feature facilitates searching for specific sent emails by keywords, streamlining navigation within the system.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181949960/original/y73U5IUyt0b3NNwc6zZ47wQSDIO5KL64iw.png?1783959844",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181950002/original/sCBJY3T0u8tbNj5iYx5ozw5AEbdWAy7k7g.png?1783959913",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181950029/original/jxu33c_19hyjNM1l4YI9bpzWMD1dgBKrpA.png?1783959969",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181950056/original/-H4OVfvfw3FMPOmBTccz7knmTHAU10931A.png?1783960009",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183109456/original/PHIyYe2j1UWzYbgGFr742SBS3iRWKj1OzQ.png?1785858825",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180350872/original/IjYREXeEypPfGzyn6S4-Tct6BDUFpOAgkA.png?1781296596",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181950200/original/SuIP23j0F-xIM1GOvlrE2UmKnVCormt8sA.png?1783960151",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181950301/original/2ciD3xNuf1Jg_TvxLQccfWAx7dmD-aN2Iw.png?1783960231",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183922049/original/FX6WYM9JiJzUV45GVG9xOZ8d0wL3ixoXRA.png?1787240541",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183923202/original/DmmlMh-4disp_Y10W2VHxz09-HqMysyf9A.png?1787241311",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181952118/original/kYiteGQUkyR4SOgdD3KERPU1m_CH7QhMuw.png?1783961758",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f76dc214489e5edbe860b9775e7608f0184feb0575d70343b4363aa14b9f3a0d",
+  "ingested_at": "2026-10-17T15:26:47.600316+00:00"
+}

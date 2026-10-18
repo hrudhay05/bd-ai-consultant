@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682657-how-to-activate-staging-mode-coming-soon-splash-page-as-the-homepage",
+  "title": "How To Activate \"Staging Mode\" / \"Coming Soon\" Splash Page as the Homepage",
+  "text": "\n## How To Activate \"Staging Mode\" / \"Coming Soon\" Splash Page as the Homepage\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000682657\nA \"Coming Soon Page\" is a landing page when the site is under construction, this mode can be used when the site is under development or if the site is still not ready to be launched.\nGo to SETTINGS and select GENERAL SETTINGS, the setting will be inside \" General\". Click on the Website Status dropdown, and select “Staging Mode”:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133632839/original/m5euLRnBvgGwylliMjWKvHKbCeDMbLGQRg.png?1698866213 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099129728/original/gH2nh807NWsTe2Oo3SY2HKw7RtBvlP71VA.png?1633443867 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099129837/original/S8QKG26yunN4AkvztUpquTLtbe4tQd4n8Q.png?1633443986 | alt: ]\nNOTE: Switching the site to \"Staging Mode\" will apply a \"noindex, nofollow\" directive to all pages, preventing them from being crawled until the site is returned to \"Live Mode\".\n\n## Editing the Coming Soon Page\nAs soon as \"Staging Mode (shows pre-registration form on homepage)\" is selected a link will appear:\n** Clicking on this link opens up the web page, this web page is only available through this link. It will not be found inside My Content >> Web Page Builder. ** IMPORTANT: If you DO NOT see the \"EDIT COMING SOON PAGE\" link, you may need to enable an update from your main admin dashboard area. Learn More Here\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099129891/original/IDEcnXWTKH96EXlokTEqCCu7FNCGLnhFDg.png?1633444034 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110004975/original/GzsLYAz7U1_pb6dZw9AonIsbIwkh03xf_w.png?1654627884 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099132267/original/OyrULLcoWzq6zrwyN57f4KMFztbWxUPpdw.png?1633445828 | alt: ]\nThis page comes with all of the standard web page functionality.\nIncluding:\nFroala Editor\nPre-Made Elements\nHero Section\nSeo Settings",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133632839/original/m5euLRnBvgGwylliMjWKvHKbCeDMbLGQRg.png?1698866213",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099129728/original/gH2nh807NWsTe2Oo3SY2HKw7RtBvlP71VA.png?1633443867",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099129837/original/S8QKG26yunN4AkvztUpquTLtbe4tQd4n8Q.png?1633443986",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099129891/original/IDEcnXWTKH96EXlokTEqCCu7FNCGLnhFDg.png?1633444034",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110004975/original/GzsLYAz7U1_pb6dZw9AonIsbIwkh03xf_w.png?1654627884",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099132267/original/OyrULLcoWzq6zrwyN57f4KMFztbWxUPpdw.png?1633445828",
+      "alt": ""
+    }
+  ],
+  "content_hash": "bd431b418f151fde75e5121c946e411f6f27e389230736f19aec32467423a1a8",
+  "ingested_at": "2026-10-17T14:07:40.628050+00:00"
+}

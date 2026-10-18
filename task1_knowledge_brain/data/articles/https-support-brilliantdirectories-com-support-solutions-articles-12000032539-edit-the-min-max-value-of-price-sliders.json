@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000032539-edit-the-min-max-value-of-price-sliders",
+  "title": "Edit The Min & Max Value of Price Sliders",
+  "text": "\n## Edit The Min & Max Value of Price Sliders\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000032539\nSpecific Post Types, such as Properties, include price sliders in their search widgets to allow for the selection of value ranges. By default, the price slider for Properties features a minimum value of $0 and a maximum value of $5,000,000, as demonstrated below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106337896/original/cbctGywSWc2lgKi1WvdcZvJQYoDXiceeEQ.png?1647363326 | alt: ]\nUsers may click these values and slide them horizontally to adjust the search range.\nFor example, the following image displays a search for a more specific range of values:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106337894/original/Y5XixQISS2XDmT5Sin38VBK9yDEBuPMI9Q.png?1647363315 | alt: ]\n\n## Updating Minimum and Maximum Slider Values\nTo modify the default minimum and maximum values for a price slider.\n\n## Navigate to Post Settings\nLog in to the Admin area of the website and navigate to My Content .\nClick on Edit Post Settings .\nUse the Post Type search tool to locate the specific Post Type or scroll down to the desired entry.\nClick the Edit button.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174274852/original/OlyPUJJBh8YqB48eBAXiETE1271ro4Sb8A.png?1770299706 | alt: ]\n\n## Adjust Slider Configuration\nWithin the General Settings tab, scroll down to Additional Settings to locate the Price Slider fields.\nSelect \"Yes\" to activate a price slider for this Post Type, or \"No\" to disable it.\nEnter the starting value for the price slider. Use numerical characters only; do not include commas or periods.\nEnter the ending value for the price slider. Use numerical characters only; do not include commas or periods.\nAdjust the values to the desired range, then click Save Changes .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174275072/original/NKF3XgSTpsNuv_i4ChNuXfsH-kaRL832iQ.png?1770299890 | alt: ]\n\n## Reviewing the Changes\nThe search widget for the modified Post Type will now reflect the updated minimum and maximum values:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106339432/original/6SKPJokB7NzS8DN06AiXW4lK9bMegZfdpQ.png?1647365057 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106337896/original/cbctGywSWc2lgKi1WvdcZvJQYoDXiceeEQ.png?1647363326",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106337894/original/Y5XixQISS2XDmT5Sin38VBK9yDEBuPMI9Q.png?1647363315",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174274852/original/OlyPUJJBh8YqB48eBAXiETE1271ro4Sb8A.png?1770299706",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174275072/original/NKF3XgSTpsNuv_i4ChNuXfsH-kaRL832iQ.png?1770299890",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106339432/original/6SKPJokB7NzS8DN06AiXW4lK9bMegZfdpQ.png?1647365057",
+      "alt": ""
+    }
+  ],
+  "content_hash": "216028e8ce88a48346415500d4c24b1368b92c86eaf3695aa3c6d37692b10947",
+  "ingested_at": "2026-10-17T14:35:44.368149+00:00"
+}

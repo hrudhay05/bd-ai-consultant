@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000019740-how-to-add-a-facebook-feed-to-member-profile-pages",
+  "title": "How to Add a Facebook Feed to Member Profile Pages",
+  "text": "\n## How to Add a Facebook Feed to Member Profile Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000019740\nBusiness accounts can stream their Facebook feed in the sidebar of their profile. With this functionality, the Facebook Feed streams all of the latest posts and updates from a specific Facebook account.\nThe Facebook Feed will display the posts in chronological order:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116692142/original/LlFC22j2rtHe0gOiKIxBbGcBT3RBYErSMA.png?1667338533 | alt: ]\nImportant\nOnly Facebook Company Pages or Fan Pages will stream content.\nThe tool only works with public Facebook company pages. If a member uses their personal Facebook account link, then the feed will show an error or a blank widget.\nFacebook does not allow personal Facebook pages from being streamed.*\n* There is nothing that Brilliant Directories can do to change this limitation imposed by Facebook.\n\n## Add the Facebook Feed to Member Profile Pages\nThe Facebook Feed widget is found in the Sidebar Manager. Follow the steps below.\nGo to the Toolbox » Sidebar Manager » Member Profile Page sidebar:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116256007/original/wzAegn9gaO_CEQasLM2uIth__8AKpABWlg.png?1666386141 | alt: ]\nSearch for \" Member Facebook Feed \" in the Member Profile Page sidebar.\nDrag the \" Bootstrap Theme - Module - Member Facebook Feed \" widget into the display position on the Member Profile Page sidebar:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116256084/original/WNF3kcBW7Epdy1ftQCyCE4vao0yUynKZ1Q.png?1666386236 | alt: ]\nClick on \"Save Changes\"\nPlease note that a Facebook Feed will only show on a member's profile page if they have added a proper facebook link in their contact details form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116091904/original/Y9ysGzlDGtG_PhR-P9KzfqrIqivrvnYviQ.png?1666112152 | alt: ]\n\n## Facebook Company Page\nThe tool only works with public Facebook company pages. If a member uses their personal Facebook account link, then the feed will show an error or a blank widget:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116692212/original/oSWBW9gD51eyPI7vSVNBYM2olL93Wr6hxw.png?1667338679 | alt: ]\nThese Facebook accounts won't work for the Facebook Feed:\nIf it's a personal Facebook profile (not a company page).\nIf it's a company page, but not public (users must be logged into FB to see the timeline)\nIf it's an invalid Facebook Link\nIf the company Facebook page is still not published\n\n## Is my Facebook account a personal profile or a page?\nFacebook pages must be public for the feed to work. When not logged in to Facebook the information will be still accessible.\nFor example, our Facebook page is a public page: https://www.facebook.com/BrilliantDirectories\nOn the other hand, Facebook profiles or private pages are not available unless logged in to the Facebook account, so it will always prompt the user to log in:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079429082/original/jBhA9366OC3ULpgLqe42DgM1jAS8a92QjQ.png?1593621003 | alt: ]\nIf a Facebook link asks for login credentials to continue, that link won't work for the Facebook Feed.\n\n## Difference between Profile and Business Page\nFor more information about the difference between a Facebook profile and a page go to the link below:\n» https://www.facebook.com/help/337881706729661\n\n## Note\nWe updated the Facebook Activity Feed widgets to display the content from this 3rd party site after the rest of the page loads to improve page load times and page speed scores.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116692142/original/LlFC22j2rtHe0gOiKIxBbGcBT3RBYErSMA.png?1667338533",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116256007/original/wzAegn9gaO_CEQasLM2uIth__8AKpABWlg.png?1666386141",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116256084/original/WNF3kcBW7Epdy1ftQCyCE4vao0yUynKZ1Q.png?1666386236",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116091904/original/Y9ysGzlDGtG_PhR-P9KzfqrIqivrvnYviQ.png?1666112152",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116692212/original/oSWBW9gD51eyPI7vSVNBYM2olL93Wr6hxw.png?1667338679",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079429082/original/jBhA9366OC3ULpgLqe42DgM1jAS8a92QjQ.png?1593621003",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b7f8a8194f282d9c08f091bfa0298c2be9445e403144c092da4d9c97769617e1",
+  "ingested_at": "2026-10-17T14:34:01.449115+00:00"
+}

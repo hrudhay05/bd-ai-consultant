@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000002087-simple-events-calendar",
+  "title": "Simple Events Calendar",
+  "text": "\n## Simple Events Calendar\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000002087\nDisplay the website’s published upcoming events in a calendar format rather than in the standard list of search results.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Simple Events Calendar Add-On\n\n## Using the Add-On\nGo to My Content - Web Page Builder:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540746/original/ouWRn99PNHi6bb1aJSM2vaYui1xu9FFcsw.png?1781641191 | alt: ]\nCreate a New Web Page or click Edit on one of the existing pages:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540776/original/i1dPGUEp1Y70EFDUCU05eOJDIDWaxgngnA.png?1781641237 | alt: ]\nOnce on the page,  add the following widget to the page content:\n[widget=Bootstrap Theme - Display - Events Calendar]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540796/original/tDYrudNfX3_TyazltTctSPM8vtFmHYLG8w.png?1781641288 | alt: ]\nHere is an example of a new web page named calendar, displaying the events calendar:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907821/original/LRl0gLsKCqHPrxd7tiwPgdu1sS3jIbSe0Q.png?1617651359 | alt: ]\n\n## Adding the Calendar to a sidebar:\nGo to Toolbox - Sidebar Manager and Edit the sidebar where the widget will be placed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540908/original/wPvP98B_FUrdMoC4iyP-dcbtlOm4ZfXP7A.png?1781641342 | alt: ]\nAdd the widget to the sidebar, to learn more about sidebars, click here :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540945/original/HKwBtph1NLUozuE_JVv0rPErjZkIXIRsfA.png?1781641415 | alt: ]\nThis will display accordingly in the sidebar:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907932/original/XDNo2dgdXQ4cc5BVXpWxtf7aS05bKP5QWg.png?1617651513 | alt: ]\n\n## Changing the Days Labels:\nBy default, the events calendar will use the default website language. But the admin may want the days to display in a particular manner, so in order to change these labels go to:\nSettings > Text Labels > search for \"events calendar -\"\nThis is the list of calendar day labels:\nsunday_events_calendar_day\nmonday_events_calendar_day\ntuesday_events_calendar_day\nwednesday_events_calendar_day\nthursday_events_calendar_day\nfriday_events_calendar_day\nsaturday_events_calendar_day\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541073/original/LLO85BJoduejLyzvdrSMXz-aA8lkUOpOEQ.png?1781641590 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540746/original/ouWRn99PNHi6bb1aJSM2vaYui1xu9FFcsw.png?1781641191",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540776/original/i1dPGUEp1Y70EFDUCU05eOJDIDWaxgngnA.png?1781641237",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540796/original/tDYrudNfX3_TyazltTctSPM8vtFmHYLG8w.png?1781641288",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907821/original/LRl0gLsKCqHPrxd7tiwPgdu1sS3jIbSe0Q.png?1617651359",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540908/original/wPvP98B_FUrdMoC4iyP-dcbtlOm4ZfXP7A.png?1781641342",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540945/original/HKwBtph1NLUozuE_JVv0rPErjZkIXIRsfA.png?1781641415",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907932/original/XDNo2dgdXQ4cc5BVXpWxtf7aS05bKP5QWg.png?1617651513",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541073/original/LLO85BJoduejLyzvdrSMXz-aA8lkUOpOEQ.png?1781641590",
+      "alt": ""
+    }
+  ],
+  "content_hash": "fd7036b07c2845bb4f2d7a89fe1bb898dc0b087deddb44b0ab2d2dfabb9fc80b",
+  "ingested_at": "2026-10-17T14:08:39.463791+00:00"
+}

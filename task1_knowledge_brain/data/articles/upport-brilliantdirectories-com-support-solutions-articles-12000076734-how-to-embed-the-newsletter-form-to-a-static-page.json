@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076734-how-to-embed-the-newsletter-form-to-a-static-page",
+  "title": "How to Embed the Newsletter Form to a Static Page",
+  "text": "\n## How to Embed the Newsletter Form to a Static Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000076734\nThis article explains how to add the newsletter signup form to a static web page using the Brilliant Directories Web Page Builder.\nThere are three common ways to display the newsletter signup form on a static page:\nAdd the default newsletter widget to a sidebar\nEmbed the newsletter form directly on the page using the form shortcode\nAdd a button that opens the newsletter signup form in a modal popup\n\n## Option 1: Add the Newsletter Widget to a Sidebar\nThis option displays the newsletter signup widget inside a sidebar assigned to a static page.\nImportant: Sidebars can be added to static pages, except for the homepage URL /home .\n\n## Step 1: Create a New Sidebar\nGo to Toolbox >> Sidebar Manager .\nClick New Sidebar .\nEnter a sidebar nickname.\nClick Save Sidebar .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181299370/original/YO8ShJxAQKApqIj3HPl1CTO1PDiqeNmFzw.gif?1782866930 | alt: ]\n\n## Step 2: Add the Newsletter Widget to the Sidebar\nFind the new sidebar in the Sidebar Manager.\nClick Edit .\nDrag and drop the following widget into the sidebar:\nBootstrap Theme - Module - Newsletter Sign Up Form\nClick Save Changes .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181299491/original/l5OmWu6Q3rLuYTK6oMhW9_2_7n7zPZkC9A.gif?1782867122 | alt: ]\n\n## Step 3: Assign the Sidebar to a Static Page\nGo to Content >> Web Page Builder .\nCreate a new web page or edit an existing static page.\nScroll to the page display settings.\nSelect the new sidebar under the page’s display options.\nClick Save Changes .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181300262/original/Fcp8Lpi1ACLXJsnKhOUaLqMeixtme8QNAg.gif?1782869300 | alt: ]\nThe newsletter signup widget will now display in the sidebar area of the selected static page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181300258/original/v6xlIxyEk1M_M7B8XRIf1XsMN37Pt7q3rg.png?1782869221 | alt: ]\n\n## Option 2: Embed the Newsletter Form Directly on the Page\nThis option places the newsletter signup form directly inside the content area of the static page.\n\n## Step 1: Copy the Newsletter Form Shortcode\nGo to Toolbox >> Form Manager .\nFind the form named Website - Newsletter Signup Form .\nUnder the Actions column, click Copy to Clipboard .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301032/original/kSo3FbP1ap1DDoM3-ufu9PruuMqyAVbPxw.gif?1782871241 | alt: ]\n\n## Step 2: Add the Shortcode to the Static Page\nGo to Content >> Web Page Builder .\nCreate a new static page or edit an existing one.\nPaste the copied form shortcode into the page content area where the form should appear.\nClick Save Changes .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301613/original/N7cjpcbOPBc4nY9Wjab0ICj_ibUuC0v25g.gif?1782872387 | alt: ]\nThe newsletter signup form will now display directly on the static page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301710/original/YXZzuSrgiITEm8hO6HeVnAq-dYsAQJQ5qA.png?1782872783 | alt: ]\n\n## Option 3: Add a Button That Opens the Newsletter Modal\nThis option adds a button to the static page. When clicked, the button opens the newsletter signup form in a popup modal.\n\n## Step 1: Add a Button to the Page\nGo to Content >> Web Page Builder .\nCreate a new static page or edit an existing page.\nAdd a button using the draggable content blocks.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301845/original/L8rZi7dM2O3uli_JML9RuhDlsIvTbU0BfA.gif?1782873513 | alt: ]\n\n## Step 2: Add the Modal Attributes to the Button\nClick into Code View for the page content.\nFind the button code.\nAdd the following code inside the opening button or link tag, before the closing > :\nExample:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301868/original/U0gLkALkJ3vnpnMQmS4btbqFdfYE14H4Cw.png?1782873632 | alt: ]\n\n## Step 3: Add the Newsletter Modal Widget to the Page\nAt the bottom of the page content, add the following widget shortcode:\nExit Code View.\nClick Save Changes .\nView the page on the front end and click the button to test the modal.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301899/original/Qjjrw9bJEFMIL6LNh8VZKc-gTkp86A0r-Q.png?1782873828 | alt: ]\nWhen the button is clicked, the newsletter signup modal will open on the page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301923/original/kU4W5pUVYAVwCGYtw5h2SWMuR5A9ixE1JQ.gif?1782873913 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181299370/original/YO8ShJxAQKApqIj3HPl1CTO1PDiqeNmFzw.gif?1782866930",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181299491/original/l5OmWu6Q3rLuYTK6oMhW9_2_7n7zPZkC9A.gif?1782867122",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181300262/original/Fcp8Lpi1ACLXJsnKhOUaLqMeixtme8QNAg.gif?1782869300",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181300258/original/v6xlIxyEk1M_M7B8XRIf1XsMN37Pt7q3rg.png?1782869221",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301032/original/kSo3FbP1ap1DDoM3-ufu9PruuMqyAVbPxw.gif?1782871241",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301613/original/N7cjpcbOPBc4nY9Wjab0ICj_ibUuC0v25g.gif?1782872387",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301710/original/YXZzuSrgiITEm8hO6HeVnAq-dYsAQJQ5qA.png?1782872783",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301845/original/L8rZi7dM2O3uli_JML9RuhDlsIvTbU0BfA.gif?1782873513",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301868/original/U0gLkALkJ3vnpnMQmS4btbqFdfYE14H4Cw.png?1782873632",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301899/original/Qjjrw9bJEFMIL6LNh8VZKc-gTkp86A0r-Q.png?1782873828",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181301923/original/kU4W5pUVYAVwCGYtw5h2SWMuR5A9ixE1JQ.gif?1782873913",
+      "alt": ""
+    }
+  ],
+  "content_hash": "386df5039c4d787deb80c58736a5358db2b8ba23d46bc619dd202917594fae59",
+  "ingested_at": "2026-10-17T14:48:14.888030+00:00"
+}

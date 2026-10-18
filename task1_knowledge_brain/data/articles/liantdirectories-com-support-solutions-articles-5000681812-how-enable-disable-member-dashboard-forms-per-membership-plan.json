@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000681812-how-enable-disable-member-dashboard-forms-per-membership-plan",
+  "title": "How Enable/Disable Member Dashboard Forms per Membership Plan",
+  "text": "\n## How Enable/Disable Member Dashboard Forms per Membership Plan\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000681812\nThis article explains how to identify and then enable or disable member dashboard forms for each membership plan.\n\n## About Member Dashboard Forms\nBy default, three forms are displayed in the member dashboard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108897418/original/--uNhoVcCfnDQSJtJghxIfOVcRCW4-Hv8A.png?1652396125 | alt: ]\n\n## Identify Forms Currently Used\nThese forms can be enabled or disabled by navigating to:\nFinance section\nClick  Membership Plans\nThen click 'Edit' for the membership plan to be modified.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108897330/original/wAIpNne7BsLkCOFNVF2HjG7Cz3fUGceC9w.png?1652395827 | alt: ]\n\n## Go to Member's Dashboard tab\nUnder the Member's Dashboard tab, member dashboard forms can be enabled or disabled.\n\n## Example: Disabling a Form\nIn this example, the Additional Details and About Me forms are disabled as shown above.\n\n## Go to Member Dashboard tab\nIdentify the Section\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108897364/original/HaQ-L_HvBlOLZQaK37b5NRSBf0py7xbwHQ.png?1652395963 | alt: ]\n\n## Front-End Members View\nThis is how the member dashboard looks after the changes:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108897476/original/0SwEUDnTr9ZCQUtFvw64QHmS-gjobdbpqA.png?1652396292 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108897418/original/--uNhoVcCfnDQSJtJghxIfOVcRCW4-Hv8A.png?1652396125",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108897330/original/wAIpNne7BsLkCOFNVF2HjG7Cz3fUGceC9w.png?1652395827",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108897364/original/HaQ-L_HvBlOLZQaK37b5NRSBf0py7xbwHQ.png?1652395963",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108897476/original/0SwEUDnTr9ZCQUtFvw64QHmS-gjobdbpqA.png?1652396292",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b27e1d0badcfcf03d006624aafa34df0edcdb8881fb7472ec6603c9b5476b235",
+  "ingested_at": "2026-10-17T14:07:13.418126+00:00"
+}

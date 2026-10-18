@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000021788-displaying-top-level-and-sub-level-categories-on-the-homepage",
+  "title": "Displaying Top-Level and Sub-Level Categories On The Homepage",
+  "text": "\n## Displaying Top-Level and Sub-Level Categories On The Homepage\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000021788\nThis guide demonstrates the setup utilizing the Streaming Top Categories widget. For displaying lower-tier categories on the homepage, select the Streaming Sub Level Categories widget instead. The configuration steps for both options remain identical.\nTo display Top-Level Categories on the homepage, navigate to Settings >> Design Settings >> Homepage tab >> Select Streaming Top Categories option under Select Content to Display section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090675822/original/64oL48sAC_D4vEl_rP0L86a4gJafdjMFaw.png?1617115357 | alt: ]\nClicking on Edit Settings will display a module where this widget can be edited further:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090676021/original/3qYxyCt2H6vLajHsGy-xdI-WED2ojvdejw.png?1617115505 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090676049/original/GijjW8-zh9vwrjC5BVC64rHMj0EEGiCiXw.png?1617115528 | alt: ]\nThe next step would be adding related images to each categories.\nNavigation Path: My Members » Member Categories\nNavigation Path: My Members » Member Categories\nImage Requirement: Upload a specific image to each category row.\nImage Requirement: Upload a specific image to each category row.\nRecommended Image Dimensions: 400px by 200px.\nRecommended Image Dimensions: 400px by 200px.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093196356/original/Pa7Y3ieiYY_rl2UuZscYlQjOH-N6AqsuAg.png?1622058779 | alt: ]\nInside the Edit Settings module for the streaming widget, the visibility of the categories is determined by the following rule:\nEnabled (\"Only Show Categories with Photos\"): The homepage widget will automatically hide any category that lacks an uploaded image.\nEnabled (\"Only Show Categories with Photos\"): The homepage widget will automatically hide any category that lacks an uploaded image.\nDisabled (\"Only Show Categories with Photos\"): All selected categories will display on the homepage, regardless of whether a placeholder image has been uploaded.\nDisabled (\"Only Show Categories with Photos\"): All selected categories will display on the homepage, regardless of whether a placeholder image has been uploaded.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090676373/original/Gp0F3K-s7pkusXnlEz_gt92nN8OtYKZVYA.png?1617115830 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090676436/original/2cIXQ2DCm6DCDu7UoDVEJ-EhUmK5q6yn6A.png?1617115898 | alt: ]\nAdditional Information: Homepage Section Order Streaming Widgets Gallery",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090675822/original/64oL48sAC_D4vEl_rP0L86a4gJafdjMFaw.png?1617115357",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090676021/original/3qYxyCt2H6vLajHsGy-xdI-WED2ojvdejw.png?1617115505",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090676049/original/GijjW8-zh9vwrjC5BVC64rHMj0EEGiCiXw.png?1617115528",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093196356/original/Pa7Y3ieiYY_rl2UuZscYlQjOH-N6AqsuAg.png?1622058779",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090676373/original/Gp0F3K-s7pkusXnlEz_gt92nN8OtYKZVYA.png?1617115830",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090676436/original/2cIXQ2DCm6DCDu7UoDVEJ-EhUmK5q6yn6A.png?1617115898",
+      "alt": ""
+    }
+  ],
+  "content_hash": "25dd7c67702c086457b65f1eaae36d41017d723915e2dbf3cf7be6c7bb2ed0ab",
+  "ingested_at": "2026-10-17T14:34:23.283043+00:00"
+}

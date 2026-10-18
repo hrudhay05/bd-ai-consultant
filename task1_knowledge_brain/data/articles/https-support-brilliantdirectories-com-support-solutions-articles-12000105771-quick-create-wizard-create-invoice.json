@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000105771-quick-create-wizard-create-invoice",
+  "title": "Quick Create Wizard -  Create Invoice",
+  "text": "\n## Quick Create Wizard -  Create Invoice\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000105771\n\n## Create Invoice\nWith this tool creating an invoice for any service to any of the members of the site is quite simple\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021312/original/-jJ5ER2PwQnR9SpL7vOeczxdtNFXsT8Opg.png?1780873174 | alt: ]\n\n## Who would you like to bill?\nThe first step is to select the member the admin wants to create an invoice or subscription for.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279019/original/ymFRON9uiyz2oLEy9RYKbm0GXj40G7ox4g.png?1757535262 | alt: ]\n\n## What type of billing?\nChoose whether this is a one-time invoice or a recurring subscription, both scenarios will have similar wizard steps.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279063/original/FS-jn2mrhQBI8FAvPVq13FNexUvmM1Fmjw.png?1757535287 | alt: ]\n\n## Create Invoice / Request Money\nWhen selecting the One time Invoice, the wizard will allow the admin to manually add lines to the invoice. The admin can add as many lines as needed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279223/original/QSHcdUTosu1NzEM3lcY6zn8J4KKOdt0Rmg.png?1757535394 | alt: ]\n\n## Start Subscription / Recurring Billing\nIn this section the admin will have the option to select the membership plans, the billing cycle, when to bill the member the subscription Cycle Start date and a Discount (optional)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279579/original/OFeeL0TJI8JYJ0BBw17D_NuxiPQPjHM32A.png?1757535790 | alt: ]\n\n## Set billing timing credits and discounts\nLast step before reviewing the invoice, the admin will be able to decide whether to attempt payment collection when creating this invoice or when to collect the payment\nIf there was a discount, this is where it would be set.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279249/original/jRybwZQJUBh78ZDfLS47EakAwyz8yLHeuQ.png?1757535427 | alt: ]\n\n## Review and complete\nThe admin will have the option to review and complete the details before creating the Invoice:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279451/original/dDZWo6dZv7s-xhLC26TYlVW308i1gl0PEw.png?1757535626 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279489/original/hPcnCflUtqBYA_TfxtGcXeN3BTabdIfJxw.png?1757535676 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021312/original/-jJ5ER2PwQnR9SpL7vOeczxdtNFXsT8Opg.png?1780873174",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279019/original/ymFRON9uiyz2oLEy9RYKbm0GXj40G7ox4g.png?1757535262",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279063/original/FS-jn2mrhQBI8FAvPVq13FNexUvmM1Fmjw.png?1757535287",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279223/original/QSHcdUTosu1NzEM3lcY6zn8J4KKOdt0Rmg.png?1757535394",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279579/original/OFeeL0TJI8JYJ0BBw17D_NuxiPQPjHM32A.png?1757535790",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279249/original/jRybwZQJUBh78ZDfLS47EakAwyz8yLHeuQ.png?1757535427",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279451/original/dDZWo6dZv7s-xhLC26TYlVW308i1gl0PEw.png?1757535626",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279489/original/hPcnCflUtqBYA_TfxtGcXeN3BTabdIfJxw.png?1757535676",
+      "alt": ""
+    }
+  ],
+  "content_hash": "8b7c5358d399d92e5aa8b7ecd8b22cc5bfbb00fe1d36d3b470ab2631a3975115",
+  "ingested_at": "2026-10-17T15:35:16.489620+00:00"
+}

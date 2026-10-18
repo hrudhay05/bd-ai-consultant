@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000084651-how-to-hide-top-level-category-from-member-s-profile-page",
+  "title": "How To Hide Top-Level Category From Member's Profile Page",
+  "text": "\n## How To Hide Top-Level Category From Member's Profile Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000084651\nIn order to hide the top-level category from the member's profile page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102900541/original/OvIM0YD9o9hwc3Hili9EYhnCdFQo3R5nOA.png?1640704726 | alt: ]\nNavigate to Settings - Advanced Settings and search for \" Hide Top-Level Category on Member Profile Page \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647340/original/Duma6JkfVp337FWmq5CeVR_SkfwdDEkFCQ.png?1753161158 | alt: ]\nWhen this advanced setting is enabled, the top-level category that displays on the member profile under the name is removed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102901513/original/Ztr53MWOd-PONUax8AnlTlR-tqMd1SAFUg.png?1640705912 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102900541/original/OvIM0YD9o9hwc3Hili9EYhnCdFQo3R5nOA.png?1640704726",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647340/original/Duma6JkfVp337FWmq5CeVR_SkfwdDEkFCQ.png?1753161158",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102901513/original/Ztr53MWOd-PONUax8AnlTlR-tqMd1SAFUg.png?1640705912",
+      "alt": ""
+    }
+  ],
+  "content_hash": "21362432c744104e41364aaa1d0edce27c0253ca8cd68d4c48adcf3bda602a5f",
+  "ingested_at": "2026-10-17T14:59:08.522912+00:00"
+}

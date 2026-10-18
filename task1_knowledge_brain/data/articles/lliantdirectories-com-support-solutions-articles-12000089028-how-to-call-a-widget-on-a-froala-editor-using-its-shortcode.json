@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000089028-how-to-call-a-widget-on-a-froala-editor-using-its-shortcode",
+  "title": "How To Call a Widget on a Froala Editor Using Its Shortcode",
+  "text": "\n## How To Call a Widget on a Froala Editor Using Its Shortcode\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000089028\nBy default, the widgets can't be called on front-end Froala editors for security reasons.\nWe have created a workaround to allow supporting widget shortcode to be called on these Froala editors. To accomplish this, please follow the steps specified down below.\n\n## 1) Enable the Advanced Setting allow_widgets_froala_media_manager (Allow Widget Shortcode In Front-End Text Editor)\nTo enable this advanced setting, navigate to Settings >> Advanced Setting and search for allow_widgets_froala_media_manager (Allow Widget Shortcode In Front-End Text Editor) and enable it:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647519/original/nRWpf1lVd9VKsP05kcXkJgg3uIC-jh4eFQ.png?1753161725 | alt: ]\n\n## 2) Select Froala Text Editor -Media Manager Access Option as a Form Field\nThe next step to accomplish this workaround is to change the form field on an existing Froala editor to be Froala Text Editor -Media Manager Access .\nFor this example purposes, we will be customizing the default About Me form under Form Manager:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112644615/original/LctHRrB3XbJ-Wht2s_5MCKa7L_Lngpw-JQ.png?1659628261 | alt: ]\nOnce in the edit view, identify the existing Froala editor and change its form field to be Froala Text Editor -Media Manager Access :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112644752/original/zXH61P5Pg0VXjGQgGRRJOiA-VM2LdrDhew.png?1659628409 | alt: ]\nFROALA Text Editor: Versions And Their Upload Functionalities\nOnce these two steps are completed, we can copy the shortcode of the preferred widget:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645666/original/40-Gb35k2oNGLhJjs7FENaVbOSwC_OZnJg.png?1659629553 | alt: ]\nAnd paste the shortcode copied to the Froala editor:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645695/original/TDcUHCGyL0v7eZg_78YMC5d18s6Gr401XA.png?1659629587 | alt: ]\nNow the widget is rendering and displaying in the member profile:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645749/original/Z7dQAsLwIehaX7RDfiqeqA5CTaHArQhcVw.png?1659629643 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645785/original/7nOThXAFLRCYgR6Q7yw5mPeo9KQwP0BqwA.png?1659629698 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647519/original/nRWpf1lVd9VKsP05kcXkJgg3uIC-jh4eFQ.png?1753161725",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112644615/original/LctHRrB3XbJ-Wht2s_5MCKa7L_Lngpw-JQ.png?1659628261",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112644752/original/zXH61P5Pg0VXjGQgGRRJOiA-VM2LdrDhew.png?1659628409",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645666/original/40-Gb35k2oNGLhJjs7FENaVbOSwC_OZnJg.png?1659629553",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645695/original/TDcUHCGyL0v7eZg_78YMC5d18s6Gr401XA.png?1659629587",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645749/original/Z7dQAsLwIehaX7RDfiqeqA5CTaHArQhcVw.png?1659629643",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645785/original/7nOThXAFLRCYgR6Q7yw5mPeo9KQwP0BqwA.png?1659629698",
+      "alt": ""
+    }
+  ],
+  "content_hash": "6a964cbca1bef4e59273c859a61eba67060a9cd8a1880ab9b90d03a87d36f96a",
+  "ingested_at": "2026-10-17T15:00:40.029014+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000001792-how-to-add-or-edit-categories-for-post-types",
+  "title": "How To Add or Edit Categories For Post Types",
+  "text": "\n## How To Add or Edit Categories For Post Types\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000001792\nPost Types come with pre-set, example categories:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145378705/original/jVD9H0b1zHYjxvZsWUCb1u-xkrtbiGonAQ.png?1719331795 | alt: ]\nThese will need to be replaced with actual categories or deleted to remove the post category option from the post form. This field has a limit of 999 characters.\n\n## Edit Post Categories\nLocate The Post Type\n1. Go to My Content > Edit Post Settings\n2. Locate the desired post type to edit:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12130491570/original/rRAvP4ydNr2t5YHXcxlvyV4MNktZCyfb6w.png?1693241327 | alt: ]\nEdit The Categories\n1. Look for the Post Categorie s field\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12130495744/original/mb-TKPe9LcTLRttsWPIc-XBm6EYpybnYrQ.png?1693245708 | alt: ]\nNo spaces\nNo special characters\nIt's possible to have the first category appear blank on the members drop-down box, and add a \",\" in front of the first category to achieve this.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104720578/original/FGVsxmomLfU4MjVjeziUWg4yzDR-nlluWA.png?1644255715 | alt: ]\nNote: The allowed characters for Post Categories are letters, numbers, periods, and apostrophes.\nIf this is not an option on the site, please check the Software Updates module, which is located on the Dashboard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662821/original/gky9PuJBqQ6PmvXt6SnRBg9weYvzo4pxsQ.png?1615056368 | alt: ]\n\n## Applicable Post Types\nThese steps apply to the following post types:\nArticle\nArticle\nAudio File\nAudio File\nClassified\nClassified\nCoupon\nCoupon\nDiscussion\nDiscussion\nEvent\nEvent\nJob Opening\nJob Opening\nPhoto Album\nPhoto Album\nProduct\nProduct\nVideo\nVideo\nWebsite - Digital Product\nWebsite - Digital Product\nWebsite Blog Article\nWebsite Blog Article\n\n## Exception: Properties Post Type\nThe Properties post type does not have a Post Category field in Edit Post Settings . Instead, it uses different classification fields such as Property Status and Property Type . These fields can be edited directly in the Feature - Properties form within the Form Manager.\nFor more details, refer to the  following documentation:\nHow to Update Property Types Using the Form Manager",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145378705/original/jVD9H0b1zHYjxvZsWUCb1u-xkrtbiGonAQ.png?1719331795",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12130491570/original/rRAvP4ydNr2t5YHXcxlvyV4MNktZCyfb6w.png?1693241327",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12130495744/original/mb-TKPe9LcTLRttsWPIc-XBm6EYpybnYrQ.png?1693245708",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104720578/original/FGVsxmomLfU4MjVjeziUWg4yzDR-nlluWA.png?1644255715",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662821/original/gky9PuJBqQ6PmvXt6SnRBg9weYvzo4pxsQ.png?1615056368",
+      "alt": ""
+    }
+  ],
+  "content_hash": "73d29dd787a274d80057b04a14b2f6b43b88c3b88c06a3e72f60c3ff4fc81918",
+  "ingested_at": "2026-10-17T14:08:31.556002+00:00"
+}

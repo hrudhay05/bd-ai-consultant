@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Knowledge Brain</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --text:#1c2330; --muted:#6b7380; --accent:#2f5bea; --warn:#b45309; --ok:#15803d; --line:#e3e6eb; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#12151b; --card:#1b2029; --text:#e8ebf0; --muted:#98a1b0; --accent:#6c8cff; --warn:#f59e0b; --ok:#4ade80; --line:#2b323f; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,Segoe UI,Arial,sans-serif; background:var(--bg); color:var(--text); }
+  header { display:flex; align-items:center; gap:16px; padding:12px 20px; background:var(--card); border-bottom:1px solid var(--line); flex-wrap:wrap; }
+  header h1 { font-size:18px; margin:0; }
+  nav button { background:none; border:0; padding:8px 12px; font-size:14px; color:var(--muted); cursor:pointer; border-bottom:2px solid transparent; }
+  nav button.active { color:var(--accent); border-color:var(--accent); }
+  .spacer { flex:1; }
+  #health { font-size:12px; color:var(--muted); }
+  input, textarea { font:inherit; color:var(--text); background:var(--bg); border:1px solid var(--line); border-radius:8px; padding:10px; }
+  button.primary { background:var(--accent); color:#fff; border:0; border-radius:8px; padding:10px 18px; cursor:pointer; font:inherit; }
+  button.primary:disabled { opacity:.5; cursor:wait; }
+  main { max-width:820px; margin:0 auto; padding:20px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; margin-bottom:14px; }
+  .ask { display:flex; gap:8px; } .ask input { flex:1; }
+  .q { font-weight:600; margin-bottom:8px; }
+  .answer { white-space:pre-wrap; line-height:1.55; }
+  .badge { display:inline-block; font-size:12px; padding:2px 8px; border-radius:99px; margin-bottom:8px; }
+  .badge.ok { background:color-mix(in srgb,var(--ok) 18%,transparent); color:var(--ok); }
+  .badge.warn { background:color-mix(in srgb,var(--warn) 18%,transparent); color:var(--warn); }
+  .sources { margin-top:12px; font-size:14px; } .sources a { color:var(--accent); }
+  .meta { color:var(--muted); font-size:12px; margin-top:8px; }
+  .imgs { display:flex; gap:8px; flex-wrap:wrap; margin-top:10px; }
+  .imgs img { height:90px; border-radius:6px; border:1px solid var(--line); }
+  .hidden { display:none; }
+  textarea { width:100%; min-height:70px; margin:8px 0; }
+  label.chk { font-size:13px; color:var(--muted); display:block; margin-bottom:8px; }
+  .row { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+  .err { color:#dc2626; font-size:14px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Knowledge Brain</h1>
+  <nav>
+    <button id="tab-chat" class="active">Knowledge Chat</button>
+    <button id="tab-queue">Expert Queue</button>
+    <button id="tab-status">Status</button>
+  </nav>
+  <div class="spacer"></div>
+  <span id="health"></span>
+  <input id="key" type="password" placeholder="API key" size="14">
+</header>
+
+<main>
+  <section id="chat">
+    <div class="card ask">
+      <input id="question" placeholder="Ask a product question, e.g. How do refunds work?" maxlength="1000">
+      <button class="primary" id="askBtn">Ask</button>
+    </div>
+    <div id="chatLog"></div>
+  </section>
+
+  <section id="queue" class="hidden">
+    <div class="row" style="margin-bottom:12px">
+      <button class="primary" id="reloadQueue">Reload</button>
+      <label class="chk" style="margin:0"><input type="checkbox" id="onlyOpen" checked> open only</label>
+    </div>
+    <div id="queueList"></div>
+  </section>
+
+  <section id="status" class="hidden">
+    <div class="card"><pre id="statusBox" style="white-space:pre-wrap;margin:0">Loading...</pre></div>
+  </section>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+const keyBox = $("key");
+keyBox.value = localStorage.getItem("kb_key") || "";
+keyBox.addEventListener("change", () => { localStorage.setItem("kb_key", keyBox.value); loadHealth(); });
+
+async function api(path, opts = {}) {
+  const r = await fetch(path, {
+    ...opts,
+    headers: { "Content-Type": "application/json", "X-API-Key": keyBox.value, ...(opts.headers || {}) }
+  });
+  if (!r.ok) {
+    let detail = r.statusText;
+    try { const j = await r.json(); detail = typeof j.detail === "string" ? j.detail : JSON.stringify(j.detail); } catch (e) {}
+    throw new Error(r.status + ": " + detail);
+  }
+  return r.json();
+}
+
+function el(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text !== undefined) e.textContent = text;   // textContent: never inject HTML from answers
+  return e;
+}
+const isHttp = u => /^https?:\/\//i.test(u);
+
+// ---- tabs ----
+function show(name) {
+  for (const t of ["chat", "queue", "status"]) {
+    $(t).classList.toggle("hidden", t !== name);
+    $("tab-" + t).classList.toggle("active", t === name);
+  }
+  if (name === "queue") loadQueue();
+  if (name === "status") loadStatus();
+}
+$("tab-chat").onclick = () => show("chat");
+$("tab-queue").onclick = () => show("queue");
+$("tab-status").onclick = () => show("status");
+
+// ---- health ----
+async function loadHealth() {
+  try {
+    const h = await api("/health");
+    $("health").textContent = `${h.chunks_indexed} chunks · ${h.llm_model}`;
+  } catch (e) { $("health").textContent = "API offline"; }
+}
+
+// ---- chat ----
+async function ask() {
+  const q = $("question").value.trim();
+  if (q.length < 3) return;
+  $("askBtn").disabled = true;
+  const card = el("div", "card");
+  card.appendChild(el("div", "q", q));
+  $("chatLog").prepend(card);
+  card.appendChild(el("div", "meta", "Searching the documentation..."));
+  try {
+    const r = await api("/query", { method: "POST", body: JSON.stringify({ question: q }) });
+    card.lastChild.remove();
+    if (r.status === "answered") {
+      card.appendChild(el("span", "badge ok", "Answered from documentation"));
+      card.appendChild(el("div", "answer", r.answer));
+      if (r.sources.length) {
+        const s = el("div", "sources");
+        s.appendChild(el("strong", null, "Sources"));
+        r.sources.forEach(src => {
+          const line = el("div");
+          if (isHttp(src.url)) {
+            const a = el("a", null, src.title); a.href = src.url; a.target = "_blank"; a.rel = "noopener";
+            line.appendChild(a);
+          } else line.appendChild(el("span", null, src.title));
+          line.appendChild(el("span", "meta", "  relevance " + src.relevance));
+          s.appendChild(line);
+        });
+        card.appendChild(s);
+        const imgs = r.sources.flatMap(x => x.images || []).filter(isHttp).slice(0, 4);
+        if (imgs.length) {
+          const box = el("div", "imgs");
+          imgs.forEach(u => { const i = el("img"); i.src = u; i.loading = "lazy"; i.alt = "Screenshot from article"; box.appendChild(i); });
+          card.appendChild(box);
+        }
+      }
+    } else {
+      card.appendChild(el("span", "badge warn", "Not enough evidence — sent to a human expert"));
+      card.appendChild(el("div", "answer", "I can't answer this confidently from the documentation."));
+      card.appendChild(el("div", "meta", "Reason: " + (r.reason || "n/a") + (r.escalation_id ? " · Escalation ID: " + r.escalation_id : "")));
+    }
+    card.appendChild(el("div", "meta", r.latency_ms + " ms"));
+  } catch (e) {
+    card.lastChild.remove();
+    card.appendChild(el("div", "err", "Error " + e.message));
+  }
+  $("askBtn").disabled = false;
+  $("question").value = "";
+}
+$("askBtn").onclick = ask;
+$("question").addEventListener("keydown", e => { if (e.key === "Enter") ask(); });
+
+// ---- expert queue ----
+async function loadQueue() {
+  const list = $("queueList");
+  list.textContent = "";
+  try {
+    const rows = await api("/escalations" + ($("onlyOpen").checked ? "?status=open" : ""));
+    if (!rows.length) { list.appendChild(el("div", "meta", "Nothing here.")); return; }
+    rows.forEach(r => {
+      const card = el("div", "card");
+      card.appendChild(el("div", "q", r.question));
+      card.appendChild(el("div", "meta", `${r.status} · ${r.reason || ""} · ${r.created_at}`));
+      if (r.status === "open") {
+        const ta = el("textarea"); ta.placeholder = "Expert answer...";
+        const lab = el("label", "chk"); const cb = el("input"); cb.type = "checkbox";
+        lab.appendChild(cb); lab.append(" Reviewed and approved — make this searchable");
+        const btn = el("button", "primary", "Resolve");
+        btn.onclick = async () => {
+          try {
+            await api(`/escalations/${r.id}/resolve`, { method: "POST",
+              body: JSON.stringify({ expert_answer: ta.value, reviewer: "expert", approved_for_retrieval: cb.checked }) });
+            loadQueue();
+          } catch (e) { alert(e.message); }
+        };
+        card.append(ta, lab, btn);
+      } else if (r.answer) {
+        card.appendChild(el("div", "answer", "Expert answer (v" + r.version + "): " + r.answer));
+      }
+      list.appendChild(card);
+    });
+  } catch (e) { list.appendChild(el("div", "err", e.message)); }
+}
+$("reloadQueue").onclick = loadQueue;
+$("onlyOpen").onchange = loadQueue;
+
+// ---- status ----
+async function loadStatus() {
+  try { $("statusBox").textContent = JSON.stringify(await api("/ingestion/status"), null, 2); }
+  catch (e) { $("statusBox").textContent = e.message; }
+}
+
+loadHealth();
+</script>
+</body>
+</html>

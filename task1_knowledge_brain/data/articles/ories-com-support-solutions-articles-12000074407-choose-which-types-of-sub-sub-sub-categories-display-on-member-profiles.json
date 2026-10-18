@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000074407-choose-which-types-of-sub-sub-sub-categories-display-on-member-profiles",
+  "title": "Choose Which Types of Sub & Sub-Sub Categories Display on Member Profiles",
+  "text": "\n## Choose Which Types of Sub & Sub-Sub Categories Display on Member Profiles\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000074407\nBy default sub and sub-sub categories will display on member's profiles, once these have been selected by the member in the Additional Details form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280618/original/lZEVhhuDmQWGvKXennXVXNAGlNGf8-o9-w.png?1645318575 | alt: ]\n\n## Select Sub & Sub-sub Category Displa y\nIn order to display only the sub-sub categories navigate to Settings >> Advanced Settings:\nShow Only Sub-Sub Categories On Member Profiles System Variable: show_subs_member_profile\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647394/original/mrZsclyOLPVOrzK9V199-bxBjm4ax4tc9Q.png?1753161214 | alt: ]\nThe available options are Subs only , Sub and sub-subs and sub-sub only :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647397/original/z5-gDdNpn2k12n9OulAByEHGGW-cvVmehg.png?1753161232 | alt: ]\n\n## Sub-subs Only\nIf the Sub-subs only option has been selected, only Sub-Sub categories will show up in the Specialties tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280634/original/7xvHaXC0qb0JAKHQ0ESosvmlVxF0qBBw8g.png?1645318716 | alt: ]\n\n## Subs Only\nIf the Subs only option has been selected, only Sub categories will show up in the Specialties tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112329527/original/HTEozPfPjukFnxsiKwexgNyiAxpCamK28Q.png?1659023296 | alt: ]\n\n## Sub and Sub-subs\nIf the Sub and sub-subs option have been selected, both Sub Categories and Sub-Sub Categories will show up in the Specialties tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112329579/original/2L4WvxOwjBgzqWqdWBZklZKGcnpvo8pvAA.png?1659023361 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280618/original/lZEVhhuDmQWGvKXennXVXNAGlNGf8-o9-w.png?1645318575",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647394/original/mrZsclyOLPVOrzK9V199-bxBjm4ax4tc9Q.png?1753161214",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647397/original/z5-gDdNpn2k12n9OulAByEHGGW-cvVmehg.png?1753161232",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280634/original/7xvHaXC0qb0JAKHQ0ESosvmlVxF0qBBw8g.png?1645318716",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112329527/original/HTEozPfPjukFnxsiKwexgNyiAxpCamK28Q.png?1659023296",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112329579/original/2L4WvxOwjBgzqWqdWBZklZKGcnpvo8pvAA.png?1659023361",
+      "alt": ""
+    }
+  ],
+  "content_hash": "dea30757882adab5ca9d8af9e856a38ed7c460c186f5828ac7d57f9839d99234",
+  "ingested_at": "2026-10-17T14:47:20.485452+00:00"
+}

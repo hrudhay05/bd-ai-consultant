@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101601-how-to-remove-the-post-publish-date",
+  "title": "How to Remove the Post Publish Date",
+  "text": "\n## How to Remove the Post Publish Date\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000101601\nEvery post is published with the Post Date visible on the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149897343/original/sV_zEeYZS3-Ak3fR7aBMc2TPWna9DeqkHw.png?1727139420 | alt: ]\n\n## Remove Date Sitewide\nThe \" Posted \" date can be removed site wide by adding this Custom CSS code in Design Settings.\nAdd the code in the Design Settings:\nGo to Settings .\nClick on Design Settings .\nHead to the Custom CSS / HEAD tab .\nAdd the code in the Additional CSS space.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149896508/original/QQw_1VySvsBXasAw7NgRAARm_Mq_tNcBVg.png?1727137106 | alt: ]\n\n## Remove Date Individual Post Types\nTo remove the date for a specific post type add it in the Post Settings.\nGo to:\nGo to My Content.\nClick on Edit Post Settings.\nFind to the Post Type .\nHead to the Detail Page Design tab.\nAdd the code in the Insert Additional Code space.\nWith this one, add the style tags as well:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149883369/original/h81U3TQ2p64GpXOiImsL-yftYjda3uVGTA.png?1727120506 | alt: ]\n\n## Date Removed\nOnce the code has been saved, the date is removed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149897346/original/MqlSZ4dVFZNl9AnAQMkg-IOrVTd6eddEfA.png?1727139450 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149897343/original/sV_zEeYZS3-Ak3fR7aBMc2TPWna9DeqkHw.png?1727139420",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149896508/original/QQw_1VySvsBXasAw7NgRAARm_Mq_tNcBVg.png?1727137106",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149883369/original/h81U3TQ2p64GpXOiImsL-yftYjda3uVGTA.png?1727120506",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149897346/original/MqlSZ4dVFZNl9AnAQMkg-IOrVTd6eddEfA.png?1727139450",
+      "alt": ""
+    }
+  ],
+  "content_hash": "82fad63d3705852315c16c92c7f0f8375571a89f0953ba27c9334d32b5ba4c15",
+  "ingested_at": "2026-10-17T15:28:12.281057+00:00"
+}

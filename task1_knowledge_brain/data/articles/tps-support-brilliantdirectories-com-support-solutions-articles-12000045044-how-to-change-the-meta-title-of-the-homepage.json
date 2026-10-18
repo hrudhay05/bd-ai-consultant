@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000045044-how-to-change-the-meta-title-of-the-homepage",
+  "title": "How to Change the Meta Title of the Homepage",
+  "text": "\n## How to Change the Meta Title of the Homepage\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000045044\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125208686/original/T_sHOmzrOfkOE_EuAwTi9jGOY5g2shVjEA.png?1683655819 | alt: ]\nTo change the title of the home page, navigate to:\nMy Content >> Web Page Builder >> Click Edit on the Homepage\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172316020/original/yvQT9mRm4p6GDpGXSviw9upBlQYzei5h3w.png?1766432877 | alt: ]\nOn the SEO Settings Tab, look for the option SEO Meta Tags >> Page Meta Title.\nThe system will fill in these details automatically by default. The Page Meta Title field is populated with SEO variables that dynamically insert information such as the site name or location into the title. For more details about what these variables mean and how they work, see: Understanding SEO Variables .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180298879/original/V8MfnxQKA7seXxpfG7Qlvx3Zf0vIEHHrhg.png?1781224194 | alt: ]\nThe next time a visitor accesses the home page, the updated page meta title will display in the browser tab.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125208889/original/eTxnqiUXms5THs8ot_0_U3tFbGYHsS8qng.png?1683656028 | alt: ]\nAdditional options for configuring meta titles on search results pages and other sections of the website are covered in: How to Customize The Different Elements of SEO Templates .",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125208686/original/T_sHOmzrOfkOE_EuAwTi9jGOY5g2shVjEA.png?1683655819",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172316020/original/yvQT9mRm4p6GDpGXSviw9upBlQYzei5h3w.png?1766432877",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180298879/original/V8MfnxQKA7seXxpfG7Qlvx3Zf0vIEHHrhg.png?1781224194",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125208889/original/eTxnqiUXms5THs8ot_0_U3tFbGYHsS8qng.png?1683656028",
+      "alt": ""
+    }
+  ],
+  "content_hash": "54b057aa4aae4afc64852d291d5f05c80018aca41957edb8d942b891c193ca36",
+  "ingested_at": "2026-10-17T14:38:28.726263+00:00"
+}

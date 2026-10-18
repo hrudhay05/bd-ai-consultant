@@ -1,0 +1,73 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000049066-finance-membership-plans-member-dashboard",
+  "title": "Finance » Membership Plans - Member Dashboard",
+  "text": "\n## Finance » Membership Plans - Member Dashboard\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000049066\nThis article covers all the member options in this tab and what each one is for.\nFinance » Membership Plans » Member's Dashboard tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085437327/original/pPFLZxstbIbScd1qWeKJd6rFFYaKmuMyzw.png?1606225587 | alt: ]\n\n## Select Information You Want to Collect\nFinance » Membership Plans » Member's Dashboard tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098208556/original/NmWXCtC3mktBXxj8T9uPeMMrzZMzMml2KA.png?1631665468 | alt: ]\n\n## 1. Enable Contact Details Section\nShows the Contact Details tab in the member profile. See the image below.\nIt is set to YES by default because it saves the minimum information required for a member record.\nThis form cannot be removed. However, the fields can be edited.\n\n## 2. Contact Details Form\nForm used in the Contact Details tab in the member profile. If left blank it will use the default form \"Listing - Contact Details - Member\".\nIn this form, members will fill in their main profile information like the name, last name, company, phone number, main category, address, social media links, and so forth.\n\n## 3. Enable Additional Listing Details Section\nShows/Hides the Listing Details tab in the member profile. See the image below.\n\n## 4. Listing Details Form\nForm used in the Listing Details Tab in the Member Profile.\nIf left blank it will use the default form \"Listing - Additional Details - Member\".\n\n## 5. Enable About Me Section\nShows/Hides the About tab in the member profile. See the image below.\n\n## 6. About Form\nForm used in the About tab in the member profile. If left blank it will use the default form \"Listing - About - Member\"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092140984/original/uwLYmZju6GgqiN5Zmok2APK3E1FM9NXP4w.png?1620094670 | alt: ]\n\n## Profile Photo Uploads\nFinance » Membership Plans » Member's Dashboard tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083880499/original/rC06V7e-ofHonL24zjPEkeqGOn85_fcXXA.png?1603210072 | alt: ]\n\n## 1. Enable Profile Photo Upload\nShows/Hides the Profile Photo Upload option in the Profile Photo tab in the member's dashboard. NOTE: If both, Profile Photo and Company Logo are disabled, the Profile Photo Tab will be hidden. See the image below.\n\n## 2. Enable Logo Uploa d\nShows/Hides the Company Logo Upload option in the Profile Photo Tab in the member's dashboard.NOTE: If both, Profile Photo and Company Logo are Disabled, the Profile Photo Tab will be hidden. See the image below.\n\n## 3. Enable Profile Cover Photo\nThis add-on allows members to add a profile cover photo:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141076/original/i9Jp6DvZIx518d2NIMrzvGETLK-zSZABqQ.png?1620094957 | alt: ]\n\n## Dashboard Display Settings\nFinance » Membership Plans » Member's Dashboard tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134332304/original/PVhYc2-a533_BMJsKihRDsGDD3hb1vZ6rQ.png?1699869095 | alt: ]\n\n## 1. Show Profile Completeness Checklist\nIf set to YES, the system will display the Profile Steps module in the member's dashboard.\n\n## 2. Show Profile Completeness Bar in Dashboard\nIf set to YES, the system will display the Progress Bar module in the member's dashboard.\n\n## 3. Show \"Publish Content\" Quick Links\nIf set to YES, the system will display ADD CONTENT module in the member's dashboard\n\n## 4. Show \"Manage Listing\" Quick Links\nIf set to YES, the system will display the Manage Listing module in the member's dashboard.\n\n## 5. Show \"Account Details\" Snapshot\nIf set to YES, the system will display the Account Details module in the member's dashboard.\n\n## 6. Show  Embeddable Member Badge Module\nIf set to YES, the system will display the Member Badge module in the member's dashboard.\n\n## 7. Show \"QR Code\" Module\nIf set to YES, the system will display the QR Code module in the member's dashboard. The QR code will display ONLY if the member is searchable.\n\n## 8. Show \"Recent Transactions\" Module\nIf set to Yes, the system will display a Recent Transactions module in the member's dashboard displaying the most recent transactions completed by the member.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134332460/original/Rlxmb7ao_8QsDjmtn_J6p0yHQ8AKksNzOg.png?1699869355 | alt: ]\n\n## Custom Dashboard Content\nFinance » Membership Plans » Member's Dashboard tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154975968/original/q5Rr4obgHUFeSz0IrTE0JLuLUUfNRjBbSg.png?1736261766 | alt: ]\n\n## 1. Logged In Member Main Menu\nSelect a CUSTOM MAIN MENU for the dashboard section, visible only to members of this membership plan.\n\n## 2. Dashboard Header Content\nSelect a CUSTOM WIDGET or use the text editor to display in the dashboard header.\nIn this section, there is a drop-down with the Froala Editor and custom widgets. It is recommended to use the Froala Editor to add content. It allows adding links, images, videos, colors, different fonts, etc.\nFind detailed documentation on how to set it up here: Dashboard Header-Footer Custom HTML\n\n## 3. Dashboard Footer Content\nSelect a CUSTOM WIDGET or use the text editor to display in the dashboard footer.\nIn this section, there is a drop-down with the Froala Editor and custom widgets. It is recommended to use the Froala Editor to add content. It allows adding links, images, videos, colors, different fonts, etc.\nFind detailed documentation on how to set it up here: Dashboard Header-Footer Custom HTML\nExample of \"Dashboard Header Content\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141122/original/YtD4eX4Dfd-vAP0lYj-iR1a2ujQDGr6X5Q.png?1620095289 | alt: ]\n\n## Additional Settings\nFinance » Membership Plans » Member's Dashboard tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169434197/original/Kw8C0tij-cgmhX1dfp2vXBNwx0Ndve3cuA.png?1761225539 | alt: ]\n\n## 1. Show Links to Manage Billing Information\nIf set to YES, links to the Billing Details page in the member dashboard will show - members will not be able to pay overdue invoices or manage their credit card on file if this section is hidden.\n\n## 2. Show \"Manage Leads\" Link in Account Sidemenu\nIf set to YES, the NOTIFICATIONS link in the member's dashboard will show.\n\n## 3. Show Banner Ads in Dashboard\nIf set to YES, any valid banner ad widgets will display on the member's public profile.\nThis setting specifically, will be linked directly with the \"Display Banner Advertisements?\".\nFind it under: Settings » Design Setting » Banner Ad Design » Display Banner Advertisements?.\nIf this setting is set to \"YES\", banner ads will be visible on the website, and if the \"Show Advertisements on Listing\" is set to \"YES\", banner ads will be displayed in the member profiles of this specific membership plan.\nTake into consideration that if the  \"Display Banner Advertisements?\" is set to NO, no banners will be displayed on the site, regardless of whether 'Show Advertisements on Listing' is set to 'YES'.\nUsually, advertisements are shown on the free profiles, and banners are hidden on the paid profiles.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079088233/original/OiiM2C9HCaE4eJtyAB-GTrWxyJyLjzGSig.png?1592922776 | alt: ]\n\n## 4. Enable Profile Statistics\nIf it is enabled for members, they will see activity related to their public profile page.\nMembers can view analytics showing how they are benefiting from the website.\nThese are the 3 options:\nDisabled\nEnable For Member And Admin\nEnable Only For Admin\nTo learn more about this add-on, please read this article: Member Profile Analytics\n\n## 5 - 6. Sign In with Social Login\nThis setting will allow potential members to sign in with their social media accounts like Facebook and Google, instead of adding their email and basic contact information.\nNote: Make sure the site is on the final live domain and it has an SSL Certificate properly installed to enable Social Login.\nAlso, for these buttons to appear on the checkout page, activate this functionality under Settings » General Settings  »  Integrations.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12040307014/original/woAVgWNQIGtnHlSFV_M7_ipuLKaSBRNRmQ?1536252291 | alt: ]\n7 . Enable Personal Post Feed\nIf set to YES, the member can access a personal post feed based on the members they have bookmarked.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141209/original/wW3v0LK0bhP3da85TjoH1vKEFxfKiirjwA.png?1620095594 | alt: ]\n\n## 8 . Stock Images Libraries\nChoose which stock image libraries members in this plan can use when using a stock photo. For more info: Using Stock Images: Photos by Pexels, Pixabay, Stock Icons and Giphy\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169435327/original/D7qpYzoclrlX6T_7cIVt-uGG_y9Ohtl0bg.png?1761226600 | alt: ]\n\n## 9 . Show \"Business Toolkit\" Offers\nAllows the admin to activate this section for the members based on their membership plan. More info: Finance » Manage Offers\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169442454/original/1JUIiT5jVbxTcv9to8o5uep80LgPexkIhg.png?1761232190 | alt: ]\n\n## 10 . Verify Listing\nThe admin can enable the Verify Listing option, allowing members to submit a verification form to further verify their profiles\nHow to Verify a Listing\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169442596/original/U74-1tYMjXlGvw93DZCkIR85MAoQjfJbnA.png?1761232319 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085437327/original/pPFLZxstbIbScd1qWeKJd6rFFYaKmuMyzw.png?1606225587",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098208556/original/NmWXCtC3mktBXxj8T9uPeMMrzZMzMml2KA.png?1631665468",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092140984/original/uwLYmZju6GgqiN5Zmok2APK3E1FM9NXP4w.png?1620094670",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083880499/original/rC06V7e-ofHonL24zjPEkeqGOn85_fcXXA.png?1603210072",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141076/original/i9Jp6DvZIx518d2NIMrzvGETLK-zSZABqQ.png?1620094957",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134332304/original/PVhYc2-a533_BMJsKihRDsGDD3hb1vZ6rQ.png?1699869095",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134332460/original/Rlxmb7ao_8QsDjmtn_J6p0yHQ8AKksNzOg.png?1699869355",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154975968/original/q5Rr4obgHUFeSz0IrTE0JLuLUUfNRjBbSg.png?1736261766",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141122/original/YtD4eX4Dfd-vAP0lYj-iR1a2ujQDGr6X5Q.png?1620095289",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169434197/original/Kw8C0tij-cgmhX1dfp2vXBNwx0Ndve3cuA.png?1761225539",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079088233/original/OiiM2C9HCaE4eJtyAB-GTrWxyJyLjzGSig.png?1592922776",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12040307014/original/woAVgWNQIGtnHlSFV_M7_ipuLKaSBRNRmQ?1536252291",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141209/original/wW3v0LK0bhP3da85TjoH1vKEFxfKiirjwA.png?1620095594",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169435327/original/D7qpYzoclrlX6T_7cIVt-uGG_y9Ohtl0bg.png?1761226600",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169442454/original/1JUIiT5jVbxTcv9to8o5uep80LgPexkIhg.png?1761232190",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169442596/original/U74-1tYMjXlGvw93DZCkIR85MAoQjfJbnA.png?1761232319",
+      "alt": ""
+    }
+  ],
+  "content_hash": "a168174412c722e117eb76ba9b1e9ad785c5f018a0a947420f7000a2dfca2e41",
+  "ingested_at": "2026-10-17T14:40:27.660405+00:00"
+}

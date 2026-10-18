@@ -1,0 +1,85 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000019194-settings-design-settings-banner-ads",
+  "title": "Settings » Design Settings » Banner Ads",
+  "text": "\n## Settings » Design Settings » Banner Ads\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000019194\nBrilliant Directories wants to make it easier for Directory Website owners to place banner advertisements throughout their websites. Banner ads are a quick way to generate revenue, especially when using third-party tools like Google Adsense.\nOur Banner Manager makes it easy to place banners in the following areas:\nSidebars (5)\nFooter (1)\nHeader (1)\nBelow Header (1)\nText Links (1)\nImportant:\n1. For any banners to display on the website it is required to have \"Display Banner Advertisements\" set to \"Yes\" on the  \"Banner Ad Design\" tab.\n2. Make sure to add the Ads.txt on the \"Enter Ads.txt Content\" Field, if the banners don't display it is because the site is missing this Google Verification.\n3. If the Ads.txt is added but if there is no Google Ads code added, the banner space might show as a blank space, in this case, disable the banner ad that is displaying the blank space:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115244069/original/J3Lyj8v8F-awVxxJ5E4pPabBSiC6PcNkdA.png?1664451357 | alt: ]\n4. Each Membership plan has a setting called \"Show Banner Ads On Profile\" if this setting is enabled the banner ads shown on the profiles are not going to appear. To understand more about this setting please visit:\nFinance » Membership Plans - Profile Page .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106503052/original/SXec7VxreWPh5nd1hmKU8hNrLYGbL44vbw.png?1647626343 | alt: ]\n\n## How To Add Banners In The \"Banner Ads\" Manager\nThere are two primary methods to add a banner to the website using this tool: 1) Inserting a Custom Image and 2) Using an Embed Code (Google Adsense, etc):\n\n## Method 1: Inserting A Custom Image\nGo to ADMIN >> DESIGN SETTINGS >> BANNER ADS tab\nClick on the down arrow for the banner\nSelect \"Use Image Banner Ad\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106503101/original/rdsf7XEze5cFhMjKeImtPJYylOu9hpQktw.png?1647626394 | alt: ]\nClick on \" Upload Image \"\nSelect Image from the Media Manager.\nTo add a \"clickable\" banner add the URL link:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086347381/original/vADtkQbE-vO056zRhMESQ1jfZQYR1szixA.png?1608048681 | alt: ]\nClick on \"Save Changes\"\nClick on \"Save Changes\"\nTo know how to place banners on the website please skip the next section\nTo know how to place banners on the website please skip the next section\n\n## Method 2: Add An Embed Code provided by a 3rd party such as Google Adsense\nGo to ADMIN >> DESIGN SETTINGS >> BANNER AD DESIGN\nClick on the down arrow for the banner\nSelect \"Use Embed Code\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086347517/original/uGyt3Tme5VzMJaQ8Tzcl8zUthgnmZ5b1ZA.png?1608048777 | alt: ]\nPaste embed code. Here is an example of what it could look like:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084765726/original/0hAu4cWQ-Lwu6UslWZDg8cId7hp3VivIKQ.png?1605017810 | alt: ]\nClick on \"Save Changes\"\n\n## How To Place Banners On The Website\nOnce the banners are all set, see how to place them on the site by just following these easy instructions:\n\n## Adding Banners to Sidebars\nEach Banner that is found in the Banner Ad Design section has its own unique widget name. This is important to note as placing banners on the website by calling the appropriate widget name. For this example, we will try to add the following banner on the member search result pages:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084765868/original/t5r8Ub_NGDE-TaJ2TAC2UrsUa-LMAsHoBg.png?1605017941 | alt: ]\nCopy the name of the widget:\nCopy the name of the widget:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086347545/original/t0Vdv3d2QyfzfZ1lqBfLsnKfXnoXQn8Xzg.png?1608048812 | alt: ]\nGo to TOOLBOX >> SIDEBAR MANAGER\nGo to TOOLBOX >> SIDEBAR MANAGER\nSelect the \"Member Search Result\" Sidebar\nSelect the \"Member Search Result\" Sidebar\nPaste the widget name copied in step 2:\nPaste the widget name copied in step 2:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106650419/original/z6YiE9LAj6nAJwouCGClGfXoTqGWiDbQ-g.png?1647966192 | alt: ]\nClick and drag the Banner in the order of preference.\nClick and drag the Banner in the order of preference.\nClick \"Save Changes\"\nClick \"Save Changes\"\nImportant Note: The banner named Sidebar Banner Ad (Bootstrap Theme - Banner - Responsive Size) is a unique banner that will appear automatically in certain sidebars after enabled. These sidebars are:\nMember Profile Page\nMember Search Result\nPost Search Result\nPost Single Page\nToolbox » Sidebar Manager\n\n## Adding The Footer Banner to the Website\nAdding an image or embed code in the Footer Banner will automatically display the Banner Ad in the Footer as long as advertisements are enabled for the website. There are no further steps required.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12048448704/original/AFCg7EEFQEaEEcysd04B5DmZKCIGRUBbeQ.png?1553620529 | alt: blob1476130830479.png]\n\n## Adding Banner Ad To Header\nAdding a banner to the Header requires hiding the search bar that comes by default in the header as there is not enough room for both the banner ad and the search bar. To add both this would be customization and would require that request to go to the marketplace.\nTo add a Banner to the Header please follow these instructions:\nUpload the image banner or paste the embed code inside the Header Banner design box:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12048448705/original/DNQkQyDruf_e0VRL7LBd0jPLaQNY2-Vtaw.png?1553620529 | alt: blob1476131087997.png]\nClick on \"save changes\"\nClick on \"save changes\"\nGo to SETTINGS >> DESIGN SETTINGS >> GENERAL  >> HEADER DESIGN\nGo to SETTINGS >> DESIGN SETTINGS >> GENERAL  >> HEADER DESIGN\nIn the \"Header Search Module\" dropdown select the \"Display Header Banner Ad\" option:\nIn the \"Header Search Module\" dropdown select the \"Display Header Banner Ad\" option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106650487/original/Z4kz40aaKK0NhV1NNeax1uxngFaGUnhhUA.png?1647966236 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089359085/original/BlcnI1c8lZZloHljCxk49Y6keDBxSDAuJQ.png?1614438326 | alt: ]\nClick \"Save Changes\"\nClick \"Save Changes\"\nThe Header Ad should not be displayed in the Header.\nThe Header Ad should not be displayed in the Header.\nThis is how the Header Banner Ad will display on the front-end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106650128/original/PI266OlifpGN8Vp3BW0_qLQi1NBV2P_72w.png?1647965927 | alt: ]\n\n## Adding Below Header Banner Ad\nThis banner can be added under Banner Ads directly:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124676688/original/J6Ssxl8gKW5DPBwFkAfijZSf3XnMCuHtGg.png?1682615038 | alt: ]\nThis banner, by default, will display on any pages under the Header besides the homepage (/home) and join page (/join):\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106649943/original/1J4mPaznLJ5wqa75Wu3YP9_epFi6K9eyjQ.png?1647965745 | alt: ]\nTo allow this banner to display in the Homepage, check the Display on Homepage option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124676443/original/jecLTPxWbSUJvIKHW2jlhLBamnd0uJkDfg.png?1682614821 | alt: ]\n\n## Photo Albums Banner Ad\nThis banner is going to display at the end of the Photo Gallery of a Membership Feature that is using a Photo Gallery, for example, Photo Albums, Products, Properties, and Classifieds.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106650820/original/OaXFAFo9jkvzpy92ZIjbmqVsFazFBkKlLw.png?1647966566 | alt: ]\nSee the Banner showing at the end of the Photo Gallery content:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089359504/original/YTaIApeQJNTY44kzKw_jY38FYnRc8A2mxw.png?1614440148 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115244069/original/J3Lyj8v8F-awVxxJ5E4pPabBSiC6PcNkdA.png?1664451357",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106503052/original/SXec7VxreWPh5nd1hmKU8hNrLYGbL44vbw.png?1647626343",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106503101/original/rdsf7XEze5cFhMjKeImtPJYylOu9hpQktw.png?1647626394",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086347381/original/vADtkQbE-vO056zRhMESQ1jfZQYR1szixA.png?1608048681",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086347517/original/uGyt3Tme5VzMJaQ8Tzcl8zUthgnmZ5b1ZA.png?1608048777",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084765726/original/0hAu4cWQ-Lwu6UslWZDg8cId7hp3VivIKQ.png?1605017810",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084765868/original/t5r8Ub_NGDE-TaJ2TAC2UrsUa-LMAsHoBg.png?1605017941",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086347545/original/t0Vdv3d2QyfzfZ1lqBfLsnKfXnoXQn8Xzg.png?1608048812",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106650419/original/z6YiE9LAj6nAJwouCGClGfXoTqGWiDbQ-g.png?1647966192",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12048448704/original/AFCg7EEFQEaEEcysd04B5DmZKCIGRUBbeQ.png?1553620529",
+      "alt": "blob1476130830479.png"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12048448705/original/DNQkQyDruf_e0VRL7LBd0jPLaQNY2-Vtaw.png?1553620529",
+      "alt": "blob1476131087997.png"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106650487/original/Z4kz40aaKK0NhV1NNeax1uxngFaGUnhhUA.png?1647966236",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089359085/original/BlcnI1c8lZZloHljCxk49Y6keDBxSDAuJQ.png?1614438326",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106650128/original/PI266OlifpGN8Vp3BW0_qLQi1NBV2P_72w.png?1647965927",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124676688/original/J6Ssxl8gKW5DPBwFkAfijZSf3XnMCuHtGg.png?1682615038",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106649943/original/1J4mPaznLJ5wqa75Wu3YP9_epFi6K9eyjQ.png?1647965745",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124676443/original/jecLTPxWbSUJvIKHW2jlhLBamnd0uJkDfg.png?1682614821",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106650820/original/OaXFAFo9jkvzpy92ZIjbmqVsFazFBkKlLw.png?1647966566",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089359504/original/YTaIApeQJNTY44kzKw_jY38FYnRc8A2mxw.png?1614440148",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c22d99f9630074759ec902a2f928b8440c1b8d2f779a5e85732e65382b7b9991",
+  "ingested_at": "2026-10-17T14:33:48.090309+00:00"
+}

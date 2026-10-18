@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000087030-front-end-optimization-use-a-content-delivery-network-cdn-for-images",
+  "title": "Front-End Optimization: Use a Content Delivery Network (CDN) For Images",
+  "text": "\n## Front-End Optimization: Use a Content Delivery Network (CDN) For Images\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000087030\nThe Front-End Optimization: Use Content Delivery Network (CDN) For Images is one of the new advanced settings that will enable additional optimization to the website performance. In this setting enter a URL to use a service like imagekit.io to serve images from an image CDN with automatic optimization and real-time transformation. Images that are served from a relative path will be updated to include the inputted CDN.\nFor example, if this setting is enabled, an image that is set to /images/logo.png will be served from https://ik.imagekit.io/your-account-id/images/logo.png, optimizing the loading speed.\nTo find this setting go to Settings > Advanced Settings: Front-End Optimization: Use Content Delivery Network (CDN) For Images\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107970997/original/S5tvKCH1zgVbRNAhsbimgEosSpJBHVFBBw.png?1650576494 | alt: ]\nEnter the URL of the service to use as a CDN to load the images. In this article, we will be using imagekit.io.\nTo use imagekit.io the first step is to create an account. To do this go to: https://imagekit.io/ and click on the GET STARTED FOR FREE button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107973775/original/dqpTko48_jAp_0jy4QHZJwlJtHcc-H10Ig.png?1650581259 | alt: ]\nThen to create the account signup with either a Google account or set up an email and password:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107973794/original/vjjumoOs104gDCEVeS37w4ZLLQrTWl59gg.png?1650581346 | alt: ]\nIt will give the imagekit.io ID , but it still needs to be configured, select a region and click NEXT :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107973964/original/xuGDRnzsTBV286pnxxcRN5xInNOP3gHmqw.png?1650581504 | alt: ]\nTo set up imagekit to load the site images click on either \" Configure External Origin \" or \" External Storage \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107974063/original/kO4LAa-OpuIrMhqC8zTyv26EFy8oAMF2MQ.png?1650581580 | alt: ]\nIn the external storage section click on Add new, then fill out the following:\n1. Origin name: Enter any name to identify this \"new origin\"\n2. Origin type: Select Web Folder - HTTP (S)... etc.\n3. Base URL: enter your site's domain\n4. Save the setup\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107974301/original/1s3eN-OSAXFurw23e4KE_VV404eg_5aSoQ.png?1650582048 | alt: ]\nA success message will appear, disregard and click on URL endpoints and then click on Add New . Add a name for endpoint, add a description, and click on Attach an existing origin here click on the web folder created in the previous step, then make sure to save the changes.:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108410164/original/0qVeyZU2wZr1bMayQEy5FEvfVjCd-YnJaQ.png?1651521510 | alt: ]\nCopy the endpoint URL:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108410491/original/U35fct-7qnr4Xp27fGmKf2hfE9L31_rP2g.png?1651521856 | alt: ]\nGo back to the brilliant directories admin backend, go back to the advanced settings: Front-End Optimization: Use Content Delivery Network (CDN) For Images\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107974532/original/4D-6vLfT0uLWe1tOqvPLrObfQ63JkUWreg.png?1650582644 | alt: ]\nCopy the imagekit URL with the account ID as it.\nWith this setup, the site images will now be served from the imagekit platform, and the site will have optimized the image loading speed.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107970997/original/S5tvKCH1zgVbRNAhsbimgEosSpJBHVFBBw.png?1650576494",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107973775/original/dqpTko48_jAp_0jy4QHZJwlJtHcc-H10Ig.png?1650581259",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107973794/original/vjjumoOs104gDCEVeS37w4ZLLQrTWl59gg.png?1650581346",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107973964/original/xuGDRnzsTBV286pnxxcRN5xInNOP3gHmqw.png?1650581504",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107974063/original/kO4LAa-OpuIrMhqC8zTyv26EFy8oAMF2MQ.png?1650581580",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107974301/original/1s3eN-OSAXFurw23e4KE_VV404eg_5aSoQ.png?1650582048",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108410164/original/0qVeyZU2wZr1bMayQEy5FEvfVjCd-YnJaQ.png?1651521510",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108410491/original/U35fct-7qnr4Xp27fGmKf2hfE9L31_rP2g.png?1651521856",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107974532/original/4D-6vLfT0uLWe1tOqvPLrObfQ63JkUWreg.png?1650582644",
+      "alt": ""
+    }
+  ],
+  "content_hash": "8ff1d5b0724a4560e82fe432960953bd60f32ac36a6f5ed635dc9c6497fbc9aa",
+  "ingested_at": "2026-10-17T15:00:01.611194+00:00"
+}

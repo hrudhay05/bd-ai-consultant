@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000090343-how-to-complete-a-profile-as-a-member",
+  "title": "How to Complete a Profile as a Member",
+  "text": "\n## How to Complete a Profile as a Member\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000090343\nAfter the signup process, members are redirected to complete their profile by filling out the following sections:\n\n## Contact Details Form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131988590/original/Ij6D_8VrHxiD7BS4M-vqgQs7T9iOVq2xEw.png?1695908460 | alt: ]\nType of Listing: Choose between Individual or Company/Organization. This selection determines whether the listing displays an individual's name or a company name. It also affects the listing's image: selecting Company/Organization will display the company logo, while Individual will show the profile image.\nBest Describes you : Choose the Top Level Category.\nEnter First name (applies for individual type of listing).\nEnter Last name (applies for individual type of listing).\nEmail address : This field will automatically be filled out with the email entered upon registration.\nPhone Number : Enter phone number.\nEnter Company Name (applies for company/organization type of listing).\nYour Position : Add a position when choosing individual type of listing.\nShort Description: Enter a short description that will display under the name on search results pages.\nWhere are you located? field: Enter the location in the blank space in order for Google Maps to geocode the member's location and fill out the remaining location fields. This will ensure members will show up in location search result pages. Check the following article for more details: How to Enable Maps with Google Maps API\nMany of these fields will show on their public profile or not depending on the settings found in: Membership Plan >> Profile Page tab >> Select Member Information to Display on Profiles.\nMore information: Finance » Membership Plans - Profile Page Select Member Information to Display on Profiles\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116050859/original/sqWDBiGZLMdvInHZzrcIA78X0qLlaADg7A.png?1666054053 | alt: ]\n\n## Profile / Logo Image:\nUpload a profile photo for individuals or a Profile logo for companies:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116050139/original/uZwuge-e9fZ1jcESNOtnT_vpfdEkWWkyiA.png?1666051869 | alt: ]\nThe admin has the option to enable a Profile or Logo under Finance >> Membership Plans >> Member Dashboard tab >> Profile Photo Uploads.\nIf the Profile Cover Photo add-on is enabled the option to activate it will show as well:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129461215/original/vpYfiHrKJzL65F8Kwc5wkqKvDZ3VkvNF4A.jpeg?1691371898 | alt: ]\nAdditional Details Form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129461239/original/UuB08OCCcBFSyrTXQM8Z8tkSeW4Zd64r1w.jpeg?1691371944 | alt: ]\nSelect Categories you Specialize : In this section, the member will select sub and sub-sub categories. For this option to become visible the admin needs to enable it under Finance >> Membership Plans >> Post Publishing Tab >> Member Specialties: Additionally, the admin can set the maximum number of sub and sub sub level categories a member can choose by navigating to Finance >> Membership Plans >> Search Visibility Tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116051287/original/7e0a_GeMzpdVFHmXT830xJ-bOnBta8DSZw.png?1666055195 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116051763/original/Wh6o4vioYt62Bo8z-7f2UaKIeqXDibZstw.png?1666055573 | alt: ]\nUpload CV or Brochure : For more details about this functionality, please refer to this article How to Use and or Modify the Member Upload CV or Brochure Field (File Upload Field) .\nPersonal Quote/Motto : Enter a quote that will display on the public profile.\nYear Stablished : Add years of experience.\nHours of Operation: Enter helpful information regarding working hours.\nAccepted Forms of Payment : Cash, bank wire, credit/debit card, etc.\nCredentials : Enter credentials.\nHonors & Awards : Add information regarding awards.\nAbout Me Form:\nThis section is meant for members to enter a more detailed description about themselves and/or their company. They can include images and videos if desired.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116050340/original/ImIMiqxowSs1pslOP_A1WRjDkgC89GmI6g.png?1666052210 | alt: ]\nThe display order of the member's profile information can be set in Finance >> Profile Page tab >> Select What Displays in the \"Overview\" Tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116052799/original/eehHr-WQIGTTga2OC5_V-njJMiWvxSHQYg.png?1666058568 | alt: ]\nThis is an example of what a complete profile looks like:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116053062/original/u-wfmAZemzvjOWZxBX_-emHSoIVCMWE-TQ.png?1666059001 | alt: ]\nWhen there is no additional data to display below \"Company Details\" for this section, the \"Company Details\" H2 title will be hidden.\nClick HERE for a live example.\n\n## Additional Resources:\nHow To Customize Member Dashboard Forms\nHow To Assign Different Member Forms To Various Membership Plans\nHow Enable/Disable Member Dashboard Forms per Membership Plan",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131988590/original/Ij6D_8VrHxiD7BS4M-vqgQs7T9iOVq2xEw.png?1695908460",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116050859/original/sqWDBiGZLMdvInHZzrcIA78X0qLlaADg7A.png?1666054053",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116050139/original/uZwuge-e9fZ1jcESNOtnT_vpfdEkWWkyiA.png?1666051869",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129461215/original/vpYfiHrKJzL65F8Kwc5wkqKvDZ3VkvNF4A.jpeg?1691371898",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129461239/original/UuB08OCCcBFSyrTXQM8Z8tkSeW4Zd64r1w.jpeg?1691371944",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116051287/original/7e0a_GeMzpdVFHmXT830xJ-bOnBta8DSZw.png?1666055195",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116051763/original/Wh6o4vioYt62Bo8z-7f2UaKIeqXDibZstw.png?1666055573",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116050340/original/ImIMiqxowSs1pslOP_A1WRjDkgC89GmI6g.png?1666052210",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116052799/original/eehHr-WQIGTTga2OC5_V-njJMiWvxSHQYg.png?1666058568",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116053062/original/u-wfmAZemzvjOWZxBX_-emHSoIVCMWE-TQ.png?1666059001",
+      "alt": ""
+    }
+  ],
+  "content_hash": "4fb4a4c6a579d96d751c5c2ed8a2f7c872520c8327c0a527f321c44f763f3ddc",
+  "ingested_at": "2026-10-17T15:01:11.439913+00:00"
+}

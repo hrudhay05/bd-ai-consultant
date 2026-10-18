@@ -1,0 +1,57 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000001965-how-to-post-a-property",
+  "title": "How to Post a Property",
+  "text": "\n## How to Post a Property\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000001965\nAccess the Member Dashboard, on the left sidebar find the Properties post type. Click on it to add a new post.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327332/original/Shhubgbrw42WKKZDKe6QUnH2HDGH-qBDog.png?1757607924 | alt: ]\nIMPORTANT:\nIf the Properties option is not included in the member dashboard, the post needs to be enabled for the membership plan in the post publishing tab: Finance » Membership Plans - Post Publishing\nAdd some content to the post, for example, a title, description, status and more as explained below:\n1. Publish content on the site or save it as a draft.\n2. Add the Title of the Property.\n3. Select the Status of the Property \"For Sale\" or \"For Rent\".\n4. Add the address of the Property.\n5. The Complete address will be auto-populated by typing it in point #4.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327478/original/yTOctCa2v_7pQwIrDeR2Oviw0-Kkekg-qw.png?1757608085 | alt: ]\n6. Enter the Price for the Property.\n7. Choose the Type of the Property (House, Condo, Commercial, etc.).\n8. Choose the number of Bedrooms.\n9. Choose the number of Bathrooms.\n10. Enter the Approx. Square Footage.\n11. Enter the Year the Property was built.\n12. Add an External Link, if necessary.\n13. Enter the Description of the House.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327610/original/t6P-8KgD5qIl8YPMkk19qKH8g2JsC0zZwg.png?1757608165 | alt: ]\nAfter all the details are saved, add the images to the Property post.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327746/original/RSxd7xQJRnTOmJbfQGeBzq13-fyTb4DAKw.png?1757608300 | alt: ]\nUpload as many images as needed.\n1. Add a Title to the Image.\n2. Add a Description to the Image.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327760/original/b9_TWcaju0QOiVN-MoR8omIuZBrU_dqDhQ.png?1757608340 | alt: ]\nHere the Photo Display Order can be arranged:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12072065342/original/6jfvLQB2MrgLRsvqKERLIk6z4K6CO1aXbQ.png?1578406974 | alt: ]\nSee how the images can be arranged in the following GIF and select the Cover Image for the new post:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12072065351/original/5yOf5hCTTT-0-dBrgm0euqzP4mYB7Xytuw.gif?1578406997 | alt: ]\nWhen editing the photos, it is also possible to save the changes and  the photo display order by clicking on the buttons located on top of the album:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327777/original/cuJyX_x4tPOaqHwU3nI5fk0lfNV2aPerjA.png?1757608374 | alt: ]\nOnce the Property post has been created, it will display the current Status (Published, Draft, Expired). The number of views and Bookmarks will only show if the correspondent add ons are active on the site. Click Here to learn more.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327882/original/51CNLg465BpuWmcHBFsCK_DTZwCiey_bGA.png?1757608494 | alt: ]\nClick on the Actions button to View, Edit, Upload Photos, Clone or Delete the post:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327834/original/giqDdzxBMfVee85pC9bJVcMqeNxa0FNvYg.png?1757608443 | alt: ]\n* Keep in mind that the Clone option will only copy the post details, not the images.\nMember Dashboard Options\nDifferent options are available on this section. Please refer to the image and points shown below for more information\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327912/original/2IKHzWfYf_hn5PvQn61Jiup0skMoi544ZA.png?1757608551 | alt: ]\n1. Properties: Will show all the properties and display the amount of properties in the account.\n2. Add a Property: Click to add a new property. It will not display if the limit of posts has been reached.\n3 . Entries per page: Click on the dropdown to choose how many entries will show per page (5, 10, 25 or 50 entries).\n4. Order of the Posts on the Page: Newest, Oldest, Updated (first), Updated (last), Start Date (first), Start Date (last).\n5. Filter by Status: Published, Draft or Expired.\n6 . Filter by Keyword: Enter a desired keyword to display all the properties posts that contain it.\nLastly, all  Post Types have a designated search results page:\nEG: http://yourbrilliantdomain.directoryup.com /properties\nOnce published, this is how the Property posts display on the site:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327942/original/4Aeb2jtOkg7r9zosv_4Fsn7GhttVCiXIMw.png?1757608595 | alt: ]\nNote : To enable this post type on a membership plan go to Finance » Membership Plans - Post Publishing .",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327332/original/Shhubgbrw42WKKZDKe6QUnH2HDGH-qBDog.png?1757607924",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327478/original/yTOctCa2v_7pQwIrDeR2Oviw0-Kkekg-qw.png?1757608085",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327610/original/t6P-8KgD5qIl8YPMkk19qKH8g2JsC0zZwg.png?1757608165",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327746/original/RSxd7xQJRnTOmJbfQGeBzq13-fyTb4DAKw.png?1757608300",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327760/original/b9_TWcaju0QOiVN-MoR8omIuZBrU_dqDhQ.png?1757608340",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12072065342/original/6jfvLQB2MrgLRsvqKERLIk6z4K6CO1aXbQ.png?1578406974",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12072065351/original/5yOf5hCTTT-0-dBrgm0euqzP4mYB7Xytuw.gif?1578406997",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327777/original/cuJyX_x4tPOaqHwU3nI5fk0lfNV2aPerjA.png?1757608374",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327882/original/51CNLg465BpuWmcHBFsCK_DTZwCiey_bGA.png?1757608494",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327834/original/giqDdzxBMfVee85pC9bJVcMqeNxa0FNvYg.png?1757608443",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327912/original/2IKHzWfYf_hn5PvQn61Jiup0skMoi544ZA.png?1757608551",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167327942/original/4Aeb2jtOkg7r9zosv_4Fsn7GhttVCiXIMw.png?1757608595",
+      "alt": ""
+    }
+  ],
+  "content_hash": "62fc78432eb0ec317807594300763997e90d905c5a572171236487bc0b06b1ee",
+  "ingested_at": "2026-10-17T14:08:35.523355+00:00"
+}

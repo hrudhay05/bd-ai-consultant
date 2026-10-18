@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093653-changelog-june-2016",
+  "title": "Changelog - June 2016",
+  "text": "\n## Changelog - June 2016\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000093653\nNew Features:\nWebsite Resources Feature on Admin Portal (BETA).\nRecent Top Categories Widget for Home Page, includes a design setting to add it on the Home Page.\nNew Profile/Logo Photo Upload Module. (Alpha Version).\nSet Membership Feature Currency Advanced Setting.\nCustom Member Features are now available to select on the Autosuggest Rules Section.\nFull Optimizations to the code Infrastructure with enhancements in all modules of the system.\nNew Functions added to the Core files. Functions: getAdministratorAccount(),getTablesFromMainDatabase(),getDescriptionTableName().\nNew Text Labels added to the Core Files. Text Labels: my_notifications_label,select_from_list.\nMore than 25+ bugs fixed ranging from Backend, Admin Panel, Frontend and more.",
+  "images": [],
+  "content_hash": "c34be6e3c74d2c585abec5989e404c6bbf1190e2672fe3985846a92d1958482f",
+  "ingested_at": "2026-10-17T15:13:33.705939+00:00"
+}

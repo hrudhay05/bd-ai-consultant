@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000012124-edit-404-error-pages",
+  "title": "Edit 404 Error Pages",
+  "text": "\n## Edit 404 Error Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000012124\nWhen a requested URL does not correspond to an existing page on the website, the server returns a “404 Not Found” error, indicating that the page cannot be located. Common triggers for this error include:\nA visitor clicks a link on another site that leads to a non-existent page on the directory.\nA visitor clicks a link on another site that leads to a non-existent page on the directory.\nA URL that previously existed has been deleted or moved.\nA URL that previously existed has been deleted or moved.\nA visitor mistypes a URL.\nA visitor mistypes a URL.\nA bot or crawler (such as from Google Search Console, Bing Webmaster Tools, etc.) attempts to access a URL in error.\nA bot or crawler (such as from Google Search Console, Bing Webmaster Tools, etc.) attempts to access a URL in error.\nWhen any of these events occur, the website responds with the 404 error code and displays a designated “404 error page” (the content served when the page cannot be found).\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143986220/original/n1CKX0Rnd8mzC5ejs8AQCLzqFnJM0pEnqQ.png?1716989623 | alt: ]\n\n## How to Create a Custom 404 Page\nNavigate to My Content >> New Web Page\nAdd a unique Permalink (e.g., \"my404\")\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181733313/original/ZfpEpAuIAqkFqeZorpEpIz1oOyWLo1fw8Q.png?1783556930 | alt: ]\nSet the page type as “ Single Web Page ”.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181733323/original/pbl0U7BqhUMIrOIb3Ubj1-G54U_aofIlBw.png?1783556972 | alt: ]\nSave the page.\nOnce created, the 404 page can be styled and populated with whatever content and links are appropriate for the site.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152847481/original/ZbNj74fpCJ3BTsoMT2e7gn5jyafQXebs5g.png?1732124551 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181733250/original/mdVU2bR9tjsEe9Z4y-RJVNu5UB0aKnA0Fg.png?1783556841 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181733237/original/iinCvSWU15t1asFLxvLu21pDKsGCCIhCFQ.png?1783556814 | alt: ]\n\n## Selecting the Default 404 Error Page\nDefault 404 Error Page\nerror_404\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171643542/original/HdGlvtw4yPJUqHL74oyKYz9huB5r4ZI0-Q.png?1765216943 | alt: ]\n\n## How Does a Brilliant Directories Website Handle 404 Error Pages?\nHistorically, all Brilliant Directories-powered websites used the homepage as the 404 error page. While using the homepage can work for human visitors (because they can potentially find their destination via the homepage), the homepage is typically one of the heaviest pages in terms of bandwidth—often loading multiple megabytes.\nWhen non-human traffic (such as bots or crawlers) triggers 404 errors and is served the homepage each time, this can consume excessive bandwidth and server resources. To mitigate this, the system now uses a minimal default 404 error page that:\nPresents a simple notification that the requested page cannot be found.\nPresents a simple notification that the requested page cannot be found.\nIncludes a link to the homepage for genuine users who may wish to continue browsing.\nIncludes a link to the homepage for genuine users who may wish to continue browsing.\nUses significantly less bandwidth (on the order of ~1 KB) compared to loading the full homepage.\nUses significantly less bandwidth (on the order of ~1 KB) compared to loading the full homepage.\nThis change helps reduce unnecessary server load arising from erroneous URL requests while still providing a user-friendly experience for legitimate visitors.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143986220/original/n1CKX0Rnd8mzC5ejs8AQCLzqFnJM0pEnqQ.png?1716989623",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181733313/original/ZfpEpAuIAqkFqeZorpEpIz1oOyWLo1fw8Q.png?1783556930",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181733323/original/pbl0U7BqhUMIrOIb3Ubj1-G54U_aofIlBw.png?1783556972",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152847481/original/ZbNj74fpCJ3BTsoMT2e7gn5jyafQXebs5g.png?1732124551",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181733250/original/mdVU2bR9tjsEe9Z4y-RJVNu5UB0aKnA0Fg.png?1783556841",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181733237/original/iinCvSWU15t1asFLxvLu21pDKsGCCIhCFQ.png?1783556814",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171643542/original/HdGlvtw4yPJUqHL74oyKYz9huB5r4ZI0-Q.png?1765216943",
+      "alt": ""
+    }
+  ],
+  "content_hash": "6c607399cfa38f89ac31505a2857d2fe3c5570528f4dba9e8adf65528d2bc4e9",
+  "ingested_at": "2026-10-17T14:33:31.239396+00:00"
+}

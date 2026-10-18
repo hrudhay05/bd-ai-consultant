@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000074847-how-to-set-the-social-share-image-for-member-profiles",
+  "title": "How To Set The Social Share Image For Member Profiles",
+  "text": "\n## How To Set The Social Share Image For Member Profiles\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000074847\nSocial share images help control the image displayed when member profile pages are shared on social media platforms. Brilliant Directories provides options to set a custom image for individual members or use the member’s Profile Cover Photo as the social share image.\n\n## Set a Custom Image for Individual Members\nWebsite administrators can set a custom Social Share Image for individual members. This image will be used when the member's profile page is shared on social media.\nTo set a custom Social Share Image for a member:\nNavigate to Members → Search Members .\nLocate the member and click Quick Edit .\nClick the Advanced Options tab.\nLocate the Listing Social Meta Image field.\nUpload or select the desired image.\nClick Save Changes .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184726777/original/FRZ2A9ZzkmXbI7SFUo5ddA9PhbE2v7YehA.png?1788556241 | alt: ]\nImportant: When a Social Share Image is selected for an individual member, this image will take priority over the member's Profile Cover Photo when the profile is shared on social media. If no image is selected, the default social share image behavior will apply.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184726807/original/dU1OUzq9dYa4VNSwzmYMpgxk_QjIUobZiQ.png?1788556254 | alt: ]\n\n## Use the Profile Cover Photo\nThe Profile Cover Photo can also be used as the social share image for member profiles by enabling the following Advanced Setting:\nPrioritize Profile Cover Photo As Social Share Image\nSystem Variable: profile_share_cover_photo_priority\n** Important : Ultimately Facebook and other social networks will decide to use the profile cover photo if the image dimensions meet the minimum criteria. If the criteria is not met, then social networks will choose the next qualifying image on the page as the social share image.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647420/original/HXaaWBR-8FNRQ8dS_ZSD9BAmOwvWS-eCJg.png?1753161287 | alt: ]\nOnce the member uploads the Profile Cover photo it will show up on member's profile like this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280559/original/PTujOuTQ37hUAXhIq67BObeqUdJ170uIkw.png?1645318110 | alt: ]\nIf the Advanced Setting is turned on and the member shares the profile on facebook the Profile Cover will be used as the post image:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280568/original/MPC07wiSl_hih6vR3vdb5YC7Z5Oc27HKWg.png?1645318167 | alt: ]\n\n## Social Media Cache\nSocial media platforms may cache previously shared images. After updating a member's Social Share Image, the previous image may continue to appear temporarily until the social network re-scrapes the member's profile URL.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184726777/original/FRZ2A9ZzkmXbI7SFUo5ddA9PhbE2v7YehA.png?1788556241",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184726807/original/dU1OUzq9dYa4VNSwzmYMpgxk_QjIUobZiQ.png?1788556254",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647420/original/HXaaWBR-8FNRQ8dS_ZSD9BAmOwvWS-eCJg.png?1753161287",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280559/original/PTujOuTQ37hUAXhIq67BObeqUdJ170uIkw.png?1645318110",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280568/original/MPC07wiSl_hih6vR3vdb5YC7Z5Oc27HKWg.png?1645318167",
+      "alt": ""
+    }
+  ],
+  "content_hash": "60495b4a5fe35363e1623b289e4e3209fe57544f33721ae0638f3d354d35c972",
+  "ingested_at": "2026-10-17T14:47:28.923094+00:00"
+}

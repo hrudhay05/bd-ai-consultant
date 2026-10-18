@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048833-support-help",
+  "title": "Support & Help",
+  "text": "\n## Support & Help\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000048833\nAt the bottom of the Admin Dashboard, you'll find the Support & Help section. This area provides a variety of resources to help you learn how to use the website's features, access step-by-step guides, and find solutions to common issues.\nThe Support & Help section also includes an Install New Updates area, where you can check for available website updates and install them to keep your site up to date with the latest features, improvements, and security enhancements.\n\n## Install New Updates\nAfter selecting Check for Updates, the available updates, if any, will be displayed as shown below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182640517/original/_FPPShWLo7xo-t4gks1OcehjRAePexhE5Q.png?1785082657 | alt: ]\nSelecting the ? (Help) icon opens an article that explains the purpose of the update, why it is required, how to run it, and what to expect after the update has been successfully installed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182640578/original/gW3ZQeiavBDKC8ztJXAMbs1LWEY8vUUuZQ.png?1785082823 | alt: ]\nA complete collection of articles for all available updates can also be found here: Install New Updates\nThe next section provides access to the complete documentation library, the option to create a support ticket, and a link to join the Facebook community group.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166477182/original/lcfexW20bSCDXsvinh5gBYX4hkohGpru9Q.png?1756233106 | alt: ]\n\n## Support Documents\nSearch the Brilliant Directories knowledge base to quickly find answers about the different sections in our platform and how to use them.\n\n## Submit a Ticket\nFor assistance troubleshooting an issue, or any inquiries, submit a ticket to our support center.\n\n## Facebook Group\nGet our latest updates, improve skills, and connect with other BD users.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182640517/original/_FPPShWLo7xo-t4gks1OcehjRAePexhE5Q.png?1785082657",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182640578/original/gW3ZQeiavBDKC8ztJXAMbs1LWEY8vUUuZQ.png?1785082823",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166477182/original/lcfexW20bSCDXsvinh5gBYX4hkohGpru9Q.png?1756233106",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c3b585b9fdbe1bf7fe75ba22d4bd9c4fccc4dce096373a25949c822d05404269",
+  "ingested_at": "2026-10-17T14:40:16.301580+00:00"
+}

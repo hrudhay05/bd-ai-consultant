@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682663-how-to-add-3rd-party-commenting-tools",
+  "title": "How to Add 3rd-Party Commenting Tools",
+  "text": "\n## How to Add 3rd-Party Commenting Tools\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000682663\nMembers of the site will undoubtedly post high-quality content that demands to be commented on.  Luckily it is effortless to add the ability for users of the site to publish comments on any kind of member post on the site - events, classifieds, photo albums, coupons, job postings, videos, articles, etc.\n\n## BD Native Commenting System\nAdd native comment functionality to the membership website. Logged-in members will be able to leave comments on the website’s content and reply to other members’ comments. This website add-on eliminates the need to use a third-party solution, such as Disqus, and provides a seamless user experience.\n\n## 3rd Party Commenting Tool\nTo add comments to a specific member post, first sign up for a commenting platform.\nDisqus is a popular option and used in this article. Once an account has been created, a code will be provided to paste on the site wherever the admin would like the option to comment to appear.\nSee the Disqus Knowledge Base for more information about this code.\n\n## Add Disqus\nOnce the code has been copied to the clipboard, log in to the Admin area of the site, and follow these steps:\nNavigate to My Content - Edit Post Settings\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127610478/original/tK0fsP3YZa_F8sat4q0cuwbay7LRhUKH8A.png?1687985671 | alt: ]\nLocate the post type to add comments to in the \"Edit Post Settings\" section and click on the \"Edit\" button for this feature\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094088085/original/jFt7zE69OyO3rKvgVYtbrXqHDw8pcR_Hvw.png?1623756557 | alt: ]\nOn the Detail Page Design tab, find the \"Comments Code\" area and paste the code from the commenting solution here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167889072/original/gdG83HTnYOpPqa_DZQ8m843Adn1a1d8Pcw.png?1758593092 | alt: ]\nNow when navigating to a single post in a Membership Post (a single Video, single Article, single Photo Album, etc), the comments section will become visible and appear at the bottom of the page where users can now post comments.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127610478/original/tK0fsP3YZa_F8sat4q0cuwbay7LRhUKH8A.png?1687985671",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094088085/original/jFt7zE69OyO3rKvgVYtbrXqHDw8pcR_Hvw.png?1623756557",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167889072/original/gdG83HTnYOpPqa_DZQ8m843Adn1a1d8Pcw.png?1758593092",
+      "alt": ""
+    }
+  ],
+  "content_hash": "96b2d7ddaa90152a8e272712836ca8c9d698d91472394626edcc75914042e34e",
+  "ingested_at": "2026-10-17T14:07:50.798321+00:00"
+}

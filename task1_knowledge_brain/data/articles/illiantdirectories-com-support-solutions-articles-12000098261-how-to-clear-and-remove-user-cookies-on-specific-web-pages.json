@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000098261-how-to-clear-and-remove-user-cookies-on-specific-web-pages",
+  "title": "How to Clear and Remove User Cookies on Specific Web Pages",
+  "text": "\n## How to Clear and Remove User Cookies on Specific Web Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000098261\nThis article explains how to remove a specific cookie when a visitor accesses a particular page on the website.\nWarning\nCookies are used to maintain important website functionality, such as user authentication and session data. Removing cookies may affect how certain features behave. Use this code only when the cookie is no longer needed.\nFor example, the claim_listing cookie is created when a visitor begins the process of claiming a member listing.\nIf the goal is to prevent the visitor from continuing the claim process after navigating to another page, the following code can be added to a landing page or widget to remove the claim_listing cookie.\nOnce this code is executed, the claim_listing cookie is cleared from the visitor's browser, preventing the claim process from continuing on subsequent pages.",
+  "images": [],
+  "content_hash": "a28fef0daee74ee19ea3366db9987ece296e123edd1dcb46f79c222ec9cad61c",
+  "ingested_at": "2026-10-17T15:25:16.205338+00:00"
+}

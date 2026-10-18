@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093664-changelog-may-2017",
+  "title": "Changelog - May 2017",
+  "text": "\n## Changelog - May 2017\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000093664\nNew Features:\nWe updated the Breadcrumb URLs on Details Pages of Posts to change dynamically based on the name of the Post Type.\nWe added additional SPAM protection to all of the public-facing default forms.  This will block even more types of SPAM form submissions from bots and other automated tools. The Forms Involved are: Contact Us, Get Matched and Newsletter.\nWe updated the Request Review and Invite Colleagues features in the Member Dashboard.\nEnhancements / Fixes:\nWe improved the functions and widgets that are involved with the Upload Files functionality. This update will impact the following section of the Software: Profile Photo and Logo page, adding images to all Post types, Curriculum Vitae / Brochure upload, Admin Image Manager, and Froala Image Upload.\nWe updated the method by which Design Settings are saved to prevent an issue that was causing Design Settings to save as blank in some cases.\nBug fixes to the New Leads Module, New Reviews Module, Google Location System, Add-on Manager System, and Member System.\nIn all, more than15 bugs were fixed throughout the software.",
+  "images": [],
+  "content_hash": "e0405d46480358df6c1f854ff0f86ad5708e4c06fb43211a330dbd0a1161d6fd",
+  "ingested_at": "2026-10-17T15:13:53.034437+00:00"
+}

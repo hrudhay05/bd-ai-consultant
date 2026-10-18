@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000030177-05-26-17-software-updates",
+  "title": "05/26/17 - Software Updates",
+  "text": "\n## 05/26/17 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000030177\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\n\n## Updates:\nWe fixed the issue in the billing module that was displaying an \"unsuccessful\" message when a payment was indeed successful in some cases.\nWe updated the Request Review and Invite Colleagues features in the Member Dashboard. Widgets Involved: Bootstrap Theme - Account - Input Invite Emails Get More Recommendations Invite Contacts Cloudsponge Box Invite Friends Header Text Website - Main Footer Scripts Settings Involved: promote_feature promote_feature_reviews promote_feature_invite\nWe updated the method by which Design Settings are saved to prevent an issue that was causing Design Settings to save as blank in some cases.",
+  "images": [],
+  "content_hash": "7b7f4d5ae92e534bae720184adb6198cde0f5553d7342d10a200e486b21c6952",
+  "ingested_at": "2026-10-17T14:35:15.689228+00:00"
+}

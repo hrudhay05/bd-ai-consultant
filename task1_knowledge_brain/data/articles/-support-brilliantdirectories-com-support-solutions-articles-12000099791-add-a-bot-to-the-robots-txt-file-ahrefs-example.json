@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000099791-add-a-bot-to-the-robots-txt-file-ahrefs-example-",
+  "title": "Add a Bot to the Robots.txt File (Ahrefs Example)",
+  "text": "\n## Add a Bot to the Robots.txt File (Ahrefs Example)\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000099791\nA Robots.txt file controls which web crawlers are allowed to access a website. This article demonstrates how to allow a third-party crawler using Ahrefs as an example.\n\n## Adding a Web Robot to the site\nTo allow a third-party crawler, add the appropriate directives to the Robots.txt file.\nThe ROBOTS.TXT file can be accessed through:\nNavigate to Developer Hub.\nSelect Robots File.\nSelect Robots File.\nThe following example allows the Ahrefs crawler. Add these directives to the beginning of the Robots.txt file:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143087681/original/YHig6LDjnMelLMI-YLVtl7TuXxmQUiCxWw.png?1715393863 | alt: ]\nSelect Save Changes to apply the update. In this example, Ahrefs will be allowed to crawl the website.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12143087681/original/YHig6LDjnMelLMI-YLVtl7TuXxmQUiCxWw.png?1715393863",
+      "alt": ""
+    }
+  ],
+  "content_hash": "92eb740f9e87cbc840bd6d47c87829ce8d7ae4404377eb316bfc5cc30452b983",
+  "ingested_at": "2026-10-17T15:26:13.081459+00:00"
+}

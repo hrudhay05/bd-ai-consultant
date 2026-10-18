@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100503-setup-wizard",
+  "title": "Setup Wizard",
+  "text": "\n## Setup Wizard\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000100503\nThe Setup Wizard is a tool that will take the admin step by step, in completing the most basic setup for the new website. To find this tool:\nGo to the Admin Dashboard\nLook for the Start Here section\nClick on the button that says \" BEGIN SETUP WIZARD \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021160/original/5nQ-G4IEDkwf5G6NHLU9RAknf3zGNZnzHA.png?1780872495 | alt: ]\n\n## Setup Wizard Steps\nThe first screen introduces the Setup Wizard. Click on Get Started to continue:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171638641/original/35OHQJcfSd4iuUsUcq9T_2JWQz9uEgZdoA.png?1765213292 | alt: ]\n\n## 1. Enter Website Name\nAdd the Website Name. This can be edited later on if needed in the \"Website Name\" field in the Settings » General Settings Tab .\nThis screen also allows the admin to choose enter the Website Goal, what is the market served, type of users, etc.\nBy selecting from the Popular user cases list, the Website Goal will be auto-populate and it can be further edited based on business needs.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171639026/original/niBQv3zwnSYVPgOrcpa0Qrtc4wHiTi4BAw.png?1765213528 | alt: ]\n\n## 2. Review and Generate Website\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180020782/original/BO4nIK5210pw0jV8AbaFnPnaJO0TNkeZhA.png?1780871420 | alt: ]\nThe admin can generate a logo for the Site with AI based on the information previously shared, also in this step creates a custom vanity temporary URL. The admin will be able to connect their own domain following the steps in the guide: How to Connect a Domain to A Brilliant Directories Website\nThe admin can choose a color palette to automatically apply coordinated colors throughout the website, creating a consistent look and feel. The selected colors can be customized later from Settings >> Design Settings >> Color Sets.\nThis section gets filled automatically based on the location of the admin running the wizard. From here the admin can select the Primary country, the website language, the website timezone and website Currency. This can also be edited later on in this section of the admin dashboard: Settings » General Settings » Localization\nThe admin can invite additional admins to assist in the website via email. This can also be done afterwards from this section: Admin Accounts » Invite Admin +\n\n## Generate Website Now\nOnce the admin clicks on the Generate Website Now button,  a status bar will show indicating that is currently working on creating the website and within a minute or two, everything is done automatically.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171641446/original/Nq6sLAXMEverNvZnPUpeIVPvKWafUrTzUQ.png?1765215361 | alt: ]\nOnce the process is completed, it will show the screen below where the admin is able to go to the admin area to keep working on the site setup, Import Business Listings and watch additional tutorial videos.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171641662/original/33o5xDiAJWMhNqASQQUrGS1vIovrJoYXSA.png?1765215553 | alt: ]\n\n## Stock Photo Homepage Hero Image\nBased on the information added in all Steps above, the platform will auto-find and use a stock photo Homepage Hero Image that matches the website name, industry and profession entered.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170780575/original/jstXNeCdwpHVFk3YIcDL6fICfZ2-hrcHqA.png?1763568713 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170780593/original/LExRDMtsht9nb03oERsEY-rHoEyg0OLdPw.png?1763568731 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021160/original/5nQ-G4IEDkwf5G6NHLU9RAknf3zGNZnzHA.png?1780872495",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171638641/original/35OHQJcfSd4iuUsUcq9T_2JWQz9uEgZdoA.png?1765213292",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171639026/original/niBQv3zwnSYVPgOrcpa0Qrtc4wHiTi4BAw.png?1765213528",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180020782/original/BO4nIK5210pw0jV8AbaFnPnaJO0TNkeZhA.png?1780871420",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171641446/original/Nq6sLAXMEverNvZnPUpeIVPvKWafUrTzUQ.png?1765215361",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171641662/original/33o5xDiAJWMhNqASQQUrGS1vIovrJoYXSA.png?1765215553",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170780575/original/jstXNeCdwpHVFk3YIcDL6fICfZ2-hrcHqA.png?1763568713",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170780593/original/LExRDMtsht9nb03oERsEY-rHoEyg0OLdPw.png?1763568731",
+      "alt": ""
+    }
+  ],
+  "content_hash": "6206e87601240de240c74ec2418858b8f052ccb2ede07dbe2c1ed7c3498fe743",
+  "ingested_at": "2026-10-17T15:27:01.784800+00:00"
+}

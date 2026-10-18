@@ -1,0 +1,155 @@
+{
+  "summary": {
+    "model": "openai/gpt-oss-20b",
+    "prompt": "draft-v3 / classify-v2",
+    "dev_emails": 12,
+    "completed": 3,
+    "not_completed": 9,
+    "drafted": 3,
+    "guard_passed": 3,
+    "first_try_pass": 3,
+    "blocked_kb": 0,
+    "avg_total_ms": 3890,
+    "max_total_ms": 5189,
+    "tokens_in": 3469,
+    "tokens_out": 696,
+    "cost_usd": 0,
+    "note": "stats cover completed emails only; tokens are for the final draft attempt; cost is 0 on the Groq free tier"
+  },
+  "results": [
+    {
+      "id": "HT-01",
+      "subject": "How do I change my website logo?",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 1,
+      "attempt_log": [],
+      "total_ms": 5189,
+      "timing": {
+        "classify_ms": 1628,
+        "kb_ms": 2546,
+        "draft_ms": 1014
+      },
+      "tokens_in": 1156,
+      "tokens_out": 220,
+      "kb_status": "answered",
+      "reply_body": "Hi Maria,\n\nTo replace the default logo, log in to the Admin Area, go to Settings → General Settings, and open the Brand Images tab. In the Website Logo section click “Replace Image” and upload your own logo. If you want to start fresh, click the red X to delete the current logo first and then upload a new one. The uploaded image will replace the default logo.\n\nBrilliant Directories Support\n\nHelpful articles:\n- Delete the Website Logo: https://support.brilliantdirectories.com/support/solutions/articles/12000098255-delete-the-website-logo\n- Design Settings » Logo Designer: https://support.brilliantdirectories.com/support/solutions/articles/12000045051-design-settings-logo-designer",
+      "reply_must": [
+        "give steps only if supported by retrieved articles",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "invent menu names that are not in the evidence"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-02",
+      "subject": "Adding a new membership plan",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 1,
+      "attempt_log": [],
+      "total_ms": 3899,
+      "timing": {
+        "classify_ms": 925,
+        "kb_ms": 1957,
+        "draft_ms": 1016
+      },
+      "tokens_in": 1266,
+      "tokens_out": 266,
+      "kb_status": "answered",
+      "reply_body": "Hi Tom,\n\nHere’s how to add a new paid membership level and set its price:\n1. Log in to the admin area and go to Finance » Membership Plans.\n2. Click Add New (or edit an existing plan) to open the editor.\n3. Open the Sign Ups & Upgrades tab.\n4. Set Account Type to a paid option (not Free).\n5. Enter the desired Sign‑up price in the pricing fields.\n6. Save the plan.\n7. Optionally view the public sign‑up page to confirm the price.\n\nIf you run into any issues, let us know.\n\nBrilliant Directories Support\n\nHelpful article:\n- How to Create New Membership Plans - Add Free or Paid Membership Plans: https://support.brilliantdirectories.com/support/solutions/articles/12000046487-how-to-create-new-membership-plans-add-free-or-paid-membership-plans",
+      "reply_must": [
+        "explain the setup steps from the evidence",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "suggest a price for the customer"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-03",
+      "subject": "Member search results look wrong",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 1,
+      "attempt_log": [],
+      "total_ms": 2581,
+      "timing": {
+        "classify_ms": 731,
+        "kb_ms": 900,
+        "draft_ms": 950
+      },
+      "tokens_in": 1047,
+      "tokens_out": 210,
+      "kb_status": "error",
+      "reply_body": "Hi Priya,\n\nThank you for reaching out. I’m not able to confirm the exact settings that control search result ordering from this message, but a team member will review your request. Could you let us know:\n1. Which member fields you’d like to prioritize in search results (e.g., name, location, membership level)?\n2. Whether you’ve recently made any changes to your directory’s search configuration or member data.\n3. If you’re seeing any specific patterns or errors in the current order.\n\nYour answers will help us provide the most accurate guidance.\n\nBest regards,\nBrilliant Directories Support",
+      "reply_must": [
+        "use evidence about search settings",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "claim that the search is broken or fixed"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (LLM output could not be parsed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kp6dsa6te1tbgv8s0d9a963v` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199991, Requested 920. Please try again in 6m33.552s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}})."
+      ]
+    },
+    {
+      "id": "HT-04",
+      "subject": "Show members in grid view instead of list",
+      "status": "not_run"
+    },
+    {
+      "id": "HT-05",
+      "subject": "Email accounts on my own domain",
+      "status": "not_run"
+    },
+    {
+      "id": "HT-06",
+      "subject": "Adding a custom page",
+      "status": "not_run"
+    },
+    {
+      "id": "HT-07",
+      "subject": "Categories for my directory",
+      "status": "not_run"
+    },
+    {
+      "id": "HT-08",
+      "subject": "Change the sender email for notifications",
+      "status": "not_run"
+    },
+    {
+      "id": "HT-09",
+      "subject": "How do I accept payments from members?",
+      "status": "not_run"
+    },
+    {
+      "id": "HT-12",
+      "subject": "Question about exporting data to my accounting tool",
+      "status": "not_run"
+    },
+    {
+      "id": "TS-01",
+      "subject": "Payment gateway stopped working",
+      "status": "not_run"
+    },
+    {
+      "id": "TS-02",
+      "subject": "Emails from my site go to spam",
+      "status": "not_run"
+    }
+  ]
+}

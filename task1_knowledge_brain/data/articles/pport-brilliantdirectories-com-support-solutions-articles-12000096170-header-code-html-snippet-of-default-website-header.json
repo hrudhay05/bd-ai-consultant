@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000096170-header-code-html-snippet-of-default-website-header",
+  "title": "Header Code - HTML Snippet of Default Website Header",
+  "text": "\n## Header Code - HTML Snippet of Default Website Header\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000096170\nThis article provides a sample HTML structure for the default Website Header included in the standard Brilliant Directories website theme.\nThe example demonstrates the default layout and commonly used HTML elements, CSS classes, and responsive components that make up the website header, including the logo area, navigation, search form, and mobile menu.\nThe following HTML snippet represents the default markup for the Website Header.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132163569/original/oEMJvFWllqu-jeqiSvuH8yF90SHRRLSxfQ.png?1696283114 | alt: ]\nThis code can be used as a reference when creating custom header layouts, modifying the default website header, or identifying the HTML elements and CSS classes used by the standard Brilliant Directories theme.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132163569/original/oEMJvFWllqu-jeqiSvuH8yF90SHRRLSxfQ.png?1696283114",
+      "alt": ""
+    }
+  ],
+  "content_hash": "d91930304e6872a9cfad1874ec84862c2d6d65abf4acaab94e5f9d06e061b59c",
+  "ingested_at": "2026-10-17T15:24:07.527409+00:00"
+}

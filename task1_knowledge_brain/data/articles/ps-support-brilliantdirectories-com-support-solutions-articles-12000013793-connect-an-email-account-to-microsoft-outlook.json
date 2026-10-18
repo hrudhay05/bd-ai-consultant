@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000013793-connect-an-email-account-to-microsoft-outlook",
+  "title": "Connect An Email Account to Microsoft Outlook",
+  "text": "\n## Connect An Email Account to Microsoft Outlook\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000013793\nClick on File >> Add Account:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008002886/original/blob1470076468785.png?1470076469 | alt: ]\nSelect Manual setup or additional server types and click on \"Next\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008002921/original/blob1470076516545.png?1470076517 | alt: ]\nSelect \"POP or IMAP\" and click on \"Next\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003129/original/blob1470076920040.png?1470076920 | alt: ]\nThe information for this step can be obtained from cPanel as shown in this article . Enter the the following information: Your Name: (the name you want to display the email is from when sending emails) Email Address: (the email address you created in cPanel) Account Type: POP3 Incoming mail server: (the \"Incoming Server\" recommended for this email account in cPanel) Outgoing mail server: (the \"Outgoing Server\" recommended for this email account in cPanel) User Name: (the full email address) Password: (the password you used when creating the email account)\nClick on \"More Settings\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003695/original/blob1470078147530.png?1470078148 | alt: ]\nClick on the \"Outgoing Server\" tab and check the \"My outgoing server (SMTP) requires authentication\" checkbox, select \"Use same settings as my incoming mail server\" and click on \"OK\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003206/original/blob1470077086072.png?1470077086 | alt: ]\nClick on \"Next\":\nClick on \"Next\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003709/original/blob1470078166883.png?1470078167 | alt: ]\nOutlook will run a test to make sure email can be received and sent using those credentials.  If it is successful, it should look like it does below.  Click on \"Close\":\nOutlook will run a test to make sure email can be received and sent using those credentials.  If it is successful, it should look like it does below.  Click on \"Close\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003264/original/blob1470077186912.png?1470077187 | alt: ]\nYou should then see a success message.  Click on \"Finish\" to complete the setup.\nYou should then see a success message.  Click on \"Finish\" to complete the setup.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008002886/original/blob1470076468785.png?1470076469",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008002921/original/blob1470076516545.png?1470076517",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003129/original/blob1470076920040.png?1470076920",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003695/original/blob1470078147530.png?1470078148",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003206/original/blob1470077086072.png?1470077086",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003709/original/blob1470078166883.png?1470078167",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003264/original/blob1470077186912.png?1470077187",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b6bae95b3d4a85dc865af6b70557bf38abe6cbb42c5bd5e6b10cba68861cc82d",
+  "ingested_at": "2026-10-17T14:33:36.390389+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000065750-how-to-disable-option-to-complete-member-s-address-based-on-the-map-s-marker",
+  "title": "How To Disable Option To Complete Member's Address Based On The Map's Marker",
+  "text": "\n## How To Disable Option To Complete Member's Address Based On The Map's Marker\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000065750\nMember's of the directory have the option to select and set their location based on the location of the marker in the map on the Contact Details form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280465/original/8zgz-XHKusHNo8S8p4znazF5Yj7PhceEfQ.png?1645316810 | alt: ]\nUse the Advanced Setting:\nDisable Drag-able Pins on Member Google Maps\nSystem Variable: disable_drag_drop_member_map\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647200/original/lrT7wgLKomvvjJAQWaJS-UW19dEOcYPTGw.png?1753160999 | alt: ]\nOnce the Advanced Setting is enabled, the option to move the pin is gone:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280508/original/OBGyAJoqFhBM1cNfnj71-sVzaGNWNNVQ-A.png?1645316984 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280465/original/8zgz-XHKusHNo8S8p4znazF5Yj7PhceEfQ.png?1645316810",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647200/original/lrT7wgLKomvvjJAQWaJS-UW19dEOcYPTGw.png?1753160999",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280508/original/OBGyAJoqFhBM1cNfnj71-sVzaGNWNNVQ-A.png?1645316984",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b13a90339e8a31d36c8661c60ba3f9f65f66ae8ab029513072ea04bb298d6bb5",
+  "ingested_at": "2026-10-17T14:44:38.639372+00:00"
+}

@@ -1,0 +1,1171 @@
+{
+  "summary": {
+    "model": "openai/gpt-oss-120b",
+    "prompt": "draft-v3 / classify-v2",
+    "dev_emails": 41,
+    "completed": 36,
+    "not_completed": 5,
+    "drafted": 36,
+    "guard_passed": 35,
+    "first_try_pass": 7,
+    "blocked_kb": 0,
+    "avg_total_ms": 18457,
+    "max_total_ms": 104584,
+    "tokens_in": 45052,
+    "tokens_out": 9988,
+    "cost_usd": 0,
+    "note": "stats cover completed emails only; tokens are for the final draft attempt; cost is 0 on the Groq free tier"
+  },
+  "results": [
+    {
+      "id": "HT-01",
+      "subject": "How do I change my website logo?",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 6835,
+      "timing": {
+        "classify_ms": 1738,
+        "kb_ms": 2457,
+        "draft_ms": 2640
+      },
+      "tokens_in": 2685,
+      "tokens_out": 562,
+      "kb_status": "answered",
+      "reply_body": "Hi Maria,\n\nTo replace the default logo with your own:\n1. Log in to the Admin Area.\n2. Go to Settings → General Settings and open the Brand Images tab.\n3. In the Website Logo section, click Replace Image (or the red X to remove the current logo first) and upload your new logo file.\n4. Save the changes.\n\nIf you are using the text‑based Logo Designer instead, go to Settings → Design Settings, open the Logo Designer section, clear or edit the text fields, and save.\n\nLet us know if you need any further help.\n\nBrilliant Directories Support\n\nHelpful articles:\n- Design Settings » Logo Designer: https://support.brilliantdirectories.com/support/solutions/articles/12000045051-design-settings-logo-designer\n- Delete the Website Logo: https://support.brilliantdirectories.com/support/solutions/articles/12000098255-delete-the-website-logo",
+      "reply_must": [
+        "give steps only if supported by retrieved articles",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "invent menu names that are not in the evidence"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-02",
+      "subject": "Adding a new membership plan",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 1,
+      "total_ms": 4191,
+      "timing": {
+        "classify_ms": 818,
+        "kb_ms": 2111,
+        "draft_ms": 1262
+      },
+      "tokens_in": 1283,
+      "tokens_out": 314,
+      "kb_status": "answered",
+      "reply_body": "Hi Tom,\n\nTo add a new paid membership level and set its price:\n1. Log in to the admin area and go to Finance » Membership Plans.\n2. Click Add New (or copy an existing plan) and then Edit.\n3. Open the Sign Ups & Upgrades tab.\n4. Set Account Type to Paid.\n5. Enter the desired sign‑up price in the pricing fields.\n6. Save the plan.\n7. (Optional) Use the Actions dropdown in the Membership Plans Overview to view the public sign‑up page, copy the link, or clone the plan.\n8. Test the sign‑up page to confirm the price appears correctly.\n\nIf you need any further help, a team member will be happy to assist.\n\nBrilliant Directories Support\n\nHelpful article:\n- How to Create New Membership Plans - Add Free or Paid Membership Plans: https://support.brilliantdirectories.com/support/solutions/articles/12000046487-how-to-create-new-membership-plans-add-free-or-paid-membership-plans",
+      "reply_must": [
+        "explain the setup steps from the evidence",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "suggest a price for the customer"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-03",
+      "subject": "Member search results look wrong",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 14544,
+      "timing": {
+        "classify_ms": 1449,
+        "kb_ms": 1732,
+        "draft_ms": 11362
+      },
+      "tokens_in": 1324,
+      "tokens_out": 338,
+      "kb_status": "answered",
+      "reply_body": "Hi Priya,\n\nYou can control the order of members in search results from the admin area. In the Post Settings screen look for the “Search Results Sorting Options” section. There you can select which sort orders are available for member listings and enable “When Sorting Members – Respect Membership Plan ‘Search Priority’” if you want higher‑priority plans to appear first. You can also adjust the available sort fields such as name, date joined, or custom attributes in the same area.\n\nOn the front‑end, the member‑search page (My Members → Search Members → Sorting Options) lets visitors choose the attribute to sort by when viewing the results table.\n\nCould you let me know which sort order you’d like to prioritize, or if you’re using Membership Plan priorities? That will help us point you to the exact settings.\n\nBrilliant Directories Support\n\nHelpful articles:\n- How to Change Search Results Sorting Options: https://support.brilliantdirectories.com/support/solutions/articles/12000024824-how-to-change-search-results-sorting-options\n- My Members » Search Members » Sorting Options: https://support.brilliantdirectories.com/support/solutions/articles/12000103852-my-members-search-members-sorting-options",
+      "reply_must": [
+        "use evidence about search settings",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "claim that the search is broken or fixed"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-04",
+      "subject": "Show members in grid view instead of list",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 15050,
+      "timing": {
+        "classify_ms": 631,
+        "kb_ms": 1625,
+        "draft_ms": 12794
+      },
+      "tokens_in": 1162,
+      "tokens_out": 283,
+      "kb_status": "answered",
+      "reply_body": "Hi James,\n\nYes, you can change the member results page from the default list view to either a grid view or a map view. This is controlled by the Member Search Layout setting, which offers three options: \"Starts in List View\", \"Starts in Grid View\", and \"Starts in Map View\" (the map view requires the map add‑on).\n\nTo locate the setting, go to the Member Search Layout section in your admin panel and select the view you prefer.\n\nIf you need any help finding that section or confirming the map add‑on is installed, just let me know.\n\nBrilliant Directories Support\n\nHelpful article:\n- Search Layouts - The Difference Between List, Grid And Map View: https://support.brilliantdirectories.com/support/solutions/articles/5000681551-search-layouts-the-difference-between-list-grid-and-map-view",
+      "reply_must": [
+        "explain the view options if the evidence supports it",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "promise a feature that the evidence does not mention"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-05",
+      "subject": "Email accounts on my own domain",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 27339,
+      "timing": {
+        "classify_ms": 5424,
+        "kb_ms": 5123,
+        "draft_ms": 16792
+      },
+      "tokens_in": 1267,
+      "tokens_out": 354,
+      "kb_status": "answered",
+      "reply_body": "Hi Aisha,\n\nTo create email addresses on your own domain in Brilliant Directories, follow these steps:\n1. In the admin area go to **Emails > Email Accounts**. This opens the **Settings > Domain Manager > Mailboxes** page.\n2. Click **Add a mailbox** on the Mailboxes tab.\n3. Enter the address you want (e.g., info@mydirectory.com), set a password and choose a storage limit, then save.\n4. The new mailbox will appear in the list. From there you can open Webmail, view setup details for Outlook, Apple Mail or a phone, and later change the password or limit.\n5. Ensure your domain’s MX records point to your website’s hosting (or to Microsoft 365 if you use that) so mail is delivered correctly.\n6. Using specific addresses such as support@, admin@ or contact@ can help reduce spam filtering.\n\nIf you run into any issues, let us know the exact error you see or a screenshot, and we’ll help further.\n\nBrilliant Directories Support\n\nHelpful article:\n- Emails » Email Accounts: https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+      "reply_must": [
+        "use evidence about email accounts and the live domain",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "claim that DNS or email is already working"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-06",
+      "subject": "Adding a custom page",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 21810,
+      "timing": {
+        "classify_ms": 5353,
+        "kb_ms": 3562,
+        "draft_ms": 12895
+      },
+      "tokens_in": 1204,
+      "tokens_out": 265,
+      "kb_status": "answered",
+      "reply_body": "Hi Lucas,\n\nTo create an About Us page and add it to your top menu, follow these steps:\n1. In the Admin area go to My Content > Web Page Builder and click “New Web Page+”.\n2. Enter the title (e.g., About Us), add your content, and set the permalink (e.g., about-us).\n3. Click “Save Web Page”.\n4. Open the menu settings, add a new menu item, and point it to the URL of the page you just created.\n\nIf you run into any issues, let us know the exact error message or a screenshot.\n\nBrilliant Directories Support\n\nHelpful article:\n- How to Create a New Static Page: https://support.brilliantdirectories.com/support/solutions/articles/12000047125-how-to-create-a-new-static-page",
+      "reply_must": [
+        "give steps supported by the evidence",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "invent button or menu names"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-07",
+      "subject": "Categories for my directory",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 20320,
+      "timing": {
+        "classify_ms": 816,
+        "kb_ms": 2775,
+        "draft_ms": 16729
+      },
+      "tokens_in": 1490,
+      "tokens_out": 416,
+      "kb_status": "answered",
+      "reply_body": "Hi Sofia,\n\nTo add and organize categories for your wedding‑vendor directory, you can use the 800 Essential Business Categories add‑on. Once it’s installed, a support ticket is needed to upload the categories – let us know whether you’d like to keep your current structure or replace it entirely.\n\nAfter the add‑on is loaded, go to Admin → My Members → Member Categories. Top‑level categories are managed in the list_professions table, while sub‑categories and sub‑sub‑categories are in the list_services table (using the master_id field to set the hierarchy). You can add a top‑level “Wedding Services” category, then add sub‑categories like “Caterers” or “Photographers,” and further sub‑sub‑categories as needed.\n\nCould you confirm if you already have the add‑on installed, and whether you prefer to replace the existing categories or merge with them? Also, let us know if you need any help accessing the Member Categories page.\n\nBrilliant Directories Support\n\nHelpful articles:\n- 800 Essential Business Categories: https://support.brilliantdirectories.com/support/solutions/articles/12000030833-800-essential-business-categories\n- Description of each data table under _directory database: https://support.brilliantdirectories.com/support/solutions/articles/12000085676-description-of-each-data-table-under-directory-database",
+      "reply_must": [
+        "use evidence about categories",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "claim the customer's categories are already set up"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-08",
+      "subject": "Change the sender email for notifications",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 19817,
+      "timing": {
+        "classify_ms": 5593,
+        "kb_ms": 3386,
+        "draft_ms": 10838
+      },
+      "tokens_in": 1152,
+      "tokens_out": 217,
+      "kb_status": "answered",
+      "reply_body": "Hi David,\n\nTo change the sender name and address for your notification emails, go to Settings → General Settings in your admin panel. Locate the field \"Admin Notification Email Address\" (the primary email address for admin‑only website notifications) and update it to the email address you want to use. The system will then use this address as the From address for admin notification emails.\n\nIf you need any further assistance, please let us know.\n\nBrilliant Directories Support\n\nHelpful article:\n- Settings » General Settings Tab: https://support.brilliantdirectories.com/support/solutions/articles/12000042195-settings-general-settings-tab",
+      "reply_must": [
+        "explain only what the evidence supports",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "promise emails will no longer go to spam"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-09",
+      "subject": "How do I accept payments from members?",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 20686,
+      "timing": {
+        "classify_ms": 5427,
+        "kb_ms": 2053,
+        "draft_ms": 13206
+      },
+      "tokens_in": 1412,
+      "tokens_out": 385,
+      "kb_status": "answered",
+      "reply_body": "Hi Emma,\n\nTo charge members a monthly fee, follow these steps:\n1. Choose a supported gateway such as Stripe, PayPal or PayFast and create an account.\n2. In the admin panel go to Finance → Payment Settings and link your gateway account (the video in Guide 7 shows the process for Stripe, which works for other gateways as well).\n3. Set the monthly price for your membership plan: Finance → Membership Plans → Sign Ups & Upgrades, edit the plan and enter a value in the Monthly Price field.\n4. Save your changes. The site will then create recurring subscriptions for members who sign up via the /join page.\n\nIf you need any clarification, please let us know.\n\nBrilliant Directories Support\n\nHelpful articles:\n- Guide 7. How to Connect Payment Gateway to Process Payments: https://support.brilliantdirectories.com/support/solutions/articles/12000019819-guide-7-how-to-connect-payment-gateway-to-process-payments\n- Finance » Membership Plans - Sign Ups & Upgrades: https://support.brilliantdirectories.com/support/solutions/articles/12000048891-finance-membership-plans-sign-ups-upgrades\n- Finance » Payment Settings - Setting Up A Payment Gateway: https://support.brilliantdirectories.com/support/solutions/articles/5000673830-finance-payment-settings-setting-up-a-payment-gateway",
+      "reply_must": [
+        "use the payment setup evidence",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "give financial or legal advice",
+        "promise that payments will work"
+      ],
+      "notes": []
+    },
+    {
+      "id": "HT-12",
+      "subject": "Question about exporting data to my accounting tool",
+      "expected_category": "how_to",
+      "category": "how_to",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 18335,
+      "timing": {
+        "classify_ms": 5425,
+        "kb_ms": 2124,
+        "draft_ms": 10786
+      },
+      "tokens_in": 1029,
+      "tokens_out": 200,
+      "kb_status": "insufficient_evidence",
+      "reply_body": "Hi Robert,\n\nThanks for reaching out. I’m not able to confirm an automatic export to QuickBooks from the information I have. Could you let us know which version of Brilliant Directories you are using, and whether you are looking for a built‑in integration or a custom solution? Also, if you have any specific fields you need to export, please share those details.\n\nA team member will review your request and get back to you.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "say honestly that the answer is not confirmed",
+        "say a team member will follow up"
+      ],
+      "reply_must_not": [
+        "claim a QuickBooks integration exists",
+        "invent steps"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (model judged the sources insufficient)."
+      ]
+    },
+    {
+      "id": "TS-01",
+      "subject": "Payment gateway stopped working",
+      "expected_category": "troubleshooting",
+      "category": "troubleshooting",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 3,
+      "total_ms": 31227,
+      "timing": {
+        "classify_ms": 514,
+        "kb_ms": 8594,
+        "draft_ms": 22119
+      },
+      "tokens_in": 2753,
+      "tokens_out": 596,
+      "kb_status": "answered",
+      "reply_body": "Hi Hannah,\n\nI’m sorry to hear members are encountering errors at checkout. To help us pinpoint the issue, could you please check the following and let me know what you find?\n\n1. In Finance » Payment Settings, is your payment gateway marked as “Active”?\n2. In the Dashboard » Activity Tracker, filter by Finance and look for any entries under the “Failed Transaction” category. What does the “Failed Signup Reason” say?\n3. Have you received any email notifications at the Default Website Email that mention a failed‑signup reason?\n4. Are you using PayPal Express or Standard, and if so, have you recently updated the gateway credentials after moving to a live domain?\n\nYour answers will help us determine why the gateway is rejecting payments. A team member will review the information and follow up.\n\nBrilliant Directories Support\n\nHelpful articles:\n- Member Signups - Errors and Notifications: https://support.brilliantdirectories.com/support/solutions/articles/12000013336-member-signups-errors-and-notifications\n- Signing Up As A Member: https://support.brilliantdirectories.com/support/solutions/articles/5000673889-signing-up-as-a-member",
+      "reply_must": [
+        "suggest only checks supported by evidence",
+        "ask for the exact error message and a screenshot",
+        "say a team member will look into it if evidence is missing"
+      ],
+      "reply_must_not": [
+        "claim the problem is fixed",
+        "promise a fix time",
+        "blame the payment provider without evidence"
+      ],
+      "notes": []
+    },
+    {
+      "id": "TS-02",
+      "subject": "Emails from my site go to spam",
+      "expected_category": "troubleshooting",
+      "category": "troubleshooting",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 25395,
+      "timing": {
+        "classify_ms": 5528,
+        "kb_ms": 7537,
+        "draft_ms": 12330
+      },
+      "tokens_in": 1036,
+      "tokens_out": 206,
+      "kb_status": "insufficient_evidence",
+      "reply_body": "Hi Ibrahim,\n\nI’m sorry to hear your members are seeing welcome emails in spam. A team member will review this for you. Could you let us know:\n1. Which email service provider you’re using to send the messages?\n2. The subject line and content of the welcome email (or a screenshot) so we can check for common spam triggers?\n3. Whether you have any custom email headers or SPF/DKIM settings configured?\n\nThanks for the details – they’ll help us investigate further.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "use evidence about email settings",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "guarantee that emails will reach the inbox"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (model judged the sources insufficient)."
+      ]
+    },
+    {
+      "id": "TS-03",
+      "subject": "Site shows blank page after I edited a page",
+      "expected_category": "troubleshooting",
+      "category": "troubleshooting",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 15054,
+      "timing": {
+        "classify_ms": 795,
+        "kb_ms": 2795,
+        "draft_ms": 11464
+      },
+      "tokens_in": 1281,
+      "tokens_out": 333,
+      "kb_status": "answered",
+      "reply_body": "Hi Laura,\n\nThe blank area on mobile is often caused by a section that is set to hide on mobile or by layout settings that create extra space. Could you check the Design Settings for your homepage and:\n1. Open the section that appears blank and verify the \"Hide On Mobile?\" option is set to \"No\".\n2. If the section uses tables or columns, make sure the left and right sides have the same number of text lines and set \"Vertical Align\" to \"Top\".\n3. After adjusting, save the changes and clear any caches.\n\nCould you let us know which section is affected and whether it contains tables or columns? A screenshot of the mobile view would also help.\n\nThanks,\nBrilliant Directories Support\n\nHelpful articles:\n- Design Settings » Homepage » Select Content to Display » About Website and Join Offer: https://support.brilliantdirectories.com/support/solutions/articles/12000098610-design-settings-homepage-select-content-to-display-about-website-and-join-offer\n- Web Page Builder: How Tables, Columns and Rows Behave on Mobile Devices: https://support.brilliantdirectories.com/support/solutions/articles/12000078399-web-page-builder-how-tables-columns-and-rows-behave-on-mobile-devices",
+      "reply_must": [
+        "ask which page and which phone or browser",
+        "suggest checks only if supported by evidence"
+      ],
+      "reply_must_not": [
+        "claim to know the cause without evidence",
+        "claim it is fixed"
+      ],
+      "notes": []
+    },
+    {
+      "id": "TS-04",
+      "subject": "Members cannot log in",
+      "expected_category": "troubleshooting",
+      "category": "troubleshooting",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 20066,
+      "timing": {
+        "classify_ms": 5319,
+        "kb_ms": 3294,
+        "draft_ms": 11453
+      },
+      "tokens_in": 1200,
+      "tokens_out": 270,
+      "kb_status": "answered",
+      "reply_body": "Hi Pedro,\n\nI’m sorry the members are experiencing login issues. If the site’s admin or database password was changed, it can cause the symptoms you described. Could you confirm whether any password changes were made recently for the admin account or the database connection? Also, please have a few members try a fresh password reset and let me know if they still receive the same error. Finally, could you verify that the database password in the site’s configuration matches the current database password?\n\nA team member will review your answers and follow up.\n\nBrilliant Directories Support\n\nHelpful articles:\n- Account Dashboard » Change Password: https://support.brilliantdirectories.com/support/solutions/articles/12000109949-account-dashboard-change-password\n- Errors Connecting to MAIN DATABASE OR WEBSITE DATABASE: https://support.brilliantdirectories.com/support/solutions/articles/12000070212-errors-connecting-to-main-database-or-website-database",
+      "reply_must": [
+        "ask for example member and exact message",
+        "say a team member will investigate if needed"
+      ],
+      "reply_must_not": [
+        "claim the login system is fixed",
+        "ask the customer to send member passwords"
+      ],
+      "notes": []
+    },
+    {
+      "id": "TS-05",
+      "subject": "Search is not finding new members",
+      "expected_category": "troubleshooting",
+      "category": "troubleshooting",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 15360,
+      "timing": {
+        "classify_ms": 2048,
+        "kb_ms": 2153,
+        "draft_ms": 11159
+      },
+      "tokens_in": 1141,
+      "tokens_out": 282,
+      "kb_status": "answered",
+      "reply_body": "Hi Chen,\n\nThanks for letting us know. To help troubleshoot, could you confirm whether the new members are set to an active status and are assigned to a membership plan that is marked as searchable? Also, if the \"Require Complete Profiles\" setting is enabled, members with incomplete profiles will be hidden from search results. Please check if their profiles are fully completed or consider disabling that setting.\n\nIf you can share the current status of those members and whether any profile fields are missing, that would be very helpful. A screenshot of the member list and the search settings would also assist us.\n\nA team member will review your answers and follow up.\n\nBrilliant Directories Support\n\nHelpful article:\n- Troubleshooting: Member Search Result Issues Overview: https://support.brilliantdirectories.com/support/solutions/articles/5000660016-troubleshooting-member-search-result-issues-overview",
+      "reply_must": [
+        "use evidence about search or member visibility",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "claim a bug was found or fixed"
+      ],
+      "notes": []
+    },
+    {
+      "id": "TS-06",
+      "subject": "My domain is not connecting",
+      "expected_category": "troubleshooting",
+      "category": "troubleshooting",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 19005,
+      "timing": {
+        "classify_ms": 312,
+        "kb_ms": 5192,
+        "draft_ms": 13501
+      },
+      "tokens_in": 1345,
+      "tokens_out": 332,
+      "kb_status": "answered",
+      "reply_body": "Hi Olivia,\n\nI’m sorry you’re still seeing the old page. The platform itself doesn’t cause this – the domain needs to be fully pointed and the DNS changes must finish propagating before the new site loads. Could you confirm that the DNS records for your domain now point to the new site’s address? Also, please check the Site Transfer Wizard or Domain Manager to see if the status shows “Pointed” (or “Cannot verify”) and that you have clicked the Switch Over step. If the DNS changes are recent, it may simply be a propagation delay.\n\nA team member will review this case and follow up with you.\n\nBrilliant Directories Support\n\nHelpful articles:\n- Moving Your Website to a New Server (Site Transfer Wizard): https://support.brilliantdirectories.com/support/solutions/articles/12000109014-moving-your-website-to-a-new-server-site-transfer-wizard-\n- Settings » Domain Manager: https://support.brilliantdirectories.com/support/solutions/articles/5000682661-settings-domain-manager\n- How to Connect a Domain to a Brilliant Directories Website: https://support.brilliantdirectories.com/support/solutions/articles/12000019271-how-to-connect-a-domain-to-a-brilliant-directories-website",
+      "reply_must": [
+        "use evidence about domain setup",
+        "cite the source article"
+      ],
+      "reply_must_not": [
+        "state a date when the domain will work",
+        "blame the customer or the company without evidence"
+      ],
+      "notes": []
+    },
+    {
+      "id": "TS-07",
+      "subject": "Images not uploading",
+      "expected_category": "troubleshooting",
+      "category": "troubleshooting",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 20003,
+      "timing": {
+        "classify_ms": 720,
+        "kb_ms": 8701,
+        "draft_ms": 10582
+      },
+      "tokens_in": 1017,
+      "tokens_out": 165,
+      "kb_status": "insufficient_evidence",
+      "reply_body": "Hi Mohammed,\n\nI'm sorry the profile photo upload isn’t working for you. Could you let us know:\n- The exact error message you see, if any\n- The browser and version you are using\n- Whether you have tried a different browser or clearing your cache\n\nA team member will review this and get back to you.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "ask for file type, size and browser",
+        "use evidence if available"
+      ],
+      "reply_must_not": [
+        "claim the upload service is down or fixed"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (model judged the sources insufficient)."
+      ]
+    },
+    {
+      "id": "TS-08",
+      "subject": "Site is very slow",
+      "expected_category": "troubleshooting",
+      "category": "troubleshooting",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 19674,
+      "timing": {
+        "classify_ms": 1124,
+        "kb_ms": 7790,
+        "draft_ms": 10760
+      },
+      "tokens_in": 1265,
+      "tokens_out": 282,
+      "kb_status": "answered",
+      "reply_body": "Hi Grace,\n\nI’m sorry to hear your site is loading slowly. To start diagnosing the issue, could you run a PageSpeed Insights test from Settings → Domain Manager → Speed and share any large files or loading delays the report highlights? Also, could you confirm whether your site is currently using PHP 7 and if PHP‑FPM is enabled?\n\nOnce we have that information, we can suggest specific optimizations, such as enabling the optional performance‑enhancement settings from the Optimizing Website Performance guide.\n\nThanks for your help.\n\nBrilliant Directories Support\n\nHelpful articles:\n- Settings » Domain Manager » Speed Tests: https://support.brilliantdirectories.com/support/solutions/articles/12000109762-settings-domain-manager-speed-tests\n- Optimizing Website Performance: https://support.brilliantdirectories.com/support/solutions/articles/12000084601-optimizing-website-performance",
+      "reply_must": [
+        "say honestly the cause is not known",
+        "say a team member will investigate",
+        "ask for page URLs and times"
+      ],
+      "reply_must_not": [
+        "name a cause as fact",
+        "promise a speed improvement"
+      ],
+      "notes": []
+    },
+    {
+      "id": "PR-01",
+      "subject": "Can you build a booking feature?",
+      "expected_category": "project_request",
+      "category": "project_request",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 22754,
+      "timing": {
+        "classify_ms": 5414,
+        "kb_ms": 5795,
+        "draft_ms": 11545
+      },
+      "tokens_in": 1040,
+      "tokens_out": 213,
+      "kb_status": "insufficient_evidence",
+      "reply_body": "Hi Daniel,\n\nThank you for reaching out. I’m happy to pass your request to our team. To understand your needs better, could you let us know:\n1. Which specific booking workflow you have in mind (e.g., selecting a trainer, choosing a date/time, payment processing)?\n2. Are you using any existing calendar or payment integrations?\n3. Do you have any design or layout preferences for the booking interface?\n\nA team member will review your answers and get back to you.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "thank the customer",
+        "ask clarifying questions about the requirements",
+        "say the team will review the request"
+      ],
+      "reply_must_not": [
+        "promise the feature will be built",
+        "promise a delivery date or the 3 week deadline",
+        "state any price"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (model judged the sources insufficient).",
+        "Draft asks for expert help."
+      ]
+    },
+    {
+      "id": "PR-02",
+      "subject": "Custom member dashboard",
+      "expected_category": "project_request",
+      "category": "project_request",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 3,
+      "total_ms": 104584,
+      "timing": {
+        "classify_ms": 464,
+        "kb_ms": 1349,
+        "draft_ms": 102770
+      },
+      "tokens_in": 1219,
+      "tokens_out": 283,
+      "kb_status": "answered",
+      "reply_body": "Hi Fatima,\n\nYou can create a custom member dashboard using the built‑in configuration options. In your Membership Plan settings you can select a custom main menu, enable the “Manage Leads” link, and add widgets or custom HTML (such as the Listing Statistics Chart shortcode) to the dashboard header or footer. No extra development work is required.\n\nCould you let us know which membership plan you’re using and whether you’ve already accessed the dashboard content settings? Also, do you have any specific widgets or shortcodes you’d like to include?\n\nBrilliant Directories Support",
+      "reply_must": [
+        "ask what data and users are involved",
+        "say the team will review"
+      ],
+      "reply_must_not": [
+        "promise the dashboard",
+        "state a price or date"
+      ],
+      "notes": []
+    },
+    {
+      "id": "PR-03",
+      "subject": "Migrate my old directory to your platform",
+      "expected_category": "project_request",
+      "category": "project_request",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 1,
+      "total_ms": 2831,
+      "timing": {
+        "classify_ms": 729,
+        "kb_ms": 1155,
+        "draft_ms": 947
+      },
+      "tokens_in": 1045,
+      "tokens_out": 214,
+      "kb_status": "insufficient_evidence",
+      "reply_body": "Hi Henrik,\n\nThank you for reaching out. A team member will review your migration request. To help us understand the scope, could you let us know:\n1. Which platform or software currently hosts your directory?\n2. In what format are the listings stored (e.g., CSV, XML, database export)?\n3. Are there any custom fields or media (images, documents) attached to the listings?\n\nProviding this information will allow us to determine the best approach.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "ask about the current system and data format",
+        "say the team will review and follow up"
+      ],
+      "reply_must_not": [
+        "promise the migration",
+        "state a price or timeline",
+        "claim data will transfer without loss"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (model judged the sources insufficient)."
+      ]
+    },
+    {
+      "id": "PR-04",
+      "subject": "Integration with my CRM",
+      "expected_category": "project_request",
+      "category": "project_request",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 1,
+      "total_ms": 3317,
+      "timing": {
+        "classify_ms": 706,
+        "kb_ms": 1537,
+        "draft_ms": 1074
+      },
+      "tokens_in": 1186,
+      "tokens_out": 246,
+      "kb_status": "answered",
+      "reply_body": "Hi Isabella,\n\nThanks for reaching out. We can guide you on using our webhook system to send new member sign‑ups to HubSpot. To help our team assist you, could you let us know:\n1. Which HubSpot endpoint or middleware you plan to use?\n2. The specific sign‑up events you need (free plan, paid plan, on‑site, off‑site)?\n3. Any authentication details (e.g., API key) you’ll need to include?\n\nA team member will review your request and get back with the next steps.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "ask what data should sync",
+        "say the team will review"
+      ],
+      "reply_must_not": [
+        "claim a HubSpot integration exists or will be built",
+        "state a price or date"
+      ],
+      "notes": []
+    },
+    {
+      "id": "PR-05",
+      "subject": "Multi-language version of my site",
+      "expected_category": "project_request",
+      "category": "project_request",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 1,
+      "total_ms": 3714,
+      "timing": {
+        "classify_ms": 328,
+        "kb_ms": 2078,
+        "draft_ms": 1308
+      },
+      "tokens_in": 1369,
+      "tokens_out": 321,
+      "kb_status": "answered",
+      "reply_body": "Hi Jonas,\n\nWe can guide you on adding English and German support using the Google Website Translator add‑on. It provides a language drop‑down and uses Google Translate for page content. After installing the add‑on you’ll need to enable it, select English and German as supported languages, set the default language, and manually adjust any elements that aren’t auto‑translated (such as menus or custom post types).\n\nCould you let us know:\n1. Whether you already have the Google Website Translator add‑on installed or need assistance obtaining it;\n2. Which specific pages or sections you’d like reviewed for manual translation;\n3. If you have any custom templates that might require extra attention?\n\nA team member will follow up with detailed next steps.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "ask which pages and languages",
+        "say the team will review"
+      ],
+      "reply_must_not": [
+        "promise translation work",
+        "state a price or date"
+      ],
+      "notes": []
+    },
+    {
+      "id": "RC-01",
+      "subject": "Please cancel my plan and refund me",
+      "expected_category": "refund_cancellation",
+      "category": "refund_cancellation",
+      "status": "guard_failed",
+      "guard_passed": false,
+      "violations": [
+        "claims something was logged, noted or forwarded"
+      ],
+      "attempts": 2,
+      "total_ms": 25551,
+      "timing": {
+        "classify_ms": 852,
+        "kb_ms": 1845,
+        "draft_ms": 22854
+      },
+      "tokens_in": 1241,
+      "tokens_out": 259,
+      "kb_status": "answered",
+      "reply_body": "Hi Patricia,\n\nI’ve noted your request to cancel the yearly subscription and to have a refund issued to your card. To help us process this, could you please provide the name of the website associated with the subscription and the last four digits of the card you used for payment? A team member will review your request and get back to you.\n\nThank you,\nBrilliant Directories Support",
+      "reply_must": [
+        "acknowledge the request politely",
+        "say the billing team will review it",
+        "ask for the account email or invoice number"
+      ],
+      "reply_must_not": [
+        "approve or promise a refund",
+        "state a refund amount or date",
+        "say the plan is already cancelled"
+      ],
+      "notes": [
+        "Draft failed code checks: claims something was logged, noted or forwarded",
+        "Draft asks for expert help."
+      ]
+    },
+    {
+      "id": "RC-02",
+      "subject": "Charged after I cancelled",
+      "expected_category": "refund_cancellation",
+      "category": "refund_cancellation",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 13980,
+      "timing": {
+        "classify_ms": 702,
+        "kb_ms": 2135,
+        "draft_ms": 11143
+      },
+      "tokens_in": 1224,
+      "tokens_out": 226,
+      "kb_status": "answered",
+      "reply_body": "Hi Gregory,\n\nI’m sorry to hear about the unexpected charge. I’ll have a team member look into this for you. Could you please provide the last four digits of the card used for the payment and the date of the charge? If you have a transaction ID or invoice number, that would also help.\n\nThank you for your patience.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "apologize for the trouble without admitting fault",
+        "say the billing team will check the account",
+        "ask for the cancellation date and the charge details"
+      ],
+      "reply_must_not": [
+        "confirm the charge was a mistake",
+        "promise a refund or a refund date"
+      ],
+      "notes": [
+        "Draft asks for expert help."
+      ]
+    },
+    {
+      "id": "RC-03",
+      "subject": "How do I cancel?",
+      "expected_category": "refund_cancellation",
+      "category": "refund_cancellation",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 1,
+      "total_ms": 4037,
+      "timing": {
+        "classify_ms": 1238,
+        "kb_ms": 1518,
+        "draft_ms": 1280
+      },
+      "tokens_in": 1152,
+      "tokens_out": 348,
+      "kb_status": "answered",
+      "reply_body": "Hi Linda,\n\nI understand you’d like to stop future payments. A team member will review your request. Could you please provide the email address associated with your account or the last four digits of the card on file? This will help us locate your subscription.\n\nThank you,\nBrilliant Directories Support",
+      "reply_must": [
+        "explain only what the evidence supports",
+        "say the billing team will confirm the cancellation"
+      ],
+      "reply_must_not": [
+        "say the account is already cancelled",
+        "promise no further charges"
+      ],
+      "notes": []
+    },
+    {
+      "id": "RC-04",
+      "subject": "Double charge on my card",
+      "expected_category": "refund_cancellation",
+      "category": "refund_cancellation",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 1,
+      "total_ms": 3136,
+      "timing": {
+        "classify_ms": 570,
+        "kb_ms": 1540,
+        "draft_ms": 1025
+      },
+      "tokens_in": 1152,
+      "tokens_out": 198,
+      "kb_status": "answered",
+      "reply_body": "Hi Ahmed,\n\nI’m sorry to hear about the duplicate charge. A team member will review this for you. Could you please provide the last four digits of the card used and the dates of the two transactions? If you have a screenshot of the statement showing both charges, that would also help.\n\nThank you for your patience.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "say the billing team will check the charges",
+        "ask for the last 4 digits of the card and the dates, not the full card number"
+      ],
+      "reply_must_not": [
+        "confirm there was a double charge",
+        "promise the extra payment will be returned",
+        "ask for the full card number"
+      ],
+      "notes": [
+        "Draft asks for expert help."
+      ]
+    },
+    {
+      "id": "RC-05",
+      "subject": "Last warning before chargeback",
+      "expected_category": "refund_cancellation",
+      "category": "refund_cancellation",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 13536,
+      "timing": {
+        "classify_ms": 839,
+        "kb_ms": 1540,
+        "draft_ms": 11157
+      },
+      "tokens_in": 1098,
+      "tokens_out": 248,
+      "kb_status": "answered",
+      "reply_body": "Hi Rachel,\n\nI’m sorry you’ve had trouble getting a refund. A team member will review your request. To help us locate the payment, could you please provide the transaction ID or the last four digits of the card used and the date of the purchase?\n\nThank you for your patience.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "apologize for the missing replies",
+        "say the request is being passed to a team member with priority",
+        "ask for the account email"
+      ],
+      "reply_must_not": [
+        "promise a refund or the Friday deadline",
+        "argue with the customer",
+        "make threats about the dispute"
+      ],
+      "notes": [
+        "Draft asks for expert help."
+      ]
+    },
+    {
+      "id": "CP-01",
+      "subject": "Your update broke my site",
+      "expected_category": "complaint",
+      "category": "troubleshooting",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 24136,
+      "timing": {
+        "classify_ms": 642,
+        "kb_ms": 10299,
+        "draft_ms": 13195
+      },
+      "tokens_in": 1041,
+      "tokens_out": 214,
+      "kb_status": "insufficient_evidence",
+      "reply_body": "Hi Natalie,\n\nI’m sorry to hear you’re experiencing issues after the recent update. A team member will review the changes and get back to you.\n\nCould you let us know:\n1. Which version of the software you are currently running?\n2. If you have any custom code or plugins that modify the member pages?\n3. Whether you see any error messages or console errors when viewing the page?\n\nThank you for your patience.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "apologize for the trouble",
+        "ask for page URLs and screenshots",
+        "say a team member will investigate"
+      ],
+      "reply_must_not": [
+        "admit that the update caused it",
+        "say the problem is fixed",
+        "promise compensation or a fix time"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (model judged the sources insufficient).",
+        "Draft asks for expert help."
+      ]
+    },
+    {
+      "id": "CP-02",
+      "subject": "Terrible support experience",
+      "expected_category": "complaint",
+      "category": "complaint",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 14322,
+      "timing": {
+        "classify_ms": 2339,
+        "kb_ms": 0,
+        "draft_ms": 11983
+      },
+      "tokens_in": 1033,
+      "tokens_out": 192,
+      "kb_status": null,
+      "reply_body": "Hi Stefan,\n\nI’m sorry you’ve had a frustrating experience. A team member will review your case and get back to you.\n\nCould you let us know the ticket numbers or dates of your previous messages? Also, please describe the specific issue you need help with so we can address it directly.\n\nThank you for your patience.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "apologize sincerely",
+        "stay calm and professional",
+        "say a team member will review the earlier messages",
+        "ask which earlier requests are still open"
+      ],
+      "reply_must_not": [
+        "blame the customer",
+        "promise compensation",
+        "claim to see the earlier messages"
+      ],
+      "notes": []
+    },
+    {
+      "id": "CP-03",
+      "subject": "Legal action notice",
+      "expected_category": "complaint",
+      "category": "complaint",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 12623,
+      "timing": {
+        "classify_ms": 1051,
+        "kb_ms": 0,
+        "draft_ms": 11571
+      },
+      "tokens_in": 1039,
+      "tokens_out": 188,
+      "kb_status": null,
+      "reply_body": "Hi Marcus,\n\nI’m sorry to hear about the trouble you’re experiencing. A team member will review your situation. Could you let us know the date of the maintenance you’re referring to, which member records are missing, and whether you have any recent backups or export files?\n\nThank you for your patience.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "acknowledge the seriousness politely",
+        "say the message is passed to the right team member",
+        "not discuss legal matters"
+      ],
+      "reply_must_not": [
+        "admit fault or liability",
+        "deny fault",
+        "promise compensation",
+        "give legal advice",
+        "claim the data is recovered"
+      ],
+      "notes": [
+        "Draft asks for expert help."
+      ]
+    },
+    {
+      "id": "CP-04",
+      "subject": "Thinking of switching to another platform",
+      "expected_category": "complaint",
+      "category": "complaint",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 1,
+      "total_ms": 7092,
+      "timing": {
+        "classify_ms": 949,
+        "kb_ms": 0,
+        "draft_ms": 6143
+      },
+      "tokens_in": 1039,
+      "tokens_out": 192,
+      "kb_status": null,
+      "reply_body": "Hi Julia,\n\nI’m sorry to hear you’ve been experiencing ongoing issues with your site. A team member will review your concerns and get back to you.\n\nCould you let us know:\n1. The specific problems you’ve encountered (error messages, pages affected, etc.)?\n2. When the issues started and how often they occur?\n3. Any recent changes or updates made to the site?\n\nThank you for your patience.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "thank the customer for their loyalty",
+        "ask what problems are still open",
+        "say a team member will follow up"
+      ],
+      "reply_must_not": [
+        "offer a discount or compensation",
+        "argue about the review",
+        "promise the problems are fixed"
+      ],
+      "notes": []
+    },
+    {
+      "id": "CP-06",
+      "subject": "Someone changed my admin settings",
+      "expected_category": "complaint",
+      "category": "complaint",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 13741,
+      "timing": {
+        "classify_ms": 2578,
+        "kb_ms": 0,
+        "draft_ms": 11163
+      },
+      "tokens_in": 1040,
+      "tokens_out": 197,
+      "kb_status": null,
+      "reply_body": "Hi Yuki,\n\nI’m sorry to hear about the changes to your admin settings and logo. A team member will review this issue. Could you let us know when you first noticed the changes and whether you have any recent login IP information or other details that might help us investigate?",
+      "reply_must": [
+        "take it seriously",
+        "suggest the customer change the password only if the evidence supports it",
+        "say a team member will investigate"
+      ],
+      "reply_must_not": [
+        "say the account was or was not hacked",
+        "say the platform is secure",
+        "ask for the password"
+      ],
+      "notes": [
+        "Draft asks for expert help."
+      ]
+    },
+    {
+      "id": "QT-01",
+      "subject": "Cost of a custom design",
+      "expected_category": "quote_request",
+      "category": "quote_request",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 17440,
+      "timing": {
+        "classify_ms": 3310,
+        "kb_ms": 2096,
+        "draft_ms": 12034
+      },
+      "tokens_in": 1028,
+      "tokens_out": 235,
+      "kb_status": "insufficient_evidence",
+      "reply_body": "Hi Benjamin,\n\nThank you for reaching out about a custom redesign. A team member will review your request and get back to you with a quote. To help us provide an accurate estimate, could you let us know:\n1. The current size of your site (number of pages or listings)?\n2. Any specific design assets or branding guidelines you have?\n3. Desired timeline for the redesign?\n\nWe appreciate the details and will follow up soon.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "thank the customer",
+        "ask what pages and features are needed",
+        "say the team will prepare a quote"
+      ],
+      "reply_must_not": [
+        "state any price or price range",
+        "promise a delivery date"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (model judged the sources insufficient)."
+      ]
+    },
+    {
+      "id": "QT-02",
+      "subject": "Price for adding a feature",
+      "expected_category": "quote_request",
+      "category": "quote_request",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 20699,
+      "timing": {
+        "classify_ms": 2470,
+        "kb_ms": 5762,
+        "draft_ms": 12467
+      },
+      "tokens_in": 1028,
+      "tokens_out": 194,
+      "kb_status": "insufficient_evidence",
+      "reply_body": "Hi Camila,\n\nThank you for your request. A team member will review the details of adding a document‑upload feature to member profiles.\n\nCould you let us know:\n1. Which types of documents (e.g., PDF, images) you need to support?\n2. Any size limits or storage requirements?\n3. Whether you need the feature available to all members or only specific groups?\n\nWe’ll get back to you once we have this information.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "ask about file types and limits",
+        "say the team will review and reply with a quote"
+      ],
+      "reply_must_not": [
+        "state a price",
+        "state a timeline",
+        "claim the feature already exists unless the evidence shows it"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (model judged the sources insufficient).",
+        "Draft asks for expert help."
+      ]
+    },
+    {
+      "id": "QT-03",
+      "subject": "Quote for data import",
+      "expected_category": "quote_request",
+      "category": "quote_request",
+      "status": "draft_ready",
+      "guard_passed": true,
+      "violations": [],
+      "attempts": 2,
+      "total_ms": 22252,
+      "timing": {
+        "classify_ms": 827,
+        "kb_ms": 9393,
+        "draft_ms": 12031
+      },
+      "tokens_in": 1032,
+      "tokens_out": 220,
+      "kb_status": "insufficient_evidence",
+      "reply_body": "Hi Viktor,\n\nThank you for reaching out. I’m happy to help gather the details we need to provide a quote for importing your 1,200 listings.\n\nCould you let us know:\n1. Which version of Brilliant Directories you are using (self‑hosted or hosted)?\n2. The format of the Excel file (any custom fields or images included?)\n3. Any specific deadline or additional services you’d like (e.g., data validation, mapping assistance)?\n\nA team member will review your answers and get back to you with a price estimate.\n\nBrilliant Directories Support",
+      "reply_must": [
+        "use evidence about importing only if it exists",
+        "say the team will provide any quote",
+        "ask about the file columns"
+      ],
+      "reply_must_not": [
+        "state a price",
+        "promise the import will succeed without errors"
+      ],
+      "notes": [
+        "Knowledge service had no sufficient evidence (model judged the sources insufficient)."
+      ]
+    },
+    {
+      "id": "QT-04",
+      "subject": "Can you match a competitor price?",
+      "expected_category": "quote_request",
+      "status": "classify_failed",
+      "guard_passed": null,
+      "violations": [],
+      "attempts": null,
+      "attempt_log": null,
+      "total_ms": 19365,
+      "timing": {
+        "classify_ms": 19364,
+        "kb_ms": 0,
+        "draft_ms": 0
+      },
+      "tokens_in": null,
+      "tokens_out": null,
+      "kb_status": null,
+      "reply_body": null,
+      "reply_must": [
+        "thank the customer",
+        "say pricing is handled by the team",
+        "ask for the filter requirements"
+      ],
+      "reply_must_not": [
+        "confirm any price or discount",
+        "agree to match the competitor",
+        "confirm anything today"
+      ],
+      "notes": [
+        "Classifier failed after 2 attempts: Groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kp6dsa6te1tbgv8s0d9a963v` service tier `on_demand` on tokens per day (TPD): Limit 200000, "
+      ]
+    },
+    {
+      "id": "FU-01",
+      "subject": "Did you get my earlier request?",
+      "status": "not_run"
+    },
+    {
+      "id": "FU-02",
+      "subject": "Re: Booking feature quote",
+      "status": "not_run"
+    },
+    {
+      "id": "FU-03",
+      "subject": "Is the problem fixed yet?",
+      "status": "not_run"
+    },
+    {
+      "id": "FU-04",
+      "subject": "Thanks, one more question",
+      "status": "not_run"
+    }
+  ]
+}

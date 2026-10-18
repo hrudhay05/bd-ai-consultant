@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000098757-how-to-remove-post-image-gray-background",
+  "title": "How to Remove Post Image Gray Background",
+  "text": "\n## How to Remove Post Image Gray Background\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000098757\nTo remove the gray background behind the image on the post details page, you can use the Design Settings.\nHere's how:\nNavigate to your BD dashboard\nGo to the \" D esign Settings \" section\nFind the \" General \" tab\nScroll down to \" Additional Settings >> Content Boxes & Backgrounds \"\nHere you will find the \" Post Image Backgroun d \" & \" Photo Album Background \" settings\nUse the RGB color picker to select a color\nYou can learn more about the Content Boxes & Backgrounds settings here:\nhttps://bootstrap.brilliantdirectories.com/en/support/solutions/articles/12000046625",
+  "images": [],
+  "content_hash": "9d98c0ac5cc2b223571078dc40e84da8035e7f9b40721a160e5ad27e9c2f5694",
+  "ingested_at": "2026-10-17T15:25:41.572690+00:00"
+}

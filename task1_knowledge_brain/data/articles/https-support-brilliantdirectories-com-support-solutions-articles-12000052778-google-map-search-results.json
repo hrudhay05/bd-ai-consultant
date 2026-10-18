@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000052778-google-map-search-results",
+  "title": "Google Map Search Results",
+  "text": "\n## Google Map Search Results\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000052778\n\n## Overview\nThe Google Map Search Results add-on will allow the website to have search results on the front-end of the website displayed on an interactive Google Map.\nBy default the website displays search results for members, posts and more in a list layout. With this add-on, choose to display these search results on an interactive Google Map.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Google Map Search Results Add-On\n\n## Enabling the Add-On\n1. Go to Settings - Design Settings. Within the Design Settings tab, scroll down until the admin sees the Search Results Pages option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091955158/original/pY-WwD3n-to8Mx0p5QeCWqQI_KKxXVo3rw.png?1619654984 | alt: ]\n2. Expand and make sure to enable it here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091955255/original/si4JYzgbnWaT5lK5_ru-oOgqbL0xWBygbA.png?1619655182 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084066974/original/H3Ua6Vy19kiWomKUA-jTys5MZghG1d_JXw.png?1603564649 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091955158/original/pY-WwD3n-to8Mx0p5QeCWqQI_KKxXVo3rw.png?1619654984",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091955255/original/si4JYzgbnWaT5lK5_ru-oOgqbL0xWBygbA.png?1619655182",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12084066974/original/H3Ua6Vy19kiWomKUA-jTys5MZghG1d_JXw.png?1603564649",
+      "alt": ""
+    }
+  ],
+  "content_hash": "27e28c30f808ecc7d0d4f0205b853363b7f691b4acd838a0d44f3d06ac50225f",
+  "ingested_at": "2026-10-17T14:41:35.253785+00:00"
+}

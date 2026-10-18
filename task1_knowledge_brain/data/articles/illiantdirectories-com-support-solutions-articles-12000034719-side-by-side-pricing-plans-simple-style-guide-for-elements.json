@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000034719-side-by-side-pricing-plans-simple-style-guide-for-elements",
+  "title": "Side-by-Side Pricing Plans: Simple Style Guide for Elements",
+  "text": "\n## Side-by-Side Pricing Plans: Simple Style Guide for Elements\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000034719\nIn this article, the styling Classes of the Pricing Page menu will be outlined:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594445/original/sTrF1QK1rCC71w2wbDxdsOknHS3zyni_Cg.png?1781714510 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594490/original/EcIUCLqijNMvoDjq6Y4-zBHBO6_4o1_NOw.png?1781714532 | alt: ]\nThe Pricing Page modules consists of:\n1. Title\n2. Price\n3. Sub-Price\n4. Features\n5. Checkout Button\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836098/original/NSYyUkfiLZp_Pt5D67dyyS3CZtWZI82YzA.png?1581436058 | alt: ]\n\n## How Are These Applied in the Admin Dashboard?\n\n## Title\nFor Title use the class \" title \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836309/original/PD5rs5OOVgDpOoC19S4jCoZDsHjFuSXTjg.png?1581436188 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594609/original/VPkS0cjpc39DTJmy_kvvKoY-bl36AhNmYg.png?1781714606 | alt: ]\n\n## Price\nFor the Price use the class \" price \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836447/original/nOD6ahbKLLiJDROYb8u0HwG-DaeUd3Y98Q.png?1581436308 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594664/original/fWNLUz8rTEqmpvVi9sj4mrlfOxvtNmYbfA.png?1781714664 | alt: ]\n\n## Sub Price\nFor the Sub Pricing use the class \" sub- price \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836506/original/ws-7N2nWk2rOxNVHuHx0WSA4gK4RXzb-7Q.png?1581436367 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594683/original/LsVzy0okbFxK0K426Eo4VaVJ-PTeR8fFNw.png?1781714693 | alt: ]\n\n## Button\nTo create a button, we recommend using the class \" btn btn-success btn-lg vmargin bold \".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836776/original/UFDDhd_k_Lu7kzpdwSGwitorjup0r_28yQ.png?1581436573 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594737/original/YTQYr9-915rOBupxxICn71HTQxde5JeKHw.png?1781714730 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594445/original/sTrF1QK1rCC71w2wbDxdsOknHS3zyni_Cg.png?1781714510",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594490/original/EcIUCLqijNMvoDjq6Y4-zBHBO6_4o1_NOw.png?1781714532",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836098/original/NSYyUkfiLZp_Pt5D67dyyS3CZtWZI82YzA.png?1581436058",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836309/original/PD5rs5OOVgDpOoC19S4jCoZDsHjFuSXTjg.png?1581436188",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594609/original/VPkS0cjpc39DTJmy_kvvKoY-bl36AhNmYg.png?1781714606",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836447/original/nOD6ahbKLLiJDROYb8u0HwG-DaeUd3Y98Q.png?1581436308",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594664/original/fWNLUz8rTEqmpvVi9sj4mrlfOxvtNmYbfA.png?1781714664",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836506/original/ws-7N2nWk2rOxNVHuHx0WSA4gK4RXzb-7Q.png?1581436367",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594683/original/LsVzy0okbFxK0K426Eo4VaVJ-PTeR8fFNw.png?1781714693",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073836776/original/UFDDhd_k_Lu7kzpdwSGwitorjup0r_28yQ.png?1581436573",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594737/original/YTQYr9-915rOBupxxICn71HTQxde5JeKHw.png?1781714730",
+      "alt": ""
+    }
+  ],
+  "content_hash": "51c5bcb61c68d1e6823c8291e9ca13ab973d51d98663819edc4b1ff0617f336b",
+  "ingested_at": "2026-10-17T14:36:10.690598+00:00"
+}

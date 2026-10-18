@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000053666-check-seo-data-using-view-page-source-",
+  "title": "Check SEO Data using \"View Page Source\"",
+  "text": "\n## Check SEO Data using \"View Page Source\"\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000053666\n\n## Overview\nWhen SEO or social sharing updates are made, the website's source code can be reviewed to confirm the changes were applied.\n\n## Steps\nOpen the page to be checked.\nRight-click anywhere on the page and select View Page Source .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184799873/original/PVhPIvLlX142XXc9KQ2hAtKf8ie1OHBz2Q.png?1788783778 | alt: ]\nAlternatively, the source code can be accessed using a keyboard shortcut: Ctrl + U on most browsers, or Option + Command + U in Safari. All major browsers support this functionality.\nWithin the source code view, use the standard browser search command, Ctrl + F , to scan for specific SEO elements.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184799879/original/B2phrm-Q483zjsry8700kFQdnchCDH6DRg.jpeg?1788783791 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184799873/original/PVhPIvLlX142XXc9KQ2hAtKf8ie1OHBz2Q.png?1788783778",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184799879/original/B2phrm-Q483zjsry8700kFQdnchCDH6DRg.jpeg?1788783791",
+      "alt": ""
+    }
+  ],
+  "content_hash": "ee1863971b2ebfabb2cd0703df91caf8edfa002aba65b864baf14d2a2d8adf08",
+  "ingested_at": "2026-10-17T14:41:53.984552+00:00"
+}

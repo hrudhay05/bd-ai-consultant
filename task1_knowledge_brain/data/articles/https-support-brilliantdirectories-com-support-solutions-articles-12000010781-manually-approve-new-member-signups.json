@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000010781-manually-approve-new-member-signups",
+  "title": "Manually Approve New Member Signups",
+  "text": "\n## Manually Approve New Member Signups\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000010781\nThe platform allows configuring member approval settings for each membership plan.\nTo enable this functionality for each membership plan, follow the instructions below:\n1. Go to Finance » Membership Plans.\n2. Find the membership plan and click \"Edit\"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141383/original/3G7htJXaTw6-0OzDdUWp4UTqvKLBdxvywA.png?1620096070 | alt: ]\nManually approving 'General User' or 'Free' membership plans is highly recommended.\nIn the 'Signups & Upgrades' tab , there is a setting called \"After Sign Up, Set Account Status As\". Select the option called \"On Hold, Requires Admin Approval\"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181387521/original/uB3dbZm76psuWmuA-TfaMOBhtrkVtyYuRw.png?1782997558 | alt: ]\nWhen this option is chosen, if members sign up, their accounts will remain On Hold and will not be visible until the admin manually approves them.\nThe last step of the setup will be to choose the 'Sign Up Email Sent', select the one called \"Welcome-manual-review\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141421/original/SGgR5UXcruQyYt9W8fZE8AgbJPrfMmW_nA.png?1620096201 | alt: ]\nEditing email templates is not recommended. If an email template must be edited, follow the steps below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141453/original/mH6DbqPdoSfhXwZ9IOSU5fN_iPRbWHBUGw.png?1620096289 | alt: ]\n\n## Manually Approving Members\n1. To approve members, go to Members » Search Members.\n2. The status of the member will be \"On Hold\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181387833/original/wH8366XuHFbEqTd-ci0TbtsigX1ICush6A.png?1782997878 | alt: ]\n3. Click Actions » Quick Edit.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181387906/original/YT7PWKrqmkHG56wty4b9phMmFBXuwMs8IQ.png?1782997937 | alt: ]\n4. Change the \"Account Status\" to \"Active Account\", and save the changes.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181387988/original/7oCVDHr7L9lyjaPo_jQkAKECD78jQ1gBCg.png?1782998007 | alt: ]\nWhen the status is 'On Hold' and it is changed to 'Active', the system prompts the administrator to send an email notification.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181388134/original/4mtvFZGBr1HdtM1M0uZn84TSW6OxA1hbpg.png?1782998130 | alt: ]\nNOTE: The email template sent above is called: user-approved-by-admin .\nIt can be found under Emails » Email Templates.\nThe member's status will now be 'Active. As soon as the status changes, the member will be visible on the front end of the website.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141383/original/3G7htJXaTw6-0OzDdUWp4UTqvKLBdxvywA.png?1620096070",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181387521/original/uB3dbZm76psuWmuA-TfaMOBhtrkVtyYuRw.png?1782997558",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141421/original/SGgR5UXcruQyYt9W8fZE8AgbJPrfMmW_nA.png?1620096201",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092141453/original/mH6DbqPdoSfhXwZ9IOSU5fN_iPRbWHBUGw.png?1620096289",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181387833/original/wH8366XuHFbEqTd-ci0TbtsigX1ICush6A.png?1782997878",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181387906/original/YT7PWKrqmkHG56wty4b9phMmFBXuwMs8IQ.png?1782997937",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181387988/original/7oCVDHr7L9lyjaPo_jQkAKECD78jQ1gBCg.png?1782998007",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181388134/original/4mtvFZGBr1HdtM1M0uZn84TSW6OxA1hbpg.png?1782998130",
+      "alt": ""
+    }
+  ],
+  "content_hash": "9f39b0f4d2b7f923fce11f5a0674a639d98fbb7035f91e0d0f8b5e10b57e27fa",
+  "ingested_at": "2026-10-17T14:33:27.874448+00:00"
+}

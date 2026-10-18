@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000058863-member-keyword-search-type",
+  "title": "Member Keyword Search Type",
+  "text": "\n## Member Keyword Search Type\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000058863\nThere are two search types that can be selected for the website:\nBroad Match (includes more results)\nStrict Match (includes fewer results)\nChoose STRICT to only include members in a category that exactly matches the searched keyword. Choose BROAD to include additional related matches.\nGo to: SETTINGS >> GENERAL SETTINGS >> SEARCH SETTINGS >> Category Keyword Searches\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161403160/original/zYZYP10oCfdTv8OOhaNrjXgk7SULn4W6_g.png?1747345665 | alt: ]\n\n## Broad Match Search\nBroad Match Keyword Search will return the members in the category and more, if the site has the Expanded Keywords Addon , all of the profile text / keywords will be searchable.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989868/original/juD259IekVHxuvHkJxQLspsO_dEHKqS2Gg.png?1644790956 | alt: ]\nThe way in which this type of search works, if a keyword is a match for the start of a category name or category keyword, it will return the members in that category as a result.  It will also return all members in all categories that match this way.\n\n## Broad Match Search Table\nBelow is a table with the scenarios showing how the broad match works.\nKeyword searched: \"Pizza\" Members in categories whose name start with \"pizza\" will be returned: Pizza Pizza Restaurant Pizza Place Pizzapie Members in categories who have a related keyword that starts with \"pizza\" will also be returned: \"restaurant, pizza\" \"pizza restaurant\" \"pizzapie, eatery\" Members in categories that do NOT start with \"pizza\", or in categories that have a keyword that does not start with \"pizza\" will NOT be returned: Restaurant The Serves Pizza Bar & Pizza Italian Pizza\nPizza\nPizza Restaurant\nPizza Place\nPizzapie\n\"restaurant, pizza\"\n\"pizza restaurant\"\n\"pizzapie, eatery\"\nRestaurant The Serves Pizza\nBar & Pizza\nItalian Pizza\nA visitor is looking for the word \"pizza\" and if there is a member with the name Pizza or if there is a category with the name Pizza the member is going to appear.\nIf there is a member that has the word \"Pizza\" in their profile but is not related to the category, the member is also going to appear:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052957510/original/jmDPVAjroebn1STllK2Ei_SFJ-FN1FoQOw.png?1562085097 | alt: ]\nIn this example the member Woods Pizza & Beer Garden has a category called \"Pizza\" and the member also has the word in their name \"Pizza\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989905/original/G1xqsXbvxaWz6Z73jJz26FC6Un2Fs7ncrQ.png?1644791299 | alt: ]\nThis other member sells Food toys and it has on their Short Description the word \"Pizza\"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052957620/original/qkaRocQBHH9ggS5JI6BiB_c21aIkcvEdNg.png?1562085265 | alt: ]\nThere is also a partial match search, for example, adding an additional category called \"Pizza Wood Accessories\" and a member selects the category, if a visitor searches again the member is going to appear because the word \"Pizza\" is on the category:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052959786/original/1wlNAG3dkzPhPrSzvyNDRYtwWE3tVhgrgA.png?1562088250 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052959854/original/BUz6mWbs-gbpBJcXvc_S-kp7FQt54mYmTw.png?1562088374 | alt: ]\n\n## Strict Keyword Match\nStrict Keyword Match will only return the members in a category if the searched keyword is an exact match for the category.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989870/original/MtpR5he6xqKXNBRsDpVqENx2CKQyhNJuZw.png?1644790969 | alt: ]\nIt must be an EXACT match with the category name or category keyword, and only the members in the first matching category will be returned.  So in this example, the members in the first category found called \"Pizza\" or with the category keyword, \"pizza\" will be returned.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052958838/original/7pTI0YuBPHeTaEA_Lxh3GhdUp0Ae1ss3Ag.png?1562086910 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161403160/original/zYZYP10oCfdTv8OOhaNrjXgk7SULn4W6_g.png?1747345665",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989868/original/juD259IekVHxuvHkJxQLspsO_dEHKqS2Gg.png?1644790956",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052957510/original/jmDPVAjroebn1STllK2Ei_SFJ-FN1FoQOw.png?1562085097",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989905/original/G1xqsXbvxaWz6Z73jJz26FC6Un2Fs7ncrQ.png?1644791299",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052957620/original/qkaRocQBHH9ggS5JI6BiB_c21aIkcvEdNg.png?1562085265",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052959786/original/1wlNAG3dkzPhPrSzvyNDRYtwWE3tVhgrgA.png?1562088250",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052959854/original/BUz6mWbs-gbpBJcXvc_S-kp7FQt54mYmTw.png?1562088374",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989870/original/MtpR5he6xqKXNBRsDpVqENx2CKQyhNJuZw.png?1644790969",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052958838/original/7pTI0YuBPHeTaEA_Lxh3GhdUp0Ae1ss3Ag.png?1562086910",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7b678df385c3a144daa7a4e5c493b8fc3a3513007d2953b5cf7317d2dbdf5c25",
+  "ingested_at": "2026-10-17T14:43:15.128972+00:00"
+}

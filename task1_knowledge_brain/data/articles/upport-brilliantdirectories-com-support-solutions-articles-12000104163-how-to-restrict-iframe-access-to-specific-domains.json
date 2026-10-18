@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000104163-how-to-restrict-iframe-access-to-specific-domains",
+  "title": "How To Restrict Iframe Access to Specific Domains",
+  "text": "\n## How To Restrict Iframe Access to Specific Domains\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000104163\nA new Advanced Setting has been introduced: Whitelist Domains Allowed to Iframe This Website . This setting provides control over which external domains are permitted to embed content from the website using an <iframe>.\nEnabling this feature enhances security and ensures better management of where website content can be displayed externally.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648136/original/n-wdwb_qh2Rqqx9unATas81e7KFDpZef7A.png?1753163636 | alt: ]\n\n## Available Options\nThis setting has three available option values, each offering different functionality to control iframe access: All, None, and Specific Domains.\n\n## 1. All (Default)\nAllows all external domains to embed the website in an iframe.\nAllows all external domains to embed the website in an iframe.\nSuitable for websites intended to be widely embedded without restriction.\nSuitable for websites intended to be widely embedded without restriction.\n\n## 2. None\nPrevents all external domains from embedding the website in an iframe.\nPrevents all external domains from embedding the website in an iframe.\nIdeal for cases where iframe embedding is not permitted for any third party.\nIdeal for cases where iframe embedding is not permitted for any third party.\n\n## 3. Specific Domains\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648142/original/-pKV5NGbicVAkmJF0HiLroWfUIe-h0nnIA.png?1753163661 | alt: ]\nGrants access only to a list of approved domains.\nGrants access only to a list of approved domains.\nRequires a comma-separated list of allowed domains.\nRequires a comma-separated list of allowed domains.\nSupports various URL formats, including: example.com, www.example.com, https://example.com, https://www.example.com, http://example.com, http://www.example.com\nSupports various URL formats, including:\nexample.com, www.example.com, https://example.com, https://www.example.com, http://example.com, http://www.example.com\nAppropriate for allowing iframe access from trusted or controlled domains only.\nAppropriate for allowing iframe access from trusted or controlled domains only.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648136/original/n-wdwb_qh2Rqqx9unATas81e7KFDpZef7A.png?1753163636",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648142/original/-pKV5NGbicVAkmJF0HiLroWfUIe-h0nnIA.png?1753163661",
+      "alt": ""
+    }
+  ],
+  "content_hash": "8e46a6062752713a329f267ffd000a862a7b7afefd2371b006cd66838a555266",
+  "ingested_at": "2026-10-17T15:34:17.696460+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682655-how-to-edit-the-seo-for-social-media-sharing-for-seo-templates",
+  "title": "How To Edit The SEO For Social Media Sharing for SEO Templates",
+  "text": "\n## How To Edit The SEO For Social Media Sharing for SEO Templates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000682655\n\n## Steps\nNavigate to My Content > SEO Templates .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184690927/original/SisLSvTa3UqRkEbhcGDCv8ynm6NkvNoZUQ.jpeg?1788511925 | alt: ]\nLocate the relevant template and click Customize or Edit .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184690938/original/4kv96QT0kl7Esr0X2nx-GG6UtL15sm3WTQ.jpeg?1788511938 | alt: ]\nOn the SEO Settings tab, scroll down to the Social Media Sharing section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184690959/original/dzFpdiUYqNtVwXBHIDFibbIvB6POrP1W2g.png?1788511968 | alt: ]\nUpdate the fields as needed.\nClick Save This Page .\n\n## Social Media Shared Image\nA Social Media Shared Image can be set for the template. As with other SEO settings, this is treated as a suggestion, social media platforms and search engines determine at their own discretion whether to use the supplied image.\nA generic, default social media image can also be configured; this is covered separately in the \" How to Set a Default Social Media Image \" article.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184690927/original/SisLSvTa3UqRkEbhcGDCv8ynm6NkvNoZUQ.jpeg?1788511925",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184690938/original/4kv96QT0kl7Esr0X2nx-GG6UtL15sm3WTQ.jpeg?1788511938",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184690959/original/dzFpdiUYqNtVwXBHIDFibbIvB6POrP1W2g.png?1788511968",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f2898d4e71c6ab940290d47e9ba0e75b27712474b1ac31a184ac7a8765ebd855",
+  "ingested_at": "2026-10-17T14:07:37.526437+00:00"
+}

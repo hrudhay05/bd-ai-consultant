@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000058112-affiliate-program-integrations",
+  "title": "Affiliate Program Integrations",
+  "text": "\n## Affiliate Program Integrations\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000058112\nBy default, Brilliant Directories can be integrated with PostAffiliatePro integration.\nNOTE: Other affiliate solutions can be integrated using a different method. Please check: Adding Affiliate Tracking & Conversion Codes\n1. Go to Settings, General Settings and click on the Integrations :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097234363/original/WljYRnVgl_aKUqnkzGVnmToyFZUw2yaEBw.png?1629762186 | alt: ]\n2. Search for the keyword \" affiliate \" which will show the PostAffiliatePro options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176416652/original/hXYWr5zLBbkIVpwY490rkEGmZzXZFwrxOA.png?1774325463 | alt: ]\nThere was previously an integration with ShareASale; however, it is no longer supported, as the platform is expected to be deprecated.\nIf ShareASale credentials were configured prior to this change, they may still appear and continue to function temporarily. However, if no credentials were previously added, the integration options will no longer be available.\nThese integrations can track any of the following T ransaction Types :\nMember Sign Ups\nMember Upgrades\nMember Lead Purchases\nDigital Product Purchases\nPay-Per-Post Purchases\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176453652/original/xq2nPywQBRAOMjLXqsPSKNaKX1NP51YaeA.png?1774375230 | alt: ]\nIf the site is using Post-Affiliate-Pro the code would look similar to this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054578262/original/W-nKBafvUCc4VseiJVf_UclbOSAEzbXvOQ.png?1564619042 | alt: ]\nThese codes will include information about the purchase such as:\n1. Tracking code\n2. Total Cost\n3. Order ID, or Invoice ID\n4. Product ID",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097234363/original/WljYRnVgl_aKUqnkzGVnmToyFZUw2yaEBw.png?1629762186",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176416652/original/hXYWr5zLBbkIVpwY490rkEGmZzXZFwrxOA.png?1774325463",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176453652/original/xq2nPywQBRAOMjLXqsPSKNaKX1NP51YaeA.png?1774375230",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054578262/original/W-nKBafvUCc4VseiJVf_UclbOSAEzbXvOQ.png?1564619042",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7c2897ef5c471e7286d72b3fdde7c06541e2f504b979c2575253aed27dfb1271",
+  "ingested_at": "2026-10-17T14:43:03.671688+00:00"
+}

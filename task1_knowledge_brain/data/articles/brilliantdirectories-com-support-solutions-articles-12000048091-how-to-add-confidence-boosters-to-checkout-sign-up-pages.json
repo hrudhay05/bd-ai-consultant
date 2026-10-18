@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048091-how-to-add-confidence-boosters-to-checkout-sign-up-pages",
+  "title": "How to Add Confidence Boosters to Checkout Sign Up Pages",
+  "text": "\n## How to Add Confidence Boosters to Checkout Sign Up Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000048091\nConfidence boosters help users feel more confident about their purchase in the last few seconds when they might just regret adding their card.\nEnsuring the potential client that the website uses secure payment methods to collect from their card and reminding them about features they will get as soon as they join will help prevent the bounce rate at the checkout page and make sure more people complete the cycle of becoming a customer.\nIn this article, we provide the code and instructions in order to implement a confidence booster in the checkout pages to increase conversions.\nConfidence Booster:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079649668/original/Hmkv5fGujtp9Scesd0FRPvLRsy5V28KKtA.png?1594131538 | alt: ]\n\n## Step 1 - Add the Images\nDownload the images provided at the end of the article and add them to the image manager.\nAdditional Information:\n» Content » Media Manager\n\n## Step 2 - Create a Custom Widget\nCreate a custom widget and copy and paste the following code into it:\nAdditional Information:\n» Toolbox » Widget Manager - Read the section of the article titled: \" Creating a New Widget \"\n\n## Step 3 - Add the Widget to a Sidebar\nCreate a custom sidebar and add the custom widget to the sidebar.\nAdditional Information:\n» Toolbox » Sidebar Manager\n\n## Step 4 - Add Sidebar to the Checkout Page\nAdd the newly created sidebar to the checkout page of the membership plan, to do this go to Finance >> Membership Plans, find the membership plan, and click edit:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088606012/original/-JYBIgRNrGW1nAcJZC7EPgR4c4JzxZqvjw.png?1612907376 | alt: ]\nFind Sign Up Page Sidebar setting and select the new sidebar created:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088606039/original/4ahtnOKSz7EjVaZBIj1fwnhdZDUuW2iPqA.png?1612907436 | alt: ]\nAdditional Information:\n» How To Edit Checkout Pages",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079649668/original/Hmkv5fGujtp9Scesd0FRPvLRsy5V28KKtA.png?1594131538",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088606012/original/-JYBIgRNrGW1nAcJZC7EPgR4c4JzxZqvjw.png?1612907376",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088606039/original/4ahtnOKSz7EjVaZBIj1fwnhdZDUuW2iPqA.png?1612907436",
+      "alt": ""
+    }
+  ],
+  "content_hash": "18ce82b05b7e5781260b21040a2b2bd86d37f8f08b686b7c5636f25629a5feaa",
+  "ingested_at": "2026-10-17T14:39:56.547699+00:00"
+}

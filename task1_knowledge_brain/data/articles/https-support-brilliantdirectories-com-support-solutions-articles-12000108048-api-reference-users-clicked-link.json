@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108048-api-reference-users-clicked-link",
+  "title": "API Reference - Users Clicked Link",
+  "text": "\n## API Reference - Users Clicked Link\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108048\n← Back to API Reference | Getting Started\n\n## Users Clicked Links\nTracks link clicks and interactions on member profiles and listings. Each record represents a single click event.\n\n## The Users Clicked Link Object\nField Type Description click_id integer Unique click ID (primary key, read-only) user_id integer ID of the member profile that was clicked click_type string Type of click (e.g. link , phone , email ) click_name string Name/label of the clicked element click_from string Page where the click originated (e.g. profile_page , search_results ) click_url text Full URL that was clicked click_ip string Visitor's IP address visitor_token string Unique token identifying the visitor session click_token string Unique token for this click event date_clicked string Click timestamp (format: YYYYMMDDHHmmss ) post_id integer Related post ID if click was on a listing or post is_single_post integer 1 if post_id is a single post; 0 if an album group\n\n## List Users Clicked Links\n\n## Retrieve a Click Record\n\n## Create a Click Record\n\n## Update a Click Record\n\n## Delete a Click Record\n\n## Search Click Records",
+  "images": [],
+  "content_hash": "e67cc16de46c37dfa0b43bd3acc48bdd96c535e4456c3491784862a460bd11b9",
+  "ingested_at": "2026-10-17T15:39:12.972741+00:00"
+}

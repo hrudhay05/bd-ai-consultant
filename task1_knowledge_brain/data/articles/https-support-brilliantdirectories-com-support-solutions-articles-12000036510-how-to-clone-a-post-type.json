@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000036510-how-to-clone-a-post-type",
+  "title": "How to Clone a Post Type",
+  "text": "\n## How to Clone a Post Type\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000036510\nIn some cases, the admin might want to have a duplicate a post type but with a different name and for a different purpose. Follow the steps in this article, to learn how to clone a post type.\nIn this example, the Events post type will be cloned in order to create an Open House post type.\nGo to My Content >> Edit Post Settings\nFind the post type to be cloned and hover over the Actions > Click on Clone\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006019/original/ICc66GKLfJNuvuev3IzE3kaU3SUS0PNGTQ.png?1789067181 | alt: ]\nNow, the new cloned post type will appear at the top, click on Edit:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006065/original/22VqrUASa7MqjqvI3dINU9Y5vp-IrbgUEA.png?1789067240 | alt: ]\nEdit the Name and URL  in these fields:\nIn this case, the cloned post type will be called \"Open House\"\nName: Open House\nURL Permalink: open-house\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006111/original/JmYVR3E5UzGmV4lpjOOsXhws98Cr-cLZHw.png?1789067289 | alt: ]\nOn the Profile Page Design tab, update the Profile Page Tab Title :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006164/original/WXCSaXRYLQAQiZCaLhSogHTS_GTk03YPtQ.png?1789067384 | alt: ]\nOn the \"Search Results Design\" tab must also update the H1 that is going to display in your search results page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006176/original/PU8HlF1SapOSw3y-3v7wkpouvTMCq3ZwYQ.png?1789067393 | alt: ]\nFinally, Click on Save Changes .\n\n## Adding the new Post Type to Membership Plans\nThe last step is to add the new post type to each membership plan by going to Finance >> Membership Plans >> Post Publishing Tab >> Check the \"Can Post\"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006249/original/dFNIRR9w4TI4Mi1pFqTzC2NwY-iq-T8Whw.png?1789067459 | alt: ]\nNow members subscribed to this membership plan will be able to post \"Open Houses\".\nAll new posts will be published in the link previously added for the post type.\nExample: https://contentdocumentation.directoryup.com/open-house\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006456/original/zzbvIN-6iKVa9zUhbJV9XxFTzb3zpK-S_Q.png?1789067665 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006019/original/ICc66GKLfJNuvuev3IzE3kaU3SUS0PNGTQ.png?1789067181",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006065/original/22VqrUASa7MqjqvI3dINU9Y5vp-IrbgUEA.png?1789067240",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006111/original/JmYVR3E5UzGmV4lpjOOsXhws98Cr-cLZHw.png?1789067289",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006164/original/WXCSaXRYLQAQiZCaLhSogHTS_GTk03YPtQ.png?1789067384",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006176/original/PU8HlF1SapOSw3y-3v7wkpouvTMCq3ZwYQ.png?1789067393",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006249/original/dFNIRR9w4TI4Mi1pFqTzC2NwY-iq-T8Whw.png?1789067459",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185006456/original/zzbvIN-6iKVa9zUhbJV9XxFTzb3zpK-S_Q.png?1789067665",
+      "alt": ""
+    }
+  ],
+  "content_hash": "190a999d344050a16da3cb0f911c9f0b40da66a7705a9298b2a76e80b279455a",
+  "ingested_at": "2026-10-17T14:36:46.246985+00:00"
+}

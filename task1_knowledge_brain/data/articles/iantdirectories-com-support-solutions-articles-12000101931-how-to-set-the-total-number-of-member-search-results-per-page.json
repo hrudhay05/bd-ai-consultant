@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101931-how-to-set-the-total-number-of-member-search-results-per-page",
+  "title": "How to Set the Total Number of Member Search Results per Page",
+  "text": "\n## How to Set the Total Number of Member Search Results per Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000101931\nTo determine the number of search results displayed on your search pages, follow these steps:\nGo to My Content .\nClick on Edit Post Settings.\nFind the Member Listings post type.\nLook for the tab labeled Search Results Design .\nHere, you can control how many results appear by default using the Search Results per Page setting. Designate a numerical value to specify the total number of listings/profiles that appear per page.\nThis setting controls how many total results will appear on a search results page by default. NOTE : Recommended Maximum Limit 500 in order to maintain optimal website speed",
+  "images": [],
+  "content_hash": "8413fc630f2bec565eea9c637a3fd1965ab2c4af689222efa104a7818db401f4",
+  "ingested_at": "2026-10-17T15:28:22.237625+00:00"
+}

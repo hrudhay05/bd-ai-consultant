@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000096168-footer-code-html-snippet-of-website-footer",
+  "title": "Footer Code - HTML Snippet of Website Footer",
+  "text": "\n## Footer Code - HTML Snippet of Website Footer\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000096168\nThis article provides a sample HTML structure for the default Website Footer included in the standard Brilliant Directories website theme.\nThe example demonstrates the default layout and commonly used HTML elements, CSS classes, and responsive components that make up the website footer, including the footer navigation, social media links, call-to-action button, and copyright section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132163578/original/JrKGtzx3-ZvUUg2WU-Xr372zNqZL1r88gg.png?1696283152 | alt: ]\nThe following HTML snippet represents the default markup for the Website Footer.\nThis code can be used as a reference when creating custom footer layouts, modifying the default website footer, or identifying the HTML elements and CSS classes used by the standard Brilliant Directories theme.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132163578/original/JrKGtzx3-ZvUUg2WU-Xr372zNqZL1r88gg.png?1696283152",
+      "alt": ""
+    }
+  ],
+  "content_hash": "683c1ac6a6e528e770eee803881255963a410fa5722cb6e5285cd1a6ed9bb431",
+  "ingested_at": "2026-10-17T15:24:05.984926+00:00"
+}

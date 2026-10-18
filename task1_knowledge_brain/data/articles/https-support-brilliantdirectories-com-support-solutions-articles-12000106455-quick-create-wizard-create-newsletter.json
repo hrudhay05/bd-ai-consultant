@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000106455-quick-create-wizard-create-newsletter",
+  "title": "Quick Create Wizard - Create Newsletter",
+  "text": "\n## Quick Create Wizard - Create Newsletter\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000106455\nWith this tool creating a Newsletter is quite simple.\nTo start the process, select the option to create a Newsletter from the admin dashboard\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021329/original/PJsdlmnsiuYjr7obXzZt0zOSGfA_GTTxhA.png?1780873313 | alt: ]\nThe first step is to give the newsletter a name and select from the different options:\nStart Blank\nAI generate\nSelect Template\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169385644/original/_nvlULBq0Qe8TFV8B2_7CxICeMbllGWMwQ.png?1761149608 | alt: ]\n\n## Start Blank\nThis option will take the admin to the normal Newsletter section where is able to create an newsletter from scratch.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169386046/original/jO-jg7qrrWkf4cbtJQTDF6M_mvs27r2Xpg.png?1761149829 | alt: ]\n\n## AI Generate\nWhen selecting the AI Generate option, The admin will need to create a good AI prompt with all the required details so the System is guided to create a high quality Newsletter. The admin will also be able to select additional options like:\nEmail Format\nTone\nPurpose\nWriting Style\nAudience\nLength\nInclude images\nColor Mood\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169387727/original/xB5CrXcW5jr6z8vXoJk3NEFU4qBJAaiaSA.png?1761151005 | alt: ]\n\n## Try Suggested Prompts\nFrom the drop down shown below, the admin will be able to select sevrea promtos taht can be use a guide\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169463315/original/ZtjOmdxyzGHZRPbwSZRXXRy5C3-y5eEezA.png?1761252095 | alt: ]\nThe sample prompts shown are filtered by 3 main sections:\nAccount Related\nNewsletters\nPromotional\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169463583/original/nVAXlMTN-ObzEx7VzPphc7PZJ-p8VIQxVA.png?1761252283 | alt: ]\nAfter selecting one of these pre-made prompts, these can be further edited:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169463714/original/Q9Y01UrhDL6FuGVbB4Arv17mnKzIwdbnNA.png?1761252400 | alt: ]\nOnce the prompt is completed, Click on the Continue Button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169463776/original/eNCbdYM6cdolDfZxYjzzrDhErobvtYfaDA.png?1761252518 | alt: ]\nAfter clicking on the Continue button, a status bar will show indicating that is currently working on creating the newsletter and within a minute or two, everything is done automatically.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169387785/original/rwVuWNf4uUgrS62G-IRf05m21EGoVlCPxQ.png?1761151075 | alt: ]\n\n## Review and Finalize the Newsletter\nOnce the process is completed, the tool will present the newsletter where the admin will be able to do further edits in any section of the newsletter before clicking on save and continue.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169388223/original/iPGKR9Amk4NoEruMczDrx7Z7RF9eWTL4fA.png?1761151374 | alt: ]\nAfter completing the last step above, the quick create tool will take the admin the normal Newsletter section where the newsletter can be sent from.\n\n## Select Template\nWhen selecting this option, the wizard tool will display all preview Newsletter templates saved on the site:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169388824/original/C_bE8QpIZ172oUgb5dsw6rfjwYmhsbIy5A.png?1761151798 | alt: ]\nThe admin will be able to select the template, and the quick create tool will take the admin the normal Newsletter section where the newsletter can be edited and sent from.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021329/original/PJsdlmnsiuYjr7obXzZt0zOSGfA_GTTxhA.png?1780873313",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169385644/original/_nvlULBq0Qe8TFV8B2_7CxICeMbllGWMwQ.png?1761149608",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169386046/original/jO-jg7qrrWkf4cbtJQTDF6M_mvs27r2Xpg.png?1761149829",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169387727/original/xB5CrXcW5jr6z8vXoJk3NEFU4qBJAaiaSA.png?1761151005",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169463315/original/ZtjOmdxyzGHZRPbwSZRXXRy5C3-y5eEezA.png?1761252095",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169463583/original/nVAXlMTN-ObzEx7VzPphc7PZJ-p8VIQxVA.png?1761252283",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169463714/original/Q9Y01UrhDL6FuGVbB4Arv17mnKzIwdbnNA.png?1761252400",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169463776/original/eNCbdYM6cdolDfZxYjzzrDhErobvtYfaDA.png?1761252518",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169387785/original/rwVuWNf4uUgrS62G-IRf05m21EGoVlCPxQ.png?1761151075",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169388223/original/iPGKR9Amk4NoEruMczDrx7Z7RF9eWTL4fA.png?1761151374",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169388824/original/C_bE8QpIZ172oUgb5dsw6rfjwYmhsbIy5A.png?1761151798",
+      "alt": ""
+    }
+  ],
+  "content_hash": "80fbde0b1190c95d41f5bb88c2f17b74f2031aa10dc18abbd266c7a77ea2525f",
+  "ingested_at": "2026-10-17T15:35:48.255002+00:00"
+}

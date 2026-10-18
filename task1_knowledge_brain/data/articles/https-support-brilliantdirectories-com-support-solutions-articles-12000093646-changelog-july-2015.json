@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093646-changelog-july-2015",
+  "title": "Changelog - July 2015",
+  "text": "\n## Changelog - July 2015\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000093646\nNew Features\nShow Widgets Option now shows Frontend structure better (Better Widget position, overall look, visualize Widget Container)\nEnhancements / Fixes\nUpdates to Currency List (Better support for Site Pricing)\nUpdates to Billing System to support available currencies\nEnhancements for Contact Forms\nMultiple enhancements and bugs fixed for the Form Manager system\nMultiple bugs fix for Bulk Member actions\nUpdated and enhanced Geocoding, geolocating and map usage\nUpdated and fixed several minor issues with the backend\nUpdated Timezone issues (Thanks to many partners, Special thanks to Christopher Roche for his testing and feedback on the matter)\nUpdated look and functionality on how Widgets are Shown when clicking the \"Show Widgets\" option in the Frontend Admin Sidebar\nMore than 100+ Bugs fixed",
+  "images": [],
+  "content_hash": "fc24171dcee67908dddc5073284a27b32218cec23f745388e01d0ae64f7efee7",
+  "ingested_at": "2026-10-17T15:13:21.483530+00:00"
+}

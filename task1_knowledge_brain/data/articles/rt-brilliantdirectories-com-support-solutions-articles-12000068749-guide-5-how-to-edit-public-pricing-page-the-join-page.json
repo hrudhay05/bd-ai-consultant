@@ -1,0 +1,93 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000068749-guide-5-how-to-edit-public-pricing-page-the-join-page-",
+  "title": "Guide 5. How to Edit Public Pricing Page (the /join page)",
+  "text": "\n## Guide 5. How to Edit Public Pricing Page (the /join page)\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000068749\nBy default, all sites come with a default Join page that can be accessed using the \" yoursite.com / join \" URL and through the Main Menu link on the Homepage:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119661696/original/Ycuc8aMZQE3L1tgSjHmoQSvbwAE67nXoxw.png?1673369037 | alt: ]\nThrough this page, encourage the website visitors to join the site with a Join page that feels personalized and properly synced to the site.\nA page that is easy to use and easy to read and that clearly directs users to click on the best plan for them is what we recommend.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119676045/original/33N6nnyJ1WT0ixxa6hl2_7NYXYGPoiIDng.png?1673384400 | alt: ]\n\n## Checkout Forms\nSelecting the \" Click to Join Now \" button will redirect them to the /checkout pages. The only difference between these pages is when it comes to the forms; FREE and PAID.\nGDPR for these pages can be enabled/disabled inside Settings » General Settings » Configuration: User Consent Tools (GDPR Compliance)\n\n## Free Plan Form\nThis form will only ask for Email (username) and Password.\nThe /checkout pages will display the Membership Plan name automatically.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119980063/original/4TuGigo12A7OvPlB2rnBPtuq57laEG2cDg.png?1673970194 | alt: ]\n\n## Paid Plan Form\nThis form will ask for Email (username) and Password and the Credit Card information if the website is using an On-site Payment Gateway like Stripe .\nIf the website is using an Off-site Gateway like PayPal it will redirect the user to the site to complete the payment.\nAdditional Information:\n» Stripe or PayPal Standard?\n» Supported Payment Gateways\nThis form shows the checkout process using Stripe:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119980175/original/9qQeH7CRkRjU7IgnLrbbUs2z-VylXkrx6A.png?1673970297 | alt: ]\n\n## Off-Site Payment Gateways\nThis form shows the checkout process using PayPal Standard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119980796/original/1JjKVZl46jHhl8nALa6w9NLzrBxlRVPxsA.png?1673970888 | alt: ]\nThe user is redirected off the site to complete the payment.\n\n## Join/Pricing Web Page\nThis page can be found inside Content » Edit Web Pages » Pricing Page :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183124517/original/gZ63a-I6N96dAmNqhUXmemt1VorRbfWBVw.png?1785870710 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183124747/original/lmzvUockQiZjWx3KFuVQnqF_EeDAEqQNHQ.png?1785870946 | alt: ]\nThe first three items on this image can be edited to fit the site:\n1. URL  ( best to leave as is )\n2. Page Title (H1)\n3. Sub Title (H2)\n4-7 . These tabs are for adding custom text, CSS, HTML and Footer content. Edit the Hero Section of the page accordingly:\n» How to add a Hero Section on Static Pages\nThere are two additional widgets that can be used on the page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183124833/original/ZFD-38G_HnbBkRFLtqd0kJxr6CV6mFE4Yw.png?1785871021 | alt: ]\n8. The Claim Listing add-on, it requires a subscription: Claimable Business Listings . If this add-on is not enabled, this will not display on the site. This widget will only appear for anyone going through the claim a listing process.\n9. Side by Side pricing widget displays the membership plan tables inside the Pricing Page menu on the site.\n» Side-By-Side Pricing Tables » Introduction\n10. This is where the information for each plan can be edited.\n11. These are the Pre Made Elements: Web Page Builder » Pre-Made Elements\nAdditional Information:\n» To read more about the Web Pages, follow this link: Web Pages Folder\n» For more about the Widgets, follow this link: Toolbox » Widget Manager\n\n## Editing the Join Page Tables\nThis page comes with a set of pre-made tables where all of the plan details can be listed. Below we go over all of these parts of the page and how to edit them:\n1. 2. 3. 4.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983298/original/2fFxTGTzSwjR-51NgT70TXi2St9F-uaEJA.png?1673973132 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983341/original/s-N-hxSRUj-hspbomtDNitUoV1kZ95lYPA.png?1673973178 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983354/original/e0rJAbBPZgPV-aq5pjlYfmLJyochL8FJJg.png?1673973199 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983391/original/zgS6YCZXNRs--NYVK4Bi9fOcF2v0xJHN6A.png?1673973212 | alt: ]\nThese sections can be split into the following:\nPlan Name, Pricing and Checkout Button/Link.\nPlan Description - \" This is some text about why... \"\nThis is the first of two tables where the Plan Features can be showcased.\nThis is the second table where the Plan Features will go.\nAll of these tables will show edit options when clicked:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080631478/original/vhgb-69Y5IjYlV1OOAhes_lhJycesd24nQ.gif?1596206842 | alt: ]\nAll of the text is controlled by the main Froala Editor options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080630611/original/UrYBfxQu15x7s_1WU52YyxklBBPk6RuO1w.png?1596205823 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080630557/original/r7buY-hgc2K40Bd0khVNLxCZIKxXIIsZwg.png?1596205753 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080630560/original/AON_2pyAMX1SGp2-GbdQoS3pQSdyw7dI7w.png?1596205759 | alt: ]\n\n## Edit Checkout Button\nThe \" Click to Join Now \" button will show different options where the link can be edited when clicked on. Find the \" Edit Link \" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983425/original/MUNPZ6zLAk2HGbLmxaq1wu0MHuJAEXDw5g.png?1673973239 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983470/original/TMnn68Abb-Svdjm4529OTPKEWRmKKZ8X6Q.png?1673973261 | alt: ]\nThe number at the end of the \" /checkout/X \" URL is determined by the plan ID:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183124873/original/3Xw04ioNOC_azptNdK6TGTQtMXuetaipAA.png?1785871092 | alt: ]\nExtra text and images can also be added inside the WYSIWYG editor and the content will appear on the Join Page.\nAdditional Information:\n» Everything About WYSIWYG Editors\n» How to Post Images On WYSIWYG Editors\nThis page also comes with divider tables to provide equal spacing between the plans:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983767/original/Ua90zodguw8hqaglxxHKThlAkhSScjFOug.png?1673973528 | alt: ]\n\n## Adding New Pricing Tables\nUse the Pre-Made Elements to add additional pricing tables to the page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149176162/original/PhwsTpVFJQZjToT8PJQJSZtW8ahX9AkhuA.gif?1725900339 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119661696/original/Ycuc8aMZQE3L1tgSjHmoQSvbwAE67nXoxw.png?1673369037",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119676045/original/33N6nnyJ1WT0ixxa6hl2_7NYXYGPoiIDng.png?1673384400",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119980063/original/4TuGigo12A7OvPlB2rnBPtuq57laEG2cDg.png?1673970194",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119980175/original/9qQeH7CRkRjU7IgnLrbbUs2z-VylXkrx6A.png?1673970297",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119980796/original/1JjKVZl46jHhl8nALa6w9NLzrBxlRVPxsA.png?1673970888",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183124517/original/gZ63a-I6N96dAmNqhUXmemt1VorRbfWBVw.png?1785870710",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183124747/original/lmzvUockQiZjWx3KFuVQnqF_EeDAEqQNHQ.png?1785870946",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183124833/original/ZFD-38G_HnbBkRFLtqd0kJxr6CV6mFE4Yw.png?1785871021",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983298/original/2fFxTGTzSwjR-51NgT70TXi2St9F-uaEJA.png?1673973132",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983341/original/s-N-hxSRUj-hspbomtDNitUoV1kZ95lYPA.png?1673973178",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983354/original/e0rJAbBPZgPV-aq5pjlYfmLJyochL8FJJg.png?1673973199",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983391/original/zgS6YCZXNRs--NYVK4Bi9fOcF2v0xJHN6A.png?1673973212",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080631478/original/vhgb-69Y5IjYlV1OOAhes_lhJycesd24nQ.gif?1596206842",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080630611/original/UrYBfxQu15x7s_1WU52YyxklBBPk6RuO1w.png?1596205823",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080630557/original/r7buY-hgc2K40Bd0khVNLxCZIKxXIIsZwg.png?1596205753",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080630560/original/AON_2pyAMX1SGp2-GbdQoS3pQSdyw7dI7w.png?1596205759",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983425/original/MUNPZ6zLAk2HGbLmxaq1wu0MHuJAEXDw5g.png?1673973239",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983470/original/TMnn68Abb-Svdjm4529OTPKEWRmKKZ8X6Q.png?1673973261",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183124873/original/3Xw04ioNOC_azptNdK6TGTQtMXuetaipAA.png?1785871092",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119983767/original/Ua90zodguw8hqaglxxHKThlAkhSScjFOug.png?1673973528",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149176162/original/PhwsTpVFJQZjToT8PJQJSZtW8ahX9AkhuA.gif?1725900339",
+      "alt": ""
+    }
+  ],
+  "content_hash": "4ff85f0f9c3684f07784f0ffe357ef34bb60883c232a5d975b8b225d601b7f37",
+  "ingested_at": "2026-10-17T14:45:25.155183+00:00"
+}

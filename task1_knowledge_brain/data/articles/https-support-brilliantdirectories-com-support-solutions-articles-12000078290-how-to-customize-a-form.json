@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078290-how-to-customize-a-form",
+  "title": "How To Customize a Form",
+  "text": "\n## How To Customize a Form\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000078290\nTheBy default, new websites launch without any customized forms:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819624/original/OJUz8cUsg7LILO75yis8NaTL_wLJzXLOOA.png?1761872934 | alt: ]\nTo customize a default form, click Customize under Actions:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819630/original/5Q4PyB8mu7PuibXi6gwkGooGXu7Ksi5FDQ.png?1761872961 | alt: ]\nThis opens the Edit view of the selected form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907825/original/BJhuGok25c1coQxm7bM5HIP-3cg9xPb7Eg.png?1617651380 | alt: ]\n\n## What Counts as a Customization\nA form is only registered as \"Customized\" when at least one form field setting is actually changed. Clicking Save Changes without making any changes:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089766515/original/lLgB9HH511NDGsfLNv59EAHgTrq92kMnNA.jpeg?1615297946 | alt: ]\ndisplays an error message, because no changes were made to the default form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907841/original/1nJMxzKx_M9UR8cQxVv3NVZ8_AH8Oaz6bg.png?1617651414 | alt: ]\nFor a form to be considered customized, at least one of these highlighted settings on a form field must be changed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907911/original/ppr-XZfBQYnd3GG_Xyxy7lnjUnYTs795Tg.png?1617651470 | alt: ]\nAdditional information: In-Depth Look Into Form Fields And Their Settings\n\n## Saving the Customized Form\nAfter making the preferred changes and clicking Save Changes :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907931/original/IdRAweuaBmFCzoYTxmeilwoSzIKlYSa-6g.png?1617651512 | alt: ]\nThe system displays the changes in the Form Preview:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907966/original/vxLrMDTwAUyFXnK22rcw5s9_zpwmbOR7Yg.png?1617651573 | alt: ]\nThe newly customized form will then display under the Custom Forms section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819641/original/Aes40-E2wQUksxo12JRESRA0eP51mVCHZQ.png?1761873038 | alt: ]\nImportant Note: When to Change the Form's Nickname and Variable Name\nChanging the form's nickname and variable name is recommended when:\nThe form is a feature form for a cloned or newly created feature that is not a default feature (for example, turning blog articles into website news while keeping the original blog articles feature).\nThe form is a listing form for a newly created membership level. Unique form names on each level keep things organized. See How To Assign Different Member Forms To Various Membership Levels .\nThe form is a website form that will be called on a custom widget (for example, creating a second Contact Us page).\nChanging the form's nickname and variable name is not recommended when:\nThe form is a feature form for the existing default feature.\nThe form is a listing form shared across all membership levels.\nThe form is a website form called on multiple widgets. For example, changing the variable name of the default Contact Us form will stop it from displaying on the front end, because the default widget calls the form by its original system name.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819624/original/OJUz8cUsg7LILO75yis8NaTL_wLJzXLOOA.png?1761872934",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819630/original/5Q4PyB8mu7PuibXi6gwkGooGXu7Ksi5FDQ.png?1761872961",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907825/original/BJhuGok25c1coQxm7bM5HIP-3cg9xPb7Eg.png?1617651380",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089766515/original/lLgB9HH511NDGsfLNv59EAHgTrq92kMnNA.jpeg?1615297946",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907841/original/1nJMxzKx_M9UR8cQxVv3NVZ8_AH8Oaz6bg.png?1617651414",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907911/original/ppr-XZfBQYnd3GG_Xyxy7lnjUnYTs795Tg.png?1617651470",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907931/original/IdRAweuaBmFCzoYTxmeilwoSzIKlYSa-6g.png?1617651512",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907966/original/vxLrMDTwAUyFXnK22rcw5s9_zpwmbOR7Yg.png?1617651573",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819641/original/Aes40-E2wQUksxo12JRESRA0eP51mVCHZQ.png?1761873038",
+      "alt": ""
+    }
+  ],
+  "content_hash": "a267a59afdcce2145160672daee79184e534b226d53ef7e3223241d52f04c323",
+  "ingested_at": "2026-10-17T14:48:59.332788+00:00"
+}

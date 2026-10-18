@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000079365-smart-list-export-functionality-for-member-reviews",
+  "title": "Smart List & Export Functionality for Member Reviews",
+  "text": "\n## Smart List & Export Functionality for Member Reviews\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000079365\n\n## Overview\nThe Member Reviews page includes tools for exporting reviews and creating Smart Lists based on the current search results.\nTo access these options, navigate to Interactions → Member Reviews. Then, open the List Actions menu and choose one of the available actions.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616838/original/3DLU7yWxMd_eTvUbmGWo_0JKEJQyC35M1Q.jpeg?1687995753 | alt: ]\n\n## Export Reviews\nSelect Export Current Results from the List Actions menu to download all reviews that match the current filters.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616841/original/TpO-LmOYYrKnI1gcC2u7nbZKjPNrBjUrMg.jpeg?1687995766 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616843/original/CgBsgImSWiS-jO0rAVKpR_wlRRB1TBqs5Q.jpeg?1687995775 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616844/original/fDqHp8bjFpIKmYasDBk6ZAUhNVMZ-L4ysg.jpeg?1687995782 | alt: ]\nThe exported file is downloaded as a ZIP archive containing a CSV file with the review data.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616852/original/VHOT65upzwbXoCE0cqxEVZZBbvLHBQmlFg.jpeg?1687995798 | alt: ]\nNote: Exporting member reviews requires the Export Member Data feature. If the feature is not installed, the export option will not be available.\n» Export Member Data Add-On\nExtract the ZIP file to access the exported reviews in CSV format.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616855/original/QCHYQ302upUeWvQRi2Dz_sPXYmLTMbFtag.jpeg?1687995814 | alt: ]\n\n## Creating a Smart List\nSelect the \"Create Smart List from Results\" option from the drop-down:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616885/original/kowyPewt2yXAoGQVqnNGRiLd2BfKEA85FQ.jpeg?1687995829 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616891/original/pKc6Z49DtO7mnASAh-vBhydIK8v8go6gUg.jpeg?1687995855 | alt: ]\nAfter the Smart List has been created, select Go To Reviews Smart List to view and manage it.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616906/original/E7E0EUGqSKmp32ozysfT6PfZ7hypxR1wEg.jpeg?1687995880 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169876755/original/kcYxVSI7hadSgSN0CwN5ETaOfVp_OgchGA.png?1761964043 | alt: ]\nRelated Articles:\n» Members » Smart Lists",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616838/original/3DLU7yWxMd_eTvUbmGWo_0JKEJQyC35M1Q.jpeg?1687995753",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616841/original/TpO-LmOYYrKnI1gcC2u7nbZKjPNrBjUrMg.jpeg?1687995766",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616843/original/CgBsgImSWiS-jO0rAVKpR_wlRRB1TBqs5Q.jpeg?1687995775",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616844/original/fDqHp8bjFpIKmYasDBk6ZAUhNVMZ-L4ysg.jpeg?1687995782",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616852/original/VHOT65upzwbXoCE0cqxEVZZBbvLHBQmlFg.jpeg?1687995798",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616855/original/QCHYQ302upUeWvQRi2Dz_sPXYmLTMbFtag.jpeg?1687995814",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616885/original/kowyPewt2yXAoGQVqnNGRiLd2BfKEA85FQ.jpeg?1687995829",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616891/original/pKc6Z49DtO7mnASAh-vBhydIK8v8go6gUg.jpeg?1687995855",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616906/original/E7E0EUGqSKmp32ozysfT6PfZ7hypxR1wEg.jpeg?1687995880",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169876755/original/kcYxVSI7hadSgSN0CwN5ETaOfVp_OgchGA.png?1761964043",
+      "alt": ""
+    }
+  ],
+  "content_hash": "e9f7405f87cfe098d8cf2b69a470eb242d51950dbebe3e149d0f916f15cd2fcd",
+  "ingested_at": "2026-10-17T14:50:08.570804+00:00"
+}

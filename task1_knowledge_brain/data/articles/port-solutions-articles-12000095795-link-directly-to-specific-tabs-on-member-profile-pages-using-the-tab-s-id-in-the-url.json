@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095795-link-directly-to-specific-tabs-on-member-profile-pages-using-the-tab-s-id-in-the-url",
+  "title": "Link Directly to Specific Tabs on Member Profile Pages Using the Tab's #ID in the URL",
+  "text": "\n## Link Directly to Specific Tabs on Member Profile Pages Using the Tab's #ID in the URL\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000095795\nThis article provides a JavaScript snippet that allows you to activate specific tabs on a webpage when the page loads, based on the hash in the URL.\nThe script checks if there's a hash in the URL, and if there is, it activates the corresponding tab and tab pane, while deactivating all others.\nOne key feature of this script is that it prevents the page from automatically scrolling down to the activated tab, keeping the viewport at the top of the page. This can be particularly useful for pages with long content, where you want to highlight a specific section without disrupting the user's navigation.\nPlace this code in the footer of the SEO Template or Custom Footer Code in Design Settings.\nOnce the JavaScript snippet mentioned above is added to the footer, go to the member profile and open Inspect Mode.\nHow to use Inspect Element\nLocate the <a> element for the tab. It will have a href value like #div4 Now the tab's ID can be appended to the profile URL like below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156395738/original/63oMcP8YW0o33wshsUEjZN7dUTEVOpRL9g.png?1738616155 | alt: ]\nhttps://example.com/united-states/beverly-hills/sample-category/john-smith#div16\nWhen this URL is used, the script will automatically open the tab without scrolling, showing only that specific tab’s content.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156395738/original/63oMcP8YW0o33wshsUEjZN7dUTEVOpRL9g.png?1738616155",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2e5160b0b9e18e99605fb5099969eda43bbc1a41efd11f54193b5fe3fc09e7f5",
+  "ingested_at": "2026-10-17T15:23:59.202798+00:00"
+}

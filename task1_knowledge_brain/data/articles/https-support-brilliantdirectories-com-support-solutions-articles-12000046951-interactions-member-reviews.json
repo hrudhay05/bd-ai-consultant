@@ -1,0 +1,153 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000046951-interactions-member-reviews",
+  "title": "Interactions » Member Reviews",
+  "text": "\n## Interactions » Member Reviews\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000046951\n\n## Member Reviews in the Admin\nThe Member Reviews module allows administrators to manage reviews submitted through the website. From this section, reviews can be filtered, moderated, edited, and deleted, while also providing access to review settings and notification preferences.\n\n## Review Filters\nUse the available filters to quickly locate and manage reviews.\n• Review Status – Filter reviews by their current status.\n• Overall Rating – Filter reviews based on star ratings.\n• Date Range – Filter reviews by submission date.\n• Keyword – Search reviews containing specific words or phrases.\n• Email Address – Search by the review submitter's email address or the member who received the review.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388002/original/vlTG-Bn44dBJRlljdqk3mBCEeAzAPt1T5A.png?1655343035 | alt: ]\n\n## Bulk Review Options\nMultiple reviews can be selected and updated at the same time. Available statuses include:\nPending\nAccepted\nDeclined\nWaiting for Admin\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388043/original/XpbeI5LvT5PM7KzC0G3MEqtFkFPftoPOTQ.png?1655343186 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388065/original/XcCh8-ukW7XRrr6QcXIC803vjo3VytTUlQ.png?1655343248 | alt: ]\nFor Developers: The corresponding values below are how review statuses are saved in the database.\nPending = 0\nAccepted = 2\nDeclined = 3\nWaiting for Admin = 4\n\n## Member Review Settings\nA shortcut to the Review Settings module is available from the Member Reviews page. This module includes settings related to:\nGeneral review settings\nProfile page display\nSearch results design\nNotification preferences\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388076/original/crYyv1I6xJX8TRegHEYtlhMwm6jOfKK3Qw.png?1655343320 | alt: ]\nThis button will open the review settings module, which is very similar to the Post Settings section of the admin.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169782881/original/rNdyTeF-KwUlneTNVc1go8kbIKhAtERqlQ.png?1761833129 | alt: ]\nAn in-depth overview of this module can be reviewed at the following link: Edit Post Settings\n\n## General Settings\nHere are the general settings for the post type, allowing the admin to configure and customize the reviews.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169782833/original/j25qKboTn0Y0TIRcCoWGNWqiDfNaJAz_8w.png?1761833081 | alt: ]\nThis option will only become available if the Members-Only Content add on is active on the site.\nIf desired, update the URL of the post type search results.\nWhen a member writes or replies to another member's review, the system automatically fills in the name, last name, company and email fields. These fields are set to “read-only” by default.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169782175/original/4uoi30q4sCZdNIB7HhXTnFE_8Jv-LsN29w.png?1761832483 | alt: ]\nTo make the fields editable, change the setting to \"No\"\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169783104/original/PI7zm9_WRBMIJAlI__ClvKKE3B22gbf6uQ.png?1761833330 | alt: ]\n\n## Additional Settings\nThis section includes additional settings such as Display Map When Entering Location Information, Enable Results for Global Website Search and Trigger Webhook for Initial Save or Every Save\nThis will display the post type.\nAllow the reviews to be part of the Global Website Search, Add-on is required.\nSet when a Webhook will be triggered when a review is submitted.\n\n## Profile Page Design\nMove to this tab to set up the information regarding how the reviews will be displayed on the member public profile.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158262664/original/CBkL2ZFozN0UqaB6FByTx2F2TO-CTgdNXw.png?1741788526 | alt: ]\nChange the title that will be displayed on the front-end tab.\nChoose the position of the profile page tab by selecting a number from the dropdown. Each position will show the name of the selected post type. All positions with no post type assigned are available to choose from.\nSet the number of reviews to be displayed in the member's profile.\nThe header, page loop, and footer codes of the Profile Page design can be edited. However, we do not recommend changing these options unless it's handled by a developer or someone with knowledge of web development. If desired, after updating the code, it can be switched back to default. Click on this article for more information: How to Customize the Default Post Types Code\n\n## Search Results Design\nEdit and set up the search results settings for reviews in this section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158263441/original/hB1DyyPl-yi0CVCHe0U0I2__wVMSaYIGYA.png?1741789150 | alt: ]\nEdit the text for the post type title.\nIf desired, add a subtitle.\nThis controls how many total results will appear on a search results page by default.\nThe option to edit the header, loop, and footer codes of the search results design is available as well.\n\n## Additional Settings\nDifferent options will become available when clicking on the dropdown.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448808/original/5ok13S9F08z_pEz0zvGbdnezEinNaD9q9w.png?1742171657 | alt: ]\nSelect how pagination is displayed on search result pages, either standard, hidden pagination, or Insta-Load pagination using the Add-On.\nIt controls the display order of items based on a database field. Please find more information on How To Change Search Results Sorting Options here.\nSet to YES (recommended) to cache search results and load subsequent matching search results more quickly.\nSet to NO to always query the database for all searches.\nNote: This cannot be enabled if \"Order Results By\" is set to \"Random\".\nMembership Plan Search Results Priority can be set up in the Search Visibility tab on each plan.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448831/original/9xvluEC8dLgZWI8oEyUHf4h4nLhKn60XQQ.png?1742171852 | alt: ]\nName of the Sidebar that will be displayed on the search result pages, either custom or default.\nChoose which search widget you would like to display in the sidebar of search results for this post type. This will only work if in the Sidebar Manager the sidebar has the Bootstrap Theme - Search Module - Dynamic Sidebar Search widget. This widget loads the search widget specified on each post type.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448893/original/Ev7CsIytJ1RPYt2fm4jeoFZhhJsPS7Qhog.png?1742171998 | alt: ]\n7. Sidebar Position on Mobile Devices\nChoose to display the sidebar below (Bottom), above (Top) the results on search results pages, or hide it only on mobile devices (phones and tablets).\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448944/original/MHa07sGSFPAiqCOPDWRrSHP__gPNlWuuRQ.png?1742172099 | alt: ]\nSelecting \"Yes\" will display a map icon at the top of search results pages. Clicking on this icon will display the search results as pins on a Google Map.\nChoose either list view, map view, or grid view if you have the Grid View Search Results Add-On.\nIf YES, will display expired posts on search results pages.\n\n## Notifications\nThe main difference from other post type settings is the Notifications tab, where it is possible to enable or disable the following email notifications:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448999/original/bknp8rqLym9BzElx_j1G043bw8yS2ZON0g.png?1742172367 | alt: ]\nNotify Admin when review submitted?\nWhen enabled it will send the admin-review-notification Email Template to the Default Website Email address when a review is submitted.\nNotify the Admin that a review has been responded to?\nWhen enabled, send out a notification to the Admin that a review has been responded to.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449020/original/n3EWAfihq1grGYZrrbzgibHjMua7xsIjaA.png?1742172482 | alt: ]\nNotify Member when they receive a review?: Turning on this setting will send the recommendation-member Email Template to the member's email address when they receive a review. Please note this does not apply if admin needs to manually approve review.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449037/original/TpOrikD2iyoGsbm8k3SPXxzi_rCnW_-J5Q.png?1742172518 | alt: ]\nNotify the submitter of a review that it has been received?: Sends the recommendation-visitor Email Template to the submitter of a review after it has been received.\nNotify the submitter of a review that it has been approved?: Sends the recommendation-accepted Email Template to the submitter of a review after it has been published.\nNotify the submitter of a review that it has been responded to?: Sends the recommendation-submitter-replied Email Template to the submitter of a review after it has received a reply from the member.\n\n## Review Module\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090072943/original/QgGuRQ2eYsD33iHwARnApE5TkJD23Uj3eA.png?1615909342 | alt: ]\nReview ID.\nActions drop-down. ( Explained below )\nDate the review was submitted.\nIP Address of the review submitter. It can be blocked if it ends up being a SPAM submission.\nQuick Edit options for the member:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073065/original/Yr2_sZeC70Syau7IZidLML7B6geDeuHXlA.png?1615909473 | alt: ]\n\n## Actions\nThis section will allow the admin edit or delete the review submitted:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073164/original/lwF0W_7_Zm6Wf_C_9L2JV-vXWoAFUzk9JQ.png?1615909580 | alt: ]\nEdit review: While we do not recommend editing reviews, the option is there for all directory owners to control what gets published on the website.\nDelete review: One can quickly delete any undesired review on the website.\n\n## Review Details\nThe last section of this module includes the details of the review:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073251/original/iRDKfWfHdiDTsrUqSIc5-KqxbQEItHcv8Q.png?1615909686 | alt: ]\nThis would include:\nStatus\nRating Overview\nTitle\nFull review\nName of the review submitter\nEmail of the review submitter\nFrom here the status of the review can be changed manually:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073563/original/M1lY_p8YQ4F5JB1kaG8rKbqbz-wrgpTDBw.png?1615909938 | alt: ]\nIf the status is changed manually, 4 new options will show up:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073659/original/GTzHXGI_Q7uvz_Msl3gq5Bz0SEGh0SCsdA.png?1615909999 | alt: ]\nDo not send email notifications\nEmail Member about this update\nEmail Reviewer about this update\nEmail Member and Reviewer about this update\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073625/original/ZSqbrPOeL0KsHoE6gO5gL-Hoa6eo02YSIQ.png?1615909982 | alt: ]\n\n## Member Reviews on the Profiles\nMembers can leave reviews on profiles by clicking the “ Write a Review ” button. This feature allows users to share their experiences and feedback directly on the member’s profile. It will display within their profile and search results page.\n\n## Leaving a Review\nTo leave a review, visitors can visit the member's profile and click on the \"Write a Review\" button.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073746/original/ZasKXnfUAQjkf81XxdMa45piPLFkc2fqzA.png?1615910064 | alt: ]\nWhich will open up the Reviews form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073787/original/rf1p8U9n0yoBhkvmp25ahlw4SMwHnQQS5A.png?1615910102 | alt: ]\n\n## Update Reviews URL\nBy default, the slug URL of the reviews is /writeareview but if the admin wishes to update this they can follow the instructions below.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449297/original/kbldHyRS_WujU9uNYgDutw8DrP3S6nKp7g.png?1742173597 | alt: ]\nTo change this default URL go to:\nSettings > Advanced Settings > Default Member Review URL\nThe admin can provide a new slug for the reviews.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116692513/original/j36gQ7srA2-zh5aYh0nNhr480zxW0yF20w.png?1667339291 | alt: ]\n\n## Uploading Images to a Review\nIf the option for Image Upload With Reviews is enabled in the Membership Plan > Profile Page :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113110413/original/c0r3u9zLA2rVFlueN0LyGFt_jetYPWPJqQ.png?1660602616 | alt: ]\nThe user will get to a second screen that allows them to upload images:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113110512/original/xqA6nkNAWoyJ2SlnR82VmFlM20-bNYboSw.png?1660602868 | alt: ]\n\n## How the Reviews will Display on Member's Profile\nAll reviews are then shown in the \"Reviews\" tab and the star rating is shown above the \"Write a Review\" button. Reviews are displayed allowing one decimal place for review totals:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449332/original/6UEfKHQSaoz4BBxrV4Ic8d1n9irtRh6aTQ.png?1742173807 | alt: ]\nReviews will have their designated search results page /reviews where visitors can check all the reviews that have been submitted to the site:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102670104/original/6pdpvyVWrT8T_t2wforR4nxrSJhpkRtx3A.png?1640103632 | alt: ]\n\n## Click to View Reviews for a Specific Member\nAs well, visitors can click directly on the overall rating to view all the reviews for a member, this can be in the Search Results or in their profiles:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449162/original/kw02MThSBjVnRzEyBc1yZWP-hzQCCslvLg.png?1742172995 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449166/original/0h4t3mq_C-IM6lAB328eDRcIny3QqGoEig.png?1742173033 | alt: ]\nIt will open a new page where it will display all the reviews for the member selected.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156220022/original/TfhUxv6sI91C_diYsSJVaDojbFPYxNrLTg.png?1738256798 | alt: ]\n\n## Time Format of the Review\nThe date format showing on the reviews search results page will correspond to the one selected under Settings » General Settings » Localization :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102669887/original/p1Dc8CGMx3jHrlTWQlI0seS_UigLUMOccA.png?1640103415 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388002/original/vlTG-Bn44dBJRlljdqk3mBCEeAzAPt1T5A.png?1655343035",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388043/original/XpbeI5LvT5PM7KzC0G3MEqtFkFPftoPOTQ.png?1655343186",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388065/original/XcCh8-ukW7XRrr6QcXIC803vjo3VytTUlQ.png?1655343248",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388076/original/crYyv1I6xJX8TRegHEYtlhMwm6jOfKK3Qw.png?1655343320",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169782881/original/rNdyTeF-KwUlneTNVc1go8kbIKhAtERqlQ.png?1761833129",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169782833/original/j25qKboTn0Y0TIRcCoWGNWqiDfNaJAz_8w.png?1761833081",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169782175/original/4uoi30q4sCZdNIB7HhXTnFE_8Jv-LsN29w.png?1761832483",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169783104/original/PI7zm9_WRBMIJAlI__ClvKKE3B22gbf6uQ.png?1761833330",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158262664/original/CBkL2ZFozN0UqaB6FByTx2F2TO-CTgdNXw.png?1741788526",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158263441/original/hB1DyyPl-yi0CVCHe0U0I2__wVMSaYIGYA.png?1741789150",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448808/original/5ok13S9F08z_pEz0zvGbdnezEinNaD9q9w.png?1742171657",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448831/original/9xvluEC8dLgZWI8oEyUHf4h4nLhKn60XQQ.png?1742171852",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448893/original/Ev7CsIytJ1RPYt2fm4jeoFZhhJsPS7Qhog.png?1742171998",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448944/original/MHa07sGSFPAiqCOPDWRrSHP__gPNlWuuRQ.png?1742172099",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448999/original/bknp8rqLym9BzElx_j1G043bw8yS2ZON0g.png?1742172367",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449020/original/n3EWAfihq1grGYZrrbzgibHjMua7xsIjaA.png?1742172482",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449037/original/TpOrikD2iyoGsbm8k3SPXxzi_rCnW_-J5Q.png?1742172518",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090072943/original/QgGuRQ2eYsD33iHwARnApE5TkJD23Uj3eA.png?1615909342",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073065/original/Yr2_sZeC70Syau7IZidLML7B6geDeuHXlA.png?1615909473",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073164/original/lwF0W_7_Zm6Wf_C_9L2JV-vXWoAFUzk9JQ.png?1615909580",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073251/original/iRDKfWfHdiDTsrUqSIc5-KqxbQEItHcv8Q.png?1615909686",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073563/original/M1lY_p8YQ4F5JB1kaG8rKbqbz-wrgpTDBw.png?1615909938",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073659/original/GTzHXGI_Q7uvz_Msl3gq5Bz0SEGh0SCsdA.png?1615909999",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073625/original/ZSqbrPOeL0KsHoE6gO5gL-Hoa6eo02YSIQ.png?1615909982",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073746/original/ZasKXnfUAQjkf81XxdMa45piPLFkc2fqzA.png?1615910064",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073787/original/rf1p8U9n0yoBhkvmp25ahlw4SMwHnQQS5A.png?1615910102",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449297/original/kbldHyRS_WujU9uNYgDutw8DrP3S6nKp7g.png?1742173597",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116692513/original/j36gQ7srA2-zh5aYh0nNhr480zxW0yF20w.png?1667339291",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113110413/original/c0r3u9zLA2rVFlueN0LyGFt_jetYPWPJqQ.png?1660602616",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113110512/original/xqA6nkNAWoyJ2SlnR82VmFlM20-bNYboSw.png?1660602868",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449332/original/6UEfKHQSaoz4BBxrV4Ic8d1n9irtRh6aTQ.png?1742173807",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102670104/original/6pdpvyVWrT8T_t2wforR4nxrSJhpkRtx3A.png?1640103632",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449162/original/kw02MThSBjVnRzEyBc1yZWP-hzQCCslvLg.png?1742172995",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449166/original/0h4t3mq_C-IM6lAB328eDRcIny3QqGoEig.png?1742173033",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156220022/original/TfhUxv6sI91C_diYsSJVaDojbFPYxNrLTg.png?1738256798",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102669887/original/p1Dc8CGMx3jHrlTWQlI0seS_UigLUMOccA.png?1640103415",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1d52886a8f67f5cbcd2ff0045174ed2eaf620af261799f2adfd28216a35ddb57",
+  "ingested_at": "2026-10-17T14:39:22.161292+00:00"
+}

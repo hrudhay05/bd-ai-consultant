@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000080093-how-to-edit-the-reviews-form",
+  "title": "How to Edit the Reviews Form",
+  "text": "\n## How to Edit the Reviews Form\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000080093\n\n## Edit the Reviews Form:\nNavigate to Toolbox - Form Manager look for the form: Listing - Write Review\nHover over 'Actions' and click on Customize:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102346892/original/puXVx5eBP5wTe8DciNNV8LZmswvAV4mpAg.png?1639489761 | alt: ]\nThe Title and Review fields can be edited inside the Reviews Form. Bear in mind that the option to make the Title field required will not display, due that this field will always be required.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102347353/original/Z5x-dOafm-BTkTy5JAfjFNpKNx0wfvPtEQ.png?1639490137 | alt: ]\nThe email address is a mandatory field. Even though the form has the option to turn off the required field, the reviews feature is coded to require this field always.\nAdditional Information:\n» Toolbox » Form Manager Folder\n\n## Edit the Rating Criteria\nThe Reviews form also includes a list of criteria to rate the member:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093765961/original/KNelS5lVPeRmM0vlFhCVWsAVnSzYwmKoTg.jpeg?1623162333 | alt: ]\nThe rating criteria can be edited through the text labels. Go to:\nSettings > Text Labels > search for \"rating criteria\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102347825/original/TIY0rhZtD1_aYn81mcOLiPS-E2TgCoDJ-g.png?1639490546 | alt: ]\nIMPORTANT : If one of the 6 labels is left blank, it will not appear on the form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102348434/original/Uj3gb_ZCaXj5LI7EqZkl8DqvsCpHSuzRGg.png?1639490952 | alt: ]\nFor more infomration please refer to the following articles:\n» How to locate Text Labels on the Front End of The Website\n» Settings » Text Labels",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102346892/original/puXVx5eBP5wTe8DciNNV8LZmswvAV4mpAg.png?1639489761",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102347353/original/Z5x-dOafm-BTkTy5JAfjFNpKNx0wfvPtEQ.png?1639490137",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093765961/original/KNelS5lVPeRmM0vlFhCVWsAVnSzYwmKoTg.jpeg?1623162333",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102347825/original/TIY0rhZtD1_aYn81mcOLiPS-E2TgCoDJ-g.png?1639490546",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102348434/original/Uj3gb_ZCaXj5LI7EqZkl8DqvsCpHSuzRGg.png?1639490952",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7fcff5a6b56d1ad5b1f9bdc1c3b8b30add60940c9647ad2fed0a0a74f985107a",
+  "ingested_at": "2026-10-17T14:50:21.758129+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078437-bulk-actions-for-widgets",
+  "title": "Bulk Actions for Widgets",
+  "text": "\n## Bulk Actions for Widgets\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000078437\nA set of bulk actions is available for custom or brand-new widgets under Toolbox >> Widget Manager . These actions are not available for default widgets.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180346810/original/aVi4EoKGQ-5-fIjmNsGntlgoNhH0NyHm2A.png?1781292197 | alt: ]\nThe available bulk actions are Delete , Enable , and Disable :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180346734/original/w8StXTxDYFUHKz3yrhMXBr8bLYncsRnb2Q.png?1781292165 | alt: ]\nNOTE: Bulk Delete permanently removes the selected widgets and cannot be undone. If the goal is to deactivate widgets while keeping them available for future use, use Disable instead — see How To Disable a Widget .\nTo perform a bulk action on widgets:\n1. Select all widgets using the select-all checkbox shown below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180346895/original/XzAZJhEIsYqc6Ak-lbClpecCd9xGAkCS5w.png?1781292238 | alt: ]\nOr select the widgets individually:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180346944/original/qnKfYo5FKO70iI7GbiIJQBEXt8cXQXeMuw.png?1781292270 | alt: ]\n2. Select one of the available bulk actions and click Apply :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180347007/original/UdtJLg4CevUEe1EKIu02ARbHV5lWGJJ5QA.png?1781292311 | alt: ]\n3. Once clicked, a confirmation pop-up will appear:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180347043/original/gtf8zjKPYtAc4e1jiXeSQYxQh1dnjeOKvQ.png?1781292331 | alt: ]\n4. Once confirmed, the selected bulk action is applied to the selected widgets:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180347105/original/q76EzhJ4zh9fM68dHpWUV48uRG8W6QPZ4w.png?1781292364 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180346810/original/aVi4EoKGQ-5-fIjmNsGntlgoNhH0NyHm2A.png?1781292197",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180346734/original/w8StXTxDYFUHKz3yrhMXBr8bLYncsRnb2Q.png?1781292165",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180346895/original/XzAZJhEIsYqc6Ak-lbClpecCd9xGAkCS5w.png?1781292238",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180346944/original/qnKfYo5FKO70iI7GbiIJQBEXt8cXQXeMuw.png?1781292270",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180347007/original/UdtJLg4CevUEe1EKIu02ARbHV5lWGJJ5QA.png?1781292311",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180347043/original/gtf8zjKPYtAc4e1jiXeSQYxQh1dnjeOKvQ.png?1781292331",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180347105/original/q76EzhJ4zh9fM68dHpWUV48uRG8W6QPZ4w.png?1781292364",
+      "alt": ""
+    }
+  ],
+  "content_hash": "dd92051d643f12965585164104ca18adebc40ea6a44b9a9d3e20a78ef3146d5c",
+  "ingested_at": "2026-10-17T14:49:19.146413+00:00"
+}

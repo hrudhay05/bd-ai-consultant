@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000052823-how-to-add-categories-manually-from-the-admin",
+  "title": "How To Add Categories Manually From The Admin",
+  "text": "\n## How To Add Categories Manually From The Admin\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000052823\nIn this article, we will show how to add Top, Sub and Sub-Sub Level categories manually via the admin.\nIf the preference is to import categories via a CSV file, please refer to the article below:\nHow To Import A Top-Level & Sub-Level Category Structure Via CSV File\n** For information about all of the fields within the Member Categories, refer to this article: How To Add & Edit Member Categories\n\n## How To Add Top-Level Categories\nTo add a top-level category, navigate to the Members --> Member Categories --> Click on the \" Add Top-Level Categories \" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252800/original/834O9lHnBW9DBgFsDVmWy4ZSPEAkv7cy8g.png?1764552598 | alt: ]\nA module will appear, add the top-level categories in the text area:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090379533/original/105jRVBc70aurEHJeqtrYdMQhH6X9bnfmw.png?1616516023 | alt: ]\n⚠️ Entry Requirement: Enter only one category per line inside the text area.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194928/original/ZCxXT65JQNyVAW-PllTnp6HERp4wIEHJkQ.png?1622056854 | alt: ]\nClick on the \" Save Top-Level Categories \" button, and the new top-level categories will be created on the fly.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194958/original/aAgMUX8xBT9c80a06IfsPxK37vMh2PL_Yg.png?1622056885 | alt: ]\n\n## How To Add Sub & Sub-Sub Level Categories\nTo add a sub or sub-sub level category, navigate to Members --> Member Categories --> Click on the \" Add Sub-Level Categories \" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252806/original/w3aKC6Fu0pDg1cAtpYkeeF7YXFWpY0nXJg.png?1764552667 | alt: ]\nThe \"Add Sub-Level Categories\" screen will pop up. It is important to specify a parent element when adding a Sub-Level Category:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090379791/original/-MfHjfrRnJWEWgysxm_bB37bFnT1cFpbmQ.png?1616516373 | alt: ]\n⚠️ Entry Requirement: Enter only one category per line inside the text area.\nWhen adding a Sub-Sub Level Category - specify a sub-parent element as highlighted below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252819/original/KNbnTG1WPGnY6Gp3bA7u9GOzVseHLQaO_A.png?1764552682 | alt: ]\nThe \"Add Sub-Sub Level Categories\" screen will pop up. It is important to specify a parent element when adding a Sub-Sub Level Category:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113533438/original/PwHPO988Us71_qtpZfsgQP-egFWAATK0Pg.png?1661375535 | alt: ]\nAs the text above indicates, only put one category per line.\n\n## Deleting Categories\nDeleting Top or Sub Level categories can have unforeseen consequences if the Top-Level category has Sub Level categories associated with it, or if members have already selected this Top-Level category on their profile. The same would apply to Sub Level categories that are being deleted.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093195068/original/2H8JK_pAptd3P40sy2intgcPdWPo7RSDvQ.png?1622057049 | alt: ]\nTo avoid these potential issues, our team has implemented a fail-safe that will check for these potential circumstances and will alert the admin.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090380097/original/bV33-zMcrH9UaalOUiXW97pc0QymJZ9kFg.png?1616516785 | alt: ]\n\n## System Behavior When Deleting Categories\nWhen deleting a category that contains active data, the admin panel will display specific prompts to protect the directory structure:\nTop-Level with Members & Sub-Categories: A prompt will appear to move both the active members and the sub-categories to an alternate Top-Level destination.\nTop-Level with Sub-Categories: A prompt will appear to move the associated sub-level categories to a different Top-Level category.\nSub-Sub Level Category: An option will be provided to move the sub-sub category under a completely new parent Sub-level category.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090380085/original/R4F5xRjI_WcQfK6WI9UL4wghjV9B5umuQg.png?1616516778 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252800/original/834O9lHnBW9DBgFsDVmWy4ZSPEAkv7cy8g.png?1764552598",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090379533/original/105jRVBc70aurEHJeqtrYdMQhH6X9bnfmw.png?1616516023",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194928/original/ZCxXT65JQNyVAW-PllTnp6HERp4wIEHJkQ.png?1622056854",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093194958/original/aAgMUX8xBT9c80a06IfsPxK37vMh2PL_Yg.png?1622056885",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252806/original/w3aKC6Fu0pDg1cAtpYkeeF7YXFWpY0nXJg.png?1764552667",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090379791/original/-MfHjfrRnJWEWgysxm_bB37bFnT1cFpbmQ.png?1616516373",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252819/original/KNbnTG1WPGnY6Gp3bA7u9GOzVseHLQaO_A.png?1764552682",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113533438/original/PwHPO988Us71_qtpZfsgQP-egFWAATK0Pg.png?1661375535",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093195068/original/2H8JK_pAptd3P40sy2intgcPdWPo7RSDvQ.png?1622057049",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090380097/original/bV33-zMcrH9UaalOUiXW97pc0QymJZ9kFg.png?1616516785",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090380085/original/R4F5xRjI_WcQfK6WI9UL4wghjV9B5umuQg.png?1616516778",
+      "alt": ""
+    }
+  ],
+  "content_hash": "933fba229d491fcd7582cd802320cfb6b8e9d861ca89f34a18f15e09d98e000e",
+  "ingested_at": "2026-10-17T14:41:43.842325+00:00"
+}

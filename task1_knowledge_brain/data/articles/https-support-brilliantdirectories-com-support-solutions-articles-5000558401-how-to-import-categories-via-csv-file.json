@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+  "title": "How To Import Categories Via CSV File",
+  "text": "\n## How To Import Categories Via CSV File\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000558401\nTo import a category structure via CSV file (useful for quickly importing large category structures), please follow the steps below for creating the file.\nThis can be used to import up to 3 levels of categories: Top Level Categories, Sub Level Categories, and Sub-Sub Level Categories (for a total of three tiers ).\n\n## Step 1: Create The Category Structure in a CSV file\nDownload the Category Structure Import Template (attached at the bottom of the article).\nOpen up the file and expand the width of the columns so all of the text can be seen in each one.\nColumn A will have all of the Top-Level Categories Column B will have all of the Sub Categories (optional) Column C will have all of the Sub-Sub Categories (optional)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842 | alt: ]\n4. Fill out the spreadsheet with the categories by replacing the placeholders in the template.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074694409/original/_CpKps0VX60nBTIrY3r1GfXBvyjYylQJXg.png?1583249244 | alt: ]\n\n## Step 2: Import The Category Structure\nNavigate to Members >> Member Categories select Import Categories:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252789/original/c_8Lg6thRZqJ4vbTF83U2iteIZAplJLMxg.png?1764552502 | alt: ]\nThe button will lead to a new page where it is possible to import the file:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097399352/original/tIBlFCLyIiZTlHaEeqcG_95NyCvySXaDZg.png?1630013869 | alt: ]\nCRITICAL WARNING: Checking the option to delete existing categories will permanently remove all current categories from the database. This action will also unassign all current members from their categories, requiring them to be manually recategorized or re-imported. Only check this box if starting a completely brand-new directory or performing a total category reset.\nUpload the file here.\nFind the Category Import template attached to this article.\nIMPORTANT NOTE: By default, all members can be listed in 1 Top Level / Main Category and multiple Sub Categories. However, there is a workaround : Workaround: Members Selecting Multiple Top-Level Categories",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074694409/original/_CpKps0VX60nBTIrY3r1GfXBvyjYylQJXg.png?1583249244",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252789/original/c_8Lg6thRZqJ4vbTF83U2iteIZAplJLMxg.png?1764552502",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097399352/original/tIBlFCLyIiZTlHaEeqcG_95NyCvySXaDZg.png?1630013869",
+      "alt": ""
+    }
+  ],
+  "content_hash": "02a4111d88201600da6979b7ad60eaae1acc8178d977222ab64c0bcac1b8eb5d",
+  "ingested_at": "2026-10-17T10:26:39.574905+00:00"
+}

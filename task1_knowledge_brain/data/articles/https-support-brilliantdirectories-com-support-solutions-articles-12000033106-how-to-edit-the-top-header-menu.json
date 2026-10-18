@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000033106-how-to-edit-the-top-header-menu",
+  "title": "How to Edit the Top Header Menu",
+  "text": "\n## How to Edit the Top Header Menu\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000033106\nThe Top Header Menu is the bar that appears at the very top of every Brilliant Directories website, typically displaying contact details and quick links. This article covers editing its content and links.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302071/original/uqnuxvX4-SMVUzdV8IsVqQDJ-Azr0t0iSw.png?1781233957 | alt: ]\nTo edit the content in the Top Header Menu or add additional links, follow the steps below.\n1. Go to Toolbox >> Menu Manager and click Customize on the Top Header Menu :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302203/original/9FiPyguxJrtpvzOAb8bzwx59BRMEc7ZLmw.png?1781234230 | alt: ]\n2. In the Customize view, update the menu item's text and add a link if needed.\nThe text can include the following dynamic variables:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302327/original/IMET1MNfPxZn1laYvql5te29WQz-hoFfQQ.png?1781234589 | alt: ]\nThe variable %%%website_phone%%% outputs the phone number entered under Settings >> General Settings >> General :\nThe variable %%Profession%% outputs the Profession Name value entered under Settings >> General Settings >> General .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302396/original/j5mnTnZSXUHhdRhBN_L_S2j0uZ6zp1BqYA.png?1781234793 | alt: ]\nTo add or disable the search module that appears in the header, refer to this article: Show Header Search",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302071/original/uqnuxvX4-SMVUzdV8IsVqQDJ-Azr0t0iSw.png?1781233957",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302203/original/9FiPyguxJrtpvzOAb8bzwx59BRMEc7ZLmw.png?1781234230",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302327/original/IMET1MNfPxZn1laYvql5te29WQz-hoFfQQ.png?1781234589",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180302396/original/j5mnTnZSXUHhdRhBN_L_S2j0uZ6zp1BqYA.png?1781234793",
+      "alt": ""
+    }
+  ],
+  "content_hash": "ab383fb1fffc2e4e991fc1960ddafe36ed9d28b307ac466ef0bf6217f18db3a7",
+  "ingested_at": "2026-10-17T14:35:51.130163+00:00"
+}

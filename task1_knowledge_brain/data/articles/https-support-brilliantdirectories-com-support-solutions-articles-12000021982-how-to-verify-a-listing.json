@@ -1,0 +1,109 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000021982-how-to-verify-a-listing",
+  "title": "How to Verify a Listing",
+  "text": "\n## How to Verify a Listing\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000021982\n\n## Overview\nThe Verified Listing feature allows administrators to manually verify member listings. Once verified, a badge appears on the member's public profile, indicating to site visitors that the listing has been reviewed and verified by the site administrator.\nA default checkmark badge is displayed on verified profiles. When a site visitor hovers over the badge, a message confirms that the listing is verified.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170364495/original/PyMkj6f2Sh80qgMhYg3wHTF4eM0zgbHuGw.png?1762873707 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105985133/original/FPsRWYffn8vQAYOpnsTfuoEQDwj3XswB3g.png?1646686994 | alt: ]\n⚠ NOTE — Verification Is Always Manual : The system does not verify members automatically. Regardless of whether a member submits a verification form, the verified status is only applied when an administrator manually sets the member to Verified via the Quick Edit module. The form submission is a request, it does not trigger automatic verification.\n\n## Part 1 — Enable the Verify Listing Option on a Membership Plan\nThe Verify Listing option must be enabled on a Membership Plan before members on that plan can see or submit a verification request from their dashboard.\nNavigation Path: Admin Dashboard » Finance » Membership Plans » Member's Dashboard\nTo enable the setting:\nNavigate to Finance » Membership Plans in the admin dashboard.\nClick Edit on the target Membership Plan.\nSearch for \"Verify Listing\" within the plan settings.\nEnable the option and save the plan.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169320516/original/xXIK3TATeYZhglr5qVtfVb-OwSsPrn8oUw.png?1761064274 | alt: ]\nOnce enabled, members on that plan will see the verification link and form within their member dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105985797/original/tktfsRPwZ4z64liLMaBY3n76-tjKXD646w.png?1646687830 | alt: ]\n⚠ NOTE — Setting Is Per Membership Plan: The Verify Listing option must be enabled independently on each Membership Plan where it is required. Enabling it on one plan does not affect any other plans.\n\n## Part 2 — Member Form Submission\nAfter the Verify Listing option is enabled on their plan, the member can access the Listing - Verify Account form from their member dashboard and submit it to request verification.\nOnce submitted, a confirmation message is displayed in the member dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153428118/original/Qxkfe3AtNQrjUO4RxrvLwrJWU2R_trbydQ.png?1733236095 | alt: ]\n\n## Editing the Form Submission Text Labels\nThe text displayed in the post-submission confirmation message can be edited under Settings » Text Labels . The following three labels control this message:\nLabel Name Description Verification Info Submitted The title or heading displayed after the form is submitted. Verification Paragraph 1 The first paragraph of the post-submission message. Verification Paragraph 2 The second paragraph of the post-submission message.\nReference: Settings » Text Labels :\nVerification Info Submitted :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153428816/original/rDGUo2o3DrVLOHsQopISHE6qnM7BOMcXmQ.png?1733236586 | alt: ]\nVerification Paragraph 1:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429026/original/7tkEGzrUPqUyPBZKFTp-jEOWC54_88DmkQ.png?1733236708 | alt: ]\nVerification Paragraph 2:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429056/original/AGvfsOPy_hXgOiyHkB0dreDD-NX3VZi3wA.png?1733236752 | alt: ]\n\n## Viewing Form Submissions\nSubmitted verification requests are stored in the Forms Inbox and can be reviewed by the administrator before a verification decision is made.\nReference: Emails » Forms Inbox\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169321309/original/ANxLrpIxdINr4DEiKUa0ixNneV1zEiXsBg.png?1761064959 | alt: ]\n\n## Customizing the Verification Form Fields\nThe default fields on the Listing - Verify Account form can be edited or extended through the Form Manager.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169321654/original/Dz871yFRzTGek7t-zt1FmdG2AdBwiTXQ_Q.png?1761065206 | alt: ]\nTo customize the form:\nNavigate to Toolbox » Form Manager .\nLocate the Listing - Verify Account form.\nClick Actions » Customize .\nEdit existing fields or add new ones as required.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153428592/original/qOdf0r57KWSSJagcwZp0DbfotfqJ2ZvjaA.jpeg?1733236380 | alt: ]\n\n## Part 3 — Apply Verified Status to a Member\nAfter reviewing a member's form submission, the administrator manually applies the verified status to the member's listing.\nNavigation Path: Admin Dashboard » My Members » Search Members » Actions » Quick Edit » Listing Settings Tab\nTo verify a member listing:\nNavigate to My Members » Search Members .\nLocate the target member in the results table.\nClick Actions » Quick Edit for that member's record.\nNavigate to the Listing Settings tab within the Quick Edit module.\nLocate the Verified Member? setting.\nSet the value to Verified .\nSave the change.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181027215/original/CT7cFq28WSbqutVON56waabxCXR0tZk1nQ.png?1782399796 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164946471/original/gcLhYqUnXCRos8IwpqP-ZlmQ1QBlO1GsEg.png?1753662816 | alt: ]\n\n## Post-Verification Message Displayed to the Member\nOnce the administrator has set the member to Verified, a confirmation message is displayed to the member within their dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429712/original/p5kfaxVdnNynND4KSEknLQ9uFiIroH3Q-g.png?1733237298 | alt: ]\nThe text displayed in the post-verification confirmation message can be edited under Settings » Text Labels. The following three labels control this message:\nLabel Name Description Verified Title Label The heading displayed in the verified confirmation message. Verified Paragraph 1 Label The first paragraph of the verified confirmation message. Verified Paragraph 2 Label The second paragraph of the verified confirmation message.\nReference : Settings » Text Labels :\nVerified Title Label :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429884/original/7c_xXQoBwNlJJdPB2Q8VZCryr19z-3_t0g.png?1733237417 | alt: ]\nVerified Paragraph 1 Label :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429960/original/DeU5BXNCgbK6f-Fa2VTR3xhkqWREogKJag.png?1733237487 | alt: ]\nVerified Paragraph 2 Label :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429983/original/TnKLvXzKdEwr_eKBEJX92WkKkeJMegnDOA.png?1733237513 | alt: ]\n\n## Part 4 — Send the Verified Confirmation Email\nOnce the member has been set to Verified in the Quick Edit module, the administrator can notify the member by sending the built-in verified confirmation email.\nThe email template to use is: business-listing-verified\nThis template can be customized within the email templates settings before sending.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169321928/original/wWU53V3wE8IWtb-Vve2T-GIAMKy4WvzIpQ.png?1761065395 | alt: ]\n\n## Part 5 — Customization Options\n\n## Custom Verified Badges\nThe default verified checkmark badge can be replaced with a custom icon to match the visual style of the site.\nNavigation Path: Admin Dashboard » Settings » General Settings » Brand Images » Verified Member Icon\nUpload the replacement icon at the path above.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169322075/original/D-dOIMLksJeYkEoh9XG01aeZ9nftPzRacQ.png?1761065506 | alt: ]\n\n## Customize the Verify Form URL\nThe URL path where members access the verification form can be changed from its default value.\nNavigation Path: Admin Dashboard » Settings » Advanced Settings\nThe setting name is Member Verify URL . System variable: default_verify_url\nThe value entered in this field controls the portion of the URL that appears when a member navigates to the verification form from within their dashboard. The default value is promote/verify .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128971776/original/eeD5ZqDy2DlJDjcQdaK12nYFPT_dxKE4jA.png?1690418062 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164946478/original/OpM7Z1zzTQwVUcRd8jtGl8j3xHI_60Px9g.png?1753662858 | alt: ]\n\n## Verified Badge Widget — Search Results\nThe verified badge displayed in member search results is controlled by the Bootstrap Theme - Member Verified Badge widget. The badge layout, icon, and text are all editable through this widget and its associated text labels.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170367133/original/Fc2_JDyPQebvLALcA3AsWk8HaqtO6ffJYQ.png?1762875755 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170368761/original/b02Q-7q-oKxUSeJdlPyRny3B1eqpIFQoUg.png?1762877449 | alt: ]\nReference: How To Customize a Widget\n\n## Text Labels Controlling the Search Results Badge\nTwo text labels control the content of the verified badge in search results:\n# Label Name System Variable Controls 1 Search Results Verified Member Icon search_results_verified_member_icon The icon displayed in the badge. 2 Search Results Verified Member search_results_verified_member The text displayed in the badge.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170368874/original/TST4JfrBIVkT1WgjBf1IMU2ZEs1kV8Ybng.png?1762877588 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170368898/original/KGEs_qiW702rG-P3YNBgmSqRiSTvcr-IZA.png?1762877616 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170364495/original/PyMkj6f2Sh80qgMhYg3wHTF4eM0zgbHuGw.png?1762873707",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105985133/original/FPsRWYffn8vQAYOpnsTfuoEQDwj3XswB3g.png?1646686994",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169320516/original/xXIK3TATeYZhglr5qVtfVb-OwSsPrn8oUw.png?1761064274",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105985797/original/tktfsRPwZ4z64liLMaBY3n76-tjKXD646w.png?1646687830",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153428118/original/Qxkfe3AtNQrjUO4RxrvLwrJWU2R_trbydQ.png?1733236095",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153428816/original/rDGUo2o3DrVLOHsQopISHE6qnM7BOMcXmQ.png?1733236586",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429026/original/7tkEGzrUPqUyPBZKFTp-jEOWC54_88DmkQ.png?1733236708",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429056/original/AGvfsOPy_hXgOiyHkB0dreDD-NX3VZi3wA.png?1733236752",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169321309/original/ANxLrpIxdINr4DEiKUa0ixNneV1zEiXsBg.png?1761064959",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169321654/original/Dz871yFRzTGek7t-zt1FmdG2AdBwiTXQ_Q.png?1761065206",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153428592/original/qOdf0r57KWSSJagcwZp0DbfotfqJ2ZvjaA.jpeg?1733236380",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181027215/original/CT7cFq28WSbqutVON56waabxCXR0tZk1nQ.png?1782399796",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164946471/original/gcLhYqUnXCRos8IwpqP-ZlmQ1QBlO1GsEg.png?1753662816",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429712/original/p5kfaxVdnNynND4KSEknLQ9uFiIroH3Q-g.png?1733237298",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429884/original/7c_xXQoBwNlJJdPB2Q8VZCryr19z-3_t0g.png?1733237417",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429960/original/DeU5BXNCgbK6f-Fa2VTR3xhkqWREogKJag.png?1733237487",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153429983/original/TnKLvXzKdEwr_eKBEJX92WkKkeJMegnDOA.png?1733237513",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169321928/original/wWU53V3wE8IWtb-Vve2T-GIAMKy4WvzIpQ.png?1761065395",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169322075/original/D-dOIMLksJeYkEoh9XG01aeZ9nftPzRacQ.png?1761065506",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128971776/original/eeD5ZqDy2DlJDjcQdaK12nYFPT_dxKE4jA.png?1690418062",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164946478/original/OpM7Z1zzTQwVUcRd8jtGl8j3xHI_60Px9g.png?1753662858",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170367133/original/Fc2_JDyPQebvLALcA3AsWk8HaqtO6ffJYQ.png?1762875755",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170368761/original/b02Q-7q-oKxUSeJdlPyRny3B1eqpIFQoUg.png?1762877449",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170368874/original/TST4JfrBIVkT1WgjBf1IMU2ZEs1kV8Ybng.png?1762877588",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12170368898/original/KGEs_qiW702rG-P3YNBgmSqRiSTvcr-IZA.png?1762877616",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f81f3d2382e2deb8cc77799655f506e4c8a9c381b7017f4874e481319467398b",
+  "ingested_at": "2026-10-17T14:34:26.427824+00:00"
+}

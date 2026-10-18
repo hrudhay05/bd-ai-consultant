@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078670-adding-google-tag-manager-and-google-tags",
+  "title": "Adding Google Tag Manager and Google Tags",
+  "text": "\n## Adding Google Tag Manager and Google Tags\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000078670\nGoogle Tag Manager is a tag management system (TMS) that can be used to quickly and easily update measurement codes and related code fragments, collectively known as tags, on a website or mobile app. It is not a tracking system itself. To set up data tracking, first Install Google Analytics 4.\nTo learn more please refer to the following Google document: Tag Manager overview\nTo get started with Google Tag Manager: https://developers.google.com/tag-manager/quickstart\nNOTE: This setup needs a GTM (Google Tag Manager) ID, which can be created by following these instructions: Set up and install Tag Manager\n\n## Creating the Container\nIn Tag Manager, click on the body to create a container:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119159829/original/xuFYY3c8tOX9NmCaBoy541ee6TJ9OAe2Tw.png?1672322038 | alt: ]\nName the container, select the Web option, and click Create :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119159858/original/Yo0Le0ZL3AFCCnG1yvJyvUOLnlsC66YPdg.png?1672322063 | alt: ]\nThis displays the two sections of code that need to be added to the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119159934/original/_DcCSH5QHIIZfWxq81eArLEQ4dK6lBrfag.png?1672322124 | alt: ]\n\n## Step 1: Add the Script Code to the HEAD Section\nThe first part of the code goes in the HEAD section. To add it, go to:\nSettings > Design Settings > Custom CSS/HEAD > Additional HEAD Code:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095773824/original/spw1dir6RZazRNlmiH-V2Cdd_a1vQlTxBg.png?1626820721 | alt: ]\nThe code looks like this (replace GTM-XXXXXX with the container ID):\n<!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= ' https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f) ; })(window,document,'script','dataLayer','GTM-XXXXXX');</script> <!-- End Google Tag Manager -->\n\n## Step 2: Add the Noscript Code to the Tag Manager Widget\nThe second part of the code is added through a widget called Bootstrap Theme - Google Tag Manager Code . To edit this widget and add the code, go to:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090916465/original/lNWsMB_TwE-xR0NpgR6vI7PW2cisq-Gdmw.png?1617667487 | alt: ]\nThe code has the following format (replace GTM-XXXXXX with the container ID):\n<!-- Google Tag Manager (noscript) --> <noscript><iframe src=\" https://www.googletagmanager.com/ns.html?id=GTM-XXXXXX \" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119160051/original/HpQZmUZpGDKmx4P-yGzUEjHRm4iC8hdcBQ.png?1672322310 | alt: ]\n\n## Publishing the Container\nAfter placing the code, click Submit in Tag Manager:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119160066/original/En5FgGXieGxCydmLtSvjuaWjgcT6V6j62Q.png?1672322330 | alt: ]\nAnd click on Publish after it:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119160076/original/m7Ty9pNXF6Wl8CYND9DhC9cNvCiLU6FKHw.png?1672322355 | alt: ]\n\n## Troubleshooting\nIf Google Tag Manager is not working as expected after following these instructions, use Google Tag Assistant to check for errors with the Tag Manager code added to the site and review possible solutions.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119159829/original/xuFYY3c8tOX9NmCaBoy541ee6TJ9OAe2Tw.png?1672322038",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119159858/original/Yo0Le0ZL3AFCCnG1yvJyvUOLnlsC66YPdg.png?1672322063",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119159934/original/_DcCSH5QHIIZfWxq81eArLEQ4dK6lBrfag.png?1672322124",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095773824/original/spw1dir6RZazRNlmiH-V2Cdd_a1vQlTxBg.png?1626820721",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090916465/original/lNWsMB_TwE-xR0NpgR6vI7PW2cisq-Gdmw.png?1617667487",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119160051/original/HpQZmUZpGDKmx4P-yGzUEjHRm4iC8hdcBQ.png?1672322310",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119160066/original/En5FgGXieGxCydmLtSvjuaWjgcT6V6j62Q.png?1672322330",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119160076/original/m7Ty9pNXF6Wl8CYND9DhC9cNvCiLU6FKHw.png?1672322355",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f2cd53bdf572ed685c7cec0c7f53b20683f7e6f8d17fffe60465919f0960ec32",
+  "ingested_at": "2026-10-17T14:49:25.783551+00:00"
+}

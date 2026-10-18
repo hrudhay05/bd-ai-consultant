@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000089516-how-to-add-expire-end-dates-to-single-image-posts-such-as-jobs-articles-coupons-blogs",
+  "title": "How to Add Expire/End Dates to Single-Image Posts such as Jobs, Articles, Coupons & Blogs",
+  "text": "\n## How to Add Expire/End Dates to Single-Image Posts such as Jobs, Articles, Coupons & Blogs\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000089516\nIn this article, we will be going over the process of how to add end/expiration dates for single-image post types like Events, Jobs, Articles, Coupons, and Blog Articles.\nThe way to accomplish it is by adding a hidden field controlled by the admin. With this method, the admin of the website can add a Hidden Field into the Single-image post's custom form and set the number of days until the post is set to expire. Once a post is created and the number of defined days has passed, then the post will be automatically marked as expired and no longer display in the website's search results. The member cannot edit or modify this expiration date.\nTo accomplish this, navigate to Toolbox >> Form Manager and customize one of the following forms:\n-Feature - Jobs\n-Feature - Member Articles\n-Feature - Coupons\n-Feature - Blog Articles\n-Feature - Events\nFor this example, we are going to edit the Member Articles form.\nClick on the Add Field button :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233784/original/_lh6BzM6vP3b30J76vm2XMcC-aark9QgCA.png?1781135830 | alt: ]\nThis will generate a blank field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233788/original/hL_7FuHBtRuLw1ONgrBVh37Yj6ymRKii5g.png?1781135858 | alt: ]\nFill in the information as it can be seen down below and click Save Changes :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233902/original/0wz5LWXowK7WRaNqxWGSZi20AoMwcMl_TQ.png?1781136084 | alt: ]\nField Type Select: Hidden Field\nField Label Name Type: Expired\nDatabase Variable Enter the following variable: post_date_interval\nDefault Field Value: Enter the number of days until this post expires. In this example we are using the number \"30\", representing 30 days from the publish date.\nNOTES:\nIf the post does not have a post_expire_date but does have a post_date_interval value, it will expire X number of days (based on the value of post_date_interval) after the post start date.\nBy default, the events form will have a field for the member to set the expiration date. If they do not select an expiration date, then the system will use the post_date_interval value. This is the form that needs to be edited: Feature - Events\nWhen a member copies a post with the Copy button in the member's post list, the copy gets its own expiration date, counted from the copy's start date (or from the day the copy is made when no start date is set). Editing an existing post keeps its current expiration date.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233784/original/_lh6BzM6vP3b30J76vm2XMcC-aark9QgCA.png?1781135830",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233788/original/hL_7FuHBtRuLw1ONgrBVh37Yj6ymRKii5g.png?1781135858",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180233902/original/0wz5LWXowK7WRaNqxWGSZi20AoMwcMl_TQ.png?1781136084",
+      "alt": ""
+    }
+  ],
+  "content_hash": "88f84fd0ed61d112bd9c992da7f6fb2ba325b749a8f88009df09fb8d7b507203",
+  "ingested_at": "2026-10-17T15:00:47.915470+00:00"
+}

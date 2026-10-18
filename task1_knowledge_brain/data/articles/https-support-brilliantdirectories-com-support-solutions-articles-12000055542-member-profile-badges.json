@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000055542-member-profile-badges",
+  "title": "Member Profile Badges",
+  "text": "\n## Member Profile Badges\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000055542\nAdd credibility and more awareness to member profiles by assigning unique digital badges to specific membership levels.\nUpload the own badge images and assign them to the membership levels. Once uploaded, all the member profiles in that membership level will display their special digital badge.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Member Profile Badges Add-On\n\n## Enabling the Add-On\n1. Go to Finance > Membership Plans :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091846857/original/So3OJjJTiB83Fr4DN2jdKDkQs0kej-jyEQ.png?1619481471 | alt: ]\n2. Find the membership plan and click on Edit:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091846859/original/t6WT8YzQ8Y4Uk5ndl_V4jhM7GC1Y0jVtYg.png?1619481492 | alt: ]\n3. Click on the Profile Page tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091846903/original/Q7fxUL_ErKRqvMllB3gvXIrSm0Sua5GCmQ.png?1619481647 | alt: ]\n4. Scroll down until the admin sees these options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091846919/original/yuxHy7JYAeF5FqaumHt-Qbc_9l9UqlWM-g.png?1619481691 | alt: ]\n\n## Recommended sizes\nProfile Page Badge: 50px x 50px\nSearch Results Badge: 50px x 50px\nMember Dashboard Badge: 250px x 250px\nOnce uploaded, all members in that membership plan will have the profile badge.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847216/original/7J_tq-EGoVqBoIwIkzVI4OmaRp04c12qWQ.png?1619482415 | alt: ]\nProfile Page Badge:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847186/original/taqVPvf1a4q6Pp1XbWXEKDNW9UCmEGwh9g.png?1619482301 | alt: ]\nSearch Results Badge:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847193/original/URmeD3sx_iyr0d4apEzEDo8VhROl4BlDug.png?1619482328 | alt: ]\nMember Dashboard Badge:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847241/original/BwLMs_lupTLV3ts9iTdSH1_JRSwX1X1Trw.png?1619482478 | alt: ]\nTo learn more about this and how it would show on the website, please read this article below:\nFinance » Membership Plans » Member's Dashboard tab:",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091846857/original/So3OJjJTiB83Fr4DN2jdKDkQs0kej-jyEQ.png?1619481471",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091846859/original/t6WT8YzQ8Y4Uk5ndl_V4jhM7GC1Y0jVtYg.png?1619481492",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091846903/original/Q7fxUL_ErKRqvMllB3gvXIrSm0Sua5GCmQ.png?1619481647",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091846919/original/yuxHy7JYAeF5FqaumHt-Qbc_9l9UqlWM-g.png?1619481691",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847216/original/7J_tq-EGoVqBoIwIkzVI4OmaRp04c12qWQ.png?1619482415",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847186/original/taqVPvf1a4q6Pp1XbWXEKDNW9UCmEGwh9g.png?1619482301",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847193/original/URmeD3sx_iyr0d4apEzEDo8VhROl4BlDug.png?1619482328",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091847241/original/BwLMs_lupTLV3ts9iTdSH1_JRSwX1X1Trw.png?1619482478",
+      "alt": ""
+    }
+  ],
+  "content_hash": "423331dcc600227de02c0bd23fe19a3acae324df17689878765833ed122d9969",
+  "ingested_at": "2026-10-17T14:42:16.740503+00:00"
+}

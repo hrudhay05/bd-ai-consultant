@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076680-personal-post-feed",
+  "title": "Personal Post Feed",
+  "text": "\n## Personal Post Feed\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000076680\nUsers will have a dedicated “feed” page accessible within their account dashboard. This personalized feed will list all recent posts published by other members who they have marked as a favorite.\nImportant: Personal Post Feed requires the Bookmark My Favorites add-on to be enabled as well. This will allows users to mark members on the website as a favorite. In order for the Personal Post Feed to appear the member needs to bookmark a another member and then the Personal Post Feed link is going to appear on their main dashboard.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Personal Post Feed Add-On\n\n## Enabling this Add-On\n1. Go to Finance - Membership Plans:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137820/original/tUr5FqYhJdKuxVkLbDNh0xfmlbMeVrJG8g.png?1620084333 | alt: ]\n2. Select the membership level(s) that the admin wish to grant this add-on to:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137853/original/lKHjD4jewxtkfr2Bod9PRu--l9Eosil2HQ.png?1620084415 | alt: ]\n3. Once in the membership level settings, go to Member's Dashboard tab and scroll down:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137912/original/g939li_viWsqliiNgCiWiYGbkaeD5Ubolg.png?1620084566 | alt: ]\n4. Once the Additional Settings section appears please enable the Personal Post Feed in the setting below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137950/original/Pk8gFn4tSKSj6NMyApzqzIi0gveGI5syOQ.png?1620084706 | alt: ]\nThis will enable this setting for the members in their dashboard:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092138078/original/qThj_1rUU9rhcyc_h0MrEyGn9BBupu-Nng.png?1620085011 | alt: ]\nIf the member click on it, it will redirect them to a new page where they'll be able to see all their saved post:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092138131/original/HKRL0LCuVo1C2BQyEwVTK7-6-8cN_l5VPg.png?1620085138 | alt: ]\nThe admin will have the option to edit this page within the SEO Templates by going to Content - SEO Template:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092138254/original/7Y00zeKtcjVDN-AlCVkAhfCj8GBEQqnLjQ.png?1620085456 | alt: ]\nThe admin will be able to edit the URL from here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092171408/original/hAy69AKC0S_GeYfyFS1d07XJtN57UKwu2w.png?1620138073 | alt: ]\nOnce the add-on is activated the admin will be able to add the Personal Post Feed widget within the member's dashboard. The name of the widget is Bootstrap Theme - Personal Post Feed - Results .",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137820/original/tUr5FqYhJdKuxVkLbDNh0xfmlbMeVrJG8g.png?1620084333",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137853/original/lKHjD4jewxtkfr2Bod9PRu--l9Eosil2HQ.png?1620084415",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137912/original/g939li_viWsqliiNgCiWiYGbkaeD5Ubolg.png?1620084566",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137950/original/Pk8gFn4tSKSj6NMyApzqzIi0gveGI5syOQ.png?1620084706",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092138078/original/qThj_1rUU9rhcyc_h0MrEyGn9BBupu-Nng.png?1620085011",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092138131/original/HKRL0LCuVo1C2BQyEwVTK7-6-8cN_l5VPg.png?1620085138",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092138254/original/7Y00zeKtcjVDN-AlCVkAhfCj8GBEQqnLjQ.png?1620085456",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092171408/original/hAy69AKC0S_GeYfyFS1d07XJtN57UKwu2w.png?1620138073",
+      "alt": ""
+    }
+  ],
+  "content_hash": "3ef3ead2a75eac069a0dcceca6f436a0a6724df36329a09e2aded3bfc829bdf6",
+  "ingested_at": "2026-10-17T14:48:09.797104+00:00"
+}

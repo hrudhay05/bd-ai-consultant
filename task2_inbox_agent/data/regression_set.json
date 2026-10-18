@@ -1,0 +1,13 @@
+{
+  "ids": ["HT-01","TS-01","HT-12","RC-01","RC-02","CP-03","CP-04","QT-01","FU-03","TS-06"],
+  "required": {
+    "FU-03": "can.t see earlier",
+    "TS-01": "error|screenshot",
+    "TS-06": "error|screenshot",
+    "RC-01": "team member",
+    "RC-02": "team member",
+    "CP-03": "team member",
+    "CP-04": "team member"
+  },
+  "rule": "Automatic pass = a draft exists, the guard passed, and the required phrase (if any) appears. reply_must_not is checked by a human in the review file. All 10 must pass."
+}

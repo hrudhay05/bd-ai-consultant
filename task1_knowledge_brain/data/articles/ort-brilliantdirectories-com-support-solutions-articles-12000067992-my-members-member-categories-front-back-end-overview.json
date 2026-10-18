@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000067992-my-members-member-categories-front-back-end-overview",
+  "title": "My Members » Member Categories » Front & Back End Overview",
+  "text": "\n## My Members » Member Categories » Front & Back End Overview\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000067992\nBy default, all sites come with a categories page that can be accessed using the / categories URL and through the Footer Menu link on the Homepage:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090914687/original/rrJZcwHECKlWdpi-5cH3rUbOYlFjQIHcxw.png?1617664150 | alt: ]\nThis will allow the website visitors and members to browse through all of the categories available on the site:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090914703/original/suOYa5xITozd9IW11fNQCXTNZqjioa3fEQ.png?1617664200 | alt: ]\nFor sites with a lot of categories, the search bar makes it easy for the website users to quickly find what they are looking for, which will search for any matching keywords:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090914733/original/GdItgcrO1_hqs0nTqJgEAyQthw31sCHYbw.png?1617664230 | alt: ]\nThis page can use two different category widgets.\nBootstrap Theme - Category Groups - Member Categories : will display all Top, Sub and Sub-sub level categories.\nBootstrap Theme - Sub Category Groups - Member Categories : will display all Sub and Sub-sub level categories.\nIn addition, both widgets support using a URL parameter to pre-fill the keyword filter. This works with spaces, quotation marks, and special characters.\nExamples:\nhttps://directory.directoryup.com/ categories?category=Sub%20Sub\nhttps:// directory .directoryup.com/ sub-categories?category=Museum%20of%20zoology\n\n## Sort Order\nThe order in which the categories are displayed on this page can be changed in the General Settings section under the Search Settings tab of the admin dashboard as seen below\nDefault Category Sort Order\nSelect the order in which member categories should display on the live website\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165009937/original/OZVjP-gtJbLuE29kYIg9svmFKt4Lf2tGRg.png?1753749301 | alt: ]\n\n## Back-End Information\nThe /categories web page can be found inside My Content » Web Page Builder:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165009942/original/PT9RY7-W-XpCfJPykOgM_Ak2u85WNfhnpQ.png?1753749332 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180114653/original/4pXyG2HYaSygfPXuqd3zGE7QGjd-Ft7QDg.png?1781004455 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180114658/original/_w9LQAUR3XWQTd91ZNfrvpI9N0rEefN8Kw.png?1781004462 | alt: ]\nThe first three items on this image can be edited to fit the website:\nURL\nPage Title (H1)\nSub Title (H2)\nThis widget is the one that displays the categories inside the Categories page on the site. [widget=Bootstrap Theme - Category Groups - Member Categories]\nThis is the standard sidebar that will appear on all Web Pages.\nAdditional Information\n» To read more about the Web Pages, follow this link: Web Pages Folder\n» For more about the Widgets, follow this link: Toolbox » Widget Manager\n\n## Editing Categories\n» My Members » Member Categories\n» How To Import Categories Via CSV File\n» How To Add Categories Manually From The Admin\n» How To Select Categories as a Member\n\n## Designing the Categories Page\nText and Images can be added inside the WYSIWYG editor and they will appear on the Categories Page.\n» Everything About WYSIWYG Editors\n» How to Post Images On WYSIWYG Editors\nUse the Hero Section\n» How to add a Hero Section to Static Pages\n\n## Advanced Settings\nThere are a few advanced settings that can help further customize the categories pages.\n\n## Show Categories with No Members\nTo only display the categories that have been selected by at least one member, make sure to disable this setting under General Settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165010001/original/NA9AgC-OqE9MRSjWW3IfmORnk9zs7SvHww.png?1753749489 | alt: ]\n\n## ⚠️ Important Note - Categories Page URL\nChanging the URL of this page will not change all the links throughout the website (like the footer link shown above). If a change is made in the /categories URL, this new URL should be updated under the following Advanced Setting as well:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165010071/original/8Mf-5-6X_kGQG95tevmSyt9CQfX9p2b3PQ.png?1753749517 | alt: ]\nFor example , if the web page's URL is changed from /categories to /categories-1 , the advanced setting specified above should be updated to /categories-1 as well.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090914687/original/rrJZcwHECKlWdpi-5cH3rUbOYlFjQIHcxw.png?1617664150",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090914703/original/suOYa5xITozd9IW11fNQCXTNZqjioa3fEQ.png?1617664200",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090914733/original/GdItgcrO1_hqs0nTqJgEAyQthw31sCHYbw.png?1617664230",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165009937/original/OZVjP-gtJbLuE29kYIg9svmFKt4Lf2tGRg.png?1753749301",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165009942/original/PT9RY7-W-XpCfJPykOgM_Ak2u85WNfhnpQ.png?1753749332",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180114653/original/4pXyG2HYaSygfPXuqd3zGE7QGjd-Ft7QDg.png?1781004455",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180114658/original/_w9LQAUR3XWQTd91ZNfrvpI9N0rEefN8Kw.png?1781004462",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165010001/original/NA9AgC-OqE9MRSjWW3IfmORnk9zs7SvHww.png?1753749489",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165010071/original/8Mf-5-6X_kGQG95tevmSyt9CQfX9p2b3PQ.png?1753749517",
+      "alt": ""
+    }
+  ],
+  "content_hash": "0ed65afb5a598b5c3fa82c333a5202ce47fb2e67b5bd24a6be2714686475e588",
+  "ingested_at": "2026-10-17T14:45:16.960190+00:00"
+}

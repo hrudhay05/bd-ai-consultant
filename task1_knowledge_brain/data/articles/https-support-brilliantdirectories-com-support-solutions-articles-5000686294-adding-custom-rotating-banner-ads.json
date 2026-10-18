@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000686294-adding-custom-rotating-banner-ads",
+  "title": "Adding Custom Rotating Banner Ads",
+  "text": "\n## Adding Custom Rotating Banner Ads\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000686294\nRotating banner ads can be added to different areas of a Brilliant Directories website, including sidebars, headers, footers, homepage sections, and content areas.\nThere are three rotating banner widget sizes available:\n\n## Available Banner Types\n\n## Bootstrap Theme - Banner - 250_250 Rotating\nRecommended for sidebars.\n\n## Bootstrap Theme - Banner - 300_250 Rotating\nRecommended for sidebars, headers, and footers.\n\n## Bootstrap Theme - Banner - 970_90 Rotating\nRecommended for headers and footers.\n\n## Displaying Banner Ads\nBefore adding rotating banners, make sure Banner Ads are enabled on the website.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131563790/original/OjiZRkRUV7Ld7RaAM_hPsaHYjXL4nPKPDg.png?1695172578 | alt: ]\n\n## Adding Rotating Banners\nTo add a rotating banner to a sidebar:\nGo to Toolbox → Sidebar Manager .\nSelect the sidebar where the rotating banner should display. The appropriate sidebar depends on the page where the banner will appear.In this example, the rotating banner is added to the Member Search Results sideba\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122192315/original/1E8jURXQyOXXl00S2MLx7B8I8C_hxW4NCg.png?1678118564 | alt: ]\nIn the Available Widgets search box, search for \"rotating\" .\nDrag and drop the appropriate rotating banner widget into the right-hand column.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122192899/original/KNFM-Z2kmH89-aqUOWU8m5TAVLZRJ6aOMA.png?1678119095 | alt: ]\nSave the sidebar changes.\n\n## Editing a Rotating Banner\nAfter adding the rotating banner widget to a sidebar, the next step is to configure the images that will rotate and the URLs they will link to.\nGo to Toolbox → Widget Manager and search for the rotating banner widget that was added to the sidebar.\nFor example, if the Bootstrap Theme - Banner - 250_250 Rotating widget was added, search for that widget and click Customize .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122193243/original/CWhZqfEY31qK1awg-eVB7FN1Eog0sRMmeg.png?1678119310 | alt: ]\nThe rotating banner widget contains three primary elements that can be customized:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122193545/original/OfDKZGd1Qvp5syfgEkhBg5Ls6C69bL1I9A.png?1678119503 | alt: ]\nRotation Interval Controls how often the banner changes images. The default value is 3000 milliseconds (3 seconds) .\nBanner Link The href=\"#\" value defines the destination when the banner is clicked. Replace # with the desired URL. Example: Copy href=\"https://www.google.com\"\nBanner Link The href=\"#\" value defines the destination when the banner is clicked. Replace # with the desired URL.\nExample:\nBanner Image The src attribute specifies the image displayed for that banner slide.\n\n## Selecting Banner Images\nUpload the banner images to the Media Manager .\nRight-click the uploaded image and select Copy URL to copy its file path.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122194578/original/dPz2Z1l4P_8S4oiFqiCdGXM6pRwb5Hd7xQ.png?1678120469 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122194576/original/Rp2kdnVKIhixZQJlR5E2TBrEppeZrC1PkA.png?1678120469 | alt: ]\n\n## Adding and Removing Banner Images\nReturn to the rotating banner widget and replace the existing src value with the URL of the uploaded image.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076994996/original/tbS2PZeqhYCXAExak7TMOMiK19UNYVRHQg.png?1588703334 | alt: ]\nBy default, the widget includes four banner slides.\nAdditional slides can be added as needed, and existing slides can be removed if fewer banners are required.\nThe widget's appearance can also be customized by editing the CSS tab. This can be used to adjust dimensions, colors, spacing, and other styling options.\n\n## Adding Additional Banner Slides\nTo add another rotating banner, duplicate one of the existing banner items and update its image and link.\nEach additional banner uses the same structure.\n\n## Removing Banner Slides\nTo remove a banner, delete the entire <div class=\"item\">...</div> block associated with that image.\nThe examples below demonstrate how the widget code changes as banner slides are added or removed.\n[Keep the three existing code examples exactly as they are]\n\n## Adding a Rotating Banner to the Footer\nA rotating banner can also be displayed in other widgetized areas of the website, such as the footer.\nTo do this, customize the Bootstrap Theme - Footer widget and add the following shortcode where the rotating banner should appear:\nThis embeds the selected rotating banner widget in the footer.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131563790/original/OjiZRkRUV7Ld7RaAM_hPsaHYjXL4nPKPDg.png?1695172578",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122192315/original/1E8jURXQyOXXl00S2MLx7B8I8C_hxW4NCg.png?1678118564",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122192899/original/KNFM-Z2kmH89-aqUOWU8m5TAVLZRJ6aOMA.png?1678119095",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122193243/original/CWhZqfEY31qK1awg-eVB7FN1Eog0sRMmeg.png?1678119310",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122193545/original/OfDKZGd1Qvp5syfgEkhBg5Ls6C69bL1I9A.png?1678119503",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122194578/original/dPz2Z1l4P_8S4oiFqiCdGXM6pRwb5Hd7xQ.png?1678120469",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122194576/original/Rp2kdnVKIhixZQJlR5E2TBrEppeZrC1PkA.png?1678120469",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076994996/original/tbS2PZeqhYCXAExak7TMOMiK19UNYVRHQg.png?1588703334",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7e4fc0a256a50449d5a077f4d1cf46e359f12aec79ba6f07137c15c9dc2a6787",
+  "ingested_at": "2026-10-17T14:08:02.087124+00:00"
+}

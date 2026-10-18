@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000073955-uploading-a-custom-member-badge",
+  "title": "Uploading A Custom Member Badge",
+  "text": "\n## Uploading A Custom Member Badge\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000073955\nThe \" M ember Badge \" is located on the member's dashboard. This badge uses a custom code that the member can then paste on their own website to advertise that they are a member of this directory website. This adds credibility to their own company, and helps promote the directory website at the same time.\nThis is how the default badge appears:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989626/original/3kXicpvUfY3nRYQp5og2dfX5y4sKRMKN_w.png?1644789454 | alt: ]\n\n## Enable the Member Badge\nThe badge needs to be enabled for each plan, this is in Finance » Plan Settings » Member Dashboard .\nSearch for: Show Embeddable Member Badge Module\nSet to \" Yes \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160949588/original/BAtVco6MJy_HkgFDVsh79hV0T7EAOWLdVg.png?1746590067 | alt: ]\n\n## Replace the Default Member Badge\nTo replace the default member badge please follow these instructions:\nGo to SETTINGS >> GENERAL SETTINGS >> BRAND IMAGES\nClick on \"Replace Image\" for the Member Badge:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989684/original/jwfc4vrwayxBesvsSnac_b541SF8J2QyHw.png?1644789676 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989626/original/3kXicpvUfY3nRYQp5og2dfX5y4sKRMKN_w.png?1644789454",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160949588/original/BAtVco6MJy_HkgFDVsh79hV0T7EAOWLdVg.png?1746590067",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989684/original/jwfc4vrwayxBesvsSnac_b541SF8J2QyHw.png?1644789676",
+      "alt": ""
+    }
+  ],
+  "content_hash": "3e9892e13e36fe76a2740f55b9b710d2ef5d05110bb4906f8ccf934c3199fcc4",
+  "ingested_at": "2026-10-17T14:47:10.887341+00:00"
+}

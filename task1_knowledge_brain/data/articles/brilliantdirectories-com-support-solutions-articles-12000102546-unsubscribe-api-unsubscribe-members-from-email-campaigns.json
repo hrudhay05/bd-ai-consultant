@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000102546-unsubscribe-api-unsubscribe-members-from-email-campaigns",
+  "title": "Unsubscribe API - Unsubscribe Members from Email Campaigns",
+  "text": "\n## Unsubscribe API - Unsubscribe Members from Email Campaigns\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000102546\nIt is possible to Unsubscribe a member from receiving email using the api, only 1 member can be updated at a time.\nUsing the API there are 4 Unsubscribe actions that can be achieved:\n/api/v2/unsubscribe_list/get/{id}\n/api/v2/unsubscribe_list/create\n/api/v2/unsubscribe_list/update\n/api/v2/unsubscribe_list/delete\nWe will break down these actions and explain how to achieve an end results with each one. The examples shown in this article are completed using https://www.postman.com/\n\n## Unsubscribe Get API\n/api/v2/unsubscribe_list/get/{id}\nUsing this action is simple, add the url above but replace {id} with the actual member ID. This will fetch the member information from the website\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153441046/original/8VLfTwZxT-HzLmai2s6nQ5mwFAIztAqs-w.png?1733245379 | alt: ]\n\n## Unsubscribe Create API\n/api/v2/unsubscribe_list/create\nWith this action, by sending the email, it will add the member to the unsubscribe list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153281497/original/V0AtYvHgJfU8_HPz889uz2sAqwBhGm6aeQ.png?1732902133 | alt: ]\n\n## Unsubscribe Update API\n/api/v2/unsubscribe_list/update\nWith this action it is possible to update the unsubscribed list. Replace {id} with the member ID that will be updated from the unsubscribed list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153282756/original/d2k0qmomodW8VA6S5Issx9ba7aiywiu2Jw.png?1732903961 | alt: ]\n\n## Unsubscribe Delete API\n/api/v2/unsubscribe_list/delete\nUse this action URL to delete a a member from the unsubscribed list, replace {id} with the member ID that will be removed from the unsubscribed list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153283140/original/PluTytgQVH3VReQWu_n_Ycoe2vf5Je2faA.png?1732904634 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153441046/original/8VLfTwZxT-HzLmai2s6nQ5mwFAIztAqs-w.png?1733245379",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153281497/original/V0AtYvHgJfU8_HPz889uz2sAqwBhGm6aeQ.png?1732902133",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153282756/original/d2k0qmomodW8VA6S5Issx9ba7aiywiu2Jw.png?1732903961",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153283140/original/PluTytgQVH3VReQWu_n_Ycoe2vf5Je2faA.png?1732904634",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f7500c4dfef8b984dd9cdadf477f899739afee68933155eb81d6787b49a51c36",
+  "ingested_at": "2026-10-17T15:28:44.291782+00:00"
+}

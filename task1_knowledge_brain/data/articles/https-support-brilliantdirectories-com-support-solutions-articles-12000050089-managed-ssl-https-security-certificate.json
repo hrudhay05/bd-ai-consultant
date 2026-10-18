@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000050089-managed-ssl-https-security-certificate",
+  "title": "Managed SSL/HTTPS Security Certificate",
+  "text": "\n## Managed SSL/HTTPS Security Certificate\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000050089\n\n## Managed SSL/HTTPS Security Certificate\nSSL encrypts traffic between the website and its visitors and allows the public website and payment pages to use HTTPS on the connected domain.\n\n## How to Get Managed SSL\nManaged SSL is included with qualifying add-on packages and can also be purchased as the Managed SSL Security Add-On .\n\n## Connect the Domain First\nThe live domain must point to the website before a certificate can be issued. See How to Connect a Domain to a Brilliant Directories Website .\n\n## Installation and Status\nWhen managed SSL is already active, Domain Manager requests a new certificate as part of Switch Over . Open Settings > Domain Manager > SSL to review its status and select Check again after DNS changes.\nIf managed SSL is purchased after the domain is connected, open the SSL tab and use the installation action shown there. Issuance can take time while the domain and DNS are verified.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185668544/original/exn3eP_KrlYJ3lqhpEgS0XapNr_9Mho9EA.png?1790182300 | alt: SSL tab on a free directoryup.com address, with the Managed SSL card marked]\nExample certificate status on a directoryup.com website. Custom-domain certificate details and available actions depend on the website configuration.\nA manually installed third-party certificate follows a different renewal process. See Install 3rd Party SSL .",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185668544/original/exn3eP_KrlYJ3lqhpEgS0XapNr_9Mho9EA.png?1790182300",
+      "alt": "SSL tab on a free directoryup.com address, with the Managed SSL card marked"
+    }
+  ],
+  "content_hash": "e264bc76141456ffb14aa51b63143f17c91f57b7c3de11ad127a1c100065b8fb",
+  "ingested_at": "2026-10-17T14:40:49.656608+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000013438-how-bandwidth-and-storage-usage-is-calculated",
+  "title": "How Bandwidth and Storage Usage Is Calculated",
+  "text": "\n## How Bandwidth and Storage Usage Is Calculated\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000013438\nIn the Dashboard Area of every Brilliant Directories website, there is an indication of the storage that is currently being used and the bandwidth that has been used for the current calendar month:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859000/original/kOcVJLL3w5JAibsOO85KveKKyt4e3v0fYw.png?1771428467 | alt: ]\nOur server network utilizes the CentOS / WHM / cPanel stack to manage hosting accounts and calculate bandwidth and storage usage data.\nTo measure bandwidth, cPanel & WHM combines the amount of bytes of an incoming data request with the outgoing transferred data (the response to that request). cPanel & WHM obtains this data from the Apache logs. These logs include the following amounts of bandwidth:\nThe total bandwidth that the incoming request that solicited the content used.\nThe total bandwidth that the complete response used (the sum of the size of the content plus the header).\nFor more information about how bandwidth usage data is calculated, and why it may differ from data obtained using other tools, please see the full documentation on this topic here:",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859000/original/kOcVJLL3w5JAibsOO85KveKKyt4e3v0fYw.png?1771428467",
+      "alt": ""
+    }
+  ],
+  "content_hash": "aeff8faf623dd2290bdb75ce92a1a3a6beeba7585b8effc2fa53441332639a48",
+  "ingested_at": "2026-10-17T14:33:34.585745+00:00"
+}

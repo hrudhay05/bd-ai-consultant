@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048956-important-w-array-update",
+  "title": "Important $w Array Update",
+  "text": "\n## Important $w Array Update\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000048956\nAs of November 1, 2018 , several configuration values previously available in the $w array were moved to the brilliantDirectories::getDatabaseConfiguration() static method to improve security.\nAny custom code that references these configuration values should be updated to use the new method.\n\n## Affected Configuration Keys\nThe following keys are no longer available through the $w array:\nwebsite_user\nwebsite_pass\ndatabase_user\ndatabase_pass\ndatabase_host\ndatabase\ndatabase_directory_user\ndatabase_directory_pass\nwhmcs_database_host\nwhmcs_database_user\nwhmcs_database_password\nwhmcs_database_name\nwhmcs_api_password\nwhmcs_api_host\nwhmcs_api_username\n\n## Updating Existing Code\nThe brilliantDirectories::getDatabaseConfiguration() method accepts the configuration key as its only parameter and returns the corresponding value.\nReplace references to configuration values in the $w array with calls to the new static method.\n\n## Example 1\nReplace either of the following:\nor\nwith:\n\n## Example 2\nOriginal code:\nUpdated code:\n\n## Summary\nWhenever custom code needs access to one of the affected configuration values, replace the corresponding $w array reference with a call to (where configuration_key is the name of the desired configuration value)",
+  "images": [],
+  "content_hash": "f0d9087438d3c90d97ef60da0bf06dbde242bab3f516bcf97f90bae327bcf15f",
+  "ingested_at": "2026-10-17T14:40:24.181451+00:00"
+}

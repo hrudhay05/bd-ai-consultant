@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000056879-limit-max-photos-per-album",
+  "title": "Limit Max Photos per Album",
+  "text": "\n## Limit Max Photos per Album\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000056879\n\n## Overview\nCreating photo albums is a highly beneficial feature for members in certain industries, such as real estate, design and more. With the Limit Max Photos per Album add-on, reward the higher-tier members by allowing them to publish more photos per album than the lower-tier members.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Limit Max Photos Per Album Add-On\n\n## Enable the Add-On\n1. Go to Finance >> Membership Plans\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092252413/original/1wfWBR9hMAiXa1y7uId7bKU3Za0SFjXDKg.png?1620263487 | alt: ]\n2. Click Edit for the level the admin wishes to modify the limit to.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092252426/original/9XkUQ6ZTd9VeFCNVtfVdb2TIOZIEBpGcIg.png?1620263524 | alt: ]\n3. Click on the Post Publishing tab.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092252437/original/zTLH2I_IP4cr4FYGe3bhNA3MTkqk_sv7qA.png?1620263560 | alt: ]\n4. The admin can limit the number of images that the member can upload per photo album:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092252481/original/Wcv8k_PUoMeFijoCCLSrWtoyYJ-DNApsMg.png?1620263720 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092252413/original/1wfWBR9hMAiXa1y7uId7bKU3Za0SFjXDKg.png?1620263487",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092252426/original/9XkUQ6ZTd9VeFCNVtfVdb2TIOZIEBpGcIg.png?1620263524",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092252437/original/zTLH2I_IP4cr4FYGe3bhNA3MTkqk_sv7qA.png?1620263560",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092252481/original/Wcv8k_PUoMeFijoCCLSrWtoyYJ-DNApsMg.png?1620263720",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f2e31dfd39c02dbc42eba4e67b9be66fb162a88287859a967eaa4cb0bbad845c",
+  "ingested_at": "2026-10-17T14:42:38.650270+00:00"
+}

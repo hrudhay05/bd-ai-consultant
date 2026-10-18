@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000081944-toolbox-form-manager-field-validation-options",
+  "title": "Toolbox » Form Manager » Field Validation Options",
+  "text": "\n## Toolbox » Form Manager » Field Validation Options\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000081944\nValidation rules restrict what can be entered into a form field and display an error message when the input doesn't meet the requirements. Rules are configured per field.\nTo turn on and require validation rules for a form field, please go to Actions >> Validation Options:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180235905/original/ZRrMGFknAyx88qyWhzV3OP3xrj5AQrutog.png?1781141654 | alt: ]\nEnable validation here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180235974/original/wqCLVSupggtP3RRj8NGQpsCa_enNvlAiiw.png?1781141833 | alt: ]\nFor every rule type, a custom error message can be added in the field on the right side. If no custom message is added, the system falls back to the general error messages (see \"Default error messages\" below).\n\n## Validation Rules:\n\n## Min/Max Characters\nRestricts how many characters a field can have.\nOn the right side, the error message can be added.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236021/original/BGheKxEfE_cljXtUTLbC5Mg0liJmlE564g.png?1781141944 | alt: ]\nIt will look like this in the front end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236105/original/nDendUmGqVsdGGEkNDqXT5qEMo2TV9isCg.png?1781142121 | alt: ]\n\n## Numerical Value Range\nSet numerical range this field's value needs to fall within.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236124/original/LkUJ4juiaytRJQ5H5OFJUS0p7cR0xMaBqg.png?1781142243 | alt: ]\nIt will look like this in the front end:\nIt will look like this in the front end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236137/original/emtjYsuA5ZFGNBgNxlTgcFKWxGtqukovPg.png?1781142312 | alt: ]\n\n## Regular Expression\nThis is an advanced setting for developers to input REGEX rules.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236158/original/ioK7e_wdfu_ix5wVUdkujPIP5PD4Vrxa2A.png?1781142443 | alt: ]\nSo, for example, the regex that is in the placeholder above:\n^[a-zA-Z0-9_.]+$\nThis means the content must be any combination of lowercase or uppercase letters (A–Z), numbers, underscores, and periods. No other characters are accepted.\nNo other characters would be accepted. Use without the leading or trailing slash /.\nIt will look like this in the front end:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236216/original/mvBd2BvGDpspl8VJ_nvPFvOWBIvvhE-vTw.png?1781142539 | alt: ]\n\n## Default error messages\nIf no custom error message is added to a rule, the system shows general error messages. These messages are text labels and can be edited under Settings >> Text Labels .\nIn the search bar at the top right, type \"Form validation\" and all labels related to these messages will appear.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236235/original/4C40aCVh-23VSwGj3jllGN1eiYcvdATo7g.png?1781142739 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180235905/original/ZRrMGFknAyx88qyWhzV3OP3xrj5AQrutog.png?1781141654",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180235974/original/wqCLVSupggtP3RRj8NGQpsCa_enNvlAiiw.png?1781141833",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236021/original/BGheKxEfE_cljXtUTLbC5Mg0liJmlE564g.png?1781141944",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236105/original/nDendUmGqVsdGGEkNDqXT5qEMo2TV9isCg.png?1781142121",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236124/original/LkUJ4juiaytRJQ5H5OFJUS0p7cR0xMaBqg.png?1781142243",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236137/original/emtjYsuA5ZFGNBgNxlTgcFKWxGtqukovPg.png?1781142312",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236158/original/ioK7e_wdfu_ix5wVUdkujPIP5PD4Vrxa2A.png?1781142443",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236216/original/mvBd2BvGDpspl8VJ_nvPFvOWBIvvhE-vTw.png?1781142539",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236235/original/4C40aCVh-23VSwGj3jllGN1eiYcvdATo7g.png?1781142739",
+      "alt": ""
+    }
+  ],
+  "content_hash": "662f5961ffa1918ae07f8aee3ebf693969fcec907084ec1fc91cf69ddd730387",
+  "ingested_at": "2026-10-17T16:52:59.914076+00:00"
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076482-how-to-create-a-download-link-with-a-button",
+  "title": "How to Create a Download Link With a Button",
+  "text": "\n## How to Create a Download Link With a Button\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000076482\nIn this article, we will be going over how to create a download link with the button on a webpage.\nThis can be extremely helpful when creating a webpage that offers an Ebook or any kind of PDF download.\n\n## Uploading a PDF file via Media Manager\nTo accomplish this, simply navigate to My Content >> Media Manager >> Click the \" Upload Image or PDF \" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124822517/original/Yt7mv3ZU-NQL2BsWio3UGdL3CX-Ln3pmeg.jpeg?1682978778 | alt: ]\nClick or Drop Files to Upload :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125285730/original/1tygozLXs8PjKpLdBh1nUNrbB73k4PpKuw.png?1683755969 | alt: ]\nAnd click Back to All Media after the upload is completed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125285872/original/Scw9JNHpBO5g0Al6FJBQ2Q9LZpaKKkfQ7Q.png?1683756081 | alt: ]\nThen right-click on the file and select Copy URL :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125285959/original/Bha2e4QMUxclGjy9THAIzpsnDf0TNfj7Sw.png?1683756189 | alt: ]\nCopy the relative URL:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125285929/original/QFoDwVjbbQsTtXiQ-oOPaje8EXJZqDGmcA.png?1683756173 | alt: ]\n\n## Creating a Download Link with a Button\nNavigate to My Content >> Web Page Builder >> Click on \" New Web Page \" or click \" Edit \" on the existing page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124822563/original/6AqkQGlpn2ff0ea5Jd6-MwzRuzqDA3oncw.png?1682978825 | alt: ]\nOn this new web page or on the existing page, drag and drop Button Link from Pre-Made Elements :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973073/original/cg5OJZQzEuNqh8VpiLM3yY_VO5CU6NHDqA.png?1783981709 | alt: ]\nOnce the button is added, click on Edit Link :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973082/original/44Wd0iN-7-4jQoWGIkadKG9vtfYR-aFDKA.png?1783981728 | alt: ]\nInsert the copied PDF link, change the button label, then select Update .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973123/original/vUZq_Y8sf4e11xDuUzDkkWGdATw2MFybwQ.png?1783981851 | alt: ]\nAdd a unique URL to the page and click on Save Web Page :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973354/original/7E9AXZZQQQ_IXs9XVCfBS1O2fys6wFNiCw.png?1783981982 | alt: ]\nThis is how it would function on the front end when clicked:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125286447/original/1i5oXsox_5ng0uTxzM_yU8I_G-E9hB-o7Q.png?1683756980 | alt: ]\nPDF can be downloaded by clicking on the download icon:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124822606/original/DxOuLYjDYDRcje7Oa4MJE8HOgp4aiy6zZA.jpeg?1682978884 | alt: ]\n\n## Bonus Step (Optional) - How to Force Instant Download When Button is Clicked\nThis file also can be downloaded on the fly without opening a new tab as shown below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125286583/original/aFcsNmi52Wr3uFlA3GAMLv8UZvHzta8BWg.png?1683757332 | alt: ]\nTo accomplish this, click on the Code View icon on Web Page Builder:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973375/original/OKCh3w3lfrHQN7UsmDQwzG57Walp6vEkyQ.png?1783982058 | alt: ]\nAnd include the download attribute just before the closing \" > \" as shown below, then save your changes again:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973441/original/tYAUatNt75d-StoC0zoW6JY7Xyv-eveBRw.png?1783982159 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124822517/original/Yt7mv3ZU-NQL2BsWio3UGdL3CX-Ln3pmeg.jpeg?1682978778",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125285730/original/1tygozLXs8PjKpLdBh1nUNrbB73k4PpKuw.png?1683755969",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125285872/original/Scw9JNHpBO5g0Al6FJBQ2Q9LZpaKKkfQ7Q.png?1683756081",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125285959/original/Bha2e4QMUxclGjy9THAIzpsnDf0TNfj7Sw.png?1683756189",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125285929/original/QFoDwVjbbQsTtXiQ-oOPaje8EXJZqDGmcA.png?1683756173",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124822563/original/6AqkQGlpn2ff0ea5Jd6-MwzRuzqDA3oncw.png?1682978825",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973073/original/cg5OJZQzEuNqh8VpiLM3yY_VO5CU6NHDqA.png?1783981709",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973082/original/44Wd0iN-7-4jQoWGIkadKG9vtfYR-aFDKA.png?1783981728",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973123/original/vUZq_Y8sf4e11xDuUzDkkWGdATw2MFybwQ.png?1783981851",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973354/original/7E9AXZZQQQ_IXs9XVCfBS1O2fys6wFNiCw.png?1783981982",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125286447/original/1i5oXsox_5ng0uTxzM_yU8I_G-E9hB-o7Q.png?1683756980",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124822606/original/DxOuLYjDYDRcje7Oa4MJE8HOgp4aiy6zZA.jpeg?1682978884",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125286583/original/aFcsNmi52Wr3uFlA3GAMLv8UZvHzta8BWg.png?1683757332",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973375/original/OKCh3w3lfrHQN7UsmDQwzG57Walp6vEkyQ.png?1783982058",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973441/original/tYAUatNt75d-StoC0zoW6JY7Xyv-eveBRw.png?1783982159",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c85f0c68a9c361ea3e050aa3599663b42be9b0f8ea43c0bdfee5db1a624353b6",
+  "ingested_at": "2026-10-17T14:48:00.047108+00:00"
+}

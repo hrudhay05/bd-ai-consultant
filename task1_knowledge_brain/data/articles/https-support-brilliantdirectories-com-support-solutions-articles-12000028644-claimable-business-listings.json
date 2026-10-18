@@ -1,0 +1,73 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000028644-claimable-business-listings",
+  "title": "Claimable Business Listings",
+  "text": "\n## Claimable Business Listings\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000028644\nStart generating passive revenue with the Claimable Business Listing Add-On. This tool converts imported business data into paying members – a strategy used by Yelp  and Yellow Pages.\nWhen they find their business profile on the website, they can pay the website to CLAIM that listing and take over the account and add more relevant information about their business.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Claimable Business Listings Add-On\n\n## Using the Add-On\nThe list of documents below provide a detailed guide on how to use Claimable listings\nThe Ultimate Guide To Claim Listings - Part 1\nThe Ultimate Guide To Claim Listings - Part 2\nThe Ultimate Guide To Claim Listings – Part 3\nHow Do I Manage Leads Sent To Claim Listings?\nVIDEO: Claimable Business Listings - Best Practices & Use Cases Highly Recommended\nVIDEO: Claimable Business Listings - Best Practices & Use Cases Highly Recommended\n\n## Create the Claim Listing Plan\nFinance >> Membership plans >> Click on Membership plan + :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093124980/original/ind8flifK2LKK9AtuUnt5biVnFjxj-7PLA.png?1621956317 | alt: ]\nFor this new membership plan, add a title, in this example, call it \" My Claim Listings \" because it is just a placeholder, a vessel to group our Claim Listing Members.\n\n## Set up Claim Account Type\nOn the Sign Ups & Upgrades select under Account Type : \" Claim \"\n\n## Claim Listing Web Link\nThe Claim Listing Web Link setting is used to specify the URL that the \" Claim Listing \" button will lead to when the user claiming the listing click on that button, they will be redirected to the link specified in the plan settings, by default this will link to the /Join Page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109049937/original/Ffs1NDn7UL_7L3UwllQfrkv7UcuxxeduYg.png?1652749560 | alt: ]\n\n## \" Make a Connection\" / \"Claim Listing\" Banner Position\nOn the Profile Page tab on the Membership plan settings there is a setting  \" Make a Connection\" / \"Claim Listing\" Banner Position to determine the positioning of the claim listing banner, the options are: - Above Profile Photo - Below Profile Photo - Hide - Do Not Display\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140980454/original/X3IdEKa4kho7Yg2SJdsAHlmpmklvocEZ7Q.png?1711816313 | alt: ]\nThis is how the Claim listing would show in the member profile:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160598287/original/-T_gRJS1TcDHiQQFzueqYTnItW-IVd04kw.png?1745942567 | alt: ]\nWhen the Account type is set to Claim both setting below are disabled as members cannot sign up to a claim listing membership plan.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160598708/original/237SzuuMTX50T2gjJwHqLVpN1ZUgm6dpCQ.png?1745943019 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160598676/original/RA668ER_6zxR0wi9QWOIlwDwb0IR4OK-cQ.png?1745942991 | alt: ]\nWhen the account type is saved as \"Claim\", the system will show with the \"Sign-Up Page\" URL disabled.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093124823/original/wL5-qJr0czg3JLOP_56R1jz3HpDL3sbuZA.png?1621956133 | alt: ]\nSo now we have the Claim Listings Plan:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125216/original/6d_eUFGMpBeeSjNP4QHFOXYf12TUxfAuUQ.png?1621956507 | alt: ]\n\n## Assign the Claim Listing Plan when Importing\nIMPORTANT\nIt is not necessary to add an email to the import file because the system will auto-generate emails for them.\nIf the admin does not know how to format the CSV import file please check the following resource Importing Members Via CSV file .\nOnce the import file is ready to be imported, the admin must do the following so the claim listing members are in the proper membership level.\nGo to Members >> Import Members >> Import CSV File:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125643/original/yJpPkivbrsEOJZxGRoeuyovJm5vFqT2nkg.png?1621956881 | alt: ]\nThen select the membership plan \"My Claim Listings\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125691/original/xIuXtx7-BNWysYiSHP_AEeGtho_W9SPHtw.png?1621956932 | alt: ]\nNow go to Finance >> Membership Plans to view the claim listing members:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125754/original/2qnm6V1Feqg5vOfnL0by_fD8o_44b2WBBg.png?1621957024 | alt: ]\n\n## Members Claim Their Listing\nGo to Members >> Search Members >> Click on Actions >> View Live Profile:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125857/original/J7fmXUEbfE2RuMAnzwhYddXlZu3FdwU9dg.png?1621957141 | alt: ]\nNow the admin can see that there is a Claim Listing message, the prospective member will need to click the Claim Listing button to claim their listing:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125884/original/ubX4WRQND17mYdHZv2vNZLej7E6eY0sSzQ.png?1621957184 | alt: ]\nOnce they clicked the button, the system will take them to the pricing page to select the Membership Level or Product, that they would like to acquire on the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090402346/original/VidAVnGVZmH6pCgCflFCEWgZV4746SlTJg.png?1616564193 | alt: ]\nThe website will take them to a secure page to add their email and password:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125939/original/3JnG8BM3pwYSUa9_Hb_ix9iFKRKKF_QO9Q.png?1621957259 | alt: ]\nLastly, they can add all of their details to their profile:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093126004/original/tkoDNa9FmLrFb_VrBhYOqOJjtes5lkkcbA.png?1621957327 | alt: ]\n\n## Send Claim Email\nThere's no premade email template that will invite users to claim their profile. But this can be easily created in the Emails » Email Templates » New Email Template .\nTo add a link that will take the user directly to their profile page use the following:\n%protocol_website_url%/%filename%\nOnce the email template is ready it can be selected in the newsletter tool: Emails » Send Newsletter » New Email Newsletter\nTo get recommendations on how to proceed with an email campaign for Claim Listings, please refer to the following article:\nThe Ultimate Guide To Claim Listings – Part 3",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093124980/original/ind8flifK2LKK9AtuUnt5biVnFjxj-7PLA.png?1621956317",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109049937/original/Ffs1NDn7UL_7L3UwllQfrkv7UcuxxeduYg.png?1652749560",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140980454/original/X3IdEKa4kho7Yg2SJdsAHlmpmklvocEZ7Q.png?1711816313",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160598287/original/-T_gRJS1TcDHiQQFzueqYTnItW-IVd04kw.png?1745942567",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160598708/original/237SzuuMTX50T2gjJwHqLVpN1ZUgm6dpCQ.png?1745943019",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160598676/original/RA668ER_6zxR0wi9QWOIlwDwb0IR4OK-cQ.png?1745942991",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093124823/original/wL5-qJr0czg3JLOP_56R1jz3HpDL3sbuZA.png?1621956133",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125216/original/6d_eUFGMpBeeSjNP4QHFOXYf12TUxfAuUQ.png?1621956507",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125643/original/yJpPkivbrsEOJZxGRoeuyovJm5vFqT2nkg.png?1621956881",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125691/original/xIuXtx7-BNWysYiSHP_AEeGtho_W9SPHtw.png?1621956932",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125754/original/2qnm6V1Feqg5vOfnL0by_fD8o_44b2WBBg.png?1621957024",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125857/original/J7fmXUEbfE2RuMAnzwhYddXlZu3FdwU9dg.png?1621957141",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125884/original/ubX4WRQND17mYdHZv2vNZLej7E6eY0sSzQ.png?1621957184",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090402346/original/VidAVnGVZmH6pCgCflFCEWgZV4746SlTJg.png?1616564193",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093125939/original/3JnG8BM3pwYSUa9_Hb_ix9iFKRKKF_QO9Q.png?1621957259",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093126004/original/tkoDNa9FmLrFb_VrBhYOqOJjtes5lkkcbA.png?1621957327",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7d5bcfed13f5ef6b9cbb1b14815106f729b7eda8bc02d15be73cab0b0c103073",
+  "ingested_at": "2026-10-17T14:35:07.240815+00:00"
+}

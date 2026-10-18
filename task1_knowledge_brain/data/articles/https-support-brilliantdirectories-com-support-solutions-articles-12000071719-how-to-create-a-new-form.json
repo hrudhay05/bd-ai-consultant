@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000071719-how-to-create-a-new-form",
+  "title": "How To Create A New Form",
+  "text": "\n## How To Create A New Form\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000071719\nIn this article, we will be going over the process of how to create a new form.\nTo accomplish this, navigate to Toolbox >> Form Manager and click on the \" New Form + \" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819450/original/QsVH_eFi7yL2-x1ubI7sdRgzfoI23rEGdg.png?1761872301 | alt: ]\nWhen clicked, the system will display a pop-up where the new Form Nickname and Form Variable Name can be added:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090908384/original/q4z_nocpsI8kXlnu1-ECcCEq4vslS0rPFg.png?1617652366 | alt: ]\nSome Rules Regarding the Form Nickname and Form Variable Name :\n- Form Nickname has to be unique, meaning that it should not match an existing form\n- Only spaces, \"-\" and \"_\" will be accepted in the Form Nickname\n- Form Variable Name needs to be at least 3 characters\n- Only lowercase characters and \"_\" will be accepted for Form Variable Name\nWhen clicking on Save & Continue, the system will display this newly created form with some default fields:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129558429/original/9q6mpD2KKa3WPWgQnSMKgWRE6jy8k2VGdQ.png?1691509640 | alt: ]\nThe new form is then launched and comes with 9 basic fields:\nTitle\nName\nEmail\nPhone\nMessage/Text Area\nGDPR Consent Checkboxes ( How To Enable )\nRecaptcha\nHoneypot (Protects against SPAM)\nSubmit Message Button\nImportant Note: As default, this new form will have the same \"Form Settings\" as the Contact Us form so submitting it will add the submitted data to the Emails >> Form Inquiries\nAdditional Information:\n» How To Embed a Form in a Web Page\n» Emails » Form Inquiries\nThe form can be further customized by adding, removing, or editing the existing fields:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097279052/original/3sHiq_-k6G4ge7LjjHrXaTqduIT8Cklz7Q.png?1629824475 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819450/original/QsVH_eFi7yL2-x1ubI7sdRgzfoI23rEGdg.png?1761872301",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090908384/original/q4z_nocpsI8kXlnu1-ECcCEq4vslS0rPFg.png?1617652366",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129558429/original/9q6mpD2KKa3WPWgQnSMKgWRE6jy8k2VGdQ.png?1691509640",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097279052/original/3sHiq_-k6G4ge7LjjHrXaTqduIT8Cklz7Q.png?1629824475",
+      "alt": ""
+    }
+  ],
+  "content_hash": "8dc3188f5dadb7ee8413b061154a707d5a28ee45bf080899bc4f5f3f94a5ac9b",
+  "ingested_at": "2026-10-17T14:46:37.909214+00:00"
+}

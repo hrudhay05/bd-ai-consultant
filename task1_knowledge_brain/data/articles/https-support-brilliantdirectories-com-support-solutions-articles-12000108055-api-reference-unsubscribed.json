@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108055-api-reference-unsubscribed",
+  "title": "API Reference - Unsubscribed",
+  "text": "\n## API Reference - Unsubscribed\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108055\n← Back to API Reference | Getting Started\n\n## Unsubscribe List\nTracks email addresses that have opted out of receiving emails. Addresses on this list are left out of newsletters and automated email campaigns. Transactional template emails, such as welcome, verification and notification emails, are still sent to them.\n\n## The Unsubscribe Record Object\nField Type Description id integer Unique record ID (primary key, read-only) email string Email address that has unsubscribed required on create code text Source of unsubscribe: admin , email , or api type string Type of unsubscribe (e.g. unsubscribe ) date string Date unsubscribed (format: YYYYMMDDHHmmss ) — auto-set on create definitive integer 1 for permanent unsubscribe, 0 for standard website_id integer Website ID — auto-set on create\n\n## List Unsubscribe Records\n\n## Retrieve an Unsubscribe Record\n\n## Create an Unsubscribe Record\nAdds an email address to the unsubscribe list. The date , code , and website_id fields are set automatically.\n\n## Update an Unsubscribe Record\n\n## Delete an Unsubscribe Record\nRemoves an email from the unsubscribe list, re-enabling emails to that address.",
+  "images": [],
+  "content_hash": "ee0d1fb02ceaa51595ca845c0d37745446ad33a9af1b5e7141dd37676d5fece3",
+  "ingested_at": "2026-10-17T15:39:25.030805+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000107674-my-support-tickets",
+  "title": "My Support Tickets",
+  "text": "\n## My Support Tickets\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000107674\nThe My Support Tickets section keeps every support conversation organized in one place, making it easy to review past requests, track what changed, and see the latest status at a glance. Each ticket captures the subject, recent activity, and current state, so ongoing issues stay clear, searchable, and tied to the right website or account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174889650/original/xwiwyVtAnC_xjhEh657oRFntAqVa2Cd1hw.png?1771472772 | alt: ]\n\n## Support Hours\nSupport is available Monday–Friday, 8am–6pm (New York Time) . On weekends, support is limited, so response times may be a bit longer depending on volume and complexity.\n\n## + New Ticket\nUse this button to create and submit a new ticket for help with any website question or issue. For step-by-step instructions, see: How to Submit a Support Ticket\n\n## Support Ticket Filters\nSupport Ticket Filters make it easy to narrow the ticket list by status or keyword, so the right conversation can be found faster.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174890023/original/q8Nik727o--3K4Kq06CXX2oMeliYxueqRw.png?1771473688 | alt: ]\n\n## Status\nA filter control used to narrow the ticket list by ticket status (e.g., open, closed, pending).\n\n## Keyword\nA filter control used to narrow the ticket list by ticket status (e.g., open, closed, pending).\n\n## Tickets List\nThe main module that displays tickets in a structured list for quick scanning and sorting.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174890047/original/cKg0b_B3bNMrwqPIQT1BaQ2-t8ojio3-iQ.png?1771473704 | alt: ]\n\n## Last Activity\nShows the most recent activity timestamp for each ticket (useful for tracking recency and updates).\n\n## Subject\nDisplays the ticket subject/title as the main identifier for the request (often clickable to open details).\nAlso shows additional identifiers beneath (e.g., ticket number and related website/account reference).\n\n## Status\nIndicates the current ticket state (shown as a labeled pill, such as Closed).\n\n## Actions\nContains the available action(s) for the ticket (most commonly a View button to open the ticket thread/details).\n\n## View Tickets\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174962339/original/Q5TgQ5g4LYJmzX0fOQ3UgQ8XuwIBX9C8Kw.png?1771599189 | alt: ]\n\n## New Ticket\nThis is the original ticket that started the thread.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174965413/original/WGmUF3gXWWebNUQMEYv8NwQfEawy1KXMwA.png?1771602015 | alt: ]\nDisplays the ticket subject at the top of the thread.\nShows which website the ticket is associated with.\nDisplays the unique ticket reference number for tracking.\nShows when the ticket was created (or logged) in the system.\nShows the current ticket status (example: Closed).\nMarks the first message that created the ticket.\nDisplays the full conversation history for the ticket in chronological order.\nDisplays any files included with a message, along with the file name and size.\n\n## Ticket Replies\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174966631/original/6mfr6KTyfzUXLpCQXQUPQMrUnri6s2Lfkw.png?1771603182 | alt: ]\nHighlights the latest reply in the thread.\nEach message shows the sender, timestamp, and the message content.\nProvides quick feedback options for the most recent support response (Yes / Kind of / No).\n\n## Additional Replies\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174966536/original/rNRq4U9hLiuO0Ytz_QUPfSKAUrdzw5DPmA.png?1771603107 | alt: ]\nOpens the reply composer to add a new message to the ticket.\nBasic formatting controls for the reply message.\nText area for entering the reply content.\nUpload area for adding files to the reply (max 20MB).\nSubmits the reply and any attachments to the ticket thread.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174889650/original/xwiwyVtAnC_xjhEh657oRFntAqVa2Cd1hw.png?1771472772",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174890023/original/q8Nik727o--3K4Kq06CXX2oMeliYxueqRw.png?1771473688",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174890047/original/cKg0b_B3bNMrwqPIQT1BaQ2-t8ojio3-iQ.png?1771473704",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174962339/original/Q5TgQ5g4LYJmzX0fOQ3UgQ8XuwIBX9C8Kw.png?1771599189",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174965413/original/WGmUF3gXWWebNUQMEYv8NwQfEawy1KXMwA.png?1771602015",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174966631/original/6mfr6KTyfzUXLpCQXQUPQMrUnri6s2Lfkw.png?1771603182",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174966536/original/rNRq4U9hLiuO0Ytz_QUPfSKAUrdzw5DPmA.png?1771603107",
+      "alt": ""
+    }
+  ],
+  "content_hash": "0d9a0872ba6c500c62c6fff470397052ad533416548e93906de19442484f5358",
+  "ingested_at": "2026-10-17T15:38:49.787214+00:00"
+}

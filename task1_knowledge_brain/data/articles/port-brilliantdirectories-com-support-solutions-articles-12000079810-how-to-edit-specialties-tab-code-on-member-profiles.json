@@ -1,0 +1,61 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000079810-how-to-edit-specialties-tab-code-on-member-profiles",
+  "title": "How To Edit Specialties Tab Code on Member Profiles",
+  "text": "\n## How To Edit Specialties Tab Code on Member Profiles\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000079810\nThe Specialties tab must be enabled for the specific Membership Plan to appear on live profiles. This setting is located under Finance » Membership Plans » Edit » Profile Page » Show \"Specialties\" Tab .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180115359/original/pIUSklp7BRmqe3DzBllPJe9BSyoqPJtR0g.png?1781005584 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093193014/original/3lKbCuI3p4OmY9CM5pU9vaz3cNn_EkwQwA.png?1622054077 | alt: ]\nSome aspects of this section can be edited by navigating to My Members >> Member Categories >> Edit Specialities Tab Code under the Member Category Actions dropdown:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252796/original/JrC-0hGhegf5VY45jw8Dptt1pETFa2sggw.png?1764552534 | alt: ]\nClicking on this will display a pop-up where Post Type Name can be edited:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094430744/original/DVnwDxOd3VILzFj_5qdR-RZ74nABlhyi2w.png?1624363120 | alt: ]\nThe value entered into the Post Type Name field automatically applies a plural format on the profile page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093193438/original/aSk0HgR6uK2Tl_TvHrdKdJRdzil6BxbJQw.png?1622054752 | alt: ]\nTo use a specific custom title or control the exact phrasing without automatic pluralization, utilize the Profile Page Tab Title field instead.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094430773/original/rWYxygp74hX2sEcd9aysnyRrSMYIyPZAGw.png?1624363141 | alt: ]\nProfile Page Tab Order option controls the display order of tabs in search results and other section where multiple data categories are displayed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094430785/original/z4t3Qe2WyctUpmfNd2XkPUTLHB7Sk2zhlg.png?1624363153 | alt: ]\nSite owner can decide on how many categories will be displayed by changing the value in Number of Posts Displayed in Tab setting:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094430793/original/JW7HHp4EvpXI81JWurlA1e8CS-HgOBe-xw.png?1624363164 | alt: ]\nWhen clicked on Click to View/Edit Code button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094430815/original/Y61Uj4CfzOlqyYjrQMAHUruSFJJMlTEuaw.png?1624363191 | alt: ]\nThe system will display the default version of the code down below where it can be customized if needed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094776819/original/6TBrrfVFTs8QaQ8q7FJgzOuq5ww9v5hYPA.png?1624972636 | alt: ]\nWe would not recommend making any changes in the sections shown above to avoid any technical issues.\nIf changes are made to the sections above, it is possible to restore the code to its default version anytime by selecting Member Specialities option and clicking on Restore button after:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094789559/original/4zlwNW0s7MImniGyJGX0ZTkeeWK9BsjiVg.png?1624984933 | alt: ]\nThis will display a pop-up for further confirmation:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093193818/original/-jDLfHgh5OI3NQmNkwb1tP9g9K0GE2LqWA.png?1622055408 | alt: ]\nAfter the confirmation, make sure to click on Save Changes :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094789596/original/4BuCq_KrLSi9Kz1sqztSZJw--qlofLWeqg.png?1624985034 | alt: ]\nIMPORTANT NOTE : Restoring the Default Code will replace all of the code above with the most recent default code, and any customizations to the code will be lost. Once this change has been saved, it cannot be reverted.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180115359/original/pIUSklp7BRmqe3DzBllPJe9BSyoqPJtR0g.png?1781005584",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093193014/original/3lKbCuI3p4OmY9CM5pU9vaz3cNn_EkwQwA.png?1622054077",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252796/original/JrC-0hGhegf5VY45jw8Dptt1pETFa2sggw.png?1764552534",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094430744/original/DVnwDxOd3VILzFj_5qdR-RZ74nABlhyi2w.png?1624363120",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093193438/original/aSk0HgR6uK2Tl_TvHrdKdJRdzil6BxbJQw.png?1622054752",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094430773/original/rWYxygp74hX2sEcd9aysnyRrSMYIyPZAGw.png?1624363141",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094430785/original/z4t3Qe2WyctUpmfNd2XkPUTLHB7Sk2zhlg.png?1624363153",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094430793/original/JW7HHp4EvpXI81JWurlA1e8CS-HgOBe-xw.png?1624363164",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094430815/original/Y61Uj4CfzOlqyYjrQMAHUruSFJJMlTEuaw.png?1624363191",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094776819/original/6TBrrfVFTs8QaQ8q7FJgzOuq5ww9v5hYPA.png?1624972636",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094789559/original/4zlwNW0s7MImniGyJGX0ZTkeeWK9BsjiVg.png?1624984933",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093193818/original/-jDLfHgh5OI3NQmNkwb1tP9g9K0GE2LqWA.png?1622055408",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094789596/original/4BuCq_KrLSi9Kz1sqztSZJw--qlofLWeqg.png?1624985034",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f4d437ea8c89b92245bbd5a6e1d5d4e307160373ae49e551408173fd02df8b5e",
+  "ingested_at": "2026-10-17T14:50:16.674383+00:00"
+}

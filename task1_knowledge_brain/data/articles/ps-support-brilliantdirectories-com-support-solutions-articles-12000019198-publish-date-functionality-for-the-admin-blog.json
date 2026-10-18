@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000019198--publish-date-functionality-for-the-admin-blog",
+  "title": "\"Publish Date\" Functionality For The  Admin Blog",
+  "text": "\n## \"Publish Date\" Functionality For The  Admin Blog\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000019198\n\n## What Is A Publish Date?\nA publish date allows to set a future post date for the admin blog articles. Some users prefer to add multiple articles to their blog in one session, but do not want the articles to get published at the same time, nor do they want to log back in to \"Publish\" an article and make it live on their website.\nWith the \"Publish Date\" functionality website admins can now set the date they wish articles to be published on their website.\nImportant: This functionality is exclusively supported for the \"Admin Blog\" feature (the feature which uses the \"Feature - Blog Articles\" form). The primary reason this is not available to the member blog feature is that members would be able to cheat the system and re-publish articles allowing their articles to always show first on the website.\n\n## How To Set A Future Publish Date For An Admin Blog Post\nTo set a future publish date for the admin blog articles please follow these instructions:\nGo to My Members - Search Members\n\"Login\" as the admin blog contributor or whichever member has access to the \"Blog\" post type\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276773/original/UdAHjmVHg5b_4ik99MfFJHJ0Hhz1aTHxPw.png?1616332474 | alt: ]\nClick on \"Add Blog Article\"\nSet the article to \"Publish\" - \"Yes\". Remember, if the blog has been set to a future publish date, the article will not go live until the publish date.\nTo set a Publish Date click on the \"Publish Date\" field to open up the calendar.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276820/original/-2aG7HetPuC3E9OKBAtuRVXZeZ2xFv_pPA.png?1616332757 | alt: ]\nSelect the desired date to have the article published on the website:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276827/original/9WZp-f6nyxqxaiGLVU6hlv8bmuR-_M8FUQ.png?1616332811 | alt: ]\nAdd the content of the article\nClick on \"Save Changes\"\n\n## How Does The System Allow The Publish Date To Work With The Blog Feature?\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276856/original/c7A50z4JK9p9CtfeI4w0gziBloDppRJdVg.png?1616332951 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12010569801/original/blob1476134146080.png?1476134173 | alt: blob1476134146080.png]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276889/original/M2LUd-Dmxmb6WCtYhf9JobG3kz2Q4X9Q0A.png?1616333038 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276773/original/UdAHjmVHg5b_4ik99MfFJHJ0Hhz1aTHxPw.png?1616332474",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276820/original/-2aG7HetPuC3E9OKBAtuRVXZeZ2xFv_pPA.png?1616332757",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276827/original/9WZp-f6nyxqxaiGLVU6hlv8bmuR-_M8FUQ.png?1616332811",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276856/original/c7A50z4JK9p9CtfeI4w0gziBloDppRJdVg.png?1616332951",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12010569801/original/blob1476134146080.png?1476134173",
+      "alt": "blob1476134146080.png"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276889/original/M2LUd-Dmxmb6WCtYhf9JobG3kz2Q4X9Q0A.png?1616333038",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c71746dae95fb80dc81aacbb7c094a63d3b2684e180035ad185a8146a76bf0c5",
+  "ingested_at": "2026-10-17T14:33:49.773295+00:00"
+}

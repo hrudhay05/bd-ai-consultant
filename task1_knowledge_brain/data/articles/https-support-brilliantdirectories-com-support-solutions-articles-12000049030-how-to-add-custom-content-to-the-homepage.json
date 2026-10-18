@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000049030-how-to-add-custom-content-to-the-homepage",
+  "title": "How to Add Custom Content to the Homepage",
+  "text": "\n## How to Add Custom Content to the Homepage\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000049030\nThis article explains how to add custom content sections to the homepage using the homepage design settings.\nCustom homepage content sections can be used to display text, images, buttons, forms, widgets, shortcodes, or other custom content on the homepage.\n\n## Overview\nThe homepage includes custom content sections that can be enabled and edited from the Design Settings.\nThere are 10 available custom content sections:\nCustom Content 1\nCustom Content 2\nCustom Content 3\nCustom Content 4\nCustom Content 5\nCustom Content 6\nCustom Content 7\nCustom Content 8\nCustom Content 9\nCustom Content 10\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183042919/original/dgRmBBhdnJ5BNtdErJRfYb6CGlefIW_a9A.gif?1785773659 | alt: ]\nEach custom content section can be added to the homepage layout and edited separately.\n\n## Common Uses for Custom Homepage Content\nCustom content sections can be used to add extra content to the homepage without editing the website code.\nCommon examples include:\nWelcome text\nHomepage announcements\nButtons or call-to-action sections\nImages or banners\nNewsletter signup forms\nCustom widgets\nEmbedded feeds or scripts\nFeatured member sections\nPromotional content\nAdditional homepage text for SEO\n\n## Step 1: Open the Homepage Design Settings\nGo to Settings >> Design Settings .\nClick the Homepage tab.\nFind the Select Content to Display section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183043103/original/ik_-8HhX66Iq-R0lPXD64bPBtHltJcLQow.png?1785773871 | alt: ]\n\n## Step 2: Select a Custom Content Section\nIn the Select Content to Display area, select one of the available custom content sections.\nFor example:\nCustom Content 1\nCustom Content 2\nCustom Content 3\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183043205/original/2zCpPhNFSJIWM_qhl-r6kEqXytL1_4fppA.png?1785773955 | alt: ]\nThe selected custom content section will be added to the homepage layout.\n\n## Step 3: Edit the Custom Content Section\nAfter selecting the custom content section, click Edit Settings .\nThe content editor will open. Use the Froala editor to add or edit the content that should display in this homepage section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183043278/original/mcBGk0Xr7U-rCBcR3oM4MM8mF6tnAgJ5_g.png?1785774021 | alt: ]\nContent can include:\nText\nImages\nLinks\nButtons\nTables\nHTML\nWidget shortcodes\nForm shortcodes\nFor more information about the editor, see the following article:\nEverything About Froala WYSIWYG Text Editor\n\n## Step 4: Save the Custom Content\nAfter the custom content has been added:\nReview the content in the editor.\nClick Save Changes .\nThe custom content section will now be saved.\n\n## Step 5: View the Homepage\nAfter saving the changes, visit the homepage on the front end of the website.\nConfirm that the custom content section displays in the selected area of the homepage layout.\n\n## Add a Widget to a Custom Homepage Section\nWidgets can be added to custom homepage sections using widget shortcodes.\nWidget shortcodes use this format:\nExample:\nTo add a widget to the homepage, paste the widget shortcode into the custom content editor and save the changes.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183044111/original/ztFiv-UYL5-zhPRb0FWAj6xOspSCac5T6g.png?1785774569 | alt: ]\nFor more information, see the following article:\nHow to Call a Widget on a Custom Page\n\n## Add a Form to a Custom Homepage Section\nForms can also be added to custom homepage sections using form shortcodes.\nForm shortcodes use this format:\nExample:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183044119/original/fEWGons3NjgfZ5qkeciLMiIST74Wl_1xlg.png?1785774582 | alt: ]\nTo add a form to the homepage, paste the form shortcode into the custom content editor and save the changes.\n\n## Editing Custom Content 1 from the Web Page Builder\nThe homepage can also be edited from the front end using the Frontend Admin Manager Menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183044168/original/WHJY9WBCxgGEkUy-9MkOxektYFiIaU_y1A.png?1785774649 | alt: ]\nAny content added to the Homepage web page will display when Custom Content 1 is selected in the homepage content display settings.\nThis means Custom Content 1 can be managed through the Homepage web page content area, while the other custom content sections are managed through the homepage design settings.\n\n## Important Notes\nThere are 10 available custom content sections for the homepage.\nEach custom content section can be edited separately.\nCustom content sections can include text, images, buttons, forms, widgets, shortcodes, or HTML.\nCustom Content 1 can also display content added to the Homepage web page.\nAfter saving changes, view the homepage on the front end to confirm the content displays correctly.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183042919/original/dgRmBBhdnJ5BNtdErJRfYb6CGlefIW_a9A.gif?1785773659",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183043103/original/ik_-8HhX66Iq-R0lPXD64bPBtHltJcLQow.png?1785773871",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183043205/original/2zCpPhNFSJIWM_qhl-r6kEqXytL1_4fppA.png?1785773955",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183043278/original/mcBGk0Xr7U-rCBcR3oM4MM8mF6tnAgJ5_g.png?1785774021",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183044111/original/ztFiv-UYL5-zhPRb0FWAj6xOspSCac5T6g.png?1785774569",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183044119/original/fEWGons3NjgfZ5qkeciLMiIST74Wl_1xlg.png?1785774582",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12183044168/original/WHJY9WBCxgGEkUy-9MkOxektYFiIaU_y1A.png?1785774649",
+      "alt": ""
+    }
+  ],
+  "content_hash": "eee31cbf3f0883f9d9ff7a12110fb08eb686def35e1b11a664cba0a9946261de",
+  "ingested_at": "2026-10-17T14:40:25.895438+00:00"
+}

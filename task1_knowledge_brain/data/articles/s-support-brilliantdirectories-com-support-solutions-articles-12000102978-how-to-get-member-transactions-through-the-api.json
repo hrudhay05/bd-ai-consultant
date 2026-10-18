@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000102978-how-to-get-member-transactions-through-the-api",
+  "title": "How to Get Member Transactions Through the API",
+  "text": "\n## How to Get Member Transactions Through the API\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000102978\nIn this article, we will be going over how to Read members transactions using the Transactions API .\nWhat this API endpoint allows to do is to gather transaction information from 1 member at the time.\n\n## How to get member transactions\nThe Transactions API leverages a single parameter (member ID or Client ID) to retrieve  all the transactions data.\n/api/v2/user/transactions\n\n## Parameters\nOnly 1 parameter is needed to run the API: It can either be the Member ID or the Client ID (The id of the tblclients table in the billing database)\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155074571/original/8I7THGaWkNr-05Z_DSDqURzJL_U--yyikA.png?1736357334 | alt: ]\n\n## Example with Postman\nSending the member ID as the parameters\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155074957/original/5OV_qtgI9_7Wr3OcoEz1zNS6lgTjvVoMlA.png?1736357559 | alt: ]\nThe results will show all transactions from that particular member in a Json Array format:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155075063/original/D7bBQS4Itt1Mwq2wUYMro4u8CRgQZTsUFw.png?1736357644 | alt: ]\nIt will also show the payment methods partial details.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173636751/original/c-BejdCvb8gKdn3oBWxC_zLrrnchwEc6tg.png?1769094041 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155074571/original/8I7THGaWkNr-05Z_DSDqURzJL_U--yyikA.png?1736357334",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155074957/original/5OV_qtgI9_7Wr3OcoEz1zNS6lgTjvVoMlA.png?1736357559",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155075063/original/D7bBQS4Itt1Mwq2wUYMro4u8CRgQZTsUFw.png?1736357644",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173636751/original/c-BejdCvb8gKdn3oBWxC_zLrrnchwEc6tg.png?1769094041",
+      "alt": ""
+    }
+  ],
+  "content_hash": "b5ead4b9742523a12f758dde1b85543650444addc329581147e92e5d9d2ae88d",
+  "ingested_at": "2026-10-17T15:33:32.283921+00:00"
+}

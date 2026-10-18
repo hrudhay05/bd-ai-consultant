@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000085369-quarterly-cpanel-updates",
+  "title": "Quarterly cPanel Updates",
+  "text": "\n## Quarterly cPanel Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000085369\n\n## cPanel Updates\ncPanel updates include a variety of security, bug and feature updates to the server software and the cPanel interface. These updates generally include new features, bug fixes, kernel updates, critical security updates and new versions of included software packages that manages the server itself.\nThese updates will run every 3 months on the 18th of the month. The script is set to run on Eastern Standard Time.\nThe schedule is as follows:\n2025-03-18 00:00:00\n2025-06-18 00:00:00\n2025-09-18 00:00:00\n2025-12-18 00:00:00\n2026-03-18 00:00:00\n2026-06-18 00:00:00\n2026-09-18 00:00:00\n2026-12-18 00:00:00\nThe admin will display a banner when this is taking place:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104130826/original/l-e0Mj2jq2Fr_oiEYncGomHCXm9RKB96nQ.png?1643126581 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104130826/original/l-e0Mj2jq2Fr_oiEYncGomHCXm9RKB96nQ.png?1643126581",
+      "alt": ""
+    }
+  ],
+  "content_hash": "cc04861128e547fa665b6778744736af2a6c67e29a938038f5a6aef4aada549d",
+  "ingested_at": "2026-10-17T14:59:20.028862+00:00"
+}

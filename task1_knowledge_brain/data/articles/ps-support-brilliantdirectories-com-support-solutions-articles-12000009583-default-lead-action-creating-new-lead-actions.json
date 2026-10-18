@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000009583-default-lead-action-creating-new-lead-actions",
+  "title": "Default Lead Action & Creating New Lead Actions",
+  "text": "\n## Default Lead Action & Creating New Lead Actions\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000009583\nThis documentation is exclusively for the \" Advanced Leads Package \":\n» Automatic Lead Matching Add-On\nTo learn about what a \"Lead Action\" is, please click here .\nThe following articles covers the \" Default Action \" as well as how to create a custom \" Lead Action \".\n\n## The Default Lead Action\nEvery Brilliant Directories website is launched with the Default Lead Action. This action can't be deleted, and is applied to all of the membership levels.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162150059/original/jmzfUsztmoIM7edvi84OfqqtttyY7HEMoA.png?1748743366 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162150062/original/XOX3_tiLvIdeCAqsH7wt-8aNlARu5znlTA.png?1748743376 | alt: ]\n\n## Creating A Custom Lead Action\nCreate an exemption for a specific membership level by creating a custom Lead Action.\nTo create a custom lead action please follow one of these 2 steps:\nGo to Leads » Lead Settings » +Create New Workflow :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087039304/original/hSUtS3B_aVbBRPiOdJf6bOpTLfSPCVXWRg.png?1609857810 | alt: ]\nOr click on \" Add Another Action + \" inside the Auto-Match Workflows screen:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162150810/original/Ubc4-okxyeHwlgHO28fTSHGNMJviIGo07A.png?1748746968 | alt: ]\nA pop-up will appear, now fill out the New Action. Specifically the following three things:\nAction Name\nIs this Action Active?\nApply Action To Membership Plans\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162150845/original/49GGODPMWtEQLuzUYOupy2TFmsvz2urgSw.png?1748747025 | alt: ]\nNow the New Action will appear within the Lead Settings:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162150875/original/lRLWu_dioRIuXYOxCJgdkHAnm7hCNPZk7A.png?1748747101 | alt: ]\nIt is also possible to delete an unwanted Action within the \" Actions \" drop-down:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087039494/original/pVKDDfYImCpP-nJAQmpTRC-gcT-ZRUOh5A.png?1609858025 | alt: ]\n\n## Available Settings within these Actions\nBoth the default and custom actions have the same settings detailed below.\n\n## Form Settings\n» Leads » Lead Settings » General Settings » Form Settings\n\n## Receiving Direct Leads\n» Leads » Lead Settings » Receiving Direct Leads Settings\n\n## Receiving Indirect Leads\n» Lead Settings » Receiving Indirect Leads (Automatic Lead Matching)\n\n## Additional Notifications\n» Leads » Lead Settings » Additional Notifications Settings\n\n## Edit Advanced Lead Settings\n» How Does Auto-Matching Work? (Edit Advanced Lead Settings)",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162150059/original/jmzfUsztmoIM7edvi84OfqqtttyY7HEMoA.png?1748743366",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162150062/original/XOX3_tiLvIdeCAqsH7wt-8aNlARu5znlTA.png?1748743376",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087039304/original/hSUtS3B_aVbBRPiOdJf6bOpTLfSPCVXWRg.png?1609857810",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162150810/original/Ubc4-okxyeHwlgHO28fTSHGNMJviIGo07A.png?1748746968",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162150845/original/49GGODPMWtEQLuzUYOupy2TFmsvz2urgSw.png?1748747025",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162150875/original/lRLWu_dioRIuXYOxCJgdkHAnm7hCNPZk7A.png?1748747101",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087039494/original/pVKDDfYImCpP-nJAQmpTRC-gcT-ZRUOh5A.png?1609858025",
+      "alt": ""
+    }
+  ],
+  "content_hash": "29cc65f787d55bf6b14db9b3e090d51d055fdd6e4066ab50cdfd4daa52221680",
+  "ingested_at": "2026-10-17T14:33:17.728897+00:00"
+}

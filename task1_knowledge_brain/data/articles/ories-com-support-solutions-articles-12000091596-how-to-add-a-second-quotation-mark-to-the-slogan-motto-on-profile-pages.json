@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000091596-how-to-add-a-second-quotation-mark-to-the-slogan-motto-on-profile-pages",
+  "title": "How To Add A Second Quotation Mark To The Slogan/Motto on Profile Pages",
+  "text": "\n## How To Add A Second Quotation Mark To The Slogan/Motto on Profile Pages\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000091596\nBy default, the slogan only has one quotation mark at the beginning. However, there are some website owners that would like to add a quotation mark here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750123/original/K9k1OT7Q8-MHgwNRoTTBqbYfffAiZ9jHyQ.png?1673499905 | alt: ]\nIn order to add it, please go to Settings >> Design Settings >> Custom CSS >> and paste the code below:\n.quote_box::after {\ncontent: \"\";\nbackground-image: url(/images/icon-quote.png);\nposition: absolute;\nwidth: 45px;\nheight: 35px;\nbackground-repeat: no-repeat;\ntransform: rotate(1800deg) scaleX(-1);\nmargin-left: 10px;\n}\nIt should look like this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171375731/original/n-3W2xidqugwhLd4_6RGGx0pTy2Z1Gg4Rg.png?1764712460 | alt: ]\nThe second quote mark will show up on all member profiles:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750111/original/Iqj2me_GtaVk-jI2vmtPdLq_Xiz488GcZw.png?1673499867 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750123/original/K9k1OT7Q8-MHgwNRoTTBqbYfffAiZ9jHyQ.png?1673499905",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171375731/original/n-3W2xidqugwhLd4_6RGGx0pTy2Z1Gg4Rg.png?1764712460",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750111/original/Iqj2me_GtaVk-jI2vmtPdLq_Xiz488GcZw.png?1673499867",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1c739847e1ca0227bc765880b809d567efa73a10b6d1f49b2b7e606ea797dcf5",
+  "ingested_at": "2026-10-17T15:01:44.047743+00:00"
+}

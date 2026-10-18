@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000000876-my-content-media-manager",
+  "title": "My Content » Media Manager",
+  "text": "\n## My Content » Media Manager\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000000876\nThe Media Manager helps keep all of the images and files being used by the Admin neatly stored in one place.\nWithin the Media Manager, the administrator can:\nUpload Images & Files\nCreate Folders\nRename Images & Files\nDelete Images & Files\nIMPORTANT : When using Safari, the cookies must be enabled in the browser. Please see: Enable Cookies in Safari\n\n## How To Upload Images & Files\nOpen My Content > Media Manager .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176443783/original/-0rfoE7wMQNNGz0qB7Si4A7zoveRoqSypg.png?1774366392 | alt: ]\nClick Upload Image or PDF .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176443830/original/6uArjXfb_CBIX2cC8QDsjsg_x-wO03sd2A.png?1774366434 | alt: ]\nClick anywhere within the upload box.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132670574/original/aFatpnkCaNIdHkP7lJaTHb0IDEAI47IytQ.png?1697129338 | alt: ]\nSelect the image or file to upload and click Open .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096049320/original/EosSj0nVtA7mCro2myA1AbuH_oOEOYffZQ.png?1627394131 | alt: ]\nOnce the green check mark appears, click Back To All Media .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096049262/original/ZrfN4E-EnIjy1gWXtXgLtAza6DM1KOk7gw.png?1627394074 | alt: ]\n.doc .docx .eot .epub .gif .ico .jfif .jpg .jpeg .otf .pdf .png .ppt .pptx .rtf .svg .ttf .txt .vcf .webp .woff .woff2 .xls .xlsm .xlsx .xml .json .csv .tsv\n.doc\n.docx\n.eot\n.epub\n.gif\n.ico\n.jfif\n.jpg\n.jpeg\n.otf\n.pdf\n.png\n.ppt\n.pptx\n.rtf\n.svg\n.ttf\n.txt\n.vcf\n.webp\n.woff\n.woff2\n.xls\n.xlsm\n.xlsx\n.xml\n.json\n.csv\n.tsv\n\n## Image & File Options\nHovering over an image reveals several options:\nDownload\nPreview\nRename - How To Rename Images & Files From The Media Manager\nErase - How To Delete Images & Files From The Media Manager\nRight clicking on an image will also reveal additional information:\nFILE INFO includes:\nName\nDimensions\nFile Size\nDate Uploaded\nCopy URL\n\n## Important Note",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176443783/original/-0rfoE7wMQNNGz0qB7Si4A7zoveRoqSypg.png?1774366392",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176443830/original/6uArjXfb_CBIX2cC8QDsjsg_x-wO03sd2A.png?1774366434",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132670574/original/aFatpnkCaNIdHkP7lJaTHb0IDEAI47IytQ.png?1697129338",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096049320/original/EosSj0nVtA7mCro2myA1AbuH_oOEOYffZQ.png?1627394131",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096049262/original/ZrfN4E-EnIjy1gWXtXgLtAza6DM1KOk7gw.png?1627394074",
+      "alt": ""
+    }
+  ],
+  "content_hash": "57fc222bcc41c3bc8c7b5afcd1c2f0de300910843c68e732680a4314110e7f7e",
+  "ingested_at": "2026-10-17T14:08:19.694785+00:00"
+}

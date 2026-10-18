@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000008873-how-to-manually-bill-a-member-create-a-subscription-for-a-member",
+  "title": "How To Manually Bill A Member / Create A Subscription For A Member",
+  "text": "\n## How To Manually Bill A Member / Create A Subscription For A Member\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000008873\nAt any moment, the site can create a subscription (recurring or one-time payment) for a member of the directory. Keep in mind that when someone signs up from the /join page, the system will create the subscription automatically.\nHowever, sometimes the owner wants to change the subscription's amount or create a new subscription.\nThis is also very beneficial if the site is taking external payments (bank transfers, checks, etc.,) instead of accepting direct payments on the site.\n\n## Create a \"New Order\"\nLog in to the admin area and navigate to Members » Search Members. Locate the member and click on Actions » Payment History:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105106940/original/pInDeb5VwGlz-8bFuZUUaykksmMrK8oxoQ.png?1644979731 | alt: ]\nAt the top right, click on the \"New Order\" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796281/original/ZdnS5XRtDWsGJaMnuKpBY4Rf8NpIQkhHHQ.png?1615345132 | alt: ]\nFill out the new order form with the subscription details:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159659893/original/UZcbNfDruWzL6UIv7w3xgamx-L7VcTQdEw.png?1744201826 | alt: ]\nMembership Plan: Select the membership plan of this specific order.\nBilling Cycle: Monthly, Quarterly, Semi-Yearly, and Yearly. (this will depend on the configuration set up in the membership plan)\nPrice Override: Type the new amount for this specific order. Leave this option blank if the membership plan doesn't need to be overridden. Enter a price greater than 0.\nStart Billing On: By default, the system will show today's date. However, it can be modified to any date in the future.\nAdmin Notes : Add notes for the internal team (See example below).\nCreate Order : The system will save and create the order.\nConfirm the order by clicking on the \"Submit Order\" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796427/original/0kcQtZhxXZxlXyNjbik-osTpfhyqmWk_DA.png?1615345656 | alt: ]\nThe page should load automatically and the message \"New Order Created\" will appear with an order summary:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796434/original/O0YWh4Wyw-_02iFYsJr1zA1-FjFOJzwqEg.png?1615345679 | alt: ]\n\n## Card on File\nIf the member had a credit card on file and the date selected was today, then the system should collect the payment.\nTo verify if the money was taken successfully, click on the \"Transactions\" tab and make sure the status of the order says \"Paid\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796451/original/l-H7jn0Eo6jaW3H-t20NFPOjm2bKuqopSA.png?1615345743 | alt: ]\nThis payment can also be verified under Finance » Transaction History:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105106951/original/dFKYKYbVl13mq0LV5KDEZgLfO8KE8vErFg.png?1644979799 | alt: ]\nIf the charge couldn't be attempted or there was no card registered to begin with, this means that the credit on file needs to be updated. The unpaid invoice will appear in the \"Past Due\" tab.\nWhen the member updates the credit card on file, the unpaid invoice can be attempted manually. There is no need to create a new order.\n\n## Manually Collect Payment\nTo attempt the payment manually, click on Actions » Collect Payment:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105106958/original/uCk77Q6lgySpWtLfpotwd41-3U_c9BTL-Q.png?1644979839 | alt: ]\n\n## Cash or Bank Transfer\nIf the member paid the invoice by cash or a bank transfer, the invoice can be Marked as Paid at any moment, removing it from the Past Due list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159662838/original/zntX5WA7tmkmTxyUO1zgdd4ZbVluoxKU_Q.png?1744204627 | alt: ]\n\n## Refunds\nHow to refund a member: How Refunds Work\n\n## Cancel Subscriptions\nHow to cancel orders: How Do I Cancel Payment Subscriptions - Orders .\n\n## Update Existing Subscriptions\nHow to update existing member subscriptions: Updating Member Subscriptions",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105106940/original/pInDeb5VwGlz-8bFuZUUaykksmMrK8oxoQ.png?1644979731",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796281/original/ZdnS5XRtDWsGJaMnuKpBY4Rf8NpIQkhHHQ.png?1615345132",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159659893/original/UZcbNfDruWzL6UIv7w3xgamx-L7VcTQdEw.png?1744201826",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796427/original/0kcQtZhxXZxlXyNjbik-osTpfhyqmWk_DA.png?1615345656",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796434/original/O0YWh4Wyw-_02iFYsJr1zA1-FjFOJzwqEg.png?1615345679",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796451/original/l-H7jn0Eo6jaW3H-t20NFPOjm2bKuqopSA.png?1615345743",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105106951/original/dFKYKYbVl13mq0LV5KDEZgLfO8KE8vErFg.png?1644979799",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105106958/original/uCk77Q6lgySpWtLfpotwd41-3U_c9BTL-Q.png?1644979839",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159662838/original/zntX5WA7tmkmTxyUO1zgdd4ZbVluoxKU_Q.png?1744204627",
+      "alt": ""
+    }
+  ],
+  "content_hash": "cf4d66cef255bff56b516d5ab1ac3d340d20f82b9ac233524c590b9e1eb85698",
+  "ingested_at": "2026-10-17T14:33:04.161439+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000052779-creating-a-folder-in-media-manager",
+  "title": "Creating a Folder in Media Manager",
+  "text": "\n## Creating a Folder in Media Manager\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000052779\nCreating folders within the Media Manager keeps images organized by page or event. The process takes two steps.\n1. Open My Content > Media Manager and click +New Folder .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182910723/original/J2bJVNHPzNe8xVrHLzYOj4iBhMZU9a7cVQ.png?1785487410 | alt: ]\n2. Enter a name in the Insert Folder Name field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079480497/original/9VG6jwPhQk5PbmmLVU4ZrrSvAFLnZfJeAw.png?1593708543 | alt: ]\nIMPORTANT: As a best practice, avoid spaces in folder or file names. Use dashes or underscores instead (for example, event-photos or event_photos ) to prevent broken paths.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079480448/original/2Uq-xw95BOn0jb1rYHSs1HOoSKvMDCVm5A.png?1593708518 | alt: ]\nThe folder is created immediately.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919698/original/MpHMcrOD56Ogk_Lvn3tbAJzBLttMl6eNRg.png?1700856312 | alt: ]\nUploading an image inside a folder follows the same process as uploading an image into the Media Manager.\nAdditional Information\n» Content » Media Manager Upload Image",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182910723/original/J2bJVNHPzNe8xVrHLzYOj4iBhMZU9a7cVQ.png?1785487410",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079480497/original/9VG6jwPhQk5PbmmLVU4ZrrSvAFLnZfJeAw.png?1593708543",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079480448/original/2Uq-xw95BOn0jb1rYHSs1HOoSKvMDCVm5A.png?1593708518",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919698/original/MpHMcrOD56Ogk_Lvn3tbAJzBLttMl6eNRg.png?1700856312",
+      "alt": ""
+    }
+  ],
+  "content_hash": "33ffa0c0560d1c8bcb71b129a4217124c3f208fc6951f47673ca0f06c00d5850",
+  "ingested_at": "2026-10-17T14:41:36.858288+00:00"
+}

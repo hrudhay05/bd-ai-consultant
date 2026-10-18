@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000044938-side-by-side-pricing-plans-how-to-link-membership-plans-to-the-price-matrix",
+  "title": "Side-by-Side Pricing Plans: How to Link Membership Plans to the Price Matrix",
+  "text": "\n## Side-by-Side Pricing Plans: How to Link Membership Plans to the Price Matrix\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000044938\n1. Go to the admin and navigate to Toolbox >> Menu Manager:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541702/original/fF6Rhm7cY9XBfhsnjxeOsWjUR2ug1VVALw.png?1781642173 | alt: ]\n2. To add additional membership plans or edit the existing ones on the /join page, find the \"Pricing Page Menu\" option and click on \" Edit \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541784/original/7-MuWMyGKHqwSbKSHfjfc5nTAFMvfyQcYw.png?1781642264 | alt: ]\n3. To add a new plan option, clone any of the other existing menu items by clicking on Actions >> Clone Menu Item. Cloning it will save time instead of adding each field manually:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541830/original/Od8XayRBseBSq4hZPB9E3mKfC61tXzoERA.png?1781642297 | alt: ]\n4. Click on \" Clone All Sub-Levels \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541928/original/6OTKrZPR5WXk9FkVUEvNVE8Hr763jaC20w.png?1781642341 | alt: ]\n5. Then click on the icon at the left to minimize/expand the menu:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541982/original/6j1kXdeUMCFdz3kxbFykjMCSQf0W-ocxtA.png?1781642379 | alt: ]\nEdit all the membership plan information as the name, price and rename the fields if needed.\n6. Where it says \"Create Listing\" add the \"Membership Plan ID\", add the plan ID at the end of the /checkout/ X link:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180542053/original/5IrMFIpPoBqyK9rNwxYJQTZ4DfKRZsVJSA.png?1781642440 | alt: ]\n7. To find the right Membership Plan ID open a new tab and then go to Finance >> Membership Plans:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180542199/original/_iDXy5dHRXt6guPEiVCaNDHfYnHUPfeu_w.png?1781642548 | alt: ]\n8. Copy the Membership Plan ID and paste it in the menu manager in step 6.\nThe new membership is now going to display on the /join page.\nFor additional questions or help setting this up, please submit a ticket to support@brilliantdirectories.com or create a ticket HERE .",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541702/original/fF6Rhm7cY9XBfhsnjxeOsWjUR2ug1VVALw.png?1781642173",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541784/original/7-MuWMyGKHqwSbKSHfjfc5nTAFMvfyQcYw.png?1781642264",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541830/original/Od8XayRBseBSq4hZPB9E3mKfC61tXzoERA.png?1781642297",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541928/original/6OTKrZPR5WXk9FkVUEvNVE8Hr763jaC20w.png?1781642341",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541982/original/6j1kXdeUMCFdz3kxbFykjMCSQf0W-ocxtA.png?1781642379",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180542053/original/5IrMFIpPoBqyK9rNwxYJQTZ4DfKRZsVJSA.png?1781642440",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180542199/original/_iDXy5dHRXt6guPEiVCaNDHfYnHUPfeu_w.png?1781642548",
+      "alt": ""
+    }
+  ],
+  "content_hash": "37973b13d0acd882cf1279deb8441567041055df22aefbc96a8eefcaf29cdba8",
+  "ingested_at": "2026-10-17T14:38:22.235838+00:00"
+}

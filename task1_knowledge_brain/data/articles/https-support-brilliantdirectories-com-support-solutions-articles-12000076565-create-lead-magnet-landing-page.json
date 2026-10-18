@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076565-create-lead-magnet-landing-page",
+  "title": "Create Lead Magnet Landing Page",
+  "text": "\n## Create Lead Magnet Landing Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000076565\nLead magnets are a great way to collect email addresses and other contact information from potential customers in exchange for a free resource, such as an eBook, checklist, guide, or PDF download.\nIn this example, we'll create a simple lead magnet funnel where visitors submit their email address through a form and are then redirected to a page where they can download a free resource.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284493/original/Z7Co9COfI0gOvN7eIyf8OrYJ2dhGzjPxVQ.png?1687410717 | alt: ]\nOn the Download Page there is going to be a button to download the Free Resource provided as a pdf:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284497/original/U8La-IapiUlfOkC5E_XGIGk7cuvb6LpULw.png?1687410727 | alt: ]\nThis tutorial covers the following steps:\nUpload the PDF resource.\nCreate a download page.\nCreate and configure a lead capture form.\nCreate a success page and embed the form.\n\n## Upload PDF\nNavigate to: My Content → Media Manager\nUpload the PDF file that visitors will receive after submitting the form.\n\n## Create Download Page\nPlease see: How to Create a Download Link With a Button\nCreate a new webpage by navigating to:\nContent → Web Page Builder → New Web Page\nConfigure the page:\nPage Name: Download Page\nURL: download-page\nTitle: Enter your desired title\nSubtitle: Optional\nAdd any content you would like visitors to see before downloading the resource.\nExample:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127484584/original/rDCKgSAqWLMMLbGNnmP5Mg8nO-G_cb-myQ.gif?1687813332 | alt: ]\nAdd a button that links directly to the uploaded PDF file. When clicked, visitors will be able to download the resource.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485184/original/UAdQLbwbtw6o9xDFf3LZLWPi-tQx7NFiBg.png?1687814037 | alt: ]\n\n## Clone Contact Us Form\nClone the contact us form and remove the fields that are not necessary. In this example we are just going to use the email field and security fields.\nChange the name of the submit button to: Gain Access To Our E-Book Now\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485239/original/iLtQaW03jZPEhYlqOLk0j9YRe3hX8d7eEQ.png?1687814167 | alt: ]\nOnce saving the form select:  Select the option Redirect to Another Page in the What happens after form submitted drop down as shown below\nAdd the URL of the Download page, in this scenario it is: \"/download-page\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284508/original/FiF2Dwc9_xvc18QqLNCbjzGI5AdK0JK9_Q.png?1687410783 | alt: ]\n\n## Create Success Page\nGo to Content >> Web Page Builder >> \"Click on New Web Page +\".\nAdd a name to the Page.\nAdd the URL of the page, for this example we are going to add:  \"success-page\".\nAdd Title and Subtitle .\nDesign the Content Of the Page, see this example:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284511/original/yamSaM0G8G-t7qr3UXVjSXGHgZhBbYSkJw.png?1687410793 | alt: ]\nMake sure to add the link of the form so the form can be rendered on the page, this is how the system will track the email of the submitter:\n[form=lead_magnet]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284521/original/Zx3ZdaNyBTXqEF187kIaEqvhftp1z_Kbaw.png?1687410803 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284493/original/Z7Co9COfI0gOvN7eIyf8OrYJ2dhGzjPxVQ.png?1687410717",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284497/original/U8La-IapiUlfOkC5E_XGIGk7cuvb6LpULw.png?1687410727",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127484584/original/rDCKgSAqWLMMLbGNnmP5Mg8nO-G_cb-myQ.gif?1687813332",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485184/original/UAdQLbwbtw6o9xDFf3LZLWPi-tQx7NFiBg.png?1687814037",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485239/original/iLtQaW03jZPEhYlqOLk0j9YRe3hX8d7eEQ.png?1687814167",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284508/original/FiF2Dwc9_xvc18QqLNCbjzGI5AdK0JK9_Q.png?1687410783",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284511/original/yamSaM0G8G-t7qr3UXVjSXGHgZhBbYSkJw.png?1687410793",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284521/original/Zx3ZdaNyBTXqEF187kIaEqvhftp1z_Kbaw.png?1687410803",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2d9cf8a78b7aa1b860cedd3a67375f7b4761649938020de8ea4ce81b4e8bd9ce",
+  "ingested_at": "2026-10-17T14:48:04.884855+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000059296-how-to-embed-a-form-on-a-web-page",
+  "title": "How To Embed a Form on a Web Page",
+  "text": "\n## How To Embed a Form on a Web Page\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000059296\nTo embed any form on a web page, copy and paste the form's shortcode.\nThe shortcode uses the form's system name to call it, in this format:\n[form=System Name]\nFor example, the Website - Contact Us form has the system name contact_form , so its shortcode is:\n[form=contact_form]\nA form's system name can be found in the Form Manager (and identified on the front end using the Admin Bar). The screenshot below shows where the system name appears:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458082/original/Z-fIyxbORAzEBvPKuggbTsrEMbyMe6eqjw.png?1781546754 | alt: ]\nWith the shortcode copied, follow these steps:\n1. Navigate to My Content >> Web Page Builder , as used in related articles and click \" New Web Page \", or click \" Edit \" on an existing page:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458319/original/Bm4NFVnoMwY9C1LdtIsW7fOGq4cnRxxHKw.png?1781546976 | alt: ]\n2. Paste the copied shortcode into the text editor, add a unique URL, and save the changes:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458504/original/HDALS0Tse2c0cAXNGsnp90f0abeEbQg-9w.png?1781547039 | alt: ]\nThe form will start displaying right away:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458605/original/AibIE2BIl-WLKJjq5vSgQZL-pZRHhU18_g.png?1781547082 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458082/original/Z-fIyxbORAzEBvPKuggbTsrEMbyMe6eqjw.png?1781546754",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458319/original/Bm4NFVnoMwY9C1LdtIsW7fOGq4cnRxxHKw.png?1781546976",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458504/original/HDALS0Tse2c0cAXNGsnp90f0abeEbQg-9w.png?1781547039",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458605/original/AibIE2BIl-WLKJjq5vSgQZL-pZRHhU18_g.png?1781547082",
+      "alt": ""
+    }
+  ],
+  "content_hash": "683a2a460da0236e8ff03da0efb14717f428ef8717d6ca83faf93fe32692d751",
+  "ingested_at": "2026-10-17T14:43:25.627216+00:00"
+}

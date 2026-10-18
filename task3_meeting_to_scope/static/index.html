@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Task 3 Review</title>
+<style>
+body{font-family:Segoe UI,Arial,sans-serif;margin:20px;max-width:1200px}
+table{border-collapse:collapse;width:100%;margin:8px 0}
+th,td{border:1px solid #ccc;padding:4px 6px;text-align:left;vertical-align:top;font-size:13px;white-space:pre-wrap}
+th{background:#f0f0f0}
+.banner{padding:8px;margin:8px 0;border-radius:4px}
+.bad{background:#fde2e2;color:#8a1111}
+.ok{background:#e2f5e2;color:#14551a}
+.warn{background:#fff3cd;color:#664d03}
+.sim{background:#e7e7ff;color:#222}
+h2{margin-top:28px;border-bottom:1px solid #ccc}
+button{margin:2px}
+</style>
+</head>
+<body>
+<h1>Task 3: Meeting to Scope (review page)</h1>
+<div class="banner sim">Transcripts are ROLE-PLAYED (fictional). Sending is SIMULATED, nothing leaves this computer. Scope, estimates, proposal and change comparison are NOT built yet.</div>
+<div id="msg"></div>
+
+<h2>1. Progress</h2>
+<div id="progress"></div>
+
+<h2>2. Transcripts</h2>
+<div id="transcripts"></div>
+
+<h2>3. Extracted requirements (Transcript Analyst)</h2>
+<select id="sel"></select>
+<button id="draftBtn">Create DEMO draft from this file</button>
+<div id="extract"></div>
+
+<h2>4. Versions and approval</h2>
+<label>Reviewer name: <input id="reviewer" placeholder="your name"></label>
+<div id="versions"></div>
+
+<h2>5. Audit log (last 30)</h2>
+<div id="audit"></div>
+
+<script>
+function el(tag, text, cls){var e=document.createElement(tag); if(text!==undefined) e.textContent=text; if(cls) e.className=cls; return e;}
+function table(headers, rows){
+  var t=el('table'), h=el('tr');
+  headers.forEach(function(x){h.appendChild(el('th',x));});
+  t.appendChild(h);
+  rows.forEach(function(r){var tr=el('tr'); r.forEach(function(c){tr.appendChild(el('td',String(c)));}); t.appendChild(tr);});
+  return t;
+}
+async function api(path, opts){
+  var r=await fetch(path, opts), data=null;
+  try{data=await r.json();}catch(e){}
+  if(!r.ok){throw new Error((data&&data.detail)||('HTTP '+r.status));}
+  return data;
+}
+function setMsg(text, cls){var m=document.getElementById('msg'); m.textContent=''; m.appendChild(el('div',text,'banner '+cls));}
+function clear(id){var n=document.getElementById(id); n.textContent=''; return n;}
+
+var PROGRESS=[
+ ['Folder, venv, packages, .env','done'],
+ ['Task 1 client (typed failure results)','done'],
+ ['3 role-played transcripts (A, B, C) stored','done'],
+ ['Data models','done'],
+ ['SQLite versions + approval + send gate (tested)','done'],
+ ['Groq client with cache, token log, daily-limit stop','done'],
+ ['Transcript parser, chunker, quote check in code','done'],
+ ['Transcript Analyst (tested on Meeting A only)','partial'],
+ ['Feasibility Agent (Task 1)','not built'],
+ ['Scope Agent','not built'],
+ ['Estimation Agent','not built'],
+ ['Proposal Agent','not built'],
+ ['Follow-up comparison against approved baseline','not built'],
+ ['20 evaluation cases and model comparison','not built']
+];
+
+function renderProgress(){
+  var n=clear('progress');
+  n.appendChild(table(['Part','Status'], PROGRESS));
+}
+
+function renderTranscripts(list){
+  var n=clear('transcripts');
+  n.appendChild(table(['File','Meeting','Date','Follow-up to','Lines','Dialogue turns','Role-played'],
+    list.map(function(t){return [t.file,t.meeting_id,t.date,t.follow_up_to||'-',t.lines,t.turns,t.role_played?'yes':'NO LABEL'];})));
+}
+
+async function loadExtract(name){
+  var box=clear('extract');
+  if(!name){box.appendChild(el('p','No extraction file yet.')); return;}
+  try{
+    var d=await api('/api/extract/'+encodeURIComponent(name));
+    var bad=d.chunk_status.filter(function(c){return c.status!=='ok';});
+    if(d.complete){box.appendChild(el('div','COMPLETE: all chunks processed','banner ok'));}
+    else{box.appendChild(el('div','INCOMPLETE: '+JSON.stringify(bad),'banner bad'));}
+    box.appendChild(el('p','Model: '+d.model+' | Meeting '+d.meeting_id+' ('+d.meeting_date+') | quotes rejected because not found in transcript: '+d.rejected_unverified.length));
+    box.appendChild(el('h3','Requirements'));
+    box.appendChild(table(['ID','Priority','Status','Origin','Evidence (time, speaker, quote)','Description','Dependencies'],
+      d.requirements.map(function(r){
+        var ev=r.evidence.map(function(e){return e.timestamp+' '+e.speaker+': "'+e.quote+'"';}).join('\n');
+        return [r.req_id,r.priority,r.status,r.origin,ev,r.description,(r.dependencies||[]).join('; ')];
+      })));
+    box.appendChild(el('h3','Constraints'));
+    box.appendChild(table(['Time','Speaker','Kind','Text'],
+      d.constraints.map(function(c){return [c.timestamp,c.speaker||'',c.kind||'',c.text||''];})));
+    box.appendChild(el('h3','Open questions'));
+    box.appendChild(table(['Time','Speaker','Text'],
+      d.open_questions.map(function(c){return [c.timestamp,c.speaker||'',c.text||''];})));
+    box.appendChild(el('h3','Client commitments'));
+    box.appendChild(table(['Time','Speaker','Text'],
+      d.client_commitments.map(function(c){return [c.timestamp,c.speaker||'',c.text||''];})));
+    var notes=(d.merge_notes||[]).concat(d.cleanup_notes||[]);
+    if(notes.length){box.appendChild(el('h3','Notes for the reviewer')); box.appendChild(el('div',notes.join('\n'),'banner warn')); box.lastChild.style.whiteSpace='pre-wrap';}
+    if(d.uncited_client_lines && d.uncited_client_lines.length){
+      box.appendChild(el('h3','Client lines not cited by any item (possible gaps)'));
+      box.appendChild(table(['Time','Speaker','Text'], d.uncited_client_lines.map(function(u){return [u.timestamp,u.speaker,u.text];})));
+    }
+  }catch(e){box.appendChild(el('div','Could not load file: '+e.message,'banner bad'));}
+}
+
+async function act(path, body){
+  try{
+    var r=await api(path,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body||{})});
+    setMsg('OK: '+JSON.stringify(r),'ok');
+  }catch(e){setMsg('BLOCKED OR ERROR: '+e.message,'bad');}
+  await refresh();
+}
+
+function renderVersions(list){
+  var n=clear('versions');
+  if(!list.length){n.appendChild(el('p','No versions yet. Use the DEMO draft button above.')); return;}
+  var t=el('table'), h=el('tr');
+  ['Version','State','Based on','Created','Actions'].forEach(function(x){h.appendChild(el('th',x));});
+  t.appendChild(h);
+  list.forEach(function(v){
+    var tr=el('tr');
+    [v.version,v.state,v.based_on_version===null?'-':v.based_on_version,v.created_at].forEach(function(c){tr.appendChild(el('td',String(c)));});
+    var td=el('td');
+    if(v.state==='draft'){var b=el('button','Submit for approval'); b.onclick=function(){act('/api/version/'+v.version+'/submit');}; td.appendChild(b);}
+    if(v.state==='pending_approval'){
+      ['approved','rejected'].forEach(function(dec){
+        var b=el('button',dec==='approved'?'Approve':'Reject');
+        b.onclick=function(){act('/api/version/'+v.version+'/review',{reviewer:document.getElementById('reviewer').value,decision:dec,note:''});};
+        td.appendChild(b);
+      });
+    }
+    var s=el('button','Try send (simulated)'); s.onclick=function(){act('/api/version/'+v.version+'/send');}; td.appendChild(s);
+    tr.appendChild(td); t.appendChild(tr);
+  });
+  n.appendChild(t);
+}
+
+function renderAudit(list){
+  var n=clear('audit');
+  n.appendChild(table(['Time (UTC)','Action','Detail'], list.map(function(a){return [a.timestamp,a.action,a.detail||''];})));
+}
+
+async function refresh(){
+  renderProgress();
+  try{
+    var s=await api('/api/state');
+    renderTranscripts(s.transcripts);
+    var sel=document.getElementById('sel'), cur=sel.value;
+    sel.textContent='';
+    s.extracts.forEach(function(x){var o=el('option',x); o.value=x; sel.appendChild(o);});
+    if(cur && s.extracts.indexOf(cur)>=0){sel.value=cur;}
+    await loadExtract(sel.value);
+    renderVersions(s.versions);
+    renderAudit(s.audit);
+  }catch(e){
+    setMsg('Backend unavailable: '+e.message,'bad');
+  }
+}
+document.getElementById('sel').onchange=function(){loadExtract(this.value);};
+document.getElementById('draftBtn').onclick=function(){
+  var v=document.getElementById('sel').value;
+  if(!v){setMsg('No extraction file selected','warn'); return;}
+  act('/api/draft',{extract:v});
+};
+refresh();
+</script>
+</body>
+</html>

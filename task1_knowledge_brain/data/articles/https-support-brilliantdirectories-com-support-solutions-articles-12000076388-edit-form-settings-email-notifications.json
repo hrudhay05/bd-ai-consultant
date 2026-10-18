@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076388-edit-form-settings-email-notifications",
+  "title": "Edit Form Settings » Email Notifications",
+  "text": "\n## Edit Form Settings » Email Notifications\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000076388\nIn this article, we will be going over the Email Notifications settings that can be found in the form settings.\nThese settings control what emails are sent out to the Admin and Members/Users when a form on the site is submitted or saved.\nInside the Form Manager, EDIT a custom form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819389/original/ZNVkHxUPiUSWKIo38h71C71cz5uS8RocxA.png?1761872108 | alt: ]\nThe option to edit the Email Notifications only appears in custom forms.\nSee : How To Customize A Form\nWhen the form opens, select \" EDIT FORM SETTINGS \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127523521/original/AAmQdphzvppPk0NLTMaD89hb1B7bxhCX0Q.png?1687875253 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090917390/original/-3wAFbzXR67fj19jAmHZMCrTITjk6fCyLw.png?1617669449 | alt: ]\n\n## User Notifications\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127525838/original/sUo3lpPCKeOUX1845Xi88XA23dHaQIO1BA.png?1687876976 | alt: ]\nEmail User After Submission\nIf enabled, an email will be sent to the user after submitting the form.\nThis will only work if the following field is added to the form, which comes by default in the Contact Us, Coming Soon, and Report This Post (add-on) forms. Variable: inquiry_email\n** This field is not necessary for Listing (Contact Details, Additional Details, About) or Post Type (Properties, Articles, Classifieds, etc) forms. The reason is that the member does not need an email notification if they just filled out the form for a post they want to publish. **\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090917631/original/UgsYHq9Q1Tfn7HW3Zsp0Q2pDSXcu9-W8eA.png?1617669988 | alt: ]\nThe Admin of the site would be the only one that needs the notification that the form has been filled out. The setting for this is explained below. The Newsletter and Get Matched forms will automatically send out emails to the submitter, this is hardcoded in the system code. The Get Matched form also has its own notification settings:\nLeads » Lead Settings » Receiving Direct Leads Settings Lead Settings » Receiving Indirect Leads (Automatic Lead Matching) Leads » Lead Settings » Additional Notifications Settings\nEmail Template to Send\nIf the Email User After Submission setting is enabled, the template will be sent out and can be chosen in this area.\nHow to Edit Email Templates Emails » Email Templates » New Email Template\n\n## Admin Notifications\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127525959/original/N0DpHRnUDeOm-e5tmbPE_MESWZ--j9bnpg.png?1687877070 | alt: ]\nEmail Website Admin After Submission\nIf enabled, an email will be sent to the email addresses specified.\nEmail Template to Send\nIf the Email Website Admin After Submission setting is enabled, the template that will be sent out can be chosen in this area.\nHow to Edit Email Templates Emails » Email Templates » New Email Template\nImportant Note : If the Email Website Admin After Submission setting above is enabled and If no email template is selected in this section, the system will send out the contact-us email template.\nEnter Admin Email Addresses to Notify\nThis is where the admin can decide which email addresses will receive the Admin Notifications. Up to 5 email addresses can be added to this section. Make sure to click Tab, Enter, Spacebar, or Comma after every entry to insert the value.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819389/original/ZNVkHxUPiUSWKIo38h71C71cz5uS8RocxA.png?1761872108",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127523521/original/AAmQdphzvppPk0NLTMaD89hb1B7bxhCX0Q.png?1687875253",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090917390/original/-3wAFbzXR67fj19jAmHZMCrTITjk6fCyLw.png?1617669449",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127525838/original/sUo3lpPCKeOUX1845Xi88XA23dHaQIO1BA.png?1687876976",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090917631/original/UgsYHq9Q1Tfn7HW3Zsp0Q2pDSXcu9-W8eA.png?1617669988",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127525959/original/N0DpHRnUDeOm-e5tmbPE_MESWZ--j9bnpg.png?1687877070",
+      "alt": ""
+    }
+  ],
+  "content_hash": "076a5fafa83c3d0641358344a721467a836ad01b7ca994c1ecc29a3e6a9686f5",
+  "ingested_at": "2026-10-17T14:47:58.471345+00:00"
+}

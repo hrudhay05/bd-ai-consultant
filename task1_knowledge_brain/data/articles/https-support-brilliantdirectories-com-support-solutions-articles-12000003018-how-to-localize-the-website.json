@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000003018-how-to-localize-the-website",
+  "title": "How to Localize the Website",
+  "text": "\n## How to Localize the Website\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000003018\nThe Primary Country setting is used to fall back on or recommend to users when maps/map searches are needed.\n\n## Primary Country Setting\nGo into Settings >>  General Settings >> Localization:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177863202/original/LrQp3KAsYY6PHoWgQNgsJqMH1-Wn917wlQ.png?1776864874 | alt: ]\n\n## Location Search Suggestions\nBy default, whenever a user does a search by location, it will recommend suggestions from all around the world; however, if the website is intended to be used in one country only, the searches should be in the intended country.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177864272/original/FWiK6L7xdcCWAW4Vrks3i1iqoXN0c2iOMw.png?1776866006 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177864303/original/nbmLLnV0Q-ncToNz1FtItRSbx4n7b123Nw.png?1776866036 | alt: ]\n\n## Default Map Pin\nThe Primary Country setting is also used to set the default map pin:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107661987/original/RwEkMEbbhCutel2HccGGxk-K1N6M2pBrIw.png?1649915304 | alt: ]\nThis applies to the following forms:\nLead Form\nMember Contact Details ( shown above )\nService Areas\nSingle Image and Group Posts\nThe map pin location can be customized using the advanced settings\n\n## Default Center Map Location\nSystem Variable : default_center_map_lat_lon\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177863372/original/wgO1DTs9o7-d1NeYeFn7xkaedntt8harKw.png?1776865106 | alt: ]\nWhen using this setting, add the latitude and longitude coordinates separated by commas.\nExample: 41.019696,-99.888992\n\n## Service Areas Display Behavior\nAlso, if the Location Search Suggestions setting is configured to Include All Countries , the country associated with the Service Areas will be displayed:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177600173/original/yyaSW-Sej13AjU8GLux1SBACmNUEXdYZ7Q.jpeg?1776359243 | alt: ]\nIf the setting is configured to Only Search Within Primary Country , the country associated with the Service Areas will be hidden:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177600190/original/MUq1OBd2c8DpQfqLuUgOwuyuMlNoV3lLcg.jpeg?1776359255 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177863202/original/LrQp3KAsYY6PHoWgQNgsJqMH1-Wn917wlQ.png?1776864874",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177864272/original/FWiK6L7xdcCWAW4Vrks3i1iqoXN0c2iOMw.png?1776866006",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177864303/original/nbmLLnV0Q-ncToNz1FtItRSbx4n7b123Nw.png?1776866036",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107661987/original/RwEkMEbbhCutel2HccGGxk-K1N6M2pBrIw.png?1649915304",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177863372/original/wgO1DTs9o7-d1NeYeFn7xkaedntt8harKw.png?1776865106",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177600173/original/yyaSW-Sej13AjU8GLux1SBACmNUEXdYZ7Q.jpeg?1776359243",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12177600190/original/MUq1OBd2c8DpQfqLuUgOwuyuMlNoV3lLcg.jpeg?1776359255",
+      "alt": ""
+    }
+  ],
+  "content_hash": "f0929880e9553a9826205667b8b296cc2374802162fa6563573fd021b193fe6e",
+  "ingested_at": "2026-10-17T16:52:44.474765+00:00"
+}

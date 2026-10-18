@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000077983-edit-checkout-pages-add-edit-remove-input-fields",
+  "title": "Edit Checkout Pages: Add, Edit & Remove Input Fields",
+  "text": "\n## Edit Checkout Pages: Add, Edit & Remove Input Fields\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000077983\n\n## Overview\nWe do not recommend removing default fields from checkout pages because it may cause issues with member sign-ups and payment gateway requirements.\nThe sign-up forms must first be customized before fields can be added or removed. Go to Toolbox » Form Manager.\nThe form that needs to be customized depends on the payment gateway used. These can be On-site (Integrated) and Off-site (Hosted) payment gateways. The article: Supported Payment Gateways will help to determine which payment gateway is being used. Review the \"Type of Gateway\".\n\n## Example\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144170/original/sYEbnE8pZMQnEy3yxnSm_uaeodLJSxU-6A.png?1614036860 | alt: ]\n\n## Forms to Edit Based on Gateway Type:\nIf the type of gateway is On-Site, edit the following forms:\nsignup_free\nwhmcs_signup_paid\nIf the type of gateway is Off-Site,  edit the following forms:\nsignup_free\nwhmcs_signup_external\nNote: We recommend hiding the field instead of removing it completely (Step 6 below).\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103463911/original/TWKwHIdEbQ9a5L8LIaijTKZCN_Oxz-9iFQ.png?1641907477 | alt: ]\nTo learn more about form fields, see this article: In-Depth Look Into Form Fields And Their Settings\n\n## Adding the \"First Name\" Field\nBy default, paid signups won't have a first name field. Members can add that information in the Contact Details form.\nHowever, if for some reason it needs to be added, then a new field can be created and must use the database variable \" member_first_name \", like the example below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103464028/original/Es-94Pah0liECfq9vZvN8lQEjWG2HmbLBg.png?1641907601 | alt: ]\nNote: Do not use the variable \"first_name\" because it is already used in the 'Card Name' field and it will cause issues. The correct one to use is \"member_first_name\" .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103464045/original/S6op7CxdkIdjJrfKz80-tBAdLbs5u1XeUQ.png?1641907637 | alt: ]\nWhen the field is added, it will look like this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144194/original/nZpmB24JhBVkSrJGKTm0kN7AJwFaE1H_Dg.png?1614036907 | alt: ]\nTo add the First Name on the Member - Sign Up - Free form, you can use first_name as used in the Listing - Contact Details - Member Form .\n\n## Saving Billing Address in Member Profiles\nThere is an advanced setting called \" save_user_data_billing_information \" that will allow to use the billing address information entered during the signup process as the member's profile address as well.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089776987/original/ldRrf_8jPC23P87JWIBYFv8PtpD3J4Z1rg.png?1615308541 | alt: ]\nThe only exception would be the missing first_name in paid signup forms.\nThis field can be added by following the instructions above: Adding the \"First Name\" field .\n\n## Editing the Countries\nCountries can be restricted on checkout pages\nIf the website will only be for people in the US, then enable the United States only as a \"Featured or Active Country\" and set all other countries to \"Not Active\". That will cause that only the United States will display as an option in the form:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144192/original/ieBbdVAtmF2wfJLaFvWP-0IDFW3TyE_0rA.png?1614036906 | alt: ]\nRelated Articles About the Country Field\nAdding/Removing Countries from the Dropdown List\nHow to Translate Country Names\n\n## How to Include a Free Trial Period\nThis is an add-on that can be purchased directly on Brilliant Directories website .\nFind more information in this article: Free Trial Period Add-On\n\n## How to Enable Coupon/Promo Codes\nThis is an add-on that can be purchased directly on Brilliant Directories website.\nFind more information on this article: How To Set up Coupon Codes (Promo Codes)\n\n## More About Editing Sign Up Pages\nOverview Article\nHow to Edit Titles, Text & Language On Sign Up Pages\nHow To Add a Sidebar to Sign Up Pages",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144170/original/sYEbnE8pZMQnEy3yxnSm_uaeodLJSxU-6A.png?1614036860",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103463911/original/TWKwHIdEbQ9a5L8LIaijTKZCN_Oxz-9iFQ.png?1641907477",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103464028/original/Es-94Pah0liECfq9vZvN8lQEjWG2HmbLBg.png?1641907601",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103464045/original/S6op7CxdkIdjJrfKz80-tBAdLbs5u1XeUQ.png?1641907637",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144194/original/nZpmB24JhBVkSrJGKTm0kN7AJwFaE1H_Dg.png?1614036907",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089776987/original/ldRrf_8jPC23P87JWIBYFv8PtpD3J4Z1rg.png?1615308541",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144192/original/ieBbdVAtmF2wfJLaFvWP-0IDFW3TyE_0rA.png?1614036906",
+      "alt": ""
+    }
+  ],
+  "content_hash": "969efcb47a899433bd0092b9623277ecdc7b1e9068a7099f3239ddc7f926a418",
+  "ingested_at": "2026-10-17T14:48:49.573303+00:00"
+}

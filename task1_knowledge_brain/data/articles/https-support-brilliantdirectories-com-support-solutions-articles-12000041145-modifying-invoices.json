@@ -1,0 +1,41 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000041145-modifying-invoices",
+  "title": "Modifying Invoices",
+  "text": "\n## Modifying Invoices\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000041145\nWe will start this article by explaining how to download invoices (Add-on). If information about editing invoice details is needed, scroll down to the 'Modifying Invoice Information' section .\n\n## Downloading Invoices:\nBy default, the system does not send invoices automatically after a member pays; however, if the \"Downloadable PDF Invoices\" add-on is active, members can log in to their account and download the invoices from the Billing Section of their dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091454025/original/WFKzZwfP7SndALXUoVgsCiHenTHOL8IkSQ.png?1618600860 | alt: ]\nNote: Another add-on is available to send invoices automatically Billing Reminder Emails Add-On.\n\n## \"Invoiced To \"Address:\nIn this section, they can add a billing address. this address will be reflected only on their invoices and it won't modify the listing address.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091454084/original/CsCVXgk7Ijn7THFTLDEEodiGzJs0LAgXzg.png?1618600966 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091454099/original/9L_qslnurs96VfsAaSM0SMY3qBYAZ_-RsA.png?1618601006 | alt: ]\nThey can also view the Open and Cancelled Subscriptions:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091454113/original/Fu2DLlXOcWm5DX3o1tGj8fjGHMJCP0GUZw.png?1618601044 | alt: ]\n\n## Meaning of Statuses:\nActive orders:\nThis means that this order is still open and if it's recurring, it will auto-renew every 30, 90, 182, or 365 days. If the order (subscription) is \"Active\" but, it was a One-Time Payment, it won't auto-renew.\nCancelled orders :\nThis means the order has been cancelled.\nWhen a member is deleted, by default, the system will auto cancel all subscriptions related to the member.\n\n## Modifying Invoice Information:\nSeveral invoice elements can be modified or specified.\n\n## Invoice \"Pay To\" Instructions\nUsually, the \"Pay To\" section is empty; if it needs to be added to the site, go to Settings » Advanced Settings » billing_pay_to and add the company information.\nThe ABN number can be added here to be compliant with Australian tax law or any other VAT number required.\nExample:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093613710/original/t1VtAR9oBksXAOGQY63J5XDwo6gr-rOuGw.png?1622825576 | alt: ]\nNote: It is not recommended to add more than 5 lines here:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091454145/original/WS9kJN6xG10aj6TPhwJKc25_uXwzPe8kHg.png?1618601112 | alt: ]\nThe payment information will be updated automatically by the system, depending on the membership plan, price, or posts purchased. Important : Once the information is added in the advanced setting, make sure to refresh the website cache to reflect the change on all invoices. See how: Refresh the Cache .\n\n## Invoice Language:\nIf the language of the PDF invoice needs to be edited go to Settings >> General Settings >> Localization tab >> Default Website Language:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105107118/original/7_6Ln4Iozr0F8d8EfmzRaP8e5I_XilWWyA.png?1644980288 | alt: ]\n\n## Invoice Logo\nBy default, the system will use the \"Website Logo\" but if it needs to be replaced due that it is too big or a new logo needs to be used, then upload a new \"Invoice Logo\". The image must be in JPG format..\nTo upload an Invoice Logo go to: Settings >> General Settings >> Brand Images section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105107130/original/7ZN3xyu53g7x3PC7W__ZLRfqvYtDQDoR1Q.png?1644980338 | alt: ]\nFor more information about downloading invoices, see this article: How To Download Invoices",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091454025/original/WFKzZwfP7SndALXUoVgsCiHenTHOL8IkSQ.png?1618600860",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091454084/original/CsCVXgk7Ijn7THFTLDEEodiGzJs0LAgXzg.png?1618600966",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091454099/original/9L_qslnurs96VfsAaSM0SMY3qBYAZ_-RsA.png?1618601006",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091454113/original/Fu2DLlXOcWm5DX3o1tGj8fjGHMJCP0GUZw.png?1618601044",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093613710/original/t1VtAR9oBksXAOGQY63J5XDwo6gr-rOuGw.png?1622825576",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091454145/original/WS9kJN6xG10aj6TPhwJKc25_uXwzPe8kHg.png?1618601112",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105107118/original/7_6Ln4Iozr0F8d8EfmzRaP8e5I_XilWWyA.png?1644980288",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105107130/original/7ZN3xyu53g7x3PC7W__ZLRfqvYtDQDoR1Q.png?1644980338",
+      "alt": ""
+    }
+  ],
+  "content_hash": "de3c0a740b0545dfff43e53d05b1e2b898bd1e0d1c22a65acfc37fffa065c638",
+  "ingested_at": "2026-10-17T14:37:30.960986+00:00"
+}

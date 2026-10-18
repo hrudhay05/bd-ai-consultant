@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095725-php-code-snippet-to-check-if-a-member-user-is-not-logged-in",
+  "title": "PHP Code Snippet to Check If a Member/User is NOT Logged In",
+  "text": "\n## PHP Code Snippet to Check If a Member/User is NOT Logged In\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000095725\nThe code snippet below will  determine if members are not currently logged into their accounts on the website.\nReplace \" TEXT TO DISPLAY WHEN MEMBER NOT LOGGED IN \" with your desired content. This content will be displayed only when a user is not logged in.",
+  "images": [],
+  "content_hash": "ae711ca4ab64b8e250b415fde6d8e0ba324c7a515e4a76b42cdee96656a04063",
+  "ingested_at": "2026-10-17T15:23:51.887753+00:00"
+}

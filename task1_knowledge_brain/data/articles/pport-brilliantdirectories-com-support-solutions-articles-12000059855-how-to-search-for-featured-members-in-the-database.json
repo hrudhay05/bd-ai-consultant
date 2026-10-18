@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000059855-how-to-search-for-featured-members-in-the-database",
+  "title": "How To Search For Featured Members In The Database",
+  "text": "\n## How To Search For Featured Members In The Database\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000059855\nTo see the list of members who have been featured on the homepage via its Quick Edits:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181110861/original/sK6G8RQTt7SM1n9S5wLWtRYncL-71kJsSg.png?1782513284 | alt: ]\nNavigate to Developers --> MySQL Database :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181110846/original/Y0J8iOyJlC72aEHUBr9HHnMimkDv77pxDw.png?1782513219 | alt: ]\nClick on the database that ends with wording \" directory \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310080/original/GZds3y0AO7IZwRLeisQsslBnliwYTDG0QQ.png?1564179707 | alt: ]\nConduct a search for the table users_data and open it by clicking on it:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310121/original/ALns7iwPau4cAovJzHV03y5cDXGqb6ZF9w.png?1564179814 | alt: ]\nClick on SQL :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310175/original/6cxtfFVz_8loZCJXtQXWS5oWhdQFzJqtIA.png?1564179939 | alt: ]\nPaste the specified SQL code and click Go :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310216/original/uLoWMNZHWhufjokN43RtXGnExKxAIfCw3g.png?1564180039 | alt: ]\nThis is the SQL code needed to run:\nWhich will display members that are featured on your site:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310263/original/U36cwbAAgne2F-AewaxRqO0rEcE9GzZ44A.png?1564180150 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181110861/original/sK6G8RQTt7SM1n9S5wLWtRYncL-71kJsSg.png?1782513284",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181110846/original/Y0J8iOyJlC72aEHUBr9HHnMimkDv77pxDw.png?1782513219",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310080/original/GZds3y0AO7IZwRLeisQsslBnliwYTDG0QQ.png?1564179707",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310121/original/ALns7iwPau4cAovJzHV03y5cDXGqb6ZF9w.png?1564179814",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310175/original/6cxtfFVz_8loZCJXtQXWS5oWhdQFzJqtIA.png?1564179939",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310216/original/uLoWMNZHWhufjokN43RtXGnExKxAIfCw3g.png?1564180039",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310263/original/U36cwbAAgne2F-AewaxRqO0rEcE9GzZ44A.png?1564180150",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c7595bc970cf61d49c958d871298a031690c5a1e1b1917b525b4b47782647f86",
+  "ingested_at": "2026-10-17T14:43:35.031068+00:00"
+}

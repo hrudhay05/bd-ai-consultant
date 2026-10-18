@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095514-member-login-session-active-minutes",
+  "title": "Member Login Session: Active Minutes",
+  "text": "\n## Member Login Session: Active Minutes\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000095514\nA login session is the period of time between a user logging in and logging out of the website.\nSometimes the users end the session on their own by logging out manually but there is an advanced setting to enter the number of minutes (without commas) a session will stay active for a member when they are logged into the website.\nAfter this number of minutes, the member will be asked to log in again.\nMember Login Session: Active Minutes System Variable: member_login_session_active_minutes\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647654/original/4yGY03P9x_JmXppxjpUZE7Y08PVus6CRlw.png?1753162172 | alt: ]\nThe default is 7 Days which is 10080 minutes.\nDays Minutes 7 10080 15 21600 30 43200\nIf a number is not set or the setting is set to 0, it will default to 7 days.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647654/original/4yGY03P9x_JmXppxjpUZE7Y08PVus6CRlw.png?1753162172",
+      "alt": ""
+    }
+  ],
+  "content_hash": "2a29c8c591fd4e47e28605fe8fc1a4e612c452e93403424fe4993084f9f1bcfd",
+  "ingested_at": "2026-10-17T15:23:42.298982+00:00"
+}

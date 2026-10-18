@@ -1,0 +1,89 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000103064-top-sidebar-widgets",
+  "title": "Top Sidebar Widgets",
+  "text": "\n## Top Sidebar Widgets\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000103064\nThis article highlights the top sidebar widgets frequently used across various site pages, including profile pages, search results, and post pages. It is designed to help site admins select the best widgets to enhance page sidebars and improve user experience.\nWhile it doesn't include every widget option available, it focuses on the most popular and effective choices.\n\n## Adding Widgets to a Sidebar\nTo search for and add widgets to sidebars:\nGo to Toolbox\nSelect Sidebar Manager\nFind the desired sidebar and click \" Edit \"\nSearch for the widget\nDrag and drop it into the sidebar\nSave\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180303636/original/f-EhdMR16Np2ovUh6jErepZlW2pnUMoP4w.png?1781237902 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155696204/original/T-rZ5DXUGAxYq5h6RqZAmzCcN1Ip8lmyKQ.gif?1737431893 | alt: ]\nThroughout this article, each widget is listed with its reference in the format [widget=...] . This is the widget's name — search for it in the Sidebar Manager to find and add it.\nMore information:\nSidebar Alignment: Design Settings » Sidebar Alignment Options\nSidebar Manager Overview : Toolbox » Sidebar Manager\nHow to Create a Sidebar\n\n## Universal Sidebar Widgets\nThese widgets can be added to any page and will retain their intended functionality.\n\n## Share this Page\nDisplays social sharing buttons for the current page.\n[widget=Bootstrap Theme - Module - Social Share]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180303719/original/vckAPJVw_QXJshhfr72mQNR-EihRsi7SZA.png?1781238060 | alt: ]\n\n## Join Our Community\nInvites users to get listed on the site.\n[widget=Bootstrap Theme - Module - Member Join Offer]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180303820/original/rXDj4LDGpJu9rdAbPHY2ldLffTBb59YpQQ.png?1781238648 | alt: ]\n\n## Join Newsletter\nAllows members and users to join the site's newsletter.\n[widget=Bootstrap Theme - Module - Newsletter Sign Up Form]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180303823/original/qzijQ6DbOFc3xv6jcQG0zztNERPgLMdpdw.png?1781238707 | alt: ]\n\n## Sidebar Videos & Text Boxes\nEnhance the website sidebars with videos and custom text boxes to showcase important content, promotions, or helpful resources.\n\n## Video\nAdd videos to sidebars by creating a new widget and inserting the embed code: How to Add a Video in a Sidebar\n\n## Text Box\nAdd a custom text box to sidebars by creating a new widget and inserting the text content: How to Create a Text Box to Display Text in a Sidebar\n\n## Banner Ads on Sidebars\nThe process of adding banners to any sidebar can be found here: Adding Banners to Sidebars\n\n## Global Search Results\nThe default sidebar used on this page is Global Website Search .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180303922/original/BBdC1u0htXn6RjP-x-3MDxdjQeXWZ8tHhg.png?1781239043 | alt: ]\n\n## Global Search\nThis widget allows users to search more keywords across the entire site.\n[widget=Bootstrap Theme - Module - Global Website Search]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155676042/original/aeU9tMO7Mw4flg98TECcbN8ZdkvP-OTu3A.png?1737398008 | alt: ]\n\n## Member Profiles\nThe default sidebar used on this page is the Member Profile Page default sidebar.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175004573/original/wc86GOeuuno589RUwkEgkch9OrpiSVmRIA.png?1771714704 | alt: ]\n\n## Contact Form\nThis widget allows users to contact the member.\n[widget=Bootstrap Theme - Module - Member Contact Form]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155675407/original/2Fd6SNIXFHIjniMe2zdn7_OWwri9cqw_1w.png?1737397264 | alt: ]\n\n## Related Searches\nThis widget shows related searches based on the member's information.\n[widget=Bootstrap Theme - Module - Member Related Searches]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155696325/original/xGawjbtAGE8wIsOlkEC5tPHHY_EkIV9YDw.png?1737432086 | alt: ]\n\n## Facebook Feed\nWith this widget, the Facebook Feed streams all of the latest posts and updates from a specific Facebook account.\nOnly Facebook Company Pages or Fan Pages will stream content.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156117352/original/StNGYvAtO2WtJwxbKkWUPpXdrlYAZrlGPA.png?1738111682 | alt: ]\n\n## Member Search Results\nThe default sidebar used on this page is the Member Search Result default sidebar.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155743940/original/lYQzlq3wYHEhGIygnU9Hb7iNRBYfrkrfJQ.png?1737491946 | alt: ]\n\n## Search Module\nThis widget finds members based on keywords and/or location.\n[widget=Bootstrap Theme - Search Module - Keyword_Location]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155743656/original/PmJlZRij56rPHIbTJK_fr_VhuxVMfn-CDQ.png?1737491592 | alt: ]\n\n## Recent Reviews\nThis widget displays recent reviews left on member's profiles.\n[widget=Bootstrap Theme - Module - Recent Reviews]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155743962/original/zQSzvIJESLw2O6ob1ec1-SgpkiyB7fUqhA.png?1737491968 | alt: ]\n\n## Post Search Results\nThe default sidebar used on this page is the Post Search Result and some common widgets to use are:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155833293/original/vmGJrIPrWRLvqK-GV6uiD7s0ThxoqRCWkg.png?1737606979 | alt: ]\n\n## Dynamic Sidebar Search\nThis widget will adapt to the selected Post Type and show relevant filter options accordingly\n[widget=Bootstrap Theme - Search Module - Dynamic Sidebar Search]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155833317/original/_J7zoQjOuGHxRTQrQxcPvHqekRJatqQ_8g.png?1737607040 | alt: ]\n\n## Post Detail Page\nThe default sidebar used on this page is the Post Single Page and some common widgets to use are:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175004614/original/ivIJMfCucTj2QggKJtDj0DRpn9lncH32sA.png?1771714830 | alt: ]\n\n## Posted By Author\nThis widget will show the author of the post along with options to contact or see the profile.\n[widget=Bootstrap Theme - Module - Posted by Author Snapshot]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155833436/original/NXm2dv6_dYwMsrUlzYFhreV6rnfM1XTIMw.png?1737607453 | alt: ]\n\n## Post Location Map\nThis widget will display the location of the post.\n[widget=Bootstrap Theme - Module - Post Location Map]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155833447/original/1ONs9FpjQZveMUmY5WSWqbFhxtkp0tfY_A.png?1737607561 | alt: ]\n\n## Related Posts\nThis widget will display the related posts by category.\n[widget=Bootstrap Theme - Display - Related Posts by Category]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155833471/original/xwEieQ9xCkuZm_9NzkGqBtT67NVeBOpxVw.png?1737607645 | alt: ]\n\n## Notes\nDynamic search modules and regular search modules can't be used on the same sidebar.\nCustom widgets can also be added, the functionality will depend on the custom code.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180303636/original/f-EhdMR16Np2ovUh6jErepZlW2pnUMoP4w.png?1781237902",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155696204/original/T-rZ5DXUGAxYq5h6RqZAmzCcN1Ip8lmyKQ.gif?1737431893",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180303719/original/vckAPJVw_QXJshhfr72mQNR-EihRsi7SZA.png?1781238060",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180303820/original/rXDj4LDGpJu9rdAbPHY2ldLffTBb59YpQQ.png?1781238648",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180303823/original/qzijQ6DbOFc3xv6jcQG0zztNERPgLMdpdw.png?1781238707",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180303922/original/BBdC1u0htXn6RjP-x-3MDxdjQeXWZ8tHhg.png?1781239043",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155676042/original/aeU9tMO7Mw4flg98TECcbN8ZdkvP-OTu3A.png?1737398008",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175004573/original/wc86GOeuuno589RUwkEgkch9OrpiSVmRIA.png?1771714704",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155675407/original/2Fd6SNIXFHIjniMe2zdn7_OWwri9cqw_1w.png?1737397264",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155696325/original/xGawjbtAGE8wIsOlkEC5tPHHY_EkIV9YDw.png?1737432086",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156117352/original/StNGYvAtO2WtJwxbKkWUPpXdrlYAZrlGPA.png?1738111682",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155743940/original/lYQzlq3wYHEhGIygnU9Hb7iNRBYfrkrfJQ.png?1737491946",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155743656/original/PmJlZRij56rPHIbTJK_fr_VhuxVMfn-CDQ.png?1737491592",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155743962/original/zQSzvIJESLw2O6ob1ec1-SgpkiyB7fUqhA.png?1737491968",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155833293/original/vmGJrIPrWRLvqK-GV6uiD7s0ThxoqRCWkg.png?1737606979",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155833317/original/_J7zoQjOuGHxRTQrQxcPvHqekRJatqQ_8g.png?1737607040",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175004614/original/ivIJMfCucTj2QggKJtDj0DRpn9lncH32sA.png?1771714830",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155833436/original/NXm2dv6_dYwMsrUlzYFhreV6rnfM1XTIMw.png?1737607453",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155833447/original/1ONs9FpjQZveMUmY5WSWqbFhxtkp0tfY_A.png?1737607561",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155833471/original/xwEieQ9xCkuZm_9NzkGqBtT67NVeBOpxVw.png?1737607645",
+      "alt": ""
+    }
+  ],
+  "content_hash": "342680e482245346385c72ed769b3028cdab765750c0df58a99fc6f91cf85c43",
+  "ingested_at": "2026-10-17T15:33:35.482775+00:00"
+}

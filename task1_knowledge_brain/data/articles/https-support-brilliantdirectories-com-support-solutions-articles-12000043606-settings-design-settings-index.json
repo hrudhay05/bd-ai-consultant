@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000043606-settings-design-settings-index",
+  "title": "Settings » Design Settings Index",
+  "text": "\n## Settings » Design Settings Index\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000043606\n\n## General\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619882/original/GaXLQulzzymvRak0o20D-9VeC2bJPt0tEQ.png?1645926701 | alt: ]\n\n## Website Design\nAn overview of the various elements involved in designing and customizing the website's appearance.\n\n## Main Design\nThis section covers the overall design elements of the website, including layout and structure.\n\n## Header Design\nLearn how to customize the header of the website, including logo placement and navigation setup.\n\n## Logo Designer\nUnderstand the options available for adding and customizing the website’s logo.\n\n## Footer Colors\nExplore how to adjust the colors and design of the website’s footer section.\n\n## Additional Settings\nExplore other customization options that enhance the functionality and aesthetics of the website.\n\n## Main Menu Design\nDetails on how to style and configure the main navigation menu of the website.\n\n## Button Colors\nInstructions for changing the color scheme of buttons throughout the website.\n\n## Member Profile Pages\nGuide on customizing the design and layout of member profile pages.\n\n## Search Results Pages\nHow to style and adjust the appearance of search results pages on the site.\n\n## Content Boxes & Backgrounds\nInstructions for modifying content boxes and background designs for a cohesive look.\n\n## Sidebar Alignment\nTips on aligning and customizing sidebars to enhance the website’s layout.\n\n## Website Announcement Message\nLearn how to create and manage announcement messages that appear across your site.\n\n## Homepage\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619885/original/vYT6v2M0wq3TfFksyAd1C1XcMQPYRc53Sg.png?1645926746 | alt: ]\n\n## Top Hero Section\nControl Settings that show above the fold on the homepage of the website:\nHero Title Text Search Box / Call to Action Hero Background Image Search Box Design\n\n## Enable Additional Sections\nSection Settings Section Title Font Select Content to Display\n\n## Background Image Slider\nImage Slider Settings\n\n## Change Theme\nHow To Preview & Activate A Theme\n\n## Color Sets\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619888/original/u1yDwTXrLLZH5wdcjKT56RlNdjrLpq_0qg.png?1645926811 | alt: ]\n\n## Banner Ads\nAdd Banners to the website: Settings » Design Settings » Banner Ads\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619889/original/9vM8uFh7cRzIeJLf0_AOL0BKLJjSfNgzCw.png?1645926856 | alt: ]\n\n## Custom CSS/HEAD\nAdd Custom CSS, <head> & <footer> code:\nHow To Override And Edit Default CSS Stylesheets\nHow To Add A Snippet Of Code To The <HEAD> Of Every Page Of A Site\nHow To Add A Snippet Of Code To The Footer Of Every Page Of A Site\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619894/original/cl_h7SASOvQxEVs4zTvisnsdCwWqVVegKg.png?1645926903 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619882/original/GaXLQulzzymvRak0o20D-9VeC2bJPt0tEQ.png?1645926701",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619885/original/vYT6v2M0wq3TfFksyAd1C1XcMQPYRc53Sg.png?1645926746",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619888/original/u1yDwTXrLLZH5wdcjKT56RlNdjrLpq_0qg.png?1645926811",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619889/original/9vM8uFh7cRzIeJLf0_AOL0BKLJjSfNgzCw.png?1645926856",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619894/original/cl_h7SASOvQxEVs4zTvisnsdCwWqVVegKg.png?1645926903",
+      "alt": ""
+    }
+  ],
+  "content_hash": "16536ac188f0ab7ba52d4a77f19b988a75c9f7ec21aafb709372f92fd4d165a6",
+  "ingested_at": "2026-10-17T14:38:03.911603+00:00"
+}

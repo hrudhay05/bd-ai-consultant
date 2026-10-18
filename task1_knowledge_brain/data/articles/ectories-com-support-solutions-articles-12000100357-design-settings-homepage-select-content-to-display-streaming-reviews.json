@@ -1,0 +1,133 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100357-design-settings-homepage-select-content-to-display-streaming-reviews",
+  "title": "Design Settings » Homepage » Select Content to Display » Streaming Reviews",
+  "text": "\n## Design Settings » Homepage » Select Content to Display » Streaming Reviews\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000100357\n\n## Settings Documentation for Streaming Reviews\nThis document provides detailed descriptions of the settings available for configuring the streaming reviews section on the platform. Each setting allows for customization to meet specific needs and preferences.\nTo edit these settings, navigate to:\nIn the Admin Sidebar Open Settings\nSelect Designs Settings\nOpen The Homepage Tab\nOpen The Module Select Content to Display\nSelect The Streaming Reviews Option\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145021679/original/jnvGNwm6r_HaS833ErhiHXtEugNjK5B_hg.png?1718725693 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145021724/original/gHX_VkxJ-BDHZAzH9bE8Fj7NUS63U3xDlQ.png?1718725742 | alt: ]\n\n## Visual Guide of the  Streaming Reviews\nThese are the available settings for the Streaming Reviews section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022136/original/aDzxIdt98l7C5XqfneGDQKAmapICBxI5_g.png?1718726100 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022195/original/JU9WYace76kab5vx64BV8SRMpyLP-PFmjA.png?1718726142 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022203/original/soDswHHyfiFsvxGVdOIbEZPveeo6gLVX0A.png?1718726155 | alt: ]\n\n## 1. Recent Reviews Title\nThis setting allows the administrator to set the title for the recent reviews section. The title can be customized by entering the desired text in the provided input field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022806/original/W8PCK0ZO33J6pFYtfDQgaklyCcOAziARHw.png?1718726589 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022808/original/NGG2JYHrc_yjOF6Nx4ng3Pvfs-wQE0Ggig.png?1718726594 | alt: ]\n\n## 2. Title Color\nThe title color setting enables the customization of the title's color. Administrators can choose a color by inputting the desired color code or using the color picker tool provided.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022414/original/IuUitq3eHBuJakM-jhsY-GSKKWJZRaSuYQ.png?1718726300 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022503/original/JcwXm4RBW-H3V5-waAZjTojQ4Yk4ncZAbQ.png?1718726356 | alt: ]\n\n## 3. Display Options\nThis setting controls the number of recent member reviews displayed. Administrators can select from a range of options, from 1 to 24 results. Additionally, the layout can be adjusted to show a specific number of results per row, ranging from 2 to 4 results per row.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145023109/original/vabDDz9Ntrh62RjqtCDDJjXRphoPzMQW-Q.png?1718726830 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022928/original/WZfihtSaY0oI6qApSWm1GOzLeb7_lDHcPQ.png?1718726703 | alt: ]\n\n## 4. Enable Carousel Slider\nThe carousel slider option allows recent member reviews to be displayed in a sliding carousel format. This can be toggled on or off using the provided dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022953/original/7obttuCLh0z0UHxUW450hkOkF8xR04Z2Eg.png?1718726736 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145023098/original/Ddt2jfvYgx5AdvDqjcmqgyxNC0ZycUmqzA.png?1718726820 | alt: ]\n\n## 5. Hide On Mobile\nThis setting allows administrators to choose whether the recent member reviews section should be hidden on mobile devices. It can be enabled or disabled using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145023676/original/Aq0jr43dKbAJnAlCyBt7qOa5JraJXFvLHg.png?1718727253 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145023802/original/vi9YhKT3vm0h724FAf_RYU5fNt_rSNCKMQ.png?1718727373 | alt: ]\n\n## 6. Only Show Members With Photo\nAdministrators can choose to display only those members who have a profile photo. This setting ensures that members without photos are excluded from the recent member reviews list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145023935/original/qXrmK3zQkUgL_WlrCUUlP-0XEABWTd8ocw.png?1718727455 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022928/original/WZfihtSaY0oI6qApSWm1GOzLeb7_lDHcPQ.png?1718726703 | alt: ]\n\n## 7. Show \"View All\" Button\nThe \"View All\" button allows users to see all recent member reviews. This setting can be toggled on or off using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024066/original/kKPom0M5lohjxVemIUP0VRSEDETggJrFYQ.png?1718727570 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024077/original/b-IslTDgfDUdYUjE9IonOz85aOmf0bX6Bw.png?1718727602 | alt: ]\n\n## 8. Hide If No Posts Exist\nThis setting allows administrators to choose whether the recent member reviews section should be hidden if no posts exist. It can be enabled or disabled using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024116/original/cCheof_NKyYEyhpwqNhNhTsy4oD0QKXbkA.png?1718727643 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652 | alt: ]\n\n## 9. Only Include Posts from Active Members\nThis setting specifies whether only posts from active members should be included. Administrators can choose to include posts from active members only or from all members.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024175/original/AZELAZJArCp7r6K-lMJ_neHGmCBnVrDIEA.png?1718727687 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652 | alt: ]\n\n## 10. Include Posts from Non-Searchable Members\nThis setting allows administrators to choose whether to include posts from non-searchable members. It can be enabled or disabled using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024175/original/AZELAZJArCp7r6K-lMJ_neHGmCBnVrDIEA.png?1718727687 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652 | alt: ]\n\n## 11. Include Posts from Members in These Plans\nThis setting allows administrators to limit the displayed posts to specific membership plans. Administrators can select the desired membership plans from the provided list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024396/original/7aFsN4hXqleYHiDLJ_ZMoPukkfxZoW7WmQ.png?1718727845 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652 | alt: ]\n\n## 12. Limit One Review per Member?\nThis setting specifies whether only one review per member should be displayed. Administrators can choose to display one review per member or allow multiple reviews from the same member.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024445/original/EA9Ir_LmnJhL5Ot8_VKVnZVI6oyDJkC2xQ.png?1718727883 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652 | alt: ]\n\n## 13. Display Order\nThe display order setting determines the order in which recent member reviews are shown. Options include newest reviews first, newest reviews last, and random order. This can be customized by selecting the desired option from the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024486/original/0sgkSXd9yDB_e-Jxoy_sacG0HorS5aqqaQ.png?1718727920 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145021679/original/jnvGNwm6r_HaS833ErhiHXtEugNjK5B_hg.png?1718725693",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145021724/original/gHX_VkxJ-BDHZAzH9bE8Fj7NUS63U3xDlQ.png?1718725742",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022136/original/aDzxIdt98l7C5XqfneGDQKAmapICBxI5_g.png?1718726100",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022195/original/JU9WYace76kab5vx64BV8SRMpyLP-PFmjA.png?1718726142",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022203/original/soDswHHyfiFsvxGVdOIbEZPveeo6gLVX0A.png?1718726155",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022806/original/W8PCK0ZO33J6pFYtfDQgaklyCcOAziARHw.png?1718726589",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022808/original/NGG2JYHrc_yjOF6Nx4ng3Pvfs-wQE0Ggig.png?1718726594",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022414/original/IuUitq3eHBuJakM-jhsY-GSKKWJZRaSuYQ.png?1718726300",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022503/original/JcwXm4RBW-H3V5-waAZjTojQ4Yk4ncZAbQ.png?1718726356",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145023109/original/vabDDz9Ntrh62RjqtCDDJjXRphoPzMQW-Q.png?1718726830",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022928/original/WZfihtSaY0oI6qApSWm1GOzLeb7_lDHcPQ.png?1718726703",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022953/original/7obttuCLh0z0UHxUW450hkOkF8xR04Z2Eg.png?1718726736",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145023098/original/Ddt2jfvYgx5AdvDqjcmqgyxNC0ZycUmqzA.png?1718726820",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145023676/original/Aq0jr43dKbAJnAlCyBt7qOa5JraJXFvLHg.png?1718727253",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145023802/original/vi9YhKT3vm0h724FAf_RYU5fNt_rSNCKMQ.png?1718727373",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145023935/original/qXrmK3zQkUgL_WlrCUUlP-0XEABWTd8ocw.png?1718727455",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145022928/original/WZfihtSaY0oI6qApSWm1GOzLeb7_lDHcPQ.png?1718726703",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024066/original/kKPom0M5lohjxVemIUP0VRSEDETggJrFYQ.png?1718727570",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024077/original/b-IslTDgfDUdYUjE9IonOz85aOmf0bX6Bw.png?1718727602",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024116/original/cCheof_NKyYEyhpwqNhNhTsy4oD0QKXbkA.png?1718727643",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024175/original/AZELAZJArCp7r6K-lMJ_neHGmCBnVrDIEA.png?1718727687",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024175/original/AZELAZJArCp7r6K-lMJ_neHGmCBnVrDIEA.png?1718727687",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024396/original/7aFsN4hXqleYHiDLJ_ZMoPukkfxZoW7WmQ.png?1718727845",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024445/original/EA9Ir_LmnJhL5Ot8_VKVnZVI6oyDJkC2xQ.png?1718727883",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024486/original/0sgkSXd9yDB_e-Jxoy_sacG0HorS5aqqaQ.png?1718727920",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145024120/original/AYHOwPBakyE_ow5LLE3XL0lzvUOf22TVHA.png?1718727652",
+      "alt": ""
+    }
+  ],
+  "content_hash": "354a24bcaeb554998e53ccc3d88ff27e34e36ee473649e26dee786516950131f",
+  "ingested_at": "2026-10-17T15:26:55.621410+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101416-how-to-create-reviews-through-the-api-using-zapier",
+  "title": "How to \"CREATE\" reviews through the API using Zapier",
+  "text": "\n## How to \"CREATE\" reviews through the API using Zapier\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000101416\nThis article shows an example of how a Google Spreadsheet can be used to create a new review for members on a site using the site's API.\n\n## Checklist Before Moving Forward With This Example\n1) Make sure to generate a unique API Key using the documentation down below as a guideline. Please make sure to save the API Key in a safe place as it is not accessible after it has been created:\nHow To Generate an API Key\n2) Make sure to have a Google Spreadsheet ready. This spreadsheet should have at least one row of the review information shown below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149196464/original/JmFo74WqTi_Pamm76CIVcdE_sRcrYdV3aw.png?1725921723 | alt: ]\nPlease note the following required fields in order to create a member:\nuser_id ,\nreview_title\n\n## Connecting Google Sheets with Zapier\nLog in to the Zapier account and click on + Create and click on Zaps :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149196680/original/2Y8017rb6Elut7_Ng_CHUEo71Ki5Aere7g.png?1725922128 | alt: ]\nClick on Trigger and search for Google Sheet:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149196948/original/nZZXjY2yCyB6EscuKzQTJCn7s43jpjdV1g.gif?1725922583 | alt: ]\nSelect New or Updated Spreadsheet Row for the Trigger event and log into your Google account, once done click on Continue:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149197057/original/tnib63qjTygc8yZp5CmJnswPG2U1UZOx3A.png?1725922793 | alt: ]\nSelect the Spreadsheet that has the review information with the respective Worksheet. If necessary, select a Trigger Column or leave as \"any column\" and click on Continue:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149197431/original/rs3nOPeOurnFeJtsRRWCqhXDD_0iKxvi_g.png?1725923190 | alt: ]\nClick on Test Trigger and the Spreadsheet information will display as a preview:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149197761/original/YvnhUrYGgxjgQkm67PKu17bfUMi3hO8zXQ.png?1725923910 | alt: ]\nClick on Continue with selected record for the next step in this process.\n\n## Connecting the API with Zapier\nA new set of options will appear, select the option for Brilliant Directories:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149197936/original/HbY9BUDAxqa5-u31-Gp34W4D-MEdmwtmXg.gif?1725924212 | alt: ]\nSelect the Action Event to Create Review and either choose a BD account if you've done this in the past or Connect a new account:\nIf an account is already, skip down to FILL IN THE BLANK.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198015/original/epRdckvqNpouGPP3f_Kz4TJOAAnWCAj5qQ.png?1725924311 | alt: ]\nIf this is the first time, click on Connect a new account and a popup will show up. Add the website URL and the API Key , and click Yes, Continue to Brilliant Directories:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198044/original/6JwQQYePiJRVhb_JQCahLV5lbsNKAu-Png.png?1725924495 | alt: ]\nOnce finished, click Continue.\n\n## Configuring the Review Information\nThe next step will be aligning the fields from your worksheet to the correct fields for the Review to be created.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198200/original/XByl47n4n8dmnkf2EoNiItmM3BHSbVMD7A.gif?1725924884 | alt: ]\nOnce all the respective fields have been selected and added, click on Continue:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198273/original/kJl4Da7Y8uDpNg7mPUcVqu83Nx2vK1WatQ.png?1725925047 | alt: ]\nIf there is a need to send a notification, select Send Email Notifications ? These are the options: Email Member About This Update Email Reviewer About This Update Email Member & Reviewer About This Update\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158193307/original/aAP7-UhQ1dQ1W4wTFUizZIJalEdwVbEEDw.png?1741698889 | alt: ]\nThe next step will ask to test the trigger, do so to verify that everything went well:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198295/original/lOfuqoDctHKsRNdt3WqsqsqMlOnHlWWI8g.png?1725925110 | alt: ]\nIf done correctly, the review will show up in the Interactions » Member Reviews :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198365/original/VBQkk_3w9HMYWyH7i7jY8qI8r-6eeiChmA.png?1725925246 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149196464/original/JmFo74WqTi_Pamm76CIVcdE_sRcrYdV3aw.png?1725921723",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149196680/original/2Y8017rb6Elut7_Ng_CHUEo71Ki5Aere7g.png?1725922128",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149196948/original/nZZXjY2yCyB6EscuKzQTJCn7s43jpjdV1g.gif?1725922583",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149197057/original/tnib63qjTygc8yZp5CmJnswPG2U1UZOx3A.png?1725922793",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149197431/original/rs3nOPeOurnFeJtsRRWCqhXDD_0iKxvi_g.png?1725923190",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149197761/original/YvnhUrYGgxjgQkm67PKu17bfUMi3hO8zXQ.png?1725923910",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149197936/original/HbY9BUDAxqa5-u31-Gp34W4D-MEdmwtmXg.gif?1725924212",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198015/original/epRdckvqNpouGPP3f_Kz4TJOAAnWCAj5qQ.png?1725924311",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198044/original/6JwQQYePiJRVhb_JQCahLV5lbsNKAu-Png.png?1725924495",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198200/original/XByl47n4n8dmnkf2EoNiItmM3BHSbVMD7A.gif?1725924884",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198273/original/kJl4Da7Y8uDpNg7mPUcVqu83Nx2vK1WatQ.png?1725925047",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158193307/original/aAP7-UhQ1dQ1W4wTFUizZIJalEdwVbEEDw.png?1741698889",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198295/original/lOfuqoDctHKsRNdt3WqsqsqMlOnHlWWI8g.png?1725925110",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149198365/original/VBQkk_3w9HMYWyH7i7jY8qI8r-6eeiChmA.png?1725925246",
+      "alt": ""
+    }
+  ],
+  "content_hash": "631495ec9e2eb4aaa619b8df511d47d1db9bb41bd94234a602baf1a133a53938",
+  "ingested_at": "2026-10-17T15:28:03.572746+00:00"
+}

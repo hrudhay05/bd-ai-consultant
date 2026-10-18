@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000030685-06-02-17-software-updates",
+  "title": "06/02/17 - Software Updates",
+  "text": "\n## 06/02/17 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000030685\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\n\n## Updates:\nWe improved the functions and widgets that involved the Upload Files functionality, this update will impact the follwing section of the Software: Profile and Logo Photo Section. Post Feature and Photo Album feature photo upload. Curriculum Vitae / Brochure upload. Froala Image Upload.\nProfile and Logo Photo Section.\nPost Feature and Photo Album feature photo upload.\nCurriculum Vitae / Brochure upload.\nFroala Image Upload.\nWidgets Involved:\nBootstrap Theme - Account - Photo Albums Upload Form Bootstrap Theme - Account - Profile Image Upload Bootstrap Theme - Form - Froala Editor Actions",
+  "images": [],
+  "content_hash": "db4e0309c36465fa273af3e8767a7f16ec6f3ba6eeafc1162f18a1f5d165cf01",
+  "ingested_at": "2026-10-17T14:35:17.495640+00:00"
+}

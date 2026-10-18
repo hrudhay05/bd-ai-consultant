@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000006714-hidden-member-profiles-search-privileges-",
+  "title": "Hidden Member Profiles (Search Privileges)",
+  "text": "\n## Hidden Member Profiles (Search Privileges)\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000006714\n\n## Overview\nAddress privacy concerns by hiding the profiles of specific membership levels on the website. The admin can also incentivize member upgrades by limiting their search functionalities. It can be useful to adjust the privacy settings for membership levels on the website. This add-on gives these abilities and more by unlocking additional member search permissions.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Hidden Member Profiles Add-On\n\n## Enabling the Add-On\nLogin to the admin portal\nGo to Finance - Membership Plans - Edit the membership level to modify:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057195/original/99XFUsQwUA6uGbXzcLYODPXGWyRf7KFiJQ.png?1619837802 | alt: ]\nClick on the Search Visibility tab.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057239/original/LX_KiOHEtX1C7Ht1-0IUG0CO_kJ8oJUUaQ.png?1619838154 | alt: ]\nScroll to the bottom until the option Hidden Member Profile Settings shows up:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057241/original/f4LiEqrpheQhEztnJp5RNtc1XGjnnozklg.png?1619838198 | alt: ]\nThe admin can select which membership levels can be searched by the members belonging in this exact membership level. For example, in the image below the Gold members can search only for other Gold members and Silver Plan members:\nThe admin can select which membership levels can be searched by the members belonging in this exact membership level. For example, in the image below the Gold members can search only for other Gold members and Silver Plan members:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057278/original/e7AJTtL-pK2QKbKaENzBo4B2OQ0ARE5UWQ.png?1619838376 | alt: ]\n\n## Listings Searchable on Website\nThis option can be seen in the Set Visibility Rules of the Search Visibility tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057282/original/yYBaZ4G2-ca_584m-Wuz3yw8jph4HRhgrg.png?1619838409 | alt: ]\nBy setting this option to \"No\" , all other Search Visibility options will be overridden and members in this Plan will not be searchable by anyone.  Setting this to \"No\" is useful for plans for Admin members of the site that are just used to post articles or other content, that will be a searchable member of the site (the content they post will still be searchable).\nSetting this to \"Yes\" will allow the members of this Product to be searchable, and all of the other Member Search Visibility Options will take effect.\n\n## Listings Searchable for Non-Members\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057283/original/_nU6Opzhh5UrAnvw6mzJ0MPxPDBqMB9xig.png?1619838420 | alt: ]\nSetting this to \"Yes\" will allow users of the website that are not logged in to an account to search for the members in this Product.  if this is set to \"No\", users will have to be logged in to an account to be able to search for members in this Product.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057195/original/99XFUsQwUA6uGbXzcLYODPXGWyRf7KFiJQ.png?1619837802",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057239/original/LX_KiOHEtX1C7Ht1-0IUG0CO_kJ8oJUUaQ.png?1619838154",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057241/original/f4LiEqrpheQhEztnJp5RNtc1XGjnnozklg.png?1619838198",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057278/original/e7AJTtL-pK2QKbKaENzBo4B2OQ0ARE5UWQ.png?1619838376",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057282/original/yYBaZ4G2-ca_584m-Wuz3yw8jph4HRhgrg.png?1619838409",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057283/original/_nU6Opzhh5UrAnvw6mzJ0MPxPDBqMB9xig.png?1619838420",
+      "alt": ""
+    }
+  ],
+  "content_hash": "8bcca2fb61ae1f5bb5a4a9bbe9e87268829830628a60b586276bc1498b216918",
+  "ingested_at": "2026-10-17T14:32:37.362104+00:00"
+}

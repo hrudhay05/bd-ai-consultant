@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097946-qr-code-for-member-s-dashboard",
+  "title": "QR Code for Member's Dashboard",
+  "text": "\n## QR Code for Member's Dashboard\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000097946\nA QR code can be displayed in the Member Dashboard by enabling the appropriate setting in the Membership Plan.\n\n## Enabling the QR Code Module\nLog in to the Admin Area.\nNavigate to Finance → Membership Plans .\nEdit the Membership Plan where the QR code should be displayed.\nOpen the Member's Dashboard tab.\nLocate the Show QR Code Module setting. The keyword filter can be used to find it quickly.\nSet the option to Yes .\nClick Save Changes .\nNote: The QR code is only displayed for members whose profiles are searchable.\nFor additional information about the Show QR Code Module setting, refer to:\nhttps://support.brilliantdirectories.com/support/solutions/articles/12000049066-finance-membership-plans-member-dashboard#section-3-dashboard-display-settings",
+  "images": [],
+  "content_hash": "4e9b3905cdfa60f6e6c65376de8144159052050ba4f08d9a51b7ba674e6c1988",
+  "ingested_at": "2026-10-17T15:25:09.651255+00:00"
+}

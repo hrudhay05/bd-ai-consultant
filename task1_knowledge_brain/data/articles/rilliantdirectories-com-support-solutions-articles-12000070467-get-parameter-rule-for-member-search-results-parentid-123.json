@@ -1,0 +1,13 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000070467-get-parameter-rule-for-member-search-results-parentid-123-",
+  "title": "Get parameter rule for MEMBER search results \"&parentid=123\"",
+  "text": "\n## Get parameter rule for MEMBER search results \"&parentid=123\"\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000070467\nMember search results can be filtered by adding the parentid parameter to the search results URL.\nThis returns sub-account members assigned to the specified parent member ID.\n\n## URL Format\nUse the following URL structure:\nReplace 123 with the parent member's User ID.\n\n## Find the Parent Member ID\nTo locate a member's User ID, see:\nHow to View a Member's Unique ID Number in the Admin Area\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181295990/original/greR2LWKUQQJ0BGkJEx85ZhtEuyzsZq8nw.png?1782860152 | alt: ]\n\n## Example\nIf the parent member's User ID is 18 , the search results URL would be:\nThe search results page will then display members assigned as sub-accounts of that parent member.\nHow To View A Member's Unique ID Number In The Admin Area",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181295990/original/greR2LWKUQQJ0BGkJEx85ZhtEuyzsZq8nw.png?1782860152",
+      "alt": ""
+    }
+  ],
+  "content_hash": "c4dc4ce9f2b1a093ab824d733bfd4936febaa39764fb769e8500a9bcb25b7a03",
+  "ingested_at": "2026-10-17T14:46:12.472630+00:00"
+}

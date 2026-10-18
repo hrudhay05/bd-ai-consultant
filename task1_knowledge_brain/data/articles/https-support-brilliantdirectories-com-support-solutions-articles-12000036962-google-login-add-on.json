@@ -1,0 +1,45 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000036962-google-login-add-on",
+  "title": "Google Login Add-On",
+  "text": "\n## Google Login Add-On\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000036962\nThe One-Click Google Login add-on allows users to register or log in to the website using their Google account.\nThis works with the default Brilliant Directories login and registration system. Existing members can also connect or remove their linked Google account from inside the member dashboard.\n\n## How To Get This Add-On\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nThe add-on can also be purchased individually: One-Click Google Login Add-On\nThis setup requires a Google Cloud project and a Google OAuth Client ID.\nIf Google Maps is already set up for the website, use the same Google Cloud project. This keeps the Google settings for the website in one place.\nThe Google setup screens are managed by Google and may look different depending on the account, project, or Google Cloud updates. The steps below focus on the settings needed for Brilliant Directories.\n\n## Step 1 - Open Google Cloud\nLog in to the Google account being used for the website and open Google Cloud:\nOpen Google Cloud APIs & Services\nMake sure the correct Google Cloud project is selected at the top of the page.\n\n## Step 2 - Create the API Key\nIf Google Maps is already set up for the website, this step can be skipped because the website should already have a Google API key.\nIf an API key has not been created yet, open the Google Cloud Credentials page:\nOpen Google Cloud Credentials\nClick Create Credentials .\nSelect API Key .\nName the key something easy to recognize, such as Google Login .\nCopy the API key.\nAfter the API key is created, add the correct HTTP referrers so Google knows which website domains are allowed to use the key.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540272/original/uYOLpxIX7fwy4Qwb0Fs6424bQuSwim_1Bw.png?1784843073 | alt: ]\nFor help editing HTTP referrers, see this article: Google Maps Issues: Editing HTTP Referrers\n\n## Step 3 - Branding Details\nIn Google Auth Platform, open the Branding section.\nOpen Branding\nComplete the required branding fields for the website.\nApp name: The website or brand name users will recognize.\nUser support email: The email users can contact for help.\nApp domain: Add the website homepage, privacy policy, and terms of service URLs.\nAuthorized domains: Add the website domain used for Google Login.\nDeveloper contact information: Add the email Google can use for project notices.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540329/original/7AtuCw0WLVf6Ew6eWg3AO-T5Rx1tckxwxA.png?1784843178 | alt: ]\nSave the branding settings before continuing.\n\n## Step 4 - Create OAuth Client ID\nOpen the Google Auth Platform Clients page:\nOpen Google Auth Platform Clients\nClick Create Client .\nFor application type, select Web application .\nEnter a name for the client, such as Google Login .\nAdd the website domain under Authorized JavaScript origins .\nCreate the client.\nCopy the Client ID .\nThe authorized JavaScript origin should use the live website domain with HTTPS.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540404/original/eDHqplUEBcY7SdrLIRZ8VHOn9rleb5nnWw.png?1784843332 | alt: ]\nExample:\nhttps://www.yourdomain.com\nReplace yourdomain.com with the website’s live domain.\n\n## Step 5 - Add Scopes\nOpen the Data Access section in Google Auth Platform.\nAdd the following scopes:\n.../auth/userinfo.email\n.../auth/userinfo.profile\nopenid\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540445/original/tz5hx4mbrFsJlnuYfdoJ0vQLg1wqgsxHfQ.png?1784843419 | alt: ]\nThese scopes allow Google Login to confirm the user’s basic profile information and email address.\n\n## Step 6 - Enable the People API\nOpen the Google People API page:\nOpen Google People API\nMake sure the correct Google Cloud project is selected, then click Enable .\n\n## Step 7 - Copy the Key and ID\nAfter the Google setup is complete, copy the details that need to be added to the Brilliant Directories admin.\nAPI Key: Only needed if a Google API key has not already been added for Google Maps.\nClient ID: Required for Google Login.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540476/original/odr2nC-RN3ZksAHKHrNOodN0rZnvzjv2uw.png?1784843518 | alt: ]\n\n## Step 8 - Add the Google Details\nLog in to the Brilliant Directories admin and go to:\nClick on Settings\nGo to the General Settings\nThe field to add the Google details is in the Integrations tab\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540510/original/wknTNrcwk6W7t2vTG4LfO96m6OBtlbGxQQ.png?1784843575 | alt: ]\nAdd the Google details:\nAPI Key: Add the API key if one has not already been added for Google Maps.\nClient ID: Add the Google Developer Client ID.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540587/original/5Xb6blr7aqW_hjfwI2fbHOVjcmxC4aMcWg.png?1784843629 | alt: ]\nMake sure Google Login is enabled in the Integrations settings, then save the changes.\n\n## Step 9 - Allow Google Login\nAfter the Google details are added in the admin, enable Google Login for the membership plans that should offer this option.\nGo to:\nFinance\nMembership Plans\nEdit the membership plan\nEnable Sign In with Google\nSave the changes\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085521350/original/UiR9A5NZjpFbu73ouLouCTX2afNyuFqQOg.png?1606348840 | alt: ]\n\n## Live Buttons\nOnce Google Login is set up and enabled, the Google Login button will display on the website.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123265146/original/d5FAko0exSWdFizF5oSKzpyjnA3pCN_sDQ.png?1680022152 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540272/original/uYOLpxIX7fwy4Qwb0Fs6424bQuSwim_1Bw.png?1784843073",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540329/original/7AtuCw0WLVf6Ew6eWg3AO-T5Rx1tckxwxA.png?1784843178",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540404/original/eDHqplUEBcY7SdrLIRZ8VHOn9rleb5nnWw.png?1784843332",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540445/original/tz5hx4mbrFsJlnuYfdoJ0vQLg1wqgsxHfQ.png?1784843419",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540476/original/odr2nC-RN3ZksAHKHrNOodN0rZnvzjv2uw.png?1784843518",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540510/original/wknTNrcwk6W7t2vTG4LfO96m6OBtlbGxQQ.png?1784843575",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540587/original/5Xb6blr7aqW_hjfwI2fbHOVjcmxC4aMcWg.png?1784843629",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085521350/original/UiR9A5NZjpFbu73ouLouCTX2afNyuFqQOg.png?1606348840",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123265146/original/d5FAko0exSWdFizF5oSKzpyjnA3pCN_sDQ.png?1680022152",
+      "alt": ""
+    }
+  ],
+  "content_hash": "331502d0e0c4311f078d78bf90c2efac1fad3387e9d84688fcf77d184ad6af0d",
+  "ingested_at": "2026-10-17T14:36:49.599112+00:00"
+}

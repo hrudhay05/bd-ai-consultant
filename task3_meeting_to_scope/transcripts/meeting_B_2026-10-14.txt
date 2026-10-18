@@ -1,0 +1,48 @@
+ROLE-PLAYED TRANSCRIPT. This is a fictional client meeting written for the capstone. Not a real client.
+Meeting ID: B
+Project: Handloom Saree Online Store (e-commerce workflow)
+Date: 2026-10-14
+Participants: Arjun Mehta (Consultant), Kavya Reddy (Client owner), Rohit Verma (Client developer)
+
+[00:00:04] Arjun: Thanks for joining. Today I want to understand the checkout, notifications and payment changes you want, then I will send a proposal.
+[00:00:20] Kavya: Thanks Arjun. We sell handloom sarees online. Orders are growing, but many customers leave at checkout.
+[00:00:42] Arjun: Why do you think they leave?
+[00:00:50] Kavya: They must create an account before they can buy. Many people do not want that. We want guest checkout.
+[00:01:12] Rohit: Also the address form is long and typing on a phone is painful. We would like address autofill or something simple.
+[00:01:30] Arjun: Is address autofill a must, or a nice idea?
+[00:01:38] Kavya: Guest checkout is a must. Address autofill is a should, if the cost is fine.
+[00:02:00] Arjun: Understood. Now notifications. What do customers receive today after an order?
+[00:02:12] Rohit: Only a basic email, and sometimes it goes to spam.
+[00:02:25] Kavya: We want a clear order confirmation email, and a message when the order is shipped.
+[00:02:45] Kavya: And WhatsApp messages too. Customers here use WhatsApp more than email.
+[00:03:02] Arjun: WhatsApp business messages usually need an approved provider. Do you have one?
+[00:03:12] Rohit: No. I do not know if we need to pay for that. Please find out.
+[00:03:25] Arjun: Okay, I will list WhatsApp as an open question. We should not promise it yet.
+[00:03:40] Kavya: Fine. Email notifications are the priority. WhatsApp is optional.
+[00:04:00] Arjun: Now payments. What do you use now?
+[00:04:10] Rohit: Only bank transfer and cash on delivery. We want to accept cards and UPI online.
+[00:04:28] Kavya: We want to use Razorpay. Our friend uses it and likes it.
+[00:04:42] Arjun: Do you know if your store platform supports Razorpay?
+[00:04:52] Rohit: I am not sure. I think there is a plugin, but I have not checked.
+[00:05:08] Arjun: Then that is an open question. I cannot promise the integration until it is checked.
+[00:05:25] Kavya: Understood. But online payment is a must for us.
+[00:05:40] Arjun: Do you already have a Razorpay account?
+[00:05:48] Kavya: Not yet. We applied, and the approval is pending. They asked for our business documents.
+[00:06:05] Rohit: We will send you the account details when it is approved. I think by 25 October.
+[00:06:20] Arjun: Please note that this is a dependency. Without the approved account, we cannot test payments.
+[00:06:38] Kavya: Yes, I understand.
+[00:06:55] Arjun: What about refunds and failed payments? Should the system handle them?
+[00:07:08] Kavya: Refunds we will do by hand for now. But if a payment fails, the customer should see a clear message.
+[00:07:28] Arjun: So failed payment message is included, automatic refunds are not.
+[00:07:40] Kavya: Correct.
+[00:08:00] Arjun: Timing and budget. What do you have in mind?
+[00:08:10] Kavya: We want to go live by 30 November 2026, before the festival sale.
+[00:08:25] Arjun: Noted, 30 November 2026. That is tight if the payment approval is late.
+[00:08:40] Kavya: I know. Our budget is 1,800 US dollars for all of this.
+[00:08:55] Arjun: Understood, 1,800 dollars. Does that include any Razorpay fees?
+[00:09:08] Rohit: No, Razorpay charges its own fee per transaction. That is separate.
+[00:09:25] Arjun: Good. Also, do you want any change to product pages or the design?
+[00:09:35] Kavya: No. Leave the product pages and design as they are.
+[00:09:48] Arjun: Understood. To summarize: guest checkout as a must, address autofill as a should, order confirmation and shipping emails, WhatsApp as an open question, online payment with Razorpay as a must but not yet verified, a clear failed payment message. No automatic refunds, no design changes.
+[00:10:20] Kavya: That is right. Please send us a proposal.
+[00:10:28] Arjun: I will. Thank you both.

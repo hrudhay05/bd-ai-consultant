@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101323-google-analytics-4-tracking-membership-plan-sign-ups-using-key-events-conversions-",
+  "title": "Google Analytics 4: Tracking Membership Plan Sign-Ups Using Key Events (Conversions)",
+  "text": "\n## Google Analytics 4: Tracking Membership Plan Sign-Ups Using Key Events (Conversions)\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000101323\nUnderstanding user interactions, such as sign-ups for different membership plans, is crucial for assessing website performance and optimizing user engagement. Integrating BD websites with Google Analytics 4 (GA4) enables effective tracking of membership plan sign-ups. Here’s a detailed guide on how to set up this tracking.\n\n## Part 1: Set Up Tracking on The Brilliant Directories Website\n\n## 1. Create a New Custom Widget\nBegin by accessing the BD website dashboard and creating a new custom widget .\n\n## 2. Name the Widget\nAssign a simple nickname to the widget, such as \"Track Sign Ups - Membership Plan Name,\" to facilitate identification.\n\n## 3. Insert the Tracking Code\nPaste the following code into the widget’s code area on the HTML tab:\nThis code configures a custom event in GA4 to be triggered whenever a sign-up for the specified membership plan occurs.\nIMPORTANT: Replace bronze_plan_sign_up with the name of the membership plan you're tracking.\nNO SPACES\nNO SYMBOLS\nUSE UNDERSCORES _\nIf there are any spaces or symbols, the tracking will not work\nExample change: premium_plan_sign_up\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148743078/original/bpdL5LCboAVrGZgl2LmjCJlIFWLljaZfrg.png?1725062677 | alt: ]\n\n## 4. Save Changes\nEnsure that the widget is saved to apply the changes.\n\n## 5. Edit the Membership Plan\nGo to Finance > Membership Plans, edit the plan that will have the tracking code, find the \"Successful Sign Up / Upgrade Conversion Tracking Code Widget\" setting in the first tab of the page, and select the widget created for the tracking code.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148742999/original/5pCVyKOjF3yl9vN15mjM2scZw90OArgLRw.png?1725062251 | alt: ]\n\n## Part 2: Set Up Key Event to Track in Google Analytics 4 (GA4)\n\n## 1. Copy the Event Name\nUse the exact event name from the inserted code, for example, bronze_plan_sign_up .\n\n## 2. Access GA4 Admin Settings\nNavigate to Google Analytics for the website and click on the ADMIN blue icon located at the bottom-left of the page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148820759/original/suivIPUBiI35k9wC78HrGteiulJcDFC4EA.png?1725296532 | alt: ]\n\n## 3. Navigate to Key Events\nFind the DATA DISPLAY section in the sidebar, and click on KEY EVENTS .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148820713/original/pDX0ik24Qa2waWihMlOR0pzC-yn3H1Da8Q.png?1725296483 | alt: ]\n\n## 4. Create a New Key Event\nClick on NEW KEY EVENT and enter the copied event name, such as bronze_plan_sign_up\nIMPORTANT: The KEY EVENT name MUST MATCH EXACTLY the event name defined in the tracking code in the widget.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148820889/original/KK1jIYWeptny-jJYPdNsZYbv1ZLj5WMXPA.png?1725296729 | alt: ]\n\n## 5. Save the Key Event\nClick SAVE to finalize the event setup.\nEvents can be viewed under Reports > User Engagement & Retention > Events.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148743185/original/nNXjuLvGPWwxN-jvH7Cdryd4CzLFuNp-kQ.png?1725063221 | alt: ]\nAfter adding a new event in GA4, it typically takes about 24 to 48 hours for the event to appear in the Events report. This delay is due to the time required for data processing and reporting updates within Google Analytics 4.\nTo see the new event sooner, checking the Realtime report might provide immediate insights, though the full data and detailed reports will still be updated within the 24 to 48-hour time-frame.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148743261/original/RGk_9bbohR5hNxdwH_RfZGraFc-chOCEqw.png?1725063793 | alt: ]\nWith the tracking for membership plan sign-ups configured, monitoring these events directly in Google Analytics 4 becomes possible.\nFor different membership plans, the process can be repeated with unique event names for each plan.\nBy following these instructions, valuable insights into user engagement with various membership plans can be obtained, enabling data-driven decisions to enhance website performance.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148743078/original/bpdL5LCboAVrGZgl2LmjCJlIFWLljaZfrg.png?1725062677",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148742999/original/5pCVyKOjF3yl9vN15mjM2scZw90OArgLRw.png?1725062251",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148820759/original/suivIPUBiI35k9wC78HrGteiulJcDFC4EA.png?1725296532",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148820713/original/pDX0ik24Qa2waWihMlOR0pzC-yn3H1Da8Q.png?1725296483",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148820889/original/KK1jIYWeptny-jJYPdNsZYbv1ZLj5WMXPA.png?1725296729",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148743185/original/nNXjuLvGPWwxN-jvH7Cdryd4CzLFuNp-kQ.png?1725063221",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148743261/original/RGk_9bbohR5hNxdwH_RfZGraFc-chOCEqw.png?1725063793",
+      "alt": ""
+    }
+  ],
+  "content_hash": "95ca534abacdf1b997ee6fba8629a2b090a56785a1e3e6810a68341c4469f33a",
+  "ingested_at": "2026-10-17T15:27:46.312382+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000105772-quick-create-wizard-create-coupon-code",
+  "title": "Quick Create Wizard - Create Coupon Code",
+  "text": "\n## Quick Create Wizard - Create Coupon Code\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000105772\nThis will trigger a 4 step wizard to create coupon codes if the Easy Coupon Codes add-on is active\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021321/original/BZ2x3Lu1obTR6NnvvNKttUEP2pceg4fHow.png?1780873264 | alt: ]\n\n## Create coupon code\nThe admin will need to enter the basic information for the new promotional code. The discount type can be Percentage, fixed amount or price Override.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279799/original/GGxoJijQbULGaZYFWN0RdsGRuU27HzJe1A.png?1757536097 | alt: ]\n\n## Usage Settings\nThe admin will be able to set timing, limits, and choose where this coupon can be used.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279832/original/SDq8CAjgim3Nq513SwxupHTdvzHIp7vkSg.png?1757536164 | alt: ]\n\n## Specific Usage Types\nWhen selecting the Specific Usage type additional options will show to set the coupon code\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279900/original/73lA45fgxIurmurA7jdeKmrI_2J-zG0eLA.png?1757536279 | alt: ]\nWhen selecting Enabled - specific cases these options will show to complete the setup\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279977/original/cTrXEIwKQ4_zuMZxZrpAP6nC8m9AwzOmiw.png?1757536364 | alt: ]\nFor more information about the coupon add-on: Easy Coupon add-on\n\n## Review and Create Coupon\nFinal step before creating the coupon, the admin will be able review the details before creating the coupon code.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167280046/original/eU8JYcIdJ9MXEsGwxZ1XaXh_6Wye_Dl9Hg.png?1757536473 | alt: ]\nFinally a success message will display once the coupon is created.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167280093/original/ktmuS61FTPsQ5cudnLhGhHQPGK8OV44i0A.png?1757536511 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180021321/original/BZ2x3Lu1obTR6NnvvNKttUEP2pceg4fHow.png?1780873264",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279799/original/GGxoJijQbULGaZYFWN0RdsGRuU27HzJe1A.png?1757536097",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279832/original/SDq8CAjgim3Nq513SwxupHTdvzHIp7vkSg.png?1757536164",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279900/original/73lA45fgxIurmurA7jdeKmrI_2J-zG0eLA.png?1757536279",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167279977/original/cTrXEIwKQ4_zuMZxZrpAP6nC8m9AwzOmiw.png?1757536364",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167280046/original/eU8JYcIdJ9MXEsGwxZ1XaXh_6Wye_Dl9Hg.png?1757536473",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167280093/original/ktmuS61FTPsQ5cudnLhGhHQPGK8OV44i0A.png?1757536511",
+      "alt": ""
+    }
+  ],
+  "content_hash": "e64d44daf23f7b76ccd452b92f2dc6ccb3927c02b850ac948c7aecde41e33f11",
+  "ingested_at": "2026-10-17T15:35:18.142415+00:00"
+}

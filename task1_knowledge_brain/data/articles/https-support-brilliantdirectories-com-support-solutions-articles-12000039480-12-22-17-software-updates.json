@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000039480-12-22-17-software-updates",
+  "title": "12/22/17 - Software Updates",
+  "text": "\n## 12/22/17 - Software Updates\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000039480\nWe made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website.\n\n## Updates:\nWe fixed an issue which was affecting the Last Login IP feature in the Admin Account Page on the Site Admin.\nNow the following Payment Gateways 2Checkout and PayPal Standard can be activated by Regular Admins on the Site Admin.\nWe fixed an issue which was affecting the Country and States dropdown on the signup pages when a site has the  United Kingdom as the main country\nWe refactored several core files the make the loading of all frontend pages of websites faster.\nWe fixed an issue which was affecting the flow save action when a site member tried to save a photo album post.",
+  "images": [],
+  "content_hash": "2f793127ffc0948455e509002b9d9bafafdf64f648ed9cfff280c87caf244c31",
+  "ingested_at": "2026-10-17T14:37:12.281638+00:00"
+}

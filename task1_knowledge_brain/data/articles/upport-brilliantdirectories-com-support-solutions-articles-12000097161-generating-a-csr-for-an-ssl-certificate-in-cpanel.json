@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097161-generating-a-csr-for-an-ssl-certificate-in-cpanel",
+  "title": "Generating a CSR for an SSL certificate in cPanel",
+  "text": "\n## Generating a CSR for an SSL certificate in cPanel\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000097161\n\n## Generate a Certificate Signing Request (CSR)\nA Certificate Signing Request (CSR) is required when purchasing an SSL certificate from a third-party provider. The CSR contains information about the domain and organization requesting the certificate and is used by the SSL provider during the certificate issuance process.\n\n## Access the cPanel Dashboard\nLog in to the website's Admin Area and navigate to Developer Hub > cPanel Dashboard .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441075/original/N5NO8PK8h-J4f5WcwEf_Xs24T-U4gxtzww.png?1699995089 | alt: ]\n\n## Open the SSL/TLS Manager\nWithin cPanel, locate the SSL/TLS option in the Security section.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441095/original/YwwRmTOIiY8UMm5_YaeHLJMkTpdaq6Hh_g.png?1699995138 | alt: ]\n\n## Create the CSR\nClick Generate, View, or Delete SSL Certificate Signing Requests .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441186/original/QXx5Z4XKOOX85Tka-571NeN-CwGDm3gzvg.png?1699995239 | alt: ]\n\n## Complete the CSR Information\nComplete the required fields, including the domain name, organization details, and location information.\nThe Domains field should include all domains and subdomains that will be secured by the SSL certificate.\nFor a wildcard SSL certificate, the domain can be entered as:\n*.example.com\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134442211/original/76DYpLuDrYrGgxa4Ywyia2i7Bnt2kNsHCw.png?1699996121 | alt: ]\nAlternatively, individual domains and subdomains can be specified separately:\nwww.example.com example.com mail.example.com\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134442218/original/ySN92LmakzKbia_sbWrVk8hwf__wpX41RA.png?1699996136 | alt: ]\n\n## Generate the CSR\nAfter all required information has been entered, click Generate to create the Certificate Signing Request.\n\n## Save the CSR and Private Key\nBoth the CSR and private key should be saved in a secure location. The CSR will be required when purchasing the SSL certificate, while the private key will be required when installing the certificate on the server.\nLoss of the private key may prevent the SSL certificate from being installed successfully and could require generating a new CSR.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441075/original/N5NO8PK8h-J4f5WcwEf_Xs24T-U4gxtzww.png?1699995089",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441095/original/YwwRmTOIiY8UMm5_YaeHLJMkTpdaq6Hh_g.png?1699995138",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441186/original/QXx5Z4XKOOX85Tka-571NeN-CwGDm3gzvg.png?1699995239",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134442211/original/76DYpLuDrYrGgxa4Ywyia2i7Bnt2kNsHCw.png?1699996121",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134442218/original/ySN92LmakzKbia_sbWrVk8hwf__wpX41RA.png?1699996136",
+      "alt": ""
+    }
+  ],
+  "content_hash": "1818608f108c300fd01d2e5ac5d6db5668e45424b6409a09cada5e83a44e6352",
+  "ingested_at": "2026-10-17T15:24:34.330217+00:00"
+}

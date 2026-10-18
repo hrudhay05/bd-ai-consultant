@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101382-using-css-to-target-featured-posts",
+  "title": "Using CSS to Target Featured Posts",
+  "text": "\n## Using CSS to Target Featured Posts\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000101382\nPreviously, customizing the appearance of Pinned Featured Posts required modifying PHP in specific widgets.\nBrilliant Directories now adds a dedicated CSS class to featured posts, making it much easier to customize their appearance using CSS instead of PHP.\nThis article demonstrates how to target featured posts with CSS and provides an example of how to customize their appearance.\n\n## CSS Classes for Featured Posts\nEach featured post includes a CSS class that can be targeted based on its post type.\nThe following examples show two different post types and their corresponding CSS classes:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149241174/original/cc4QuR2KLfAtxDMMAuoRTz1J3VEckKAurA.png?1725985034 | alt: ]\nhttps://bootstrap.brilliantdirectories.com/support/solutions/articles/12000051517-pin-featured-posts In this example will change the Background Color of the post on the search results page with the CSS code below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149241354/original/UZDL_-Ut1UG1SfbsywNVD4NCtoU7XScdEg.png?1725985125 | alt: ]\nAfter saving the changes, featured posts will display with the new background color on the search results page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149241435/original/vJdm9WFgoY0bhtNr_CdATwMQLBS6npWxpg.png?1725985232 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149241174/original/cc4QuR2KLfAtxDMMAuoRTz1J3VEckKAurA.png?1725985034",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149241354/original/UZDL_-Ut1UG1SfbsywNVD4NCtoU7XScdEg.png?1725985125",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149241435/original/vJdm9WFgoY0bhtNr_CdATwMQLBS6npWxpg.png?1725985232",
+      "alt": ""
+    }
+  ],
+  "content_hash": "84fb1d2d557c2d642f63a74cdb48e32b6a763bb8c6830de2e24113e71861c730",
+  "ingested_at": "2026-10-17T15:27:57.193618+00:00"
+}

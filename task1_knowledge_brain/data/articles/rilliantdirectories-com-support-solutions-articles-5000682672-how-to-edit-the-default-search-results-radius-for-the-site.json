@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682672-how-to-edit-the-default-search-results-radius-for-the-site",
+  "title": "How To Edit The Default Search Results Radius For The Site",
+  "text": "\n## How To Edit The Default Search Results Radius For The Site\nLink: https://support.brilliantdirectories.com/support/solutions/articles/5000682672\nWhen a user does a search on the site for a specific location, the default is to display all members within a 50 mile (or kilometer, depending on the settings of the site) radius from the searched location. To edit this radius, please follow these steps:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104990006/original/3cioi9Rg2k9NQkopKqdIzO5oJLCoVPGxQQ.png?1644791917 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104990010/original/fNEoKcymwG-gM-W1rU9ANdYBhs4BYnEulA.png?1644791951 | alt: ]\nSelect from the following choices:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079243756/original/P9M1KVuBvZoLrQvotqqBiENs15Kucllo1Q.png?1593187375 | alt: ]\nAdditional information:\nSettings » Advanced Settings » Bounds And Radius Location Searches",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104990006/original/3cioi9Rg2k9NQkopKqdIzO5oJLCoVPGxQQ.png?1644791917",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104990010/original/fNEoKcymwG-gM-W1rU9ANdYBhs4BYnEulA.png?1644791951",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079243756/original/P9M1KVuBvZoLrQvotqqBiENs15Kucllo1Q.png?1593187375",
+      "alt": ""
+    }
+  ],
+  "content_hash": "175406e039656bdc71a925e0437e163bfc30e1ab20f356c96ba377b6e94f5580",
+  "ingested_at": "2026-10-17T14:07:53.937156+00:00"
+}

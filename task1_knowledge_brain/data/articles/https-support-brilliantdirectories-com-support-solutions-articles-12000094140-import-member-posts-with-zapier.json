@@ -1,0 +1,117 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000094140-import-member-posts-with-zapier",
+  "title": "Import Member Posts with Zapier",
+  "text": "\n## Import Member Posts with Zapier\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000094140\nThis article shows an example on how to import member posts using Zapier.\nIt is also possible to import posts via CSV and API .\nIn this instance, we have an example file in CSV format. To enable Zapier to retrieve the data, the file needs to be uploaded to Google Sheets.\nTo understand the formatting of the CSV file please see: How To Import Posts Via CSV File\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168384/original/F3U5hvHssaO_ZDkkMb4HjghxeXCuYT8Rig.png?1685464278 | alt: ]\nNote : When adding images to the file for upload, the image(s) can be added with the entire URL that includes the https protocols and website domain or just the relative URL.\ne.g.: https://www.domain.com/images/image.jpg or /images/image.jpg\nThe image URL must also have a compatible extension: jpg, jpeg, png, gif, webp.\nThe image must be publicly accessible (the host cannot block the image importer).\nOnce the data is on a Google Sheet file it is time to login to Zapier and create a Zap.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126163123/original/0r9wdXW0ZXxoPEoY3R1ebpq9KjPLyuCozg.png?1685459912 | alt: ]\nAs a trigger select Google Sheets:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166417/original/DfKKY6YMM9o2Gul8dGUy_qPkPBKLOg5woQ.png?1685462578 | alt: ]\nUnder \"Event\" select New Spreadsheet Row:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166455/original/kP5eZX6lKDxiRWHXMoO2nZr1eNxCX4zVnA.png?1685462625 | alt: ]\nChoose the Account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166510/original/l1_1wM1MMa-2cixeZ4axIs3gncgg7zmjvA.png?1685462659 | alt: ]\nSelect the Spreadsheet.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166644/original/0DJnb-wut06cg2trPkEbTw0HRwUzdKyQeg.png?1685462742 | alt: ]\nSelect the Worksheet.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166689/original/wN2W1mfRVfj9OILtz2xJep0jnUrTnjtcjw.png?1685462785 | alt: ]\nClick on Test trigger.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166727/original/bewisvgeBYDxLWx0FVodp2gKaAJlxBiVng.png?1685462818 | alt: ]\nClick on Continue.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166782/original/ZecpAtQd9KQDb9m9V3MtfdgEaOkiXC51BQ.png?1685462867 | alt: ]\nFor the Action Select Brilliant Directories Latest .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168760/original/nEBvzYzsTPZQvLURrz8cIfJJ5TMmoUTvsA.png?1685464590 | alt: ]\nSelect \"Create Post\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166922/original/bONTJa1jBFHoc1y1GL0GuwTV4nEfhCPIMw.png?1685462946 | alt: ]\nSign in to the account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166954/original/KyabKPQVHoJ9T6qiJ5hjsBCCHskJcZ654A.png?1685462994 | alt: ]\nEnter the website URL and the Brilliant Directories API, to generate a new one please see:\nDeveloper Hub » Generate API Key Overview\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126167152/original/k14039Y3hZKxujr2Ek2AfLyWQizohCNvpA.png?1685463178 | alt: ]\nClick on Continue.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126167208/original/LNY7Wm3C_t2Z_XTWqBjc727F7H4E_VIFbQ.png?1685463232 | alt: ]\nSelect the Post Type, in this example it is Website Blog Article.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126167956/original/wSu0GHOo-YxEoMBAIqZZbC1grgMDy0gecw.png?1685463916 | alt: ]\nSelect the \"Post Author ID\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126167978/original/i25awiyZlPh_IUjGJVHkFDftf5DMsqjppA.png?1685463934 | alt: ]\nSelect the \"Post Title\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126167985/original/eyBIa_gzsHQmyiope9qOiztNsHft1BUJRg.png?1685463951 | alt: ]\nSelect the \"Post Feature Image\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168142/original/RZUWeLfS08Gooab8ufVNHne1Yyq4p_mj5g.png?1685464024 | alt: ]\nSelect Yes on Auto-Import Images. If Yes is selected, the system will import post images and save them to your website. Processing may take several minutes after import.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168170/original/IcRCoxQX_XBUxflaKqbodyVatdWUOFkMWw.png?1685464056 | alt: ]\nSelect \"Post Category\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168177/original/DS0CYXjb4MlgHjJYnGIAqdoz6ghWmbYOcQ.png?1685464067 | alt: ]\nSelect \"Post Tags\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168194/original/37HlRcFKKk2nw1Cj8LexMvPssfwYpWYFNA.png?1685464078 | alt: ]\nSelect \"Post Location\".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168205/original/qANDm2-EFK79lg_P4HOh2IFob2KWThZEtQ.png?1685464094 | alt: ]\nSelect Yes to Use Google Maps To Geocode Post Location.\nAllow Google to geocode posts. Requires \" Pretty URLs with Google Maps \".\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168212/original/EMT2Cun3-xAVcfHT1SaxS-FqmeQn1lM6-Q.png?1685464109 | alt: ]\nClick Continue.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168216/original/tBGdY9XfzkvqIxtW9L96x8k5RiUwunOSHg.png?1685464120 | alt: ]\nClick Test Action.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168222/original/hFlhyDX4gdXabwVWjXjgm3qLcBE_5sZACg.png?1685464129 | alt: ]\nClick Publish.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168260/original/JKM5a7OEkqwRA8uWO_M3geNkB4lldYmrAg.png?1685464183 | alt: ]\nOnce the Zap is published, go to My Content >> Manage Posts .\nLook for the post type that should be imported on the dropdown and see the post imported.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168285/original/rg-JZdheMEKfAnre6s6U3E1YNmZYUEVfZA.png?1685464201 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168384/original/F3U5hvHssaO_ZDkkMb4HjghxeXCuYT8Rig.png?1685464278",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126163123/original/0r9wdXW0ZXxoPEoY3R1ebpq9KjPLyuCozg.png?1685459912",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166417/original/DfKKY6YMM9o2Gul8dGUy_qPkPBKLOg5woQ.png?1685462578",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166455/original/kP5eZX6lKDxiRWHXMoO2nZr1eNxCX4zVnA.png?1685462625",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166510/original/l1_1wM1MMa-2cixeZ4axIs3gncgg7zmjvA.png?1685462659",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166644/original/0DJnb-wut06cg2trPkEbTw0HRwUzdKyQeg.png?1685462742",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166689/original/wN2W1mfRVfj9OILtz2xJep0jnUrTnjtcjw.png?1685462785",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166727/original/bewisvgeBYDxLWx0FVodp2gKaAJlxBiVng.png?1685462818",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166782/original/ZecpAtQd9KQDb9m9V3MtfdgEaOkiXC51BQ.png?1685462867",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168760/original/nEBvzYzsTPZQvLURrz8cIfJJ5TMmoUTvsA.png?1685464590",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166922/original/bONTJa1jBFHoc1y1GL0GuwTV4nEfhCPIMw.png?1685462946",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126166954/original/KyabKPQVHoJ9T6qiJ5hjsBCCHskJcZ654A.png?1685462994",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126167152/original/k14039Y3hZKxujr2Ek2AfLyWQizohCNvpA.png?1685463178",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126167208/original/LNY7Wm3C_t2Z_XTWqBjc727F7H4E_VIFbQ.png?1685463232",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126167956/original/wSu0GHOo-YxEoMBAIqZZbC1grgMDy0gecw.png?1685463916",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126167978/original/i25awiyZlPh_IUjGJVHkFDftf5DMsqjppA.png?1685463934",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126167985/original/eyBIa_gzsHQmyiope9qOiztNsHft1BUJRg.png?1685463951",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168142/original/RZUWeLfS08Gooab8ufVNHne1Yyq4p_mj5g.png?1685464024",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168170/original/IcRCoxQX_XBUxflaKqbodyVatdWUOFkMWw.png?1685464056",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168177/original/DS0CYXjb4MlgHjJYnGIAqdoz6ghWmbYOcQ.png?1685464067",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168194/original/37HlRcFKKk2nw1Cj8LexMvPssfwYpWYFNA.png?1685464078",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168205/original/qANDm2-EFK79lg_P4HOh2IFob2KWThZEtQ.png?1685464094",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168212/original/EMT2Cun3-xAVcfHT1SaxS-FqmeQn1lM6-Q.png?1685464109",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168216/original/tBGdY9XfzkvqIxtW9L96x8k5RiUwunOSHg.png?1685464120",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168222/original/hFlhyDX4gdXabwVWjXjgm3qLcBE_5sZACg.png?1685464129",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168260/original/JKM5a7OEkqwRA8uWO_M3geNkB4lldYmrAg.png?1685464183",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126168285/original/rg-JZdheMEKfAnre6s6U3E1YNmZYUEVfZA.png?1685464201",
+      "alt": ""
+    }
+  ],
+  "content_hash": "abe43d9e9b0fb08a894c578293e9711714821bddc550d4fbf6f01e9e97d8ec19",
+  "ingested_at": "2026-10-17T15:23:09.500291+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078292-how-to-clone-a-form",
+  "title": "How To Clone a Form",
+  "text": "\n## How To Clone a Form\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000078292\nThis article explains how to clone an existing form from the Form Manager.\nCloning a form creates a copy of an existing customized form. This is useful when a similar version of a form is needed, but the original form should remain unchanged.\n\n## Before Cloning a Form\nBefore a form can be cloned, the default version of the form must be customized first. Once the form has been customized, the Clone option will appear in the form’s Actions dropdown.\nFor instructions on customizing a default form, see the following article:\nHow To Customize a Form\n\n## How to Clone a Form\nGo to Toolbox >> Form Manager .\nFind the customized form that should be cloned.\nClick the Actions dropdown for the form.\nSelect Clone Form .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182514833/original/qWky2jLlpO7d2mxZhE_aeEkI2tGqdrnurg.png?1784819892 | alt: ]\nA popup will open with settings for the cloned form.\n\n## Update the Cloned Form Settings\nAfter selecting Clone , the cloned form settings popup will open. From this popup, the Form Name can be updated.\nThe Form System Name can also be updated from the Developer Settings tab.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182514926/original/dzIVu2OaWLMiCnPykeniy7ltc4yorHAPng.png?1784820009 | alt: ]\nAdditional settings may be available in the other tabs of the popup, depending on the form being cloned.\nEdit Form Settings » Email Notifications\nEdit Form Settings » Submission Settings\n\n## Default Clone Naming\nWhen a form is cloned, the system automatically adds default copy labels to keep the cloned form unique.\nForm Name: The system adds Copy of before the original form name.\nForm System Name: The system adds copy_of_ before the original system name.\nThese values can be edited before saving the cloned form.\nImportant: The Form System Name must be unique. Avoid using the same system name as another form.\n\n## Edit the Cloned Form\nOnce the cloned form opens, the form fields can be edited as needed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182515719/original/ASdHcCjIhNBPlQQ4OT1YO54Fsb6SZ4g0KQ.png?1784820503 | alt: ]\nCommon edits include:\nAdding new fields\nRemoving fields that are not needed\nRenaming fields\nReordering fields\nChanging whether fields are required or optional\nUpdating field instructions or placeholder text\nSave the form after making changes.\n\n## When to Clone a Form\nCloning a form is useful when a second version of an existing form is needed.\nExamples:\nCreate a shorter version of a signup form.\nCreate a plan-specific checkout form.\nCreate different inquiry forms for different website pages.\nCreate a test version of a form before changing the live version.\nCreate a custom version of a default form while keeping the original customized form available.\n\n## Important Notes\nA default form must be customized before it can be cloned.\nThe Clone option only appears for customized forms.\nThe cloned form should have a unique Form Name .\nThe cloned form must have a unique Form System Name .\nAfter cloning, review the form fields and settings before using the form on the website.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182514833/original/qWky2jLlpO7d2mxZhE_aeEkI2tGqdrnurg.png?1784819892",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182514926/original/dzIVu2OaWLMiCnPykeniy7ltc4yorHAPng.png?1784820009",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182515719/original/ASdHcCjIhNBPlQQ4OT1YO54Fsb6SZ4g0KQ.png?1784820503",
+      "alt": ""
+    }
+  ],
+  "content_hash": "0f6136dc4f45cfea012b867fe949b698ac47852c69272d6cf3d1721b60d9fb7c",
+  "ingested_at": "2026-10-17T14:49:00.915191+00:00"
+}

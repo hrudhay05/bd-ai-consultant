@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000070212-errors-connecting-to-main-database-or-website-database",
+  "title": "Errors Connecting to MAIN DATABASE OR WEBSITE DATABASE",
+  "text": "\n## Errors Connecting to MAIN DATABASE OR WEBSITE DATABASE\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000070212\n\n## Viewing The Website From The Website URL / Domain\nAccessing a website directly through its domain may occasionally result in error messages or status notifications. These messages vary depending on factors like server connectivity, DNS propagation, or account status. This article outlines the most common messages that may appear on the public site or in the admin area, along with what each message indicates and the recommended next steps in each scenario.\n\n## Cloud Error\nWhen the website experiences a error, the error screen that looks like this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958550/original/Jkk-26CA5_uEhTLAWHzLkqxQ_Qa1TuvEig.png?1588642353 | alt: ]\nNormally, if a server is having a connection issue or is temporarily receiving a lot of traffic, the website visitors might see this message. In this case, the temporary connection error will resolve itself and within 60 seconds the page will refresh and should display the website.\n\n## Website Server Transfer\nThere are specific cases where the website is being moved to another server, in that case, the computer might have a cached version of the DNS record on the computer and may not be viewing the most recent version of the website. In this case, this is the message:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958552/original/erpFjcM12kIqt4P9zjYncKMo-D9f1cTbzA.png?1588642368 | alt: ]\nIn this case, we recommend using a tool called http://www.geopeeker.com that will load the most recent version of the website.\nIf after 1 hour, this message is still appearing, we recommend following the directions here: [ https://www.a2hosting.com/kb/getting-started-guide/internet-and-networking/clearing-the-dns-cache-on-your-computer ] to flush the DNS cache on the computer.\n\n## Suspended or Deleted Website\nWhen the website is disconnected from the software, this message will appear:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958619/original/tGmamR3liCgxHijT7LnBdezZ4crG-_-xUQ.png?1588642526 | alt: ]\nThis may happen if the account is very past due, and or it was requested that the website be shut down.\nIf this message is an error, we recommend contacting our support staff by clicking on the link so we can work to restore the website.\n\n## Viewing The Website In The Admin\nWhen logging into the website admin, a more detailed explanation of what the exact website error is will be shown to help our support staff troubleshoots the issue. The following errors will only be shown to administrators who are logged into the website admin that is experiencing the error and will not be shown to normal website visitors.\n\n## Temporary Connection Issue\nIf there is a temporary connection issue connecting to the website due to a server being overloaded with traffic at that very moment, this message will be shown:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958860/original/BYCVjN05hNGfgA4AH2BMfu276nDOib4zGw.png?1588643526 | alt: ]\nThe web page will auto-refresh every 60 seconds until the issue is resolved, so in most cases, the issue will resolve itself within that time, so we recommend to let the page refresh until admin page is visible.\n\n## Incorrect Database Password\nIf there is a connection issue with the website's database due to the password being changed or some other malfunctioning existing with the database, one of these two messages will appear:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958937/original/Vvery-TNtLa2qBR09itq7gBQOBhSvegJmw.png?1588643850 | alt: ]\n\n## Database Does Not Exist\nWhen there are database issues, the issue will present as follows:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958967/original/IyZYieyVa0ZvN_-V3tbgdtB8mq58dn1pAw.png?1588643940 | alt: ]\nNOTE: The majority of the time these messages appear is when an administrator goes into Cpanel and makes updates to the databases. In this case, contact Support to get assistance.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958550/original/Jkk-26CA5_uEhTLAWHzLkqxQ_Qa1TuvEig.png?1588642353",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958552/original/erpFjcM12kIqt4P9zjYncKMo-D9f1cTbzA.png?1588642368",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958619/original/tGmamR3liCgxHijT7LnBdezZ4crG-_-xUQ.png?1588642526",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958860/original/BYCVjN05hNGfgA4AH2BMfu276nDOib4zGw.png?1588643526",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958937/original/Vvery-TNtLa2qBR09itq7gBQOBhSvegJmw.png?1588643850",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076958967/original/IyZYieyVa0ZvN_-V3tbgdtB8mq58dn1pAw.png?1588643940",
+      "alt": ""
+    }
+  ],
+  "content_hash": "3e2ef620196b6538f54a845292fea411bbddfce8bbc2e95d5697976ff1e76cb5",
+  "ingested_at": "2026-10-17T14:46:07.638446+00:00"
+}

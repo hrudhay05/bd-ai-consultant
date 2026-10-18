@@ -1,0 +1,17 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000040190-how-to-add-an-ads-txt-file",
+  "title": "How To Add An ads.txt File",
+  "text": "\n## How To Add An ads.txt File\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000040190\n\n## What is an ads.txt file?\nThe use of ads.txt files is an initiative from the Interactive Advertising Bureau Tech Lab (IAB) to improve transparency in advertising.  This initiative has been adopted by many of the large advertisement platforms, including Google Adsense. Installing an ads.txt file is as simple as uploading a file named ads.txt to the root of the website containing information provided by the banner / advertisement platform of choice (EG: Google Adsense).\nFor more detailed information about the ads.txt specification, please see this page on the IAB website: https://iabtechlab.com/ads-txt/\n\n## How to add an ads.txt file\nNavigate to Settings » Design Settings » Banner Ads »\nEnter Ads.txt content :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097174858/original/vj3sVFTPu9slJ94U1-fWk3rXYT72XgYZog.png?1629661049 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097174862/original/_Mq2GhYzjo5_Vejy7PDApVErq-8XYeV6kA.png?1629661057 | alt: ]\nAdd the required ads.txt content for this field and please allow up to 24 hours for Google and other networks to reflect this change. Once the update has been propagated the content will now be accessible at http://www.YourDomain.com/ads.txt",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097174858/original/vj3sVFTPu9slJ94U1-fWk3rXYT72XgYZog.png?1629661049",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097174862/original/_Mq2GhYzjo5_Vejy7PDApVErq-8XYeV6kA.png?1629661057",
+      "alt": ""
+    }
+  ],
+  "content_hash": "a637075b0312b70256c10f87b8ddd1823b5e054ca7975178464220523a3c0171",
+  "ingested_at": "2026-10-17T14:37:22.562986+00:00"
+}

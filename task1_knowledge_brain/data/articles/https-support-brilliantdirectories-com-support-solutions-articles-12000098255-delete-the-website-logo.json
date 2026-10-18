@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000098255-delete-the-website-logo",
+  "title": "Delete the Website Logo",
+  "text": "\n## Delete the Website Logo\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000098255\nA website logo can be removed whether it was uploaded as an image or created using the Logo Designer .\n\n## Deleting an Uploaded Logo Image\nIf the website logo was uploaded as an image:\nLog in to the Admin Area.\nNavigate to Settings → General Settings .\nOpen the Brand Images tab.\nScroll to the Website Logo section.\nClick the red X to remove the current logo.\nAlternatively, click Replace Image to upload a new logo.\nNote: After removing the logo image, the website title will automatically be displayed in its place.\nYou can learn more about the Website Logo settings here:\nSettings » General Settings » Brand Images Tab\n\n## Deleting a Text-Based Logo\nIf the website uses the Logo Designer instead of an uploaded image:\nNavigate to Settings → Design Settings .\nOpen the Logo Designer section.\nClear the contents of both the Logo Designer and Logo Slogan fields.\nClick Save Changes .\nYou can learn more about the \"Logo Designer\" settings here:\nhttps://support.brilliantdirectories.com/support/solutions/articles/12000045051",
+  "images": [],
+  "content_hash": "4feb27c7d2fa765a556ab8527e35780c4f4f50a8e0c86a53ef33afa382d75741",
+  "ingested_at": "2026-10-17T15:25:14.615502+00:00"
+}

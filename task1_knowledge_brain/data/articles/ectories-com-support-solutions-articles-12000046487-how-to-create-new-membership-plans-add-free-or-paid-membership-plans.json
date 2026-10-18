@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000046487-how-to-create-new-membership-plans-add-free-or-paid-membership-plans",
+  "title": "How to Create New Membership Plans - Add Free or Paid Membership Plans",
+  "text": "\n## How to Create New Membership Plans - Add Free or Paid Membership Plans\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000046487\nThis article explains how to set up free membership plans. With a free membership plan, members do not need to pay to join the website.The same process applies to paid membership plans by configuring a sign-up price.\nTo set this up, follow the steps below:\n1. Navigate to the admin and click  Finance » Membership Plans. Find the membership plan that needs to be set as \"Free\" and click Edit:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172838095/original/gQRE0wEGETA0Rlz2zSp2bDxvIlYt2zhPYQ.png?1767713201 | alt: ]\n2. Then go to the \"Sign Ups & Upgrades\" tab and make sure that the \"Account Type\" is Free .\nWhen 'Free' is selected, the pricing options will be hidden.\nThe only pricing option that remains visible is Price to Purchase Leads\nUsually, free members need to pay for leads and any other paid posts or services offered by the admin.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092391323/original/5xY-K1N11RfAopiIg5emDAhkQHTGR4XKsw.png?1620600539 | alt: ]\n3. Also in the Sign Ups & Upgrades tab, make sure to select \"Sign Up Email Sent\" --> \"Welcome-basic\" and also make sure the \"After Sign Up, Set Account Status As:\" is set to \"Inactive Account, Requires Email Verification\".\nThis way, members must verify their email addresses before their accounts become active\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092391559/original/MI-qR89p4MwrRbfAONB5phBtUtcw8dn2gg.png?1620602024 | alt: ]\n4. When everything has been set up, create a test member.\nTo do this, scroll up and click the \"Sign Up Page\" button:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092391576/original/7i13mHyiT0XcJi2NtSGjWeuf1IEZ-eEC8g.png?1620602159 | alt: ]\nThe 'Select a Payment Option' section will no longer appear and the system will display this form where members can add their email and password.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092391594/original/yVaf_EpwE2AGPk1fBjL16eJCc9fVxIpyjA.png?1620602226 | alt: ]\nAdditional documentation for setting up recurring payments is available here: Setting up Recurring Payments\nTo create one-time subscriptions, read this article: Setting up One Time Payments\nTo edit the amounts displayed on the /join page, read these articles:\nSide-By-Side Pricing Plans: How To Link Membership Plans To The Price Matrix\nGuide 5. How to Edit Public Pricing Page (the /join page)",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172838095/original/gQRE0wEGETA0Rlz2zSp2bDxvIlYt2zhPYQ.png?1767713201",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092391323/original/5xY-K1N11RfAopiIg5emDAhkQHTGR4XKsw.png?1620600539",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092391559/original/MI-qR89p4MwrRbfAONB5phBtUtcw8dn2gg.png?1620602024",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092391576/original/7i13mHyiT0XcJi2NtSGjWeuf1IEZ-eEC8g.png?1620602159",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092391594/original/yVaf_EpwE2AGPk1fBjL16eJCc9fVxIpyjA.png?1620602226",
+      "alt": ""
+    }
+  ],
+  "content_hash": "973841ee8924a0aa4383a0126522a23ec9eb21ae03802e8354c28028cfdda781",
+  "ingested_at": "2026-10-17T14:38:53.548668+00:00"
+}

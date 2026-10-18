@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000065703-how-to-add-expire-end-dates-to-multi-photo-posts-such-as-classifieds-properties-photo-albums-prod",
+  "title": "How to Add Expire/End Dates to Multi-Photo Posts such as Classifieds, Properties, Photo Albums & Products",
+  "text": "\n## How to Add Expire/End Dates to Multi-Photo Posts such as Classifieds, Properties, Photo Albums & Products\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000065703\nThis article explains how to add end or expiration dates to multi-photo post types. This applies to Photo Albums , Products , Classifieds , and Properties .\nThere are two methods:\nOption 1 – Hidden Field method (admin-controlled). An admin adds a Hidden Field to the multi-photo post's custom form and defines the number of days until the post expires. Once that number of days has passed after the post is created, the post is automatically marked as expired and no longer appears in site search results. Members cannot view, edit, or modify this expiration date.\nOption 2 – Member-selected end date. An admin adds a Custom HTML Field to the multi-photo post's custom form. Members can then select and manage the desired expiration date for their own post.\n\n## Option 1: Hidden Field Method\nNavigate to Toolbox >> Form Manager , then customize one of the following forms:\nFeature - Classifieds\nFeature - Properties\nFeature - Photos\nFeature - Products\nFor this example, the Classifieds form is used.\nClick one of the Add Field buttons.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236410/original/DWk9QSixfYlzYYRdwbs35dkeEcbAGKFtYg.png?1781143389 | alt: ]\nThis generates a blank field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236416/original/PM0padEYXx_I_C38nqX2K_nnJ_zRNT9e-g.png?1781143429 | alt: ]\nFill in the fields as shown below, then click Save Changes .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236441/original/LNaeK6PcmqWopF2B0_GY95xC5DzTWK9LEQ.png?1781143560 | alt: ]\nField Type Select: Hidden Field\nField Type\nSelect: Hidden Field\nField Label Name Enter the number of days until the post expires. In this example, 7 represents seven days from the publish date.\nField Label Name\nEnter the number of days until the post expires. In this example, 7 represents seven days from the publish date.\nDatabase Variable group_date_interval\nDatabase Variable\ngroup_date_interval\nWhen a member copies a post with the Copy button in the member's post list, the copy gets its own expiration date, counted from the day the copy is made. Editing an existing post keeps its current expiration date.\n\n## Option 2: Allowing Members to Specify an End Date\nNavigate to Toolbox >> Form Manager , then customize one of the following forms:\nFeature - Classifieds\nFeature - Properties\nFeature - Photos\nFeature - Products\nFor this example, the Photos form is used.\nClick one of the Add Field buttons.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236585/original/5nCaLgVYg7cAefulHETb3O672-TMW7pd8g.png?1781143915 | alt: ]\nThis generates a blank field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236588/original/hnK0Q6vBKD1WBrPADgG1uVGWCeJh_NElIQ.png?1781143938 | alt: ]\nFill in the fields as shown below, then click Save Changes .\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236624/original/AxIqR1Hnvv-54oJBQoPd3OkKkXi3_mou3Q.png?1781144058 | alt: ]\nField Type Custom HTML\nField Type\nCustom HTML\nField Label Name [widget=Bootstrap Theme - End DateTime Picker - Group]\nField Label Name\n[widget=Bootstrap Theme - End DateTime Picker - Group]\nDatabase Variable group_date_calendar\nDatabase Variable\ngroup_date_calendar\nThe field appears when creating a new Photo Album post.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236700/original/QWtEKULuOx9rmbPAIAjruMiuSNVWH7TE8A.png?1781144146 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236410/original/DWk9QSixfYlzYYRdwbs35dkeEcbAGKFtYg.png?1781143389",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236416/original/PM0padEYXx_I_C38nqX2K_nnJ_zRNT9e-g.png?1781143429",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236441/original/LNaeK6PcmqWopF2B0_GY95xC5DzTWK9LEQ.png?1781143560",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236585/original/5nCaLgVYg7cAefulHETb3O672-TMW7pd8g.png?1781143915",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236588/original/hnK0Q6vBKD1WBrPADgG1uVGWCeJh_NElIQ.png?1781143938",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236624/original/AxIqR1Hnvv-54oJBQoPd3OkKkXi3_mou3Q.png?1781144058",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236700/original/QWtEKULuOx9rmbPAIAjruMiuSNVWH7TE8A.png?1781144146",
+      "alt": ""
+    }
+  ],
+  "content_hash": "a7457130de98f1ed3c0c78ea6f0350e2c979d6cde6315efc4afad33890c45d5b",
+  "ingested_at": "2026-10-17T14:44:35.431538+00:00"
+}

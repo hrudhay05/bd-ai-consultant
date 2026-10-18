@@ -1,0 +1,133 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100095-design-settings-homepage-select-content-to-display-streaming-audios",
+  "title": "Design Settings » Homepage » Select Content to Display » Streaming Audios",
+  "text": "\n## Design Settings » Homepage » Select Content to Display » Streaming Audios\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000100095\n\n## Streaming Audios\nThis article goes over the available settings to edit the Streaming Audios section on the homepage of the website. This section is meant to be displayed on the homepage exclusively. This homepage widget will display the Recent Audios posts. To edit these settings, navigate to:\nIn the Admin Sidebar Open Settings\nSelect Designs Settings\nOpen The Homepage Tab\nOpen The Module Select Content to Display\nSelect The Streaming Audios Option\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144021959/original/znQciGV-GZr8csTDBVSej9TOCeVcn39dQg.png?1717022172 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022015/original/_-Hw_QvdMxvJ8lv_GOrWF3F-IvtmxadKMA.png?1717022335 | alt: ]\n\n## Visual Guide of the Streaming Audios\nThis is a representation of the available settings for the Streaming Audios settings.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022130/original/_mzVLdh-BnXSOfjP6K4TXDuT3wFXD-7m5A.png?1717022519 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022179/original/dbuC6aP06owOILepIq4A2f-Wt6fVcCprXw.png?1717022598 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022194/original/FW-j7fTSd5yaZlBNqdZTpfvbboTLUsN7wg.png?1717022663 | alt: ]\n\n## 1. Recent Audios Title\nThis setting allows the administrator to set the title for the recent audios section. The title can be customized by entering the desired text in the provided input field.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022365/original/FC7-twZo8ad6VkSgjTr_lCjAO5Tx4MhlcA.png?1717022922 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022382/original/nRA7o-0kvK64gy1XNR8veaby2Kd1aG7D8g.png?1717022947 | alt: ]\n\n## 2. Title Color\nThe title color setting enables the customization of the title's color. Administrators can choose a color by inputting the desired color code or using the color picker tool provided.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022555/original/rK-k3BNC_Xp9dbNpv5rI6gQL-JoUU359pw.png?1717023185 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022494/original/-K8P8Ph_O7fQcHQ5Vjl1UBw4G2nwQdaWdg.png?1717023117 | alt: ]\n\n## 3. Display Options\nThis setting controls the number of recent audios displayed. Administrators can select from a range of options, from 1 to 24 results. Additionally, the layout can be adjusted to show a specific number of results per row, ranging from 2 to 4 results per row.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022648/original/AmxsRLXxPRRVLDod417vygEtnI570nEXLA.png?1717023243 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022625/original/nAkERPaaumfnG8IAxRx-AXzTwzGdcB9iQQ.png?1717023202 | alt: ]\n\n## 4. Enable Carousel Slider\nThe carousel slider option allows recent audios to be displayed in a sliding carousel format. This can be toggled on or off using the provided dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022731/original/HaM7h8CPvchCeUbEJOdFmSKn_bnEJm0Yuw.png?1717023402 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022729/original/tndaE-qsJN3YD_HI_d2bYmhmNBukN2ow9w.png?1717023388 | alt: ]\n\n## 5. Hide On Mobile\nThis setting allows administrators to choose whether the recent audios section should be hidden on mobile devices. It can be enabled or disabled using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022756/original/hYu85H-8UP6M-Z5rR1Hvn0rFD90QnmFcBA.png?1717023454 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022765/original/3Pyf1uo3VKTzCFArRiFdNH31T0lSZjmZRQ.png?1717023508 | alt: ]\n\n## 6. Linked Post Type\nThis setting allows the administrator to select the type of content linked to the recent audios. Options include events, job listings, coupons, videos, SoundCloud posts, website blog articles, community articles, and discussions.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022823/original/TTaHsghKAOPcgmwyZcVzA8AhGqZ9GkjhRA.png?1717023598 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022769/original/y4nYQ4S3yNn427LqddQeB5UqD-sqjPsxJw.png?1717023527 | alt: ]\n\n## 7. Show \"View All\" Button\nThe \"View All\" button allows users to see all recent audios. This setting can be toggled on or off using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022839/original/7xmdIHEDYpvNpIR84LjtZr0nxpBDJ5tDiw.png?1717023649 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022984/original/G5WpJ4jIdq3tluPJPKEy6ENsjRbh-vUbQA.png?1717023689 | alt: ]\n\n## 8. Hide If No Posts Exist\nThis setting allows administrators to choose whether the recent audios section should be hidden if no posts exist. It can be enabled or disabled using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023063/original/INY5-Nj3bGIKnv_7h2inZkpC8TO8yXaKBQ.png?1717023797 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815 | alt: ]\n\n## 9. Only Include Posts from Active Members\nThis setting specifies whether only posts from active members should be included. Administrators can choose to include posts from active members only or from all members.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023117/original/f_IVT6pOGnnPQ3ncCovyBCSmSvdNunjHxQ.png?1717023857 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815 | alt: ]\n\n## 10. Include Posts from Non-Searchable Members\nThis setting allows administrators to choose whether to include posts from non-searchable members. It can be enabled or disabled using the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023120/original/IEg3AyXY_K7d6OfC4Eh4kuqNTNuj7FD1qg.png?1717023905 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815 | alt: ]\n\n## 11. Include Posts from Members in These Plans\nThis setting allows administrators to limit the displayed posts to specific membership plans. Administrators can select the desired membership plans from the provided list.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023131/original/ePjksY2QORmiLNfVQX0v3ck0moGAjoesAg.png?1717023952 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815 | alt: ]\n\n## 12. Display Order\nThe display order setting determines the order in which recent audios are shown. Options include newest first, oldest first, or random order. This can be customized by selecting the desired option from the dropdown menu.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023152/original/lcEWABBFVI5Os7osS6W-QJtGQrnjeYMJfA.png?1717024040 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815 | alt: ]\n\n## 13. Limit One Post per Member?\nThis setting specifies whether only one post per member should be displayed. Administrators can choose to display one post per member or allow multiple posts from the same member.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023168/original/qbIlYwXWyQ-CW0VOHG_Q6-V9Zcxp5Eea1Q.png?1717024085 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144021959/original/znQciGV-GZr8csTDBVSej9TOCeVcn39dQg.png?1717022172",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022015/original/_-Hw_QvdMxvJ8lv_GOrWF3F-IvtmxadKMA.png?1717022335",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022130/original/_mzVLdh-BnXSOfjP6K4TXDuT3wFXD-7m5A.png?1717022519",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022179/original/dbuC6aP06owOILepIq4A2f-Wt6fVcCprXw.png?1717022598",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022194/original/FW-j7fTSd5yaZlBNqdZTpfvbboTLUsN7wg.png?1717022663",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022365/original/FC7-twZo8ad6VkSgjTr_lCjAO5Tx4MhlcA.png?1717022922",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022382/original/nRA7o-0kvK64gy1XNR8veaby2Kd1aG7D8g.png?1717022947",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022555/original/rK-k3BNC_Xp9dbNpv5rI6gQL-JoUU359pw.png?1717023185",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022494/original/-K8P8Ph_O7fQcHQ5Vjl1UBw4G2nwQdaWdg.png?1717023117",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022648/original/AmxsRLXxPRRVLDod417vygEtnI570nEXLA.png?1717023243",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022625/original/nAkERPaaumfnG8IAxRx-AXzTwzGdcB9iQQ.png?1717023202",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022731/original/HaM7h8CPvchCeUbEJOdFmSKn_bnEJm0Yuw.png?1717023402",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022729/original/tndaE-qsJN3YD_HI_d2bYmhmNBukN2ow9w.png?1717023388",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022756/original/hYu85H-8UP6M-Z5rR1Hvn0rFD90QnmFcBA.png?1717023454",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022765/original/3Pyf1uo3VKTzCFArRiFdNH31T0lSZjmZRQ.png?1717023508",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022823/original/TTaHsghKAOPcgmwyZcVzA8AhGqZ9GkjhRA.png?1717023598",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022769/original/y4nYQ4S3yNn427LqddQeB5UqD-sqjPsxJw.png?1717023527",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022839/original/7xmdIHEDYpvNpIR84LjtZr0nxpBDJ5tDiw.png?1717023649",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144022984/original/G5WpJ4jIdq3tluPJPKEy6ENsjRbh-vUbQA.png?1717023689",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023063/original/INY5-Nj3bGIKnv_7h2inZkpC8TO8yXaKBQ.png?1717023797",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023117/original/f_IVT6pOGnnPQ3ncCovyBCSmSvdNunjHxQ.png?1717023857",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023120/original/IEg3AyXY_K7d6OfC4Eh4kuqNTNuj7FD1qg.png?1717023905",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023131/original/ePjksY2QORmiLNfVQX0v3ck0moGAjoesAg.png?1717023952",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023152/original/lcEWABBFVI5Os7osS6W-QJtGQrnjeYMJfA.png?1717024040",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023168/original/qbIlYwXWyQ-CW0VOHG_Q6-V9Zcxp5Eea1Q.png?1717024085",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144023067/original/wLw-TnMsxM7VQgcBHtiEOSLOsyVNpWZfeQ.png?1717023815",
+      "alt": ""
+    }
+  ],
+  "content_hash": "ac939ebaab402bf43f81adeaa660e31c8c04ace222db3cfceef38c636c707445",
+  "ingested_at": "2026-10-17T15:26:27.411672+00:00"
+}

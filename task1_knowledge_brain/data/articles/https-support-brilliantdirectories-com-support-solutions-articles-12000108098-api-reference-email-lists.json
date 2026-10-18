@@ -1,0 +1,8 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108098-api-reference-email-lists",
+  "title": "API Reference - Email Lists",
+  "text": "\n## API Reference - Email Lists\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000108098\n← Back to API Reference | Getting Started\n\n## Email Lists\nEmail Lists track individual email addresses that have been added to or removed from your site's mailing lists. Each record represents a single email subscription entry including its subscription status, source, and associated token.\n\n## The Email List Object\nField Type Description id integer Unique record ID (primary key, read-only) email string Email address of the subscriber required on create type string List type or source identifier (EG subscribe , unsubscribe ) date_added string Date the record was added (format: YYYYMMDDHHmmss ) status integer Subscription status: 1 active, 0 inactive token string Unique token assigned to this subscription entry cookie string Cookie value associated with the subscription action httpr string HTTP referrer URL at time of subscription page string Page URL where the subscription was initiated\n\n## List Email List Records\n\n## Example Request\n\n## Example Response\n\n## Retrieve an Email List Record\n\n## Example Request\n\n## Example Response\n\n## Create an Email List Record\n\n## Example Request\n\n## Example Response\n\n## Update an Email List Record\n\n## Example Request\n\n## Example Response\n\n## Delete an Email List Record\n\n## Example Request\n\n## Example Response",
+  "images": [],
+  "content_hash": "af5a364c0721e55a598f9e0c27c4ddcbe33029af966c71f91e60af470d1d3dc5",
+  "ingested_at": "2026-10-17T15:40:25.415450+00:00"
+}

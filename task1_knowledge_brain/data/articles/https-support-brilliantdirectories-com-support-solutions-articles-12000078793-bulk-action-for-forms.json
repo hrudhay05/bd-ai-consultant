@@ -1,0 +1,37 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078793-bulk-action-for-forms",
+  "title": "Bulk Action For Forms",
+  "text": "\n## Bulk Action For Forms\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000078793\nA set of bulk actions is available for custom or brand-new forms under Toolbox >> Form Manager . These actions are not available for default forms.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180460927/original/qnHliJQswl5djVEsV_8XSdtBmeh_5kx43Q.png?1781549450 | alt: ]\nThe available bulk actions are Delete , Enable , and Disable :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180460936/original/R9Jf5Mjtan0p_-m8CJpEj4_QmfEaRVqeXg.png?1781549472 | alt: ]\nNOTE: Bulk Delete permanently removes the selected forms and cannot be undone. If the goal is to deactivate forms while keeping them available for future use, use Disable instead.\nTo perform a bulk action on forms:\n1. Select all forms using the select-all checkbox shown below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461070/original/DJFbp-pERkuRj-jgjeDJbGJHpkcPBDX1qg.png?1781549597 | alt: ]\nOr select the forms individually:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461088/original/hVW1D5UnaDApZ8GHQRXwGzHXwVsrAWM2GQ.png?1781549635 | alt: ]\nThen select one of the bulk actions available and click on Apply :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461205/original/kEGdt56JDgmrlUC9_vF8HH3CyzNGNA0tcw.png?1781549687 | alt: ]\nOnce clicked, a confirmation pop-up will appear:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461218/original/Zpwve-O1T9QzxN2R4lLJ5JKNaBpXZJZr4Q.png?1781549704 | alt: ]\nOnce confirmed, selected bulk action will apply to the selected forms:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461242/original/1ZQ4A0WDL_qm4hKWGCvkqcLJ6zYZH2_sKw.png?1781549741 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180460927/original/qnHliJQswl5djVEsV_8XSdtBmeh_5kx43Q.png?1781549450",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180460936/original/R9Jf5Mjtan0p_-m8CJpEj4_QmfEaRVqeXg.png?1781549472",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461070/original/DJFbp-pERkuRj-jgjeDJbGJHpkcPBDX1qg.png?1781549597",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461088/original/hVW1D5UnaDApZ8GHQRXwGzHXwVsrAWM2GQ.png?1781549635",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461205/original/kEGdt56JDgmrlUC9_vF8HH3CyzNGNA0tcw.png?1781549687",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461218/original/Zpwve-O1T9QzxN2R4lLJ5JKNaBpXZJZr4Q.png?1781549704",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461242/original/1ZQ4A0WDL_qm4hKWGCvkqcLJ6zYZH2_sKw.png?1781549741",
+      "alt": ""
+    }
+  ],
+  "content_hash": "4bd25f91b9df32925a8244677e480e2c51fb137cb4d5215d26798820e4f328a8",
+  "ingested_at": "2026-10-17T14:49:29.229204+00:00"
+}

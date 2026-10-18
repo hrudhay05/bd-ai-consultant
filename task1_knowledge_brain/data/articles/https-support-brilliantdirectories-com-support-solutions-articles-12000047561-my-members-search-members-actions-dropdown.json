@@ -1,0 +1,53 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047561-my-members-search-members-actions-dropdown",
+  "title": "My Members »  Search Members »  Actions Dropdown",
+  "text": "\n## My Members »  Search Members »  Actions Dropdown\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000047561\n\n## Navigation Path\nAdmin Dashboard » My Members » Search Members\nThe Actions dropdown is accessible from the Search Members results table. Each member record includes an Actions menu that provides direct access to essential account management functions.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181026124/original/7CebQP5mYGVR1HqndjdGTz_Zi6K9JOk3Zw.png?1782398929 | alt: ]\n\n## Actions Dropdown - Available Options\nThe Actions menu contains the following options for each member record:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164355910/original/36obQPUUHH7v7vP_S0gsBDGy9L15E56Fcw.png?1752610653 | alt: ]\nAccount Details\nView Live Profile\nQuick Edit\nLogin as Member\nCompose Email\nPayment History\nChange Password\nDelete Account\nClone Account\n\n## Account Details\nSelecting this option displays a structured account overview for the selected member, including key profile and account-level information.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475086/original/MDEvyEeJKZ6XgysD42kGd_EMRwV5QVojtA.png?1686017133 | alt: ]\nFull reference: Account Details\n\n## View Live Profile\nSelecting this option opens the member's live public-facing profile as it appears on the front end of the site. This allows administrators to verify how the profile is currently rendered for visitors.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571434/original/vPIxrVTwC0KmPUhxNN3oyugvtKJhirs_lw.png?1616890963 | alt: ]\n\n## Quick Edit\nSelecting this option opens the Quick Edit module, which allows direct updates to member information without navigating away from the Search Members screen.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163104181/original/LYQFwJiWLqa_m4ULO2IqNrSG9o5yzsvI_w.png?1750352239 | alt: ]\nFull reference: Quick Edit\n\n## Login as Member\nSelecting this option allows the site administrator to access the selected member's dashboard view by logging in as that member. This is used for troubleshooting or verification of member-level permissions and visibility.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571457/original/9FhjhHXDIMjBbA9_rWSVlHkFep8DSvCxQw.png?1616891124 | alt: ]\n\n## Compose Email\nSelecting this option opens the Compose Email module. The selected member's email address is auto-populated in the recipient field. A message can then be drafted and sent directly from within the dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571495/original/lLRtGxs-jifzqYBeFE7ezSVvxB14Nd81gA.png?1616891286 | alt: ]\nFull reference: Compose Email\n\n## Payment History\nSelecting this option opens the Payment/Transaction History view for the selected member, displaying a record of financial activity associated with that account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475091/original/gacttSpawxP8I-PbhPcEmRLUBbH32CTxCg.png?1686017152 | alt: ]\nFull reference: Transactions\n\n## Change Password\nSelecting this option opens the Change Password module, where a new password can be assigned to the selected member account.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571528/original/gWR0Gs-4RgmBy2pm6j8g0sVfpve9EFW5gg.png?1616891567 | alt: ]\n\n## Delete Account\nSelecting this option initiates the member deletion workflow. A confirmation module appears before any data is removed, presenting the following configuration options that must be set prior to finalizing the deletion:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164367544/original/8gC4v3sgC84_j1QYvn_ChhPW4JUiYhRUsw.png?1752627620 | alt: ]\nThere are a few options that need to be set before a member is deleted from the site:\nDelete Member - Confirms the permanent removal of the member account.\nDelete Profile Images and Files - Determines whether all images and files attached to the member record are also removed.\nDelete Member Posts - Removes all content posts published by the member.\nRe-assign Posts to another Member - If posts are not being deleted, this option transfers them to a designated existing member.\n⚠ CRITICAL CAUTION — Irreversible Action: Member deletion is permanent. All four configuration options in the confirmation module must be deliberately reviewed before proceeding. Failure to configure the post re-assignment option when posts are retained may result in orphaned content.\n\n## Clone Account\nSelecting this option creates a duplicate of the selected member account. The following profile data is carried over to the cloned account:\nContact Details\nAdditional Details\nProfile Photo, Logo, and Cover Photo\nAbout Me\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164367515/original/XMh_4fdGyn-PciNGURHzFGQgg5FR5sRg2g.png?1752627557 | alt: ]\n⚠ CRITICAL CAUTION — Billing Data Is Not Cloned: Billing information is excluded from the cloning process. Each cloned member account requires a new subscription to be created separately in order to properly associate credit card and payment details with the new account.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181026124/original/7CebQP5mYGVR1HqndjdGTz_Zi6K9JOk3Zw.png?1782398929",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164355910/original/36obQPUUHH7v7vP_S0gsBDGy9L15E56Fcw.png?1752610653",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475086/original/MDEvyEeJKZ6XgysD42kGd_EMRwV5QVojtA.png?1686017133",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571434/original/vPIxrVTwC0KmPUhxNN3oyugvtKJhirs_lw.png?1616890963",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163104181/original/LYQFwJiWLqa_m4ULO2IqNrSG9o5yzsvI_w.png?1750352239",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571457/original/9FhjhHXDIMjBbA9_rWSVlHkFep8DSvCxQw.png?1616891124",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571495/original/lLRtGxs-jifzqYBeFE7ezSVvxB14Nd81gA.png?1616891286",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475091/original/gacttSpawxP8I-PbhPcEmRLUBbH32CTxCg.png?1686017152",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571528/original/gWR0Gs-4RgmBy2pm6j8g0sVfpve9EFW5gg.png?1616891567",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164367544/original/8gC4v3sgC84_j1QYvn_ChhPW4JUiYhRUsw.png?1752627620",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164367515/original/XMh_4fdGyn-PciNGURHzFGQgg5FR5sRg2g.png?1752627557",
+      "alt": ""
+    }
+  ],
+  "content_hash": "287b57ea24b0b3b5a16d327259c365d38b27e54183672a13045fac959edfee3a",
+  "ingested_at": "2026-10-17T14:39:39.440918+00:00"
+}

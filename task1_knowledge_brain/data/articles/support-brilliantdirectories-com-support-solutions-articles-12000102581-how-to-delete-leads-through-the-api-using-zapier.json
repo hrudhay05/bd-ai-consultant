@@ -1,0 +1,89 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000102581-how-to-delete-leads-through-the-api-using-zapier",
+  "title": "How to \"DELETE\" Leads through the API using Zapier",
+  "text": "\n## How to \"DELETE\" Leads through the API using Zapier\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000102581\nThis article shows an example of how a Google Spreadsheet can be used to delete a lead on a site using the site's API.\n\n## Checklist Before Moving Forward With This Example\n1) Make sure to generate a unique API Key using the documentation down below as a guideline. Please make sure to save the API Key in a safe place as it is not accessible after it has been created:\nHow To Generate an API Key\n2) Make sure to have a Google Spreadsheet ready. This spreadsheet should have at least one row of the lead information shown below:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153439196/original/07EqcDPnuYqBngVbiQ5TMppwa9mnGTcj7A.png?1733244181 | alt: ]\nPlease note the following required fields in order to delete a member lead:\nlead_id\nlead_email to identify the emails that submitted the lead being deleted\nFind the ID of the Lead in Interactions » Member Leads :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153437856/original/-C1CgIPsMl97OflzCM1QKTmHoQDEhi30pw.png?1733243117 | alt: ]\n\n## Connecting Google Sheets with Zapier\nLog in to the Zapier account and click on + Create and click on Zaps :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149715372/original/IFqb_2Gl6MSr_sn5mI8HOeluIAr3VGauCw.png?1726762728 | alt: ]\nor Click on Zaps\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149715300/original/w6uczFGeMLRqpd9dBmGzkuo4FPYSoeS7KA.png?1726762649 | alt: ]\nClick on + Create then click on New Zap:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149715295/original/0ksTQIwl9I_Es1ztkoa3hG6U8dG_ezaQDw.png?1726762630 | alt: ]\nClick on Trigger and search for Google Sheet:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149196948/original/nZZXjY2yCyB6EscuKzQTJCn7s43jpjdV1g.gif?1725922583 | alt: ]\nThe Trigger event should be set to \"New or Updated Spreadsheet Row.\" After logging into the Google account, clicking on \"Continue\" will proceed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149715953/original/RMLfdTyU45RSX8GLR1r5vEuiygt6psSKoQ.png?1726763377 | alt: ]\nSelect the Spreadsheet that has the lead information with the respective Worksheet. If necessary, select a Trigger Column or leave as \"any column\" and click on Continue:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438030/original/KOIfFY89lRixpYlDHlkzpeck5VdSOsEr6A.png?1733243264 | alt: ]\nClick on Continue with Selected Record. The Spreadsheet information will display as a preview:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438102/original/MvC01ahURxdWBNOWOXVzQDWehN1W1nRcFw.png?1733243296 | alt: ]\n\n## Connecting the API with Zapier\nA new set of options will appear, select the option for Brilliant Directories:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149197936/original/HbY9BUDAxqa5-u31-Gp34W4D-MEdmwtmXg.gif?1725924212 | alt: ]\nThe Action Event should be set to \"Delete Lead.\" A Brilliant Directories account can be chosen if one has been used before, or a new account can be connected.\nIf an account is already, skip down to FILL IN THE BLANK.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438288/original/MhqSfOTFfvcZR62Kp_Zb966aJ_z96aE7Eg.png?1733243505 | alt: ]\nIf this is the first time, click on Connect a new account and a popup will show up. Add the website URL and the API Key , and click Yes, Continue to Brilliant Directories:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438569/original/oNzPRGS9c-c_8crJeSbfTYoo3xbxqoZNjA.png?1733243673 | alt: ]\nOnce finished, click Continue.\n\n## Configuring the Lead Information\nClick on Continue.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153439152/original/Y1QU_-iIukSMw76uW0vh-isv020R-IT8hQ.png?1733244138 | alt: ]\nClick on the vertical dots and select Custom.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438674/original/KIlD1Ut3Y3yaimYiesNGfTyS9Q1KCHHRCg.png?1733243720 | alt: ]\nSelect lead_id. Hit Continue.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438725/original/TLqPN4UaL1CF68byzTATt6RQlFGVsJ66YA.png?1733243770 | alt: ]\nClick on Test Step:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438735/original/oVyi0Qdg21NuT1kTGoReXnkU47NIkVieLw.png?1733243793 | alt: ]\nThe record is now deleted, click on Publish to have the Zap active.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438755/original/qa-YVR-w9Rv2mvSlTbAVhCdMy5L-bHIFxg.png?1733243826 | alt: ]\nAdd a name to the Zap to find it easily:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438835/original/bBPd-KgTzECOLoTESw4d1j8Q4R_OEQz3-Q.png?1733243897 | alt: ]\nIf done correctly, the lead will be removed in the Interactions » Member Leads page.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438853/original/g8_qoODQHy-19ax-a5O1OY8qXdHZ4RClhg.png?1733243929 | alt: ]\nClick on Transfer existing data is there is a need to delete the leads right away. For automatic deletion, simply waiting a few minutes for the trigger \"New or Updated Spreadsheet Row\" to take action is all that's needed.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149720915/original/g0L337R9nxxuHQJgrXrN-9gqc6-XwghjmQ.png?1726769130 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153439196/original/07EqcDPnuYqBngVbiQ5TMppwa9mnGTcj7A.png?1733244181",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153437856/original/-C1CgIPsMl97OflzCM1QKTmHoQDEhi30pw.png?1733243117",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149715372/original/IFqb_2Gl6MSr_sn5mI8HOeluIAr3VGauCw.png?1726762728",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149715300/original/w6uczFGeMLRqpd9dBmGzkuo4FPYSoeS7KA.png?1726762649",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149715295/original/0ksTQIwl9I_Es1ztkoa3hG6U8dG_ezaQDw.png?1726762630",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149196948/original/nZZXjY2yCyB6EscuKzQTJCn7s43jpjdV1g.gif?1725922583",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149715953/original/RMLfdTyU45RSX8GLR1r5vEuiygt6psSKoQ.png?1726763377",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438030/original/KOIfFY89lRixpYlDHlkzpeck5VdSOsEr6A.png?1733243264",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438102/original/MvC01ahURxdWBNOWOXVzQDWehN1W1nRcFw.png?1733243296",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149197936/original/HbY9BUDAxqa5-u31-Gp34W4D-MEdmwtmXg.gif?1725924212",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438288/original/MhqSfOTFfvcZR62Kp_Zb966aJ_z96aE7Eg.png?1733243505",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438569/original/oNzPRGS9c-c_8crJeSbfTYoo3xbxqoZNjA.png?1733243673",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153439152/original/Y1QU_-iIukSMw76uW0vh-isv020R-IT8hQ.png?1733244138",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438674/original/KIlD1Ut3Y3yaimYiesNGfTyS9Q1KCHHRCg.png?1733243720",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438725/original/TLqPN4UaL1CF68byzTATt6RQlFGVsJ66YA.png?1733243770",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438735/original/oVyi0Qdg21NuT1kTGoReXnkU47NIkVieLw.png?1733243793",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438755/original/qa-YVR-w9Rv2mvSlTbAVhCdMy5L-bHIFxg.png?1733243826",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438835/original/bBPd-KgTzECOLoTESw4d1j8Q4R_OEQz3-Q.png?1733243897",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153438853/original/g8_qoODQHy-19ax-a5O1OY8qXdHZ4RClhg.png?1733243929",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149720915/original/g0L337R9nxxuHQJgrXrN-9gqc6-XwghjmQ.png?1726769130",
+      "alt": ""
+    }
+  ],
+  "content_hash": "83e43b3d740402090ffc12fc669d64c506b4507959c1cc10eb9304eca2dc208e",
+  "ingested_at": "2026-10-17T15:28:48.905639+00:00"
+}

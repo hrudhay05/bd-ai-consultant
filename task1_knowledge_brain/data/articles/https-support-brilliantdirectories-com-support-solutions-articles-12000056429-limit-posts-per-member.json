@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000056429-limit-posts-per-member",
+  "title": "Limit Posts Per Member",
+  "text": "\n## Limit Posts Per Member\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000056429\n\n## Overview\nAllowing members to contribute content to the website provides them with valuable visibility. Reward paying members by allowing them to publish more posts than lower-tier members. Limit Posts Per Member lets the admin set how many articles, albums, classifieds, properties, etc. a member can publish at one time.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Limit Posts Per Member Add-On\n\n## Enabling the Add-On\n1. Go to Finance - Membership Plans :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057468/original/EVOZHuasJaI-rtIWJ33bUwX0df-zazt4vQ.png?1619840098 | alt: ]\n2. Select the membership level to modify:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057474/original/j3HVQMj8qZIVx02mf5f-e_EXnnsMXqtMsg.png?1619840123 | alt: ]\n3. Click on the Post Publishing tab to see all the available features.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094583891/original/rI3j2UPeJRdp5um5KcttQT30SCBQ_fXFMw.png?1624566393 | alt: ]\nScroll down to the post type and limit the amount of posts they are allowed to publish: Max Free Posts: Set to 0 for unlimited free posts\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094583938/original/7AwRfHKqFmcZlQlABNCLx5AI-06kXsZTSA.png?1624566528 | alt: ]\nThis limit is a lifetime Free Post limit or the member and does not reset. It remains fixed and does not refresh on any cycle - daily, weekly, monthly, or yearly.\nWhen the free limit is reached, members can pay for the ability to publish new posts: Pay-Per-Post add-on\nIf the admin is editing the Members articles and it's set it to \"1\", the members listed in this membership will only be able to add 1 article for free. If they want to add a second article they need to pay for it.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057468/original/EVOZHuasJaI-rtIWJ33bUwX0df-zazt4vQ.png?1619840098",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057474/original/j3HVQMj8qZIVx02mf5f-e_EXnnsMXqtMsg.png?1619840123",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094583891/original/rI3j2UPeJRdp5um5KcttQT30SCBQ_fXFMw.png?1624566393",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094583938/original/7AwRfHKqFmcZlQlABNCLx5AI-06kXsZTSA.png?1624566528",
+      "alt": ""
+    }
+  ],
+  "content_hash": "5eecebf59c7839b028338ddd37b77356e697e28c0b8a03e3ab99ff48d04d8e7f",
+  "ingested_at": "2026-10-17T14:42:31.559209+00:00"
+}

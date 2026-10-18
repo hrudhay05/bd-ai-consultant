@@ -1,0 +1,33 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000087005-troubleshooting-listing-is-not-public-or-active",
+  "title": "Troubleshooting: Listing is not Public or Active",
+  "text": "\n## Troubleshooting: Listing is not Public or Active\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000087005\nIn this article, we will be going over the message that displays on member profiles in specific scenarios with the default wording \" Sorry, this Listing is not Public or Active \" and how to troubleshoot it:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107842770/original/1FHVFFJ-JIGEJve1fUOwB3F2by4TYKTtTA.png?1650384682 | alt: ]\nIf the message above displays on the member profile, this may be due to a couple of reasons:\n\n## 1) Member Is Not In Active Status\nThe first thing to check when this message is seen would be the member's status. Under My Members >> Search Members , the status of the member can be seen on its dedicated column:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107842945/original/u9o2xk1ZNYL4MuhNwJmZQfRe98dR1SstaA.png?1650384928 | alt: ]\nMember's status can be changed directly under Actions >> Quick Edit :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107843007/original/8ReBK7lPbq5nPAQD3PjdSLTt5K2UQwOAdA.png?1650384976 | alt: ]\nTo active status:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107843040/original/lWqKavaEQoGgWxf56JA2_G1jpzYj779Ufw.png?1650385013 | alt: ]\n\n## 2) The Member Is In a Non-Searchable Membership Plan\nIt is important to check the Finance » Membership Plans - Search Visibility settings to see if the member is in a membership plan that is searchable:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107843361/original/6SLjjOdQ0SD9YjVpsysLchtm3XHL4bfUbQ.png?1650385327 | alt: ]\nThere may be two different scenarios related to the settings above:\n- Like in the screenshot above, if the Are These Members Searchable on the Website? setting is set to \" No \", the member's profiles will not be visible and the error message will display.\n- If the Are These Members Searchable on the Website? setting is set to \" Yes \" but the Can Unregistered Visitors View These Members in Search Results? setting set to \" No \", the member profile will not be visible to the public but will be visible to other members. In this scenario, it is best to log in as a member that is allowed to see these membership plan members (more information about this can be found in the next step).\n\n## 3) Admin Is Logged In As A Member That Is Not Allowed To Search For This Member\nLet's assume the following scenario:\nThe admin of the site is logged in as a member that is in the Featured membership plan and trying to view the profile of a member that is in the Premium plan. In this scenario, it is best to check the Finance » Membership Plans - Search Visibility settings of the membership plan named Featured .\nTo make sure if the Premium plan is checked under Hidden Member Profile Settings :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107844404/original/KH3sU9xdA3J7I2Tdvdj83n17CwIEs_5Evw.png?1650386445 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107842770/original/1FHVFFJ-JIGEJve1fUOwB3F2by4TYKTtTA.png?1650384682",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107842945/original/u9o2xk1ZNYL4MuhNwJmZQfRe98dR1SstaA.png?1650384928",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107843007/original/8ReBK7lPbq5nPAQD3PjdSLTt5K2UQwOAdA.png?1650384976",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107843040/original/lWqKavaEQoGgWxf56JA2_G1jpzYj779Ufw.png?1650385013",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107843361/original/6SLjjOdQ0SD9YjVpsysLchtm3XHL4bfUbQ.png?1650385327",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107844404/original/KH3sU9xdA3J7I2Tdvdj83n17CwIEs_5Evw.png?1650386445",
+      "alt": ""
+    }
+  ],
+  "content_hash": "0264cd8b292b558981d372c40529db705787886326612fc4b58eb7bf5b903fb1",
+  "ingested_at": "2026-10-17T14:59:58.302291+00:00"
+}

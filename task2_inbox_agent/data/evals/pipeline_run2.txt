@@ -1,0 +1,189 @@
+﻿
+==================================================
+HT-01 | How do I change my website logo?
+Status: draft_ready | total ms: 5716
+Class: how_to | normal | risk low | injection false
+Evidence mode: ground | KB called: true | KB status: answered
+KB sources: [
+  'Design Settings » Logo Designer (0.686)',
+  'Delete the Website Logo (0.676)'
+]
+
+SUBJECT: Re: How do I change my website logo?
+Hi Maria,
+
+To replace the default logo, log in to the Admin Area and go to **Settings → General Settings**. Open the **Brand Images** tab, scroll to **Website Logo**, click **Replace Image** (or the red X to remove the current logo first), upload your new logo file, and then save the changes. Your new logo will appear on the site.
+
+If you prefer using the Logo Designer, go to **Settings → Design Settings**, open the **Logo Designer** section, clear any existing text, design or upload your new logo, and save.
+
+Let us know if you need any further help.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Design Settings » Logo Designer: https://support.brilliantdirectories.com/support/solutions/articles/12000045051-design-settings-logo-designer
+- Delete the Website Logo: https://support.brilliantdirectories.com/support/solutions/articles/12000098255-delete-the-website-logo
+
+Next action: Ensure the support team verifies the steps and sends the reply to the customer. | follow-up days: null | needs expert: false
+Guard passed: true []
+Draft attempts: 1 | draft ms: 1966 | tokens in/out: 1203 295
+Notes: []
+
+==================================================
+TS-01 | Payment gateway stopped working
+Status: draft_ready | total ms: 4393
+Class: troubleshooting | high | risk medium | injection false
+Evidence mode: ground | KB called: true | KB status: answered
+KB sources: [
+  'Member Signups - Errors and Notifications (0.596)',
+  'Changelog - January 2026 (0.537)',
+  'Signing Up As A Member (0.527)'
+]
+
+SUBJECT: Re: Payment gateway stopped working
+Hi Hannah,
+
+I’m sorry to hear members are seeing an error at checkout. To help pinpoint the issue, could you let me know:
+1. Is the payment gateway listed as “Active” in Finance » Payment Settings?
+2. Are you using a directoryup.com sub‑domain (test mode) or a live domain?
+3. Do you see any specific error message or a “Failed Transaction” entry in the Activity Tracker (Dashboard » Activity Tracker, filter by Finance)?
+
+If you can share the exact error text or a screenshot, that will help us diagnose the problem.
+
+A team member will review your answers and get back to you.
+
+Brilliant Directories Support
+
+Helpful articles:
+- Member Signups - Errors and Notifications: https://support.brilliantdirectories.com/support/solutions/articles/12000013336-member-signups-errors-and-notifications
+- Changelog - January 2026: https://support.brilliantdirectories.com/support/solutions/articles/12000107588-changelog-january-2026
+
+Next action: Await Hannah's response with gateway status, domain type, and error details. | follow-up days: 2 | needs expert: false
+Guard passed: true []
+Draft attempts: 1 | draft ms: 1427 | tokens in/out: 1263 320
+Notes: []
+
+==================================================
+HT-12 | Question about exporting data to my accounting tool
+Status: draft_ready | total ms: 3349
+Class: how_to | normal | risk low | injection false
+Evidence mode: ground | KB called: true | KB status: insufficient_evidence
+KB sources: []
+
+SUBJECT: Re: Question about exporting data to my accounting tool
+Hi Robert,
+
+Thanks for reaching out. I’m not aware of a built‑in automatic export to QuickBooks. Could you let us know which billing details you’d like to transfer (e.g., invoices, payments, member info)? Also, are you using any third‑party integration or plugin for QuickBooks at the moment?
+
+A team member will review your request and get back to you.
+
+Brilliant Directories Support
+
+Next action: Gather details on required billing fields and any existing QuickBooks integration the customer may have. | follow-up days: 3 | needs expert: false
+Guard passed: true []
+Draft attempts: 1 | draft ms: 882 | tokens in/out: 901 195
+Notes: [
+  'Knowledge service had no sufficient evidence (model judged the sources insufficient).'
+]
+
+==================================================
+RC-01 | Please cancel my plan and refund me
+Status: draft_ready | total ms: 17980
+Class: refund_cancellation | high | risk high | injection false
+Evidence mode: background | KB called: true | KB status: answered
+KB sources: [
+  'How to Cancel a Brilliant Directories Subscription (0.631)',
+  'How Refunds work (0.651)'
+]
+
+SUBJECT: Re: Please cancel my plan and refund me
+Hi Patricia,
+
+I’ve noted your request to cancel the yearly subscription and to have the payment returned to your card. To help us process this, could you please provide the name of the website associated with the subscription and the last four digits of the card you used for payment? If there are any additional details you think are relevant, feel free to share them.
+
+A member of our support team will review your request and get back to you.
+
+Brilliant Directories Support
+
+Next action: Gather website name and last 4 digits of card, then forward to billing team for cancellation and refund review. | follow-up days: 2 | needs expert: true
+Guard passed: true []
+Draft attempts: 2 | draft ms: 1773 | tokens in/out: 1112 235
+Notes: [ 'Draft asks for expert help.' ]
+
+==================================================
+CP-03 | Legal action notice
+Status: draft_ready | total ms: 12057
+Class: complaint | urgent | risk high | injection false
+Evidence mode: none | KB called: false | KB status: -
+KB sources: []
+
+SUBJECT: Re: Legal action notice
+Hi Marcus,
+
+I’m sorry to hear about the issues you’re experiencing. A member of our support team will review your case and get back to you.
+
+Could you please provide the following details so we can investigate further?
+1. The date and time of the maintenance you mentioned.
+2. Any error messages or screenshots you received when the data loss occurred.
+3. The specific member records that are missing.
+
+Thank you for your patience.
+
+Brilliant Directories Support
+
+Next action: Gather the requested details from the customer and forward to the technical team for investigation. | follow-up days: 2 | needs expert: true
+Guard passed: true []
+Draft attempts: 1 | draft ms: 5335 | tokens in/out: 910 208
+Notes: [ 'Draft asks for expert help.' ]
+
+==================================================
+QT-01 | Cost of a custom design
+Status: draft_ready | total ms: 15041
+Class: quote_request | normal | risk high | injection false
+Evidence mode: background | KB called: true | KB status: insufficient_evidence
+KB sources: []
+
+SUBJECT: Re: Cost of a custom design
+Hi Benjamin,
+
+Thank you for reaching out. I’m happy to gather more information so we can provide an estimate for a custom redesign, including new colors and a homepage layout.
+
+Could you let us know:
+1. The current size of your site (number of pages or listings)?
+2. Any specific design references or style guidelines you have in mind?
+3. Whether you need additional features or integrations beyond the visual changes?
+
+A team member will review your details and get back to you.
+
+Brilliant Directories Support
+
+Next action: Gather the requested details from the customer to prepare a custom design quote. | follow-up days: 3 | needs expert: false
+Guard passed: true []
+Draft attempts: 2 | draft ms: 1638 | tokens in/out: 899 204
+Notes: [
+  'Knowledge service had no sufficient evidence (model judged the sources insufficient).'
+]
+
+==================================================
+FU-03 | Is the problem fixed yet?
+Status: draft_ready | total ms: 21609
+Class: follow_up | high | risk high | injection false
+Evidence mode: ground | KB called: true | KB status: answered
+KB sources: [ 'Changelog - December 2023 (0.526)' ]
+
+SUBJECT: Re: Is the problem fixed yet?
+Hi Zoe,
+
+The December 2023 update included a fix that restored the ability for members to log in while purchasing a digital product. If you’re still seeing login issues, could you let us know the exact error message or a screenshot? Also, does the problem occur for all members or only specific ones?
+
+A team member will review your response and follow up.
+
+Brilliant Directories Support
+
+Helpful article:
+- Changelog - December 2023: https://support.brilliantdirectories.com/support/solutions/articles/12000097729-changelog-december-2023
+
+Next action: Await Zoe's details about the current error to determine if the fix is effective. | follow-up days: 2 | needs expert: false
+Guard passed: true []
+Draft attempts: 2 | draft ms: 1834 | tokens in/out: 975 221
+Notes: []

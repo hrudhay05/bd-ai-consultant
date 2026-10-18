@@ -1,0 +1,85 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000026216-how-to-use-and-or-modify-the-member-upload-cv-or-brochure-field-file-upload-field-",
+  "title": "How to Use and or Modify the Member Upload CV or Brochure Field (File Upload Field)",
+  "text": "\n## How to Use and or Modify the Member Upload CV or Brochure Field (File Upload Field)\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000026216\nThe Member Upload CV or Brochure field is a tool for members to upload files. The uploaded file is displayed through a link on the Member's public profile.\nThe files supported by the member upload tool are:\nImages (JPG, JPEG, PNG, GIF, SVG, WEBP)\nPDFs\nWord documents\nExcel documents\nPowerPoint documents\nIMPORTANT - The tool only supports:\nFiles that are 10 MB or less.\nBy default, this field is only supported in the \"Listing - Additional Details - Member\" form. To add it to other forms, the File Uploads for Forms add-on is required.\nNote: although the upload button reads \"Please select an image or PDF file,\" all of the file types listed above are accepted. This button text is a label and can be changed (see \"How to Edit the Current Text of These Fields\" below).\n\n## How to Upload a File\nGo to the Member's Listing Details tab and click on \"Please select an image or PDF file\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236904/original/k99h6jMMDCLWkvwq_HXSbfzXZ09SkdzU9w.png?1781144706 | alt: ]\nAfter the file is uploaded, a \"1\" appears next to the button text, indicating that a file has been attached. Scroll down and save the changes:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236937/original/ojJ_DGJLBLbQ71LiWrYsl06afPqa9x0MCw.png?1781144804 | alt: ]\n\n## How to Remove a File\nThe file uploaded can be deleted by clicking on the Remove CV option:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236976/original/-0P_kdDSlrZkOn_amHJPNHcjdmaXyNAD6Q.png?1781144942 | alt: ]\nWhich will prompt a confirmation alert:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236980/original/AEIhvTKm2YeQnw1yqeEnRBXNfpyrWwUiUg.png?1781144991 | alt: ]\n\n## How to Enable/Disable This Field on the Member's Public Profile\nNavigate to Toolbox >> Form Manager >> Listing - Additional Details - Member :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237020/original/469jN3I78o5ZaqFfgPDf1-UjANjWQRfY0g.png?1781145240 | alt: ]\nFind the correct field by searching for \" cv \", click on the gear icon and make sure to enable Display View, and click Save Changes :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237392/original/YKUxLVaPV2x63-7YiffR6_4Sb3k4cd88RA.png?1781146516 | alt: ]\nIf display is set to Off, it will not display on the member's profile.\nThis is how the field will display on their public profile:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237396/original/65CGtSzFsMRvIGrhQ-2VW9bASUoxtoVHPQ.png?1781146585 | alt: ]\n\n## How to Add Additional CV/File Upload Fields to the Form\nOn the form specified above (Listing - Additional Details - Member), click on any of the \" Add Field \" buttons:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237400/original/8eknFGZHzXMvzYubGd-rC7hAfOVGNGCPpA.png?1781146657 | alt: ]\nThis will generate a blank field:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237403/original/grHzDHa6g_U75GboLSHEIMI5l-g0oXx33w.png?1781146704 | alt: ]\nWithin the \"Field Type\" drop-down select, F ile Upload Field :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237406/original/lx4UHb-fqFN5MQKgk3WUNMXZ2MWXIsv6Lw.png?1781146738 | alt: ]\nAdd a Label Name and a System Variable (the form will automatically fill in the variable, however, it is possible to add in a custom one):\nNext, click on the \" Gear Icon \":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237418/original/3HEhgR1iJaBX5zch1T6WaflbW6GHZbdcVg.png?1781146822 | alt: ]\nAdd the following details:\nAdditional Field CSS Class — filestyle_uploadcv\nOuter Element ID — This ID must be unique for each CV field. Do not use upload_field , because that is the ID of the default field. Adding a number after the default ID works well, for example: upload_field2\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237463/original/2y5HaEfIqwZR3UlFMBrkX--GycknNflVfg.png?1781146917 | alt: ]\nThis is how it displays after saving changes:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237476/original/rX4Sy3DNi58TnRppzO3yjam7QM4gxOnm6w.png?1781147019 | alt: ]\n\n## How to Edit the Current Text of These Fields\nTo accomplish this, navigate to Settings >> Text Labels.\nType in the search bar the current wording of the text field. Add the new text to display and save the changes.\n\"Upload CV or Brochure\" and \"Please select an image or PDF file\":\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080277929/original/pL45bHt5MIyggZoOhAf5fVrz2kITyhjBKA.png?1595453897 | alt: ]\n>> member_listing_upload_cv\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109576413/original/O25c0cPocTEi-uwFK1jtyE3fOwBwGSJy_w.png?1653685627 | alt: ]\n>> filestyle_choose_cv_file\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109576431/original/Bikxn5tLwjE4yjoRiFw_7HnrSMXnR6j9qg.png?1653685669 | alt: ]\n\"View my Curriculum Vitae\"\n>> view_my_cv\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109576457/original/ACR2JpAeEVKPpBZgFu1RP7onf9ZzYQARCg.png?1653685739 | alt: ]\n\"Remove CV\"\n>> remove_my_cv\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109576492/original/J8C5sS_z7iHHk2OQFEX28A0zerY8FusrIA.png?1653685776 | alt: ]\n**Important Note** - The Upload CV functionality is only supported in the Listing Additional Details form. Moving this form field to other forms will cause this functionality to stop working properly.\n\n## Additional Functionality\nThe file path for this document can be edited through the Advanced Settings.\nFiles uploaded through \"File Upload\" Form Fields are saved in the folder /uploads/curriculum-vitae/ by default. Edit the second portion of this URL ( curriculum-vitae ) for future file uploads using this setting.\nSystem Variable: default_cv_url\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237519/original/mkAMfYTNBvWuKwoY2Rzyr6TNpZ48PyxCmQ.png?1781147141 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236904/original/k99h6jMMDCLWkvwq_HXSbfzXZ09SkdzU9w.png?1781144706",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236937/original/ojJ_DGJLBLbQ71LiWrYsl06afPqa9x0MCw.png?1781144804",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236976/original/-0P_kdDSlrZkOn_amHJPNHcjdmaXyNAD6Q.png?1781144942",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236980/original/AEIhvTKm2YeQnw1yqeEnRBXNfpyrWwUiUg.png?1781144991",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237020/original/469jN3I78o5ZaqFfgPDf1-UjANjWQRfY0g.png?1781145240",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237392/original/YKUxLVaPV2x63-7YiffR6_4Sb3k4cd88RA.png?1781146516",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237396/original/65CGtSzFsMRvIGrhQ-2VW9bASUoxtoVHPQ.png?1781146585",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237400/original/8eknFGZHzXMvzYubGd-rC7hAfOVGNGCPpA.png?1781146657",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237403/original/grHzDHa6g_U75GboLSHEIMI5l-g0oXx33w.png?1781146704",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237406/original/lx4UHb-fqFN5MQKgk3WUNMXZ2MWXIsv6Lw.png?1781146738",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237418/original/3HEhgR1iJaBX5zch1T6WaflbW6GHZbdcVg.png?1781146822",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237463/original/2y5HaEfIqwZR3UlFMBrkX--GycknNflVfg.png?1781146917",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237476/original/rX4Sy3DNi58TnRppzO3yjam7QM4gxOnm6w.png?1781147019",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080277929/original/pL45bHt5MIyggZoOhAf5fVrz2kITyhjBKA.png?1595453897",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109576413/original/O25c0cPocTEi-uwFK1jtyE3fOwBwGSJy_w.png?1653685627",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109576431/original/Bikxn5tLwjE4yjoRiFw_7HnrSMXnR6j9qg.png?1653685669",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109576457/original/ACR2JpAeEVKPpBZgFu1RP7onf9ZzYQARCg.png?1653685739",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109576492/original/J8C5sS_z7iHHk2OQFEX28A0zerY8FusrIA.png?1653685776",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180237519/original/mkAMfYTNBvWuKwoY2Rzyr6TNpZ48PyxCmQ.png?1781147141",
+      "alt": ""
+    }
+  ],
+  "content_hash": "7b6779b16f481642f3e3036051801c921ac0ad372452208da256615f38764b47",
+  "ingested_at": "2026-10-17T14:34:42.719498+00:00"
+}

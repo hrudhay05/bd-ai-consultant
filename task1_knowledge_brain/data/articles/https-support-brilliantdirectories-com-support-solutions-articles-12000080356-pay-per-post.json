@@ -1,0 +1,57 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000080356-pay-per-post",
+  "title": "Pay Per Post",
+  "text": "\n## Pay Per Post\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000080356\nThe Pay Per Post add-on allows the admin to charge members a set price each time they publish content to the website. Pay-per-post prices can be set per membership level.\nPay Per Post is a great way to grow the site's community while being profitable. The admin can offer free memberships while still generating revenue each time the free members publish content.\nWebsites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club\nPurchase Individually: Pay Per Post Add-On\n\n## Enabling the Add-On\n1. Go to Finance - Membership Plans :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057468/original/EVOZHuasJaI-rtIWJ33bUwX0df-zazt4vQ.png?1619840098 | alt: ]\n2. Select the membership level to modify:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057474/original/j3HVQMj8qZIVx02mf5f-e_EXnnsMXqtMsg.png?1619840123 | alt: ]\n3. Click on the Post Publishing tab to see all the available features.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094583891/original/rI3j2UPeJRdp5um5KcttQT30SCBQ_fXFMw.png?1624566393 | alt: ]\nScroll down to the post type and set a price amount, h ere the admin can add the price that members will pay per post:\nPrice/Extra Post: Minimum value must be 1.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094585584/original/4I-1AQGyeb5OpBgPf-8TvRw4n7dnPTIjsg.png?1624569970 | alt: ]\nHere are the 3 options for the admin:\nFree and Paid Posts (to use this option, the Limit Posts Per Member add-on is needed)\nOnly Paid Posts. No Free Posts\nOnly Free Posts. No Paid Posts\nNote : If the \"Only Free Posts. No Paid Posts\" option is set, the system won't let the admin select how many free Post can be published.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094585666/original/KnZmW1Gx9QitENRYxgo4auAU_wzApVBSig.png?1624570086 | alt: ]\n\n## Purchasing Posts\nWhen users have free post the system will inform them how many they can post:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129350237/original/oTk1mP8SCEJEPfm9uzZWD-c2wrhwDBO57w.png?1691080825 | alt: ]\nOnce the free post limit has been reached or if all posts are paid, the member will be prompted to purchase the post:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129350597/original/-svhjsVP4yfmawLJKSIbK1aaV0Uxc4p03A.png?1691081204 | alt: ]\nBefore the content can be added, the user will be able to Review Order :\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129350617/original/gPiFYw6Dp_hVFo8ldx_JF7w3Vh9lE4I69g.png?1691081225 | alt: ]\nIf the member doesn't have a CC on file, the form to add it will appear:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129350689/original/jekklt30SboH4YZSgL_cybHjDtf7ArNV3A.png?1691081305 | alt: ]\nIf the card is on file, click on \" Yes, continue with purchase \" to complete the purchase:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129350714/original/lZvE3t5q8y8Swz9S7YebhZ3vyqJTnYOqZw.png?1691081356 | alt: ]\n\n## Unpublishing a Post\nIf a post that has already been paid for is unpublished, the payment remains as a credit and can be used to publish a new post. The credit will appear alongside the “New Article” button.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173644353/original/KDftowHeUJCtRbDd04o0hAP4_JBvw_pcqw.png?1769100475 | alt: ]\n\n## Admin Moderation\nWhen the Advanced Post Moderation Add-on is active on the website, the admin will have the option to override the limit. If the post or posts that are about to be approved go over the member limit, a warning will display to inform the admin about this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144428713/original/qIb2qkUaXZNEPDEzdOE2PSbOhQyaCPyJOA.png?1717692509 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057468/original/EVOZHuasJaI-rtIWJ33bUwX0df-zazt4vQ.png?1619840098",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057474/original/j3HVQMj8qZIVx02mf5f-e_EXnnsMXqtMsg.png?1619840123",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094583891/original/rI3j2UPeJRdp5um5KcttQT30SCBQ_fXFMw.png?1624566393",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094585584/original/4I-1AQGyeb5OpBgPf-8TvRw4n7dnPTIjsg.png?1624569970",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094585666/original/KnZmW1Gx9QitENRYxgo4auAU_wzApVBSig.png?1624570086",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129350237/original/oTk1mP8SCEJEPfm9uzZWD-c2wrhwDBO57w.png?1691080825",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129350597/original/-svhjsVP4yfmawLJKSIbK1aaV0Uxc4p03A.png?1691081204",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129350617/original/gPiFYw6Dp_hVFo8ldx_JF7w3Vh9lE4I69g.png?1691081225",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129350689/original/jekklt30SboH4YZSgL_cybHjDtf7ArNV3A.png?1691081305",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129350714/original/lZvE3t5q8y8Swz9S7YebhZ3vyqJTnYOqZw.png?1691081356",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173644353/original/KDftowHeUJCtRbDd04o0hAP4_JBvw_pcqw.png?1769100475",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144428713/original/qIb2qkUaXZNEPDEzdOE2PSbOhQyaCPyJOA.png?1717692509",
+      "alt": ""
+    }
+  ],
+  "content_hash": "3a9288889c5fb4862e9413bdf883ebca24e8431a2e198bd54f6ee5e911c949a7",
+  "ingested_at": "2026-10-17T14:50:33.448498+00:00"
+}

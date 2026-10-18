@@ -1,0 +1,29 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000055835-google-maps-add-apis",
+  "title": "Google Maps: Add APIs",
+  "text": "\n## Google Maps: Add APIs\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000055835\nIf Google Maps or location search is not working, one of the required Google Maps APIs may not be enabled in Google Cloud.\nThis can happen even if the API key was already created and added to the Brilliant Directories website.\n\n## Required APIs\nThe Google Cloud project connected to the API key should have these APIs enabled:\nMaps JavaScript API\nPlaces API (New)\nGeocoding API\n\n## Step 1 - Enable the Missing APIs\nUse the search bar to find the API that needs to be enabled.\nOpen each API link below and enable it for the Google Cloud project being used for the website.\nEnable Maps JavaScript API\nEnable Places API (New)\nEnable Geocoding API\nIf the API is not enabled, click Enable .\nMake sure the correct Google Cloud project is selected at the top of the Google Cloud Console before enabling each API.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179116415/original/eTkB5Z5Cfr401q6TD67yJui13b9_m5bdig.png?1779240289 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179116416/original/NGGiSqidiBzBJd867h6vC9m2fTIRtD0i8g.png?1779240289 | alt: ]\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179116414/original/ZMZDRyXL_slgxMglaOG-NtRp6Xi4qlBxAw.png?1779240289 | alt: ]\nRepeat this step until all required APIs are enabled for the same Google Cloud project.\n\n## Step 2 - Check API Restrictions\nIf the API key has API restrictions, make sure the required APIs are also selected in the key settings.\nIf an enabled API is not selected under the API key restrictions, Google may still block the key from using it.\nOpen the API key from the Google Cloud Credentials page:\nOpen Google Cloud Credentials\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179115953/original/aDqq8YfKogYOdD4lxI6NRtW3PhpKIdlcFQ.png?1779239174 | alt: ]\nInside the API key settings, look for the API restrictions section.\nSelect the option to restrict the key, then choose the APIs used by the website:\nMaps JavaScript API\nPlaces API (New)\nGeocoding API\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179115954/original/nyLC0O2RAqIMG09Ye2lvkUgw2clBF1RRyQ.png?1779239174 | alt: ]\nIf one of these APIs does not appear in the list, return to Step 2 and confirm that the API was enabled for the same Google Cloud project.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179116415/original/eTkB5Z5Cfr401q6TD67yJui13b9_m5bdig.png?1779240289",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179116416/original/NGGiSqidiBzBJd867h6vC9m2fTIRtD0i8g.png?1779240289",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179116414/original/ZMZDRyXL_slgxMglaOG-NtRp6Xi4qlBxAw.png?1779240289",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179115953/original/aDqq8YfKogYOdD4lxI6NRtW3PhpKIdlcFQ.png?1779239174",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179115954/original/nyLC0O2RAqIMG09Ye2lvkUgw2clBF1RRyQ.png?1779239174",
+      "alt": ""
+    }
+  ],
+  "content_hash": "ba341abb89265a4a0d26d204eb10006d9eaa430aa094e44a78ed76b50848d772",
+  "ingested_at": "2026-10-17T14:42:23.560996+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076876-how-to-disable-brilliant-directories-default-css",
+  "title": "How To Disable Brilliant Directories' Default CSS",
+  "text": "\n## How To Disable Brilliant Directories' Default CSS\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000076876\nBrilliant Directories' default CSS stylesheet can be deactivated using the Advanced Setting:\nDisable Default CSS Stylesheet\nSystem Variable: website_disable_css_stylesheets\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647437/original/OCY1CwVrs0aQaFqgA6gtqUy7SCHRALQh5w.png?1753161403 | alt: ]\nOnce the Advanced Setting has been turned on and since there will be no link to a stylesheet, the website will look broken like this:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280685/original/ebVmUp4lrgww3Ra7-1hXYmtiGKtAsQlpXg.png?1645319198 | alt: ]\nIf the custom CSS stylesheets are hosted elsewhere, the way to link this will be using the Custom CSS / HEAD section,\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280691/original/ZVdb3UXYFrz1yRvA9kamLnFlnIwPs8N0-g.png?1645319332 | alt: ]\nAdditionally, custom CSS can also be added directly to each static page. To do this, navigate to the webpage that needs to be edited and use the Advanced tab:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280697/original/tI3f0j6n_V8pe8je4NgGEiwQRmxMp60i-A.png?1645319400 | alt: ]",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647437/original/OCY1CwVrs0aQaFqgA6gtqUy7SCHRALQh5w.png?1753161403",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280685/original/ebVmUp4lrgww3Ra7-1hXYmtiGKtAsQlpXg.png?1645319198",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280691/original/ZVdb3UXYFrz1yRvA9kamLnFlnIwPs8N0-g.png?1645319332",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280697/original/tI3f0j6n_V8pe8je4NgGEiwQRmxMp60i-A.png?1645319400",
+      "alt": ""
+    }
+  ],
+  "content_hash": "e4ae6912162e19b588da249dc02a38a7ba561ad2038ddcd66a41fbce25921aab",
+  "ingested_at": "2026-10-17T14:48:21.551807+00:00"
+}

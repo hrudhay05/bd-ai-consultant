@@ -1,0 +1,49 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000103091-managing-leads-from-a-member-s-perspective",
+  "title": "Managing Leads From A Member's Perspective",
+  "text": "\n## Managing Leads From A Member's Perspective\nLink: https://support.brilliantdirectories.com/support/solutions/articles/12000103091\nMembers can manage leads directly from their dashboard. Depending on the lead settings configured by the site administrator, members may be able to:\nPurchase a lead\nAccept a free lead\nDecline a lead\nThis article explains how each action works and how members can track the status of their assigned leads.\n\n## Purchasing Leads\nPlease find all the relevant information here: Purchasing Leads\n\n## Accepting Free Leads\nAn email notification is sent when a lead is assigned. The email contains a link to view the lead details.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155728959/original/yEyF508A0Gwn6zNJtxaLE4g9F1XGH_zZ7w.png?1737477373 | alt: ]\nThe link included in the email automatically logs into the dashboard and opens the assigned lead. Clicking on \" View Details \" will open the lead:\nIf lead notifications are configured to display a preview only, Accept Lead must be selected before the full contact information becomes available.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729072/original/DVMvcB_6_gQsCkseDjpyAzsFRY-Pcyk6fQ.png?1737477471 | alt: ]\nAfter the lead is accepted, the complete lead information becomes available, including contact details such as email address and phone number.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729147/original/NFSL0PaSPkY8FWzqCprKAUfbPOs92F_tvA.png?1737477532 | alt: ]\n\n## Declining Leads\nThe member will receive an email notifying them that they have a lead. A link to view the lead is included in the email template:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155728959/original/yEyF508A0Gwn6zNJtxaLE4g9F1XGH_zZ7w.png?1737477373 | alt: ]\nClicking on the link will AUTOMATICALLY log that member into his dashboard and take them straight to the lead itself facilitating the purchasing process. Clicking on \" View Details \" will open the lead:\nThe member will click on \" Decline Lead \" to not accept it:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729537/original/F-hb3aXqwvohPzVLcYTKCAQP_dWCoAguOw.png?1737477870 | alt: ]\nThe system will display a pop-up asking for feedback on why the lead was not accepted. This question is optional.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729885/original/EFd8pM7k-Wh0fy3oVvCA1UKAcNUoC3fxPg.png?1737478137 | alt: ]\nThe lead will appear as \"Declined\" in this section:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155730211/original/watlVnkjsg1ltegneDa9DYA-Nff25c1T4A.png?1737478330 | alt: ]\n\n## View Declined Lead Reason\nThe owner of the site views the declined lead reason in the Leads details of the admin:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155730036/original/Eu_xPlo3FiKS6OVXhgL6eyD7aY6KZ6LGHQ.png?1737478227 | alt: ]\n\n## Member Assigned Lead Status\nWhen a lead is accepted, the following lead statuses will be displayed:\nDeal Won\nDeal Lost\nIn Progress\nNeeds Contact\nThese statuses are designed to help members efficiently manage their leads on the dashboard.\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155730618/original/J2IFVQ4XK1W-5DRBycObYKJYJMI6OBsUsA.png?1737478676 | alt: ]\nThis appears in its own column when viewing all leads:\n[IMAGE: https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164354873/original/3xJSSvErkcAALjOEBzfcgC0YdoOvyUNYkA.png?1752609451 | alt: ]\n\n## Lead Status Text Labels\nThese are text labels which can be found and edited within the Settings » Text Labels :\nlead_user_status_won\nlead_user_status_deal_lost\nlead_user_status_in_progress\nlead_user_status_needs_contact",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155728959/original/yEyF508A0Gwn6zNJtxaLE4g9F1XGH_zZ7w.png?1737477373",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729072/original/DVMvcB_6_gQsCkseDjpyAzsFRY-Pcyk6fQ.png?1737477471",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729147/original/NFSL0PaSPkY8FWzqCprKAUfbPOs92F_tvA.png?1737477532",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155728959/original/yEyF508A0Gwn6zNJtxaLE4g9F1XGH_zZ7w.png?1737477373",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729537/original/F-hb3aXqwvohPzVLcYTKCAQP_dWCoAguOw.png?1737477870",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729885/original/EFd8pM7k-Wh0fy3oVvCA1UKAcNUoC3fxPg.png?1737478137",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155730211/original/watlVnkjsg1ltegneDa9DYA-Nff25c1T4A.png?1737478330",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155730036/original/Eu_xPlo3FiKS6OVXhgL6eyD7aY6KZ6LGHQ.png?1737478227",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155730618/original/J2IFVQ4XK1W-5DRBycObYKJYJMI6OBsUsA.png?1737478676",
+      "alt": ""
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164354873/original/3xJSSvErkcAALjOEBzfcgC0YdoOvyUNYkA.png?1752609451",
+      "alt": ""
+    }
+  ],
+  "content_hash": "aae93af0405bb4b9b9fda3c39e67a28196c970f64509910050ecc6bdad57d04b",
+  "ingested_at": "2026-10-17T15:33:40.748738+00:00"
+}
